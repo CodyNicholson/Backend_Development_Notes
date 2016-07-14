@@ -1,2 +1,2 @@
 # Python
-Machine Learning, Web Development, Test Case Automation, and Classwork Python Code
+Machine Learning, Test Case Automation, and Classwork Python Code
