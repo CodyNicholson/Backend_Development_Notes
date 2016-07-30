@@ -1,0 +1,118 @@
+MNIST Data:
+
+from tensorflow.examples.tutorials.mnist import input_data
+mnist = input_data.read_data_sets("MNIST_data/", one_hot=True)
+
+or:
+
+"""Functions for downloading and reading MNIST data."""
+from __future__ import absolute_import
+from __future__ import division
+from __future__ import print_function
+
+import gzip
+import os
+import tempfile
+
+import numpy
+from six.moves import urllib
+from six.moves import xrange  # pylint: disable=redefined-builtin
+import tensorflow as tf
+from tensorflow.contrib.learn.python.learn.datasets.mnist import read_data_sets
+
+
+
+Training phase (mnist.train, 78%):
+You present your data from your "gold standard" and train your model, by pairing the input with expected output. For example if you were making a flower classifier your training data would consist of a folder for 100 rose pictures, a folder for 100 tulips pictures, and a folder for 100 iris pictures all that you provided yourself.
+
+Validation/Test phase (mnist.validation/mnist.test):
+In order to estimate how well your model has been trained (that is dependent upon the size of your data, the value you would like to predict, input etc) and to estimate model properties (mean error for numeric predictors, classification errors for classifiers, recall and precision for IR-models etc.) you must test the data.
+
+(mnist.validation, 8%):
+In the first part you just look at your models and select the best performing approach using the validation data.
+(mnist.test, 14%):
+Then you estimate the accuracy of the selected approach.
+
+Every mnist data point has an image (xs) and a label (ys).
+
+Both the training and test set have xs and ys defined as mnist.train.images and mnist.train.labels
+
+
+
+Softmax Regression - Add up the evidence of our input being in certain classes, then convert that evidence into probabilities.
+
+
+Implementation:
+
+import tensorflow as tf
+
+x = tf.placeholder(tf.float32, [None, 784])
+# We describe the interacting operations by manipulating symbolic variables like the one we just created, x.
+# x is a placeholder that we will replace when we ask tensorflow to run a computation
+# We represent a Mnist image as a 2D tensor of floating point numbers with a shape [None, 784] (None means it could be any length)
+
+W = tf.Variable(tf.zeros([784, 10]))  # Create Weight
+b = tf.Variable(tf.zeros([10])) # Create Bias
+# A variable is a modifiable tensor that lives in tf's graph of interacting operations, modal parameters should be variables.
+# W has a shape of [784, 10] because we want to multiply the 784-dimensional image vectors by it to produce 10-dimensional vectors of evidence for the difference classes.
+# b has shape [10] so we can add it to the output
+
+y = tf.nn.softmax(tf.matmul(x, W) + b)
+# This line of code implements the modal
+# We multiply x by W and add b
+
+
+
+Training:
+
+y_ = tf.placeholder(tf.float32, [None, 10])
+# We create this placeholder to input the correct answers for implementing cross-entropy
+
+cross_entropy = tf.reduce_mean(-tf.reduce_sum(y_ * tf.log(y), reduction_indices=[1]))
+# tf.log computes the logorithm for each element of y
+# Then we multiply each element of y_ with the corrosponding element of tf.log(y)
+# Then tf.reduce_sum adds the elements in the second dimension of y due to the reduction_indices=[1] parameter.
+# Finally tf.reduce_mean computes the mean over all the examples in the batch
+
+train_step = tf.train.GradientDescentOptimizer(0.5).minimize(cross_entropy)
+# We ask tf to minimize cross_entropy using gradient descent algorithm with a learning rate of 0.5
+# Gradient descent shifts each variable a little bit in the direction that reduces the cost
+
+init = tf.initialize_all_variables()
+# Initializes all the variables we created above
+
+sess = ft.Session()
+sess.run(init)
+# Launches the model in a session and runs the operation the initializes all the variables
+
+for i in range (1000):
+    batch_xs, batch_ys = mnist.train.next_batch(100)
+    sess.run(train_step, feed_dict={x: batch_xs, y_: batch_ys})
+# Run the training step 1000 times
+# In each step of the loop we get a batch of 100 random data points from our training set
+# We run train_step feeding in the batches data to replace the placeholders
+
+
+
+Evaluating the Model:
+
+First find where we predicted the correct label by using tf.argmax
+
+tf.argmax(y,1)
+# The label our model thinks is most likely for each input
+
+tf.argmax(y_,1)
+# The correct label
+
+tf.equal
+# Can be used to check if our prediction matches the truth
+
+Ex:
+correct_prediction = tf.equal(tf.argmax(y,1), tf.argmax(y_,1))
+# This will give us a list of booleans called correct predictions
+
+accuracy = tf.reduce_mean(tf.cast(correct_prediction, tf.float32))
+# This will change correct_predictions from [True, False] to [1,0] and then take the mean, returning 0.5 in this case
+
+print(sess.run(accuracy, feed_dict={x: mnist.test.images, y_: mnist.test.labels}))
+# Finlly we print our result with this line of code
