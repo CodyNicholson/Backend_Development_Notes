@@ -1,0 +1,18 @@
+String str = "Some String";
+str.length();
+Will equal an int, 11
+
+str.replace("o","X");
+Will return "SXme String" by replacing o with X
+
+str.trim();
+Will delete all spaces and return "SomeString"
+
+str.toUpperCase();
+Will equal "SOME STRING"
+
+str.toLowerCase();
+will equal "some string"
+
+river.toUpperCase().toLowerCase();
+Will equal "some string" because toLowerCase() will execute after toUpperCase() executes
