@@ -16,3 +16,6 @@ will equal "some string"
 
 river.toUpperCase().toLowerCase();
 Will equal "some string" because toLowerCase() will execute after toUpperCase() executes
+
+
+Note: There are no methods that can mutate a string, only access

@@ -35,3 +35,11 @@ public class TopSecret
 
     }
 }
+
+
+
+Color:
+
+box.setColor(new Color(0,0,0)); or box.setColor(Color.BLACK);
+box.draw();
+box.fill();
