@@ -1,0 +1,53 @@
+Math Functions
+
+Method  Return Value
+Math.sqrt (n)   Square root of n ( if n is > or = to 0)
+Math.pow(a,b)   a^b( if a = 0, b must be >0)
+Math.sin(n) Sine of n where n is in radians
+Math.cos(n) Cosine of n where n is in radians
+Math.tan(n) Tangent of n where n is in radians
+Math.round(n)   closest integer to n as a long
+Math.ceil(n)    smallest integer > or = to n as a double
+Math.floor(n)   largest integer < or = to n as a double
+Math.toRadians(n)   Converts n degrees to radians
+Math.toDegrees(n)   Converts n radians to degrees
+Math.abs(n) Absolute value of n |n|
+Math.max(a,b)   The larger of a and b
+Math.min(a,b)   The smaller of a and b
+Math.exp(n) e^n
+Math.log(n) natural log of n
+Math.log10(n)   Base 10 log of n
+
+
+
+Integer Arithmetic
+
+Expression  Value (when n =2497)    Description
+n/10    249 Notice that the answer is an integer with no decimal part.
+n % 10  7   Always the last digit of n
+n /100  24  Again, decimal part is discarded. Removes the last 2 digits.
+n % 100 97  The last two digits.
+n % 2   1   If n % 2 is 0 the number is even. Otherwise it is odd.
+
+
+
+
+Number Literals Description Examples
+int - An integer has no fractional part and can be positive, negative, or 0.  5,-100,0
+double - A number with fractional part   1.7, 1.0, 2.4E5, 3.47E-2
+ERROR   Do not use a comma to separate thousands    1,000,000
+ERROR   Do not use a fraction. Use a decimal instead.   3 1/4
+
+
+
+Number Types
+
+Type    Range   Size
+int (integer)   –2,147,483,648 to 2,147,483,647(~2.14 billion)   4 bytes
+short (integer)   -32,768 to 32,767   2 bytes
+long (integer)   –9,223,372,036,854,775,808 to 9,223,372,036,854,775,807   8 bytes
+byte    -128 to 127   1 byte
+double(double-precision floating point)   range of about + or - 10^308   8 bytes
+float(single-precision floating point)   range of about + or - 10^38 & about 7 significant decimal places    4 bytes
+char    represents a Unicode character   2 bytes
+boolean   has only 2 possible values: true or false   1 bit
