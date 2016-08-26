@@ -1,2 +1,2 @@
-# Java
-Code I wrote in my Algorithms classes at DePaul University
+# Algorithms in Java
+Algorithms I have studied and recreated in my classes at DePaul University

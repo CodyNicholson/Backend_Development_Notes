@@ -1,2 +1,2 @@
-# Foundations_in_Python
-Course work from the Foundations in Python class I took on Udacity.com
+# Foundations in Python
+Course work from the Foundations in Python class I took at Udacity where I learned all of the basic concepts of computer science and began to create my first programs
