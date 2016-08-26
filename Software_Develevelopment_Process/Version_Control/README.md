@@ -1,2 +1,2 @@
 # Version_Control
-This is a collection of guides and my workflow notes for using Git for version control
+This is a collection of guides and my own workflow notes for using Git and Github for the version control of software projects

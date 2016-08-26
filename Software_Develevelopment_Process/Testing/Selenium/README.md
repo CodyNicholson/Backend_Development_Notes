@@ -1,2 +1,2 @@
-# Test_Case_Automation
-This is code I would use on a daily basis to write test cases to check the quality of web-bases software solutions as a Software Development Engineer in Test. I uses Selenium to automate web browsers, where I then check for expected results.
+# Selenium
+These are some examples of code I would write on a daily basis to automate test cases to check the quality of web-based software solutions as a Software Development Engineer in Test. After using Selenium to open a web browser I would then use XPath to target, modify, and check for the expected results on web-based software systems.
