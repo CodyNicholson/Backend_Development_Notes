@@ -1,2 +1,0 @@
-# Machine Learning
-Small projects I've coded in Python using the various machine learning libraries including Tensorflow. I learned how to do this by watching the Machine Learning playlist on Youtube by Google Developers, taking classes on Udacity, and reverse engineering sample code provided by tflearn.
