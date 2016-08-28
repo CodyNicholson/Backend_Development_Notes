@@ -1,2 +1,2 @@
-# Unified Software Process
-The Unified Software Process is a Use-Case Driven, Architecture-centric, and Iterative and Incremental software process that is similer to Unified Modeling Language
+# Rational Unified Software Process
+The Rational Unified Software Process is a Use-Case Driven, Architecture-centric, Iterative and Incremental software process that is similar to Unified Modeling Language. By prioritizing and implementing the highest risk functionality in each cycle this process is a flexible, safe, and effective way to develop software systems.
