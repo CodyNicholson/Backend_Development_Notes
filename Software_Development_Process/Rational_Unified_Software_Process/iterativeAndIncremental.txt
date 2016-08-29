@@ -36,3 +36,22 @@ Inception Elaboration Construction Transition
 
 // Notice that the cycles can overlap one another, like Cycle two starts during the end of the construction phase of cycle one
 // Inside each of the four phases of the cycle there can be multiple iterations resulting in multiple product releases inside of a single phase of a single cycle
+
+
+
+In almost every iteration developers do the following activities:
+
+
+1. Identify relevant use cases, which piece of functionality will this iteration develop?
+
+
+2. Create the design for the considered use cases guided by the choosen architecture
+
+
+3. Implement the design which will result in a set of software componenets
+
+
+4. Verify code in components against use cases
+
+
+5. Release a product at the end the iteration, this could be an internal or external release
