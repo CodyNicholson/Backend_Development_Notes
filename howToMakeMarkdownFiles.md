@@ -5,6 +5,11 @@ Markdown is a writing tool that allows you to write plain text whilst tagging yo
 
 
 
+***
+
+
+
+
 ### Adding Code and syntax highlighting
 
 By wrapping text in between three backquotes -- '`', not single quotations -- and a next line, you can make text appear in a box like most of my syntax examples are seen below.
@@ -19,6 +24,11 @@ def addOne(x):
     x+1
     return x
 ```
+
+
+
+
+***
 
 
 
@@ -51,6 +61,11 @@ Real examples:
 ##### Heading with five "#"
 
 ###### Heading with six "#"
+
+
+
+
+***
 
 
 
@@ -93,6 +108,11 @@ or
 
 
 Real Example:
+
+***
+
+
+
 
 ***
 
@@ -170,6 +190,11 @@ Real Example:
 
 
 
+***
+
+
+
+
 ###Listing items
 
 
@@ -213,6 +238,11 @@ Real Example:
 
 
 
+***
+
+
+
+
 ###Adding links to your Markdown File
 
 
@@ -231,6 +261,11 @@ Why don't you [Click me to go to google.com](google.com "This link will take you
 Real example:
 
 Why don't you [Click me to go to google.com](google.com "This link will take you to google")
+
+
+
+
+***
 
 
 
@@ -261,6 +296,11 @@ Real Example:
 
 
 
+***
+
+
+
+
 ###Block Quotes
 
 You can put test in a Block Quote by putting a '>' at the begining of the line, this will make that line stand out more
@@ -276,6 +316,12 @@ Syntax example:
 Real Example:
 
 > This text will appear in a block quote
+
+
+
+
+***
+
 
 
 
@@ -295,6 +341,11 @@ Syntax Example:
 Real Example:
 
 <a href="https://www.youtube.com/watch?v=6A5EpqqDOdk" target="_blank"><img src="http://img.youtube.com/vi/6A5EpqqDOdk/0.jpg" alt="A like to the Markdown Tutorial Video" width="240" height="180" border="10" /></a>
+
+
+
+
+***
 
 
 
