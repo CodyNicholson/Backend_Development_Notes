@@ -17,7 +17,7 @@ By wrapping text in between three backquotes -- '`', not single quotations -- an
 If you add a language, like python, or java, or javascript, etc immediately following the first set of three backquotes, not only will the text go into its own box but it will also get highlighted according to the language you chose, as seen below
 
 
-Real Example:
+Real Example using python:
 
 ```python
 def addOne(x):
@@ -147,7 +147,7 @@ Syntax Example:
 ```
 **This would be BOLD because this statement has two asterisks wrapped around it**
 
-__This would be BOLD too
+__This would be BOLD too__
 ```
 
 
@@ -169,7 +169,7 @@ Syntax example:
 
 Real Example:
 
-**Only Bold, _Bold and Italic,** Only Italic_
+**Only Bold,** **_Bold and Italic,_** _Only Italic_
 
 
 
@@ -205,7 +205,9 @@ Syntax example:
 
 ```
 -Item One
+
 -Item Two
+
 -Item Three
 ```
 
@@ -213,7 +215,9 @@ Syntax example:
 Real example:
 
 -Item One
+
 -Item Two
+
 -Item Three
 
 
@@ -260,7 +264,7 @@ Why don't you [Click me to go to google.com](google.com "This link will take you
 
 Real example:
 
-Why don't you [Click me to go to google.com](google.com "This link will take you to google")
+Why don't you [Click me to go to google.com](https://www.google.com/ "This link will take you to google")
 
 
 
@@ -303,7 +307,7 @@ Real Example:
 
 ###Block Quotes
 
-You can put test in a Block Quote by putting a '>' at the begining of the line, this will make that line stand out more
+You can put test in a Block Quote by putting a '>' at the begining of the line, this will make that line stand out more. Using block quotes is good because it wraps text, unlike code and sysntax highlighting
 
 
 Syntax example:
