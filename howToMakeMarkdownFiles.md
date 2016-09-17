@@ -103,7 +103,10 @@ _This would also be Italic because of the underscores_
 Real Example:
 <br><br>
 Look, *this is Italic*, isn't that cool?
-<br><br>
+<br>
+
+-
+
 You can also make text bold by putting two asterisks or underscores around it
 <br><br>
 Syntax Example:
@@ -117,7 +120,10 @@ __This would be BOLD too__
 Real example:
 <br><br>
 **BOLD TEXT**
-<br><br>
+<br>
+
+-
+
 Using a combination of underscores and asterisks you can make text bold and italic
 <br><br>
 Syntax example:
@@ -129,7 +135,10 @@ Syntax example:
 Real Example:
 <br><br>
 **Only Bold,** **_Bold and Italic,_** _Only Italic_
-<br><br>
+<br>
+
+-
+
 To put a line through text you can wrap it with two tildes
 <br><br>
 Syntax example:
@@ -161,10 +170,9 @@ Syntax example:
 Real example:
 <br><br>
 
+
 -Item One
-
 -Item Two
-
 -Item Three
 
 
@@ -275,3 +283,5 @@ Real Example:
 ###Inline HTML
 <br>
 You can also add raw HTML into your Markdown and it will work most of the time, as seen above with the Youtube video
+<br><br>
+You will notice if you look at the source code for this document, I use a lot of line break tags in this markdown file
