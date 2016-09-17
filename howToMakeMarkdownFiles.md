@@ -160,20 +160,20 @@ To list items in an unordered list you can put a minus sign in front each item y
 Syntax example:
 <br>
 ```
--Item One
 
--Item Two
+- Item One
+- Item Two
+- Item Three
 
--Item Three
 ```
 <br>
 Real example:
 <br><br>
 
 
--Item One
--Item Two
--Item Three
+- Item One
+- Item Two
+- Item Three
 
 
 For an ordered list you can just put them numbers with a period after in front of each item and it will automatically format the list for you
