@@ -155,7 +155,7 @@ Real Example:
 <br>
 ###Listing items
 <br>
-To list items in an unordered list you can put a minus sign in front each item you want to list
+To list items in an unordered list you can put a minus sign followed by a space in front each item you want to list. Each item should have its own individual line, as seen in my example.
 <br><br>
 Syntax example:
 <br>
@@ -176,6 +176,7 @@ Real example:
 - Item Three
 
 
+<br><br>
 For an ordered list you can just put them numbers with a period after in front of each item and it will automatically format the list for you
 <br><br>
 Syntax Example:
