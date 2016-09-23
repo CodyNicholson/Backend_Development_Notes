@@ -8,11 +8,22 @@ Failure to do so will result in a violation of the general contract for Object.h
 
 Here is the contract, copied from the java.lang.Object specification:
 
-	- Whenever it is invoked on the same object more than once during an execution of an application, the hashCode method must consistently return the same integer, provided no information used in equals comparisons on the object is modified. This integer need not remain consistent from one execution of an application to another execution of the same application.
+	- Whenever it is invoked on the same object more than once during an
+    execution of an application, the hashCode method must consistently
+    return the same integer, provided no information used in equals
+    comparisons on the object is modified. This integer need not remain
+    consistent from one execution of an application to another execution
+    of the same application.
 
-	- If two objects are equal according to the equals(Object) method, then calling the hashCode method on each of the two objects must produce the same integer result.
+	- If two objects are equal according to the equals(Object) method,
+    then calling the hashCode method on each of the two objects must
+    produce the same integer result.
 
-	- It is not required that if two objects are unequal according to the equals(Object) method, then calling the hashCode method on each of the two objects must produce distinct integer results. However, the programmer should be aware that producing distinct integer results for unequal objects may improve the performance of hash tables.
+	- It is not required that if two objects are unequal according to
+    the equals(Object) method, then calling the hashCode method on each
+    of the two objects must produce distinct integer results. However,
+    the programmer should be aware that producing distinct integer
+    results for unequal objects may improve the performance of hash tables.
 
 -
 
@@ -127,7 +138,8 @@ Here is a simple recipe:
 			invoke hashCode on the canonical representation. If the value of the
 			field is null, return 0 (or some other constant, but 0 is traditional).
 			vii. If the field is an array, treat it as if each element were a separate field.
-			That is, compute a hash code for each significant element by applying these rules recursively, and combine these values as described in step 2.b.
+			That is, compute a hash code for each significant element by applying these
+            rules recursively, and combine these values as described in step 2.b.
 		b. Combine the hash code c computed in step a into result as follows:
 		 result = 37*result + c;
 
