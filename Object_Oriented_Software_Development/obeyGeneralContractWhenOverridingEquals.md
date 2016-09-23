@@ -454,11 +454,11 @@ Putting it all together, here’s a recipe for a high-quality equals method:
         uncommon for a programmer to write an equals method that looks like the following,
         and then spend hours puzzling over why it doesn’t work properly:
 
-		```java
-		public boolean equals(MyClass o)
-		{
-		...
-		}
-		```
+```java
+public boolean equals(MyClass o)
+{
+...
+}
+```
 
-		The problem is that this method does not override Object.equals, whose argument is of type Object, but overloads it instead (Item 26). It is acceptable to provide such a “strongly typed” equals method in addition to the normal one as long as the two methods return the same result but there is no compelling reason to do so. It may provide minor performance gains under certain circumstances, but it isn’t worth the added complexity (Item 37).
+The problem is that this method does not override Object.equals, whose argument is of type Object, but overloads it instead (Item 26). It is acceptable to provide such a “strongly typed” equals method in addition to the normal one as long as the two methods return the same result but there is no compelling reason to do so. It may provide minor performance gains under certain circumstances, but it isn’t worth the added complexity (Item 37).
