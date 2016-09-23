@@ -36,7 +36,7 @@ For example, most Set implementations inherit their equals implementation from A
 ###The class is private or package-private, and you are certain that its equals method will never be invoked
 -
 
-Arguably, the equals method should be overridden under these circumstances, in case it is accidentally invoked someday: 
+Arguably, the equals method should be overridden under these circumstances, in case it is accidentally invoked someday:
 
 ```java
 public boolean equals(Object o)
@@ -94,7 +94,7 @@ Many classes, including all collections classes, depend on the objects passed to
 ###Reflexivity
 -
 
-The first requirement of the equals contract says merely that an object must be equal to itself 
+The first requirement of the equals contract says merely that an object must be equal to itself
 
 If you were to violate it and then add an instance of your class to a collection, the collection’s contains method would almost certainly say that the collection did not contain the instance that you just added
 
@@ -222,6 +222,7 @@ public class ColorPoint extends Point
 	}
 ... // Remainder omitted
 }
+```
 
 How should the equals method look?
 
@@ -231,6 +232,7 @@ While this does not violate the equals contract, it is clearly unacceptable
 
 Suppose you write an equals method that returns true only if its argument is another color point with the same position and color:
 
+```java
 // Broken - violates symmetry!
 public boolean equals(Object o)
 {
@@ -239,6 +241,7 @@ public boolean equals(Object o)
 	ColorPoint cp = (ColorPoint)o;
 	return super.equals(o) && cp.color == color;
 }
+```
 
 The problem with this method is that you might get different results when comparing a point to a color point and vice versa
 
@@ -294,7 +297,7 @@ public class ColorPoint
 {
 	private Point point;
 	private Color color;
-	
+
 	public ColorPoint(int x, int y, Color color) {
 		point = new Point(x, y);
 		this.color = color;
@@ -337,7 +340,7 @@ The final requirement, which in the absence of a name I have taken the liberty o
 
 While it is hard to imagine accidentally returning true in response to the invocation o.equals(null), it isn’t hard to imagine accidentally throwing a NullPointerException
 
-The general contract does not allow this 
+The general contract does not allow this
 
 Many classes have equals methods that guard against it with an explicit test for null:
 
@@ -384,7 +387,7 @@ Putting it all together, here’s a recipe for a high-quality equals method:
 	(field == null ? o.field == null : field.equals(o.field))
 
 	This alternative may be faster if field and o.field are often identical object references:
-	
+
 	(field == o.field || (field != null && field.equals(o.field)))
 
 	For some classes, like CaseInsensitiveString shown earlier, the field comparisons are more complex than simple equality tests. It should be apparent from the specification for a class if this is the case. If so, you may want to store a canonical form in each object, so that the equals method can do cheap exact comparisons on these canonical forms rather than more costly inexact comparisons. This technique is most appropriate for immutable classes (Item 13), as the canonical form would have to be kept up to date if the object could change. The performance of the equals method may be affected by the order in which fields are compared. For best performance, you should first compare fields that are more likely to differ, less expensive to compare, or, ideally, both. You must not compare fields that are not part of an object’s logical state, such as Object fields used to synchronize operations. You need not compare redundant fields, which can be calculated from “significant fields,” but doing so may improve the performance of the equals method. If a redundant field amounts to a summary description of the entire object, comparing this field will save you the expense of comparing the actual data if the comparison fails.
