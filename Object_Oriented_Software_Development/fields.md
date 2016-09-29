@@ -24,7 +24,7 @@ final class Int {
 
 The object diagram at line 00008 is:
 
-![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/objectDiagram2.jpg)
+![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/objectDiagram2.jpg)
 
 ***
 
@@ -34,4 +34,4 @@ This can be confusing
 
 Although the names given to objects are arbitrary, perhaps the following are more helpful:
 
-![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/objectDiagram3.jpg)
+![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/objectDiagram3.jpg)

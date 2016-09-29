@@ -13,7 +13,7 @@ final class Person {
 
 Exclusive reference to objects of another class:
 
-![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/composition.jpg)
+![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/composition.jpg)
 
 In UML, this is called composition.
 

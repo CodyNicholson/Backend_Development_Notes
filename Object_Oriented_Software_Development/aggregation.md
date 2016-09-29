@@ -11,7 +11,7 @@ final class Person {
 
 Reference to objects of another class:
 
-![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/aggregation.jpg)
+![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/aggregation.jpg)
 
 In UML, this is called aggregation
 

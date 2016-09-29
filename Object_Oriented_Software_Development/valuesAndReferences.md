@@ -31,7 +31,7 @@ final class MutInt {
 
 Consider the object diagram after line 00007:
 
-![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/objectDiagram4.jpg)
+![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/objectDiagram4.jpg)
 
 This phenomenon is called aliasing
 
@@ -48,8 +48,8 @@ In the UML, references are usually shown using arrows.
 
 Instead of this:
 
-![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/objectDiagram5.jpg)
+![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/objectDiagram5.jpg)
 
 We draw this:
 
-![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/objectDiagram6.jpg)
+![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/objectDiagram6.jpg)

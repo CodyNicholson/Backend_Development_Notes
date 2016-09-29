@@ -23,7 +23,9 @@ public class Main {
 
 This prints:
 
+```
 42
 27
+```
 
 Java is call-by-value

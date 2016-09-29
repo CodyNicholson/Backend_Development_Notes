@@ -4,11 +4,11 @@ Create a test class. (Test classes are object classes.)
 
 Each test method is treated like a separate program.
 
-![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/junit1.jpg)
+![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/junit1.jpg)
 
 Tests are run as: Arrange, Act, Assert:
 
-![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/junit2.jpg)
+![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/junit2.jpg)
 
 ***
 
@@ -41,12 +41,12 @@ Rules for a test class:
 junit.framework.Assert is a static class
 The basic assertion method is assertTrue which comes in two forms:
 
-![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/junit3.jpg)
+![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/junit3.jpg)
 
 If the boolean value is false, then the enclosing test will fail
 In the second form, the String is printed when the assertion is false
 
-![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/junit4.jpg)
+![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/junit4.jpg)
 
 If there are multiple assertions in a single test, then the enclosing test fails if any assertion is false
 
@@ -54,4 +54,4 @@ If there are multiple assertions in a single test, then the enclosing test fails
 
 ####jUnit Derived Assertions
 
-![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/junit4.jpg)
+![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/junit4.jpg)

@@ -4,7 +4,7 @@ Multiplicities put constraints on number of references held by an object
 
 Recall java.util.List and java.io.BufferedReader.
 
-![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/multiplicity.jpg)
+![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/multiplicity.jpg)
 
 Note: if multiplicity is 1, then reference must be non-null when constructor terminates.
 
@@ -36,4 +36,4 @@ final class Person {
 }
 ```
 
-![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/multiplicity2.jpg)
+![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/multiplicity2.jpg)
