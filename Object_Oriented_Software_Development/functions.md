@@ -30,7 +30,7 @@ class Fun {
 
 ###Here is a visualization of the execution at four different points in time
 
-![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/function1.jpg)
+![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/function1.jpg)
 
 ***
 
