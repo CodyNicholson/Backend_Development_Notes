@@ -120,4 +120,85 @@ What is each encapsulating?
 
 **Datastructure/recursive definition**
 
+***
+
+##Pop Quiz 2
 -
+
+###Define Refactor
+
+Change the design of the code to make it more readable and less prone to bugs without changing the behavior of the code
+
+-
+
+###What is the main reason to refactor?
+
+Code smells, technical debt, optimization
+
+Because you want to make your code easier to understand and less prone to errors. For example, by making sure that your code doesn't have a million dependencies when it only needs 2 or 3.
+
+-
+
+###What is the first thing you need to do before refactoring, and why?
+
+Make sure you test the upper and lower bound, 100% coverage
+
+Make sure you have a copy of your old code saved so that if you break anything you have the original working copy as a backup -- Version Control
+
+-
+
+###What is the open/close principle?
+
+Classes are open for extention, but closed for modification
+
+-
+
+###What are the three heuristics of the open/close principle?
+
+1. Make all member variables private
+
+2. No global variables
+
+3. RTTI is dangerous (Runtime Type Identification -- Checks the type of something)
+
+-
+
+###What is the Liskov Substitution Principle?
+
+Any method of a class has to behave the same for any subclass of the class
+
+-
+
+###What is a rule of thumb about whether a newly created class should be the subtype of another class?
+
+If it would require changes to the base class
+
+-
+
+###What is the Interface Segregation Principle?
+
+Clients should not be fourced to depend on interfaces that they don't use - thin interfaces
+
+-
+
+###What are some reasons to use the interface segregation principle?
+
+Prevent code bloat
+
+Prevent type coupling
+
+-
+
+###What do UML Sequence Diagrams depict?
+
+How objects interact with one another, and what sequences
+
+Depicts the messages being passed around the system while also depicting the activity of the objects
+
+-
+
+###Two possible interfaces for factory create methods are ___ and ___?
+
+One where you have a create method for each object
+
+One method that does a check and then creates one of the objects of a type that is based on the check

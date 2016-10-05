@@ -68,3 +68,39 @@ May contain static fields, which are also underlined (none shown here)
 -
 
 ![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/umlRepresentationOfClasses.jpg)
+
+***
+
+###UML class diagrams: Specialization/Generalization
+
+Specialization is when you have some base class and you create subclasses that inherit from that base class
+
+Generalization is when you have a few classes and decide to create one base class for those classes to inherit from
+
+![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/classDiagram1.jpg)
+
+Depending on what class(es) came first, this diagram shows specialization/generalization
+
+When you see a diagram like this, you can just say it shows “inheritance”
+
+***
+
+###UML Class Diagrams: Realization
+-
+
+Realization is the implementation or derivation of an Interface or Abstract class
+
+A Subtype realizes the Interface/Abstract class
+
+Command and Strategy patterns are examples of realization
+
+![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/realizeUML.jpg)
+
+SomeClass realizes IInterface
+
+***
+
+###UML Arrows
+-
+
+![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/umlRealize.jpg)
