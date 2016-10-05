@@ -135,8 +135,6 @@ CreditCardSwipeReader has a dependency on CreditCardSwipeValidator
 
 Transitively, CreditCardProcessor has dependency on CreditCardSwipeValidator
 
-![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/transDepend.jpg)
-
 CreditCardSwipeReader has a dependency on CreditCardSwipeValidator
 
 Transitively, CreditCardProcessor has dependency on CreditCardSwipeValidator.
@@ -205,12 +203,6 @@ Let’s say you want to add a dependency to CreditCardEncryptionProvider
 The CreditCardProcessor is now more fragile because there is an increased potential for breaking, since now changes to the EncryptionProvider affect CreditCardProcessor (via transitive dependency).
 
 ![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/whatDoesThisSolve3.jpg)
-
-If you change it to use DI, CreditCardProcessor no longer has that second transitive dependency and it’s much less fragile
-
-![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/whatDoesThisSolve4.jpg)
-
--
 
 If you change it to use DI, CreditCardProcessor no longer has that second transitive dependency and it’s much less fragile
 
