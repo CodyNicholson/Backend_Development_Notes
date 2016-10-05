@@ -12,7 +12,7 @@ Controller: Communicates between the data model and the UI.
 
 Notice that View and Model modules never talk directly to each other
 
-[alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/mvc1.jpg)
+![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/mvc1.jpg)
 
 Think about Homework 3 and the Control class
 
