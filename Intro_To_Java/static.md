@@ -8,7 +8,7 @@ For example:
 
 ```java
 num = Math.sqrt(2);
-// The sqrt() method is a static method because it is not called on an object, it is called from its class, however
+// The sqrt() method is a static method because it is not called on an object, it is called from its class
 ```
 
 A static method belongs to a class and cannot be called on an object and they are not common
