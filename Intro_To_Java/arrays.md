@@ -28,7 +28,8 @@ Real Example:
 double[] values = new double[5];
 
 // This will create an array of five doubles
-// You cannot change the amount of items an array can hold after it is constructed; the above array will always have a maximum of 5 items
+// You cannot change the amount of items an array can hold after it is constructed;
+// The above array will always have a maximum of 5 items
 ```
 
 -
@@ -79,5 +80,6 @@ if (size >= LENGTH)
     values = Arrays.copyOf(values, 2 * values.length);
 }
 
-// This will take the create a brand new array of size "2 * values.length" that will already have the original contents of the values array stored within it via the args of copyOf()
+// This will take the create a brand new array of size "2 * values.length"
+// that will already have the original contents of the values array stored within it via the args of copyOf()
 ```
