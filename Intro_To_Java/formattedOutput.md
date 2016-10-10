@@ -13,8 +13,10 @@ public static void main(String[] args)
     System.out.println();
 
     System.out.printf("%4.2f", cost);
-    // Will print 4 characters wide with 2 decimal places. If given a long decimal value, it will round up to stay 4 chars wide
-    // The 2 decimal places and the decimal itself are counted in the 4 chars wide count, so you will only have one char to the left of the decimal in this example
+    // Will print 4 characters wide with 2 decimal places.
+    // If given a long decimal value, it will round up to stay 4 chars wide
+    // The 2 decimal places and the decimal itself are counted in the 4 chars wide count,
+    // so you will only have one char to the left of the decimal in this example
 
     System.out.println("");
 
