@@ -1,18 +1,22 @@
-this - a refference to the object to the left of the "." in the method call
+#This
+
+A refference to the object to the left of the "." in the method call
 
 It is never needed, it just makes the code more organized
 
 In java, local and parameter variables are considered first when looking at variable names
 
+***
 
-Application:
+###Application
 
 If you would like, you can add "this" in front of every instance variable in your program so it is clear which variables are local and which are instance
 
-You can also call methods using "this" to call a
+You can also call methods using "this"
 
-Ex:
+Example:
 
+```java
 /**
     A person who can add friends to their network
 */
@@ -89,3 +93,4 @@ public class Person
         nonFriend.unFriend(this);
     }
 }
+```
