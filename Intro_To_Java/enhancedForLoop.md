@@ -1,16 +1,22 @@
+#Enhanced For Loop
+
 The Enhanced For loop is a shorthand method of coding:
 
+```java
 for (int i = 0; i < someArrayList.size(); i++)
+```
 
+-
 
 It is written:
 
+```java
 for (ArrayType i : someArrayList)
+```
 
+Example:
 
-
-Ex:
-
+```java
 ArrayList<String> stringList = new ArrayList<String>();
 
 stringList.add("Hello");
@@ -24,3 +30,4 @@ for (String s : stringList)
 // This will print:
 // Hello
 // There
+```
