@@ -1,5 +1,8 @@
-// BlueJ Project: lesson4/fields
+#Farm Plot - Practicing Math in Java
 
+This class uses some basic Java math to compute how many circular farm fields could fit in a plot of land that you can define the dimensions of
+
+```java
 public class Plot
 {
     private int width;
@@ -33,3 +36,4 @@ public class Plot
         return totalFields;
     }
 }
+```
