@@ -1,10 +1,12 @@
+#Interfaces
+
 Java interfaces allow us to unify common behavior
 
 If you have three classes that are all drawable, you should make an interface called "Drawable"
 
-Ex:
+Example:
 
-
+```java
 public interface Drawable
 {
     void draw();
@@ -14,15 +16,15 @@ public interface Drawable
 // Notice the method draw does not have the  work "public" in its declaration; this is because methods in an interface are automatically public
 // You cannot create objects of an interface, instead you create objects of a class that implement the interface
 // Interfaces behave like a classes
+```
 
+***
 
+###Implementing an interface:
 
-Implementing an interface:
+Example:
 
-
-Ex:
-
-
+```java
 public class className implements InterfaceName
 {
     public void methodName()
@@ -32,12 +34,13 @@ public class className implements InterfaceName
 }
 
 // Many different classes can all implement the same interface
+```
 
+***
 
+###Instanceof Test and Cast:
 
-Instanceof Test and Cast:
-
-
+```java
 Drawable d = elements.get(i);
 if (d instanceof Moveable)
 {
@@ -48,16 +51,17 @@ if (d instanceof Moveable)
 // The above conditional statement will be true if d belongs to a class that implements the Moveable interface
 // Since d is of type Drawable, it cannot be moved
 // However, if d is part of a class that implements the Moveable interface, you can cast d as a moveable object
+```
 
+***
 
-
-The Comparable Interface:
-
+###The Comparable Interface:
 
 The compareable interface has one method, compareTo()
 
-Ex:
+Example:
 
+```java
 int lowNum = 1;
 int highNum = 2;
 
@@ -76,6 +80,6 @@ String b = "b";
 a.compareTo(b);
 // Returns a negative number because a comes before b in the alphabet
 
-
 Collections.sort(arrayListName);
 // This method would sort the array list passed through it by alphabetical/numeric order using the compareTo interface
+```
