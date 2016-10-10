@@ -1,3 +1,6 @@
+#String Methods
+
+```java
 String str = "Some String";
 
 str.length();
@@ -28,3 +31,4 @@ will equal "e Str"
 will equal "HelloSome String"
 
 Note: There are no methods that can mutate a string, only access
+```
