@@ -13,7 +13,9 @@ public interface Drawable
 }
 
 // Notice the draw method has no implementation, that is because it is the classes job to implement it
-// Notice the method draw does not have the  work "public" in its declaration; this is because methods in an interface are automatically public
+// Notice the method draw does not have the  work "public" in its declaration;
+// this is because methods in an interface are automatically public
+
 // You cannot create objects of an interface, instead you create objects of a class that implement the interface
 // Interfaces behave like a classes
 ```
@@ -48,9 +50,13 @@ if (d instanceof Moveable)
     m.move(1);
 }
 
-// The above conditional statement will be true if d belongs to a class that implements the Moveable interface
+// The above conditional statement will be true if d belongs to
+// a class that implements the Moveable interface
+
 // Since d is of type Drawable, it cannot be moved
-// However, if d is part of a class that implements the Moveable interface, you can cast d as a moveable object
+
+// However, if d is part of a class that implements the Moveable interface,
+// you can cast d as a moveable object
 ```
 
 ***
@@ -81,5 +87,6 @@ a.compareTo(b);
 // Returns a negative number because a comes before b in the alphabet
 
 Collections.sort(arrayListName);
-// This method would sort the array list passed through it by alphabetical/numeric order using the compareTo interface
+// This method would sort the array list passed through it by
+// alphabetical/numeric order using the compareTo interface
 ```
