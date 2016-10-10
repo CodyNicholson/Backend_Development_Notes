@@ -77,7 +77,6 @@ If you need to use new techniques or learn new knowledge to create the project, 
 ***
 
 ##Technology Mistakes:
--
 
 ###Silver Bullet Syndrome:
 
