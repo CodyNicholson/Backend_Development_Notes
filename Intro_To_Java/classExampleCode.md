@@ -1,3 +1,8 @@
+#Class Example Code
+
+All the example code that was used in my Intro to Java class on Udacity.com
+
+```java
 public class EqualStrings
 {
     public static void main(String[] args)
@@ -18,8 +23,6 @@ public class EqualStrings
     }
 }
 
-
-
 public class EqualNumbers
 {
     public static void main(String[] args)
@@ -39,8 +42,6 @@ public class EqualNumbers
     }
 }
 
-
-
 class Numbers
 {
     public static void main(String args[])
@@ -50,8 +51,6 @@ class Numbers
         System.out.println(mystery);
     }
 }
-
-
 
 public class DaysAlivePrinter
 {
@@ -64,8 +63,6 @@ public class DaysAlivePrinter
     }
 }
 
-
-
 public class Trim
 {
     public static void main(String[] args)
@@ -74,8 +71,6 @@ public class Trim
         System.out.println(river.replace("i", "x"));
     }
 }
-
-
 
 public class Cases
 {
@@ -101,8 +96,6 @@ public class HelloJello
     }
 }
 
-
-
 public class RectangleTranslate
 {
     public static void main(String[] args)
@@ -116,8 +109,6 @@ public class RectangleTranslate
     }
 }
 
-
-
 public class Box2
 {
     public static void main(String[] args)
@@ -130,8 +121,6 @@ public class Box2
     }
 }
 
-
-
 public class Greeting
 {
     public static void main(String[] args)
@@ -141,8 +130,6 @@ public class Greeting
         System.out.println(greeting);
     }
 }
-
-
 
 public class LuckyNumber
 {
@@ -154,8 +141,6 @@ public class LuckyNumber
         System.out.println(luckyNumber);
     }
 }
-
-
 
 public class RectangleDemo
 {
@@ -170,8 +155,6 @@ public class RectangleDemo
     }
 }
 
-
-
 public class Mariner4
 {
     public static void main(String[] args)
@@ -181,8 +164,6 @@ public class Mariner4
         System.out.println(mariner4.toString());
     }
 }
-
-
 
 public class Shrink
 {
@@ -196,8 +177,6 @@ public class Shrink
     }
 }
 
-
-
 public class Trim2
 {
     public static void main(String args[])
@@ -206,8 +185,6 @@ public class Trim2
         System.out.println(messyString.trim());
     }
 }
-
-
 
 public class RectangleExample
 {
@@ -225,8 +202,6 @@ public class RectangleExample
     }
 }
 
-
-
 public class RectangleExample2
 {
     public static void main(String[] args)
@@ -239,8 +214,6 @@ public class RectangleExample2
     }
 }
 
-
-
 public class CopyString
 {
     public static void main(String[] args)
@@ -251,8 +224,6 @@ public class CopyString
     }
 }
 
-
-
 class Replace
 {
     public static void main(String args[])
@@ -261,8 +232,6 @@ class Replace
         System.out.print(river.replace("s", "8"));
     }
 }
-
-
 
 public class Homework0
 {
@@ -287,8 +256,6 @@ public class Homework0
     }
 }
 
-
-
 class Demo
 {
     public static void main(String args[])
@@ -297,8 +264,6 @@ class Demo
         System.out.println("3 + 4 +5");
     }
 }
-
-
 
 public class RectangleDemo6
 {
