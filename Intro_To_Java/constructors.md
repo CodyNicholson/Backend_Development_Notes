@@ -2,7 +2,7 @@
 
 A constructor is written like a method of the class but must have the same name as the class
 
-Its purpose is to creat all of the instance variables your program needs and to run all of the methods that your class may need to run as soon as an object is created
+Its purpose is to create all of the instance variables your program needs and to run all of the methods that your class may need to run as soon as an object is created
 
 ```java
 public Car(double mpg) - does not need return type
