@@ -1,3 +1,5 @@
+#Inheritance
+
 Inheriance is like interfaces because it can pick up common behavior, but it can also pick up data from other classes
 
 A class can only inherit from one other class, unlike interfaces
@@ -6,7 +8,7 @@ If a class inherits from another class, then it is the subclass and the other cl
 
 To declare one class as inheriting another class:
 
-
+```java
 public class classOne extends classTwo
 {
     add new instance variables
@@ -17,7 +19,7 @@ public class classOne extends classTwo
 }
 
 // You should only include the difference between the superclass and the subclass, not things that already exist and work fine in the superclass
-
+```
 
 YOU DO NOT GET THE PRIVATE INSTANCE VARIABLES OR METHODS FROM THE SUPERCLASS!
 
