@@ -1,18 +1,24 @@
+#2D Arrays
+
 In a 2D array there are two values for every one element in the array
 
 A 2D array is defined as:
 
+```java
 arrayType[][] arrayName = new arrayType[intRows][intColumns]
+```
 
 Example:
 
+```java
 double[][] prices = new double[3][2];
+```
 
+-
 
+###Setting values:
 
-Setting values:
-
-
+```java
 double[][] prices =
 {
     {12.12, 432.2342},
@@ -21,31 +27,39 @@ double[][] prices =
 };
 
 // Three rows, two columns
+```
 
+-
 
+###Getting a value:
 
-Getting a value:
-
-
+```java
 double r = prices[0][1];
 
 // This will get the value at row 0, column 1
+```
 
+-
 
+###To get the number of rows
 
-To get the number of rows:
-
+```java
 prices.length;
+```
 
+-
 
-To get the number of columns:
+###To get the number of columns:
 
+```java
 prices.[0].length;
+```
 
+-
 
+###To print the whole 2d array:
 
-To print the whole 2d array:
-
+```java
 for (int row = 0; row < prices.length; row++)
 {
     for (int column = 0; column < prices[0].length; column++)
@@ -54,12 +68,13 @@ for (int row = 0; row < prices.length; row++)
     }
     System.out.println();
 }
+```
 
-
+***
 
 Example Code:
 
-
+```java
 import java.io.FileReader;
 import java.io.FileNotFoundException;
 import java.util.Arrays;
@@ -96,3 +111,5 @@ public class GradeBook
         }
         return sum;
     }
+}
+```
