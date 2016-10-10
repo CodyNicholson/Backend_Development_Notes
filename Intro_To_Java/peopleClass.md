@@ -1,3 +1,6 @@
+#People Class
+
+```java
 /**
     A person who can add friends to their network
 */
@@ -54,3 +57,4 @@ public class Person
         return friends;
     }
 }
+```
