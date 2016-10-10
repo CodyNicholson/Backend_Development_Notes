@@ -1,3 +1,8 @@
+#Name In Box
+
+This is a program I wrote that takes in a String as a parameter and returns a picture of that String in a box
+
+```java
 public class NameInBox {
 
     public static void main(String[] args) throws IOException
@@ -17,3 +22,4 @@ public class NameInBox {
         return repeat(count, " ");
     }
 }
+```
