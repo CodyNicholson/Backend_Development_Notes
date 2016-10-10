@@ -1,3 +1,6 @@
+#Plural Forms
+
+```java
 public class Word
 {
     private String letters;
@@ -65,3 +68,4 @@ public class Word
         return letters.substring(i, i + 1).equals(letter);
     }
 }
+```
