@@ -9,7 +9,8 @@ Scanner in = new Scanner(System.in);
 
 System.out.print("How old are you? ");
 int age = in.nextInt();
-// This will prompt the user for user input using the 'in' object and following the above question, and it will store it in the age variable
+// This will prompt the user for user input using the 'in' object and
+// following the above question, and it will store it in the age variable
 
 System.out.print("What is your weight? ");
 double weight = in.nextDouble();
