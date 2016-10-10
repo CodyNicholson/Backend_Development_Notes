@@ -18,7 +18,8 @@ public class classOne extends classTwo
     Do not include superclass fields because you already have access to those
 }
 
-// You should only include the difference between the superclass and the subclass, not things that already exist and work fine in the superclass
+// You should only include the difference between the superclass and the subclass,
+// not things that already exist and work fine in the superclass
 ```
 
 YOU DO NOT GET THE PRIVATE INSTANCE VARIABLES OR METHODS FROM THE SUPERCLASS!
