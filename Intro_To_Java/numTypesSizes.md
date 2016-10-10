@@ -1,4 +1,4 @@
-#Number Types
+#Number Types and Sizes
 
 ###How to count varying numbers:
 
