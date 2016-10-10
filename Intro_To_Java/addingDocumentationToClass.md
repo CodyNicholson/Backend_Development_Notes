@@ -1,3 +1,8 @@
+#Adding Documentation to a Class
+
+You can add descriptions to your classes and functions by using the special comments seen above every one of the functions and the class below
+
+```java
 /**
     A person who can add friends to their network
 */
