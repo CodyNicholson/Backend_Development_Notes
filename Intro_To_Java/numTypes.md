@@ -1,7 +1,9 @@
-How to count varying numbers:
+#Number Types
 
-visitors - this should be an int because it will not include decimals, and it will be less than 2 billion
+###How to count varying numbers:
 
-gallons - this could include decimals so it should be a double
+Visitors - this should be an int because it will not include decimals, and it will be less than 2 billion
 
-pageViews - this will not include decimals but it could be more than 2 billion, so it should be a long
+Gallons - this could include decimals so it should be a double
+
+PageViews - this will not include decimals but it could be more than 2 billion, so it should be a long
