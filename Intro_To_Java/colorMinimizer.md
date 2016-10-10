@@ -1,3 +1,6 @@
+#Color Minimizer
+
+```java
 public class Color
 {
     private int red;
@@ -70,3 +73,4 @@ public class Color
     public static final Color PINK = new Color(255, 175, 175);
     public static final Color ORANGE = new Color(255, 200, 0);
 }
+```
