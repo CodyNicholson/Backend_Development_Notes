@@ -1,3 +1,6 @@
+#Reading Inputs
+
+```java
 import java.util.Scanner;
 // To use Scanner to read input you need to import it
 
@@ -11,12 +14,13 @@ int age = in.nextInt();
 System.out.print("What is your weight? ");
 double weight = in.nextDouble();
 // You can use the same 'in' object to get input in multiple places in your program
+```
 
+***
 
+###Sunset.java file:
 
-Sunset.java file:
-
-
+```java
 import java.util.Scanner;
 
 public class Sunset
@@ -115,3 +119,4 @@ public class Color
     public static final Color PINK = new Color(255, 175, 175);
     public static final Color ORANGE = new Color(255, 200, 0);
 }
+```
