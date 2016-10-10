@@ -19,7 +19,10 @@ for (int i = size - 1; i > pos; i--)
 
 values[pos] = val;
 
-// This code will start i pointing at the empty space after the last element, and will move each element in the array starting with the last one right 1 spot until it gets the the position where you want to insert the new value
+// This code will start i pointing at the empty space after the last element,
+// and will move each element in the array starting with the last one right 1 spot
+// until it gets the the position where you want to insert the new value
 
-// This same process can be done if you are removing an element, but then you would move all of the elements after the deleted element over to the left by one
+// This same process can be done if you are removing an element, but
+// then you would move all of the elements after the deleted element over to the left by one
 ```
