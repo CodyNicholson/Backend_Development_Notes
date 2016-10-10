@@ -1,3 +1,12 @@
+###Checkers If-Else
+
+This program below is a great example of how to use an If-Else statement
+
+An If-Else statement will first check "If" some condition is true, and if it is, it will do the things defined in the "If" statment, in this case it will return 0
+
+However, if the condition is false, then it will go to the "Else" statement and run its code instead, ignoring the "If" statement code
+
+```java
 public class CheckerBoardPainter
 {
     /**
@@ -22,3 +31,4 @@ public class CheckerBoardPainter
         }
     }
 }
+```
