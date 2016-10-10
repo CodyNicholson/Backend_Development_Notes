@@ -1,3 +1,6 @@
+#What Day Will it Be?
+
+```java
 public class WhatDayWillItBe
 {
     public static void main(String[] args)
@@ -13,3 +16,4 @@ public class WhatDayWillItBe
         System.out.println(weekday);
     }
 }
+```
