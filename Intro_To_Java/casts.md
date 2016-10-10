@@ -1,7 +1,10 @@
-Casts = A way to change the type of a variable
+#Casts
 
-Ex:
+A way to change the runtime type of a variable
 
+Example:
+
+```java
 double p = 4.35;
 int r = 4.5 * 100;
 // This will create a compiler error because you declare r and an int but the number will be a double
@@ -12,3 +15,4 @@ int r = (int)(4.35 * 100);
 
 int r = (int Math.round(4.35 * 100));
 // This is how you would get r to equal 435, like it should in real life, because Math.round will round the .99999 up to an aditional whole number
+```
