@@ -1,3 +1,6 @@
+#String Comparing
+
+```java
 String a = "One";
 String b = "Two";
 String ab = "OneTwo";
@@ -16,3 +19,4 @@ else
 // To tell if the CONTENTS of the two string objects are equal we do this:
 
 ab.equals(c); // This will return true
+```
