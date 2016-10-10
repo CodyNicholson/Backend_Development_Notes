@@ -1,3 +1,6 @@
+#Formatted Output
+
+```java
 public static void main(String[] args)
 {
     int score = 127;
@@ -18,11 +21,12 @@ public static void main(String[] args)
     System.out.printf("%s", name);
     // Will print a string
 }
+```
 
 
+###Making a table
 
-Making a table:
-
+```java
 public class MicroKitchenTable
 {
     public static void main(String[] args)
@@ -41,3 +45,4 @@ public class MicroKitchenTable
         System.out.println();
     }
 }
+```
