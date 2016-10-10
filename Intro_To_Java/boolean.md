@@ -1,8 +1,14 @@
-boolean variables hold either true or false values. A method can return a boolean value, as seen below.
+#Boolean
 
+boolean variables hold either true or false values
 
-Ex:
+A method can return a boolean value, as seen below
 
+Booleans are useful for checking different conditions
+
+Example:
+
+```java
 public class Word
 {
     private String letters;
@@ -29,3 +35,4 @@ public class Word
         return !isVowel(i);
     }
 }
+```
