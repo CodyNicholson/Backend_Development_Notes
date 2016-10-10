@@ -1,3 +1,6 @@
+#Random Numbers
+
+```java
 Random generator = new Random();
 
 int randomInteger = generator.nextInt(n);
@@ -5,13 +8,13 @@ int randomInteger = generator.nextInt(n);
 // You will get an int between 0 and n-1
 
 double x = generator.nextDouble();
+```
 
+***
 
+###Random Darts:
 
-Random Darts:
-
-
-
+```java
 import java.util.Random;
 import java.util.Scanner;
 
@@ -53,3 +56,4 @@ public class MonteCarlo
         System.out.println("Estimate for pi: " + piEstimate);
     }
 }
+```
