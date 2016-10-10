@@ -1,7 +1,9 @@
 #And Or Not Conditional Statements in Java
 
 And is written '&&' in java
+
 Or is written '||' in java
+
 Not is written '!' in java
 
 Ex:
