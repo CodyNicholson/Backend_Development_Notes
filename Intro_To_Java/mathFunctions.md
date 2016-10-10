@@ -103,19 +103,22 @@ int age = 21;
 This declares an integer variable and initializes it to 21. Recommended
 
 int nextAge = age + 1;
-The initial value of a variable can be an expression (as long as age has been previously declared.) Recommended
+The initial value of a variable can be an expression
+(as long as age has been previously declared.) Recommended
 
 String course= "Udacity";
 The variable has type String and is assigned an initial value of "Udacity". Recommended
 
 score= 80;
-ERROR: the type is required. This statement will not declare a variable. It is an assignment statement which assigns a new value to an existing variable.   NOT Recommended
+ERROR: the type is required. This statement will not declare a variable.
+It is an assignment statement which assigns a new value to an existing variable.   NOT Recommended
 
 int age= "42";
-ERROR: You cannot initialize a number with a String.  "42" is a String. See the quotation marks.    NOT Recommended
+ERROR: You cannot initialize a number with a String.  "42" is a String. See the quotation marks. NOT Recommended
 
 int age;
-This declares an integer variable without initializing it. It is best to initialize variables when they are created: int age = 0; If you do not know what value you want yet
+This declares an integer variable without initializing it. It is best to initialize variables when
+they are created: int age = 0; If you do not know what value you want yet
 ```
 
 ***
