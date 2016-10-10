@@ -1,6 +1,10 @@
+#Book Class - Practice with String Methods
+
+This class uses many useful string methods
+
 Book.java file:
 
-
+```java
 import java.util.Scanner;
 import java.io.File;
 
@@ -102,12 +106,13 @@ public class Book
         }
     }
 }
+```
 
-
+-
 
 LookUpAnyWord.java file:
 
-
+```
 import java.util.Scanner;
 
 public class lookUpAnyWord
@@ -123,3 +128,4 @@ public class lookUpAnyWord
         System.out.println(word + " occurs " + occurrences + " times!");
     }
 }
+```
