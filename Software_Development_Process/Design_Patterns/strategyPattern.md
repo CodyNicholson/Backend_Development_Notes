@@ -1,3 +1,5 @@
+#Strategy Pattern
+
 The Strategy Pattern provides a way to configure a class with one of many behaviors
 
 More precisely, this pattern allows us to define a family of algorithms, ecapsulating them in separate classes so that each algorthim has a class and making these classes interchangable by providing a common interface for all the encapsulated algorithms
