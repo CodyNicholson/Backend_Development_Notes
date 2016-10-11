@@ -1,5 +1,6 @@
-Visitor Pattern:
+#Other Common Design Patterns
 
+###Visitor Pattern
 
 A Way of separating an algorithm from an object structure on which it operates
 
@@ -9,19 +10,17 @@ It allows for defining and easily modifying a set of operations to perform on th
 
 It also allows you to decouple operations from the objects
 
+***
 
-
-Decorator:
-
+###Decorator Pattern
 
 A wrapper that adds functionality to a class, and is stackable
 
 You will build a class that wraps around another class so it can use its functionality and more
 
+***
 
-
-Iterator:
-
+###Iterator
 
 Access elements of a collection without knowing the underlying representation
 
@@ -31,19 +30,17 @@ This means you can go through a set of objects without worrying about how the ob
 
 Just ask the iterator to give you the first object, and then iterate to the next
 
+***
 
-
-Observer:
-
+###Observer
 
 Notifies the dependencies when the object changes
 
 Allows you to register these objects so that they let the system know that they are interested in changes in this first object, and then every time that there is a change these other objeccts will be able to beautomatically notified
 
+***
 
-
-Proxy:
-
+###Proxy
 
 Surrogate controls access to an object
 
