@@ -2,28 +2,25 @@ The Strategy Pattern provides a way to configure a class with one of many behavi
 
 More precisely, this pattern allows us to define a family of algorithms, ecapsulating them in separate classes so that each algorthim has a class and making these classes interchangable by providing a common interface for all the encapsulated algorithms
 
+***
 
-
-Intent:
-
+###Intent
 
 Allows for switching between different algorithms for accomplishing a task, for example if you had many different sorting algorithms this design pattern would make them all available so you could use the most ideal algorithm for each situation
 
+***
 
-
-Applicability:
-
+###Applicability
 
 This pattern is applicable when we have different varients of an algorithm, like in sorting you have mergesort, quicksort, and a few others
 
 This pattern is also useful when we have many related classes that only differ in their behavior
 
+***
 
+##Structure
 
-Structure:
-
-
-Context:
+###Context
 
 The context is the interface to the outside world, it maintains reference to the current algorithm (defined as one of the Concrete Strategies) and allows for updating the references at runtime
 
@@ -31,16 +28,15 @@ The outside world will invoke the functionality provided by the different algori
 
 Depending on which algorithm is currently selected, that is the one that will be executed when the functionality is invoked
 
+-
 
-
-Algorithm (Also called the Strategy):
+###Algorithm (Also called the Strategy):
 
 Defines the common interface for the different algorithms
 
+-
 
-
-Concrete Strategy:
-
+###Concrete Strategy:
 
 The Concrete Strategy contains the actual implementation of the algorithm
 
@@ -48,12 +44,11 @@ There can be many Concrete Strategies each defined in their own separate class w
 
 These algorithms in the Concrete Strategies implement the interface in the Algorithms class
 
-
-
+***
 
 Example:
 
-
+```java
 package patterns.strategy;
 
 import java.io.BufferedReader;
@@ -160,10 +155,15 @@ public class StrategyPattern {
 }
 
 // In the context we declare the CheckStrategy to keep a refference to the current concrete strategy
+
 // Setting the strategy to the All() strategy by default allows our program to accept all input
+
 // The changeStrategy method allows us to change strategy during the runtime of our program
 
 // Our main method creates the context
+
 // It will perform the filtering using all of different filters
 
-// The Algorithm class gives us an interface for the algorithms defined in the Concrete Strategies and allows us to change the algorithms freely without ever needing to change classes
+// The Algorithm class gives us an interface for the algorithms defined in the Concrete Strategies and
+// allows us to change the algorithms freely without ever needing to change classes
+```
