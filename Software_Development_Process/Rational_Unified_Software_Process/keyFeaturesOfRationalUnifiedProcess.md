@@ -6,6 +6,8 @@ This means that RUP defines an order of phases that has to be followed, and it p
 
 It also means that RUP is component based, meaning two things:
 
+-
+
 1. That the software system is defined and built as a set of software components (Software componenets are the building blocks of the system)
 
 2. There must be well-defined interfaces between these components, interfaces through which these components communicate
