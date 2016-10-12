@@ -4,9 +4,9 @@ What are the requirements?
 
 ***
 
-##There are three domains
+##There are three domains:
 
-###The domain of the machine:
+###The domain of the machine
 
 Hardware, operating system, libraries in which the software will run
 
@@ -16,7 +16,7 @@ For example, an algorithm to sort the application data in the background
 
 -
 
-###The domain of the application:
+###The domain of the application
 
 The world in which the software will operate
 
