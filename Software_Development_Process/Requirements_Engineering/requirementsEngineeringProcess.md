@@ -1,31 +1,29 @@
-The Requirements Engineering Process has four steps:
+#The Requirements Engineering Process has four steps
 
-
-
-Elicitation:
+##Elicitation
 
 Where we extract requirements from different sources
 
+***
 
-
-Negotiation:
+##Negotiation
 
 Happens between stakeholders and developers
 
 Requirements are discuessed and modified until an agreement is met
 
+***
 
-
-Modeling:
+##Modeling
 
 Where we represent the requirements using one or more notations or formal reasons
 
+***
 
-
-Analysis:
+##Analysis
 
 Identify possible issues with our requirements
 
+***
 
-
-Repeat the process from the start until system is complete
+####Repeat the process from the start until system is complete
