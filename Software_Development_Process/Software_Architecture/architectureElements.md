@@ -7,6 +7,7 @@ It should be a composition and interplay of different elements
 -
 
 ####There are three main types of elements:
+-
 
 1 - Processing Elements
 
