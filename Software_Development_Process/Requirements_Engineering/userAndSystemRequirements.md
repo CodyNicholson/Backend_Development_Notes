@@ -1,14 +1,14 @@
-User requirements:
+#User and System Requirements
 
+###User requirements
 
 Written for customers
 
 Often in natural language and do not include technical details
 
+***
 
-
-System requirements
-
+###System requirements
 
 Written for developers
 
@@ -16,20 +16,17 @@ Detailed functional and non-functional requirements
 
 Clearly and more rigourously specified
 
+***
 
+##Examples
 
-Example:
-
-
-
-User Requirement:
-
+####User Requirement
 
 The Software must provide a means of representing and accessing external files created by others
 
+-
 
-
-Corrosponding System Requirement:
+####Corrosponding System Requirement
 
 
 1.1 The user should be provided with facilities to define the type of external files
