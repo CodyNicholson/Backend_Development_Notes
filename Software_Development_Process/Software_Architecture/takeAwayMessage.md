@@ -1,9 +1,7 @@
-A great architecture is a ticket to success
+#Take Away Message
 
+A great architecture is a ticket to success,
 
+It reflects a deep understanding of the problem domain,
 
-A great architecture reflects a deep understanding of the problem domain
-
-
-
-A great architecture normally combines aspects of several simpler architectures
+and it normally combines aspects of several simpler architectures
