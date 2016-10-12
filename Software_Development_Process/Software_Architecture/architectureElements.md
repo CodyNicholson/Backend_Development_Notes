@@ -8,19 +8,19 @@ It should be a composition and interplay of different elements
 
 ####There are three main types of elements:
 
-1. Processing Elements
+1 Processing Elements
 
 Implements the business logic and preform transformations on data
 
 -
 
-2. Data/Information/State Elements
+2 Data/Information/State Elements
 
 Contains the information that is transformed by the processing elements
 
 -
 
-3. Interaction Elements
+3 Interaction Elements
 
 The glue that holds the parts of the architecture together
 
