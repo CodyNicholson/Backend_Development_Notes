@@ -1,14 +1,20 @@
-A General Definition of Software Architecture:
+#Intro To Software Architecture
+
+####A General Definition of Software Architecture:
 
 A set of principal design decisions about the system
 
 'Principal' just means a degree of importance that grants a design decision architectual status
+
+-
 
 When building a system we make tons of design decisions, most of which do not impact the architecture of the system
 
 For example, deciding whether to use a for loop or a while loop does not affect the system architecture
 
 However, if you believe that something is an important design decision, that becomes a architecture decision
+
+-
 
 The software architecture is the blueprint for the system that encompasses structure, behavior, interactions, and the non-functional properties of the system
 
@@ -18,12 +24,11 @@ At any point in time there is a Software Architecture but it will change
 
 Design decisions are made, unmade, and changed over a system's lifetime
 
-
+***
 
 Two formal definitions for Software Architecture:
 
-
-1. Perry and Wolf Definition
+1 - Perry and Wolf Definition
 
 Software Architecture can be defined as Elements, Form, and Rationale
 
@@ -33,9 +38,9 @@ Form is the HOW of the system which includes the set of properties and relations
 
 Rationale is the WHY of the system which includes the justification for the elements and their relationships
 
+-
 
-
-2. Shaw and Garland
+2 - Shaw and Garland
 
 Software Architecture is the level of design that involves:
 
