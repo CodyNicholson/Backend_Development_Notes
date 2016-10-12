@@ -1,13 +1,14 @@
+#What is Requirements Engineering?
+
 Requirements Engineering (RE) is the process of establishing the services that the customer requires of the software system
 
 And
 
 RE is also the constraints under which the system operates and is developed
 
+***
 
-
-RE is important because:
-
+###RE is important because:
 
 Many errors come from incorrect RE, and they will become expensive to fix the longer they are avoided
 
