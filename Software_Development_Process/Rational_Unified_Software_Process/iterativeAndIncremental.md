@@ -1,4 +1,4 @@
-The Rational Unified Process is Iterative and Incremental
+#The Rational Unified Process is Iterative and Incremental
 
 The lifetime of a RUP consists of a series of cycles that are also called increments
 
@@ -16,11 +16,11 @@ If you have a set of use cases that you are considering, which means that you ha
 
 Then continue in the following iterations with less and less risky features to implement so that in the end each iteration extends the functionality beyond the previous iteration
 
-
+***
 
 Example for the banking IT system:
 
-
+```
 Cycle 1: Basic Withdrawal Facilities
 |------|-----------------------|-----|------|
 Inception Elaboration Construction Transition
@@ -36,8 +36,9 @@ Inception Elaboration Construction Transition
 
 // Notice that the cycles can overlap one another, like Cycle two starts during the end of the construction phase of cycle one
 // Inside each of the four phases of the cycle there can be multiple iterations resulting in multiple product releases inside of a single phase of a single cycle
+```
 
-
+***
 
 In almost every iteration developers do the following activities:
 
