@@ -6,15 +6,22 @@ If we are ready to go to the market and to deploy our product then we can move t
 
 ####The main activities in the Transition phase are:
 
-1. Issues after deployment will normally manifest after the first release, and users might report failures or new feature requests - We fix these problems as quickly as we can and then release our fixed product
+```
+1. Issues after deployment will normally manifest after the first release,
+   and users might report failures or new feature requests 
+   
+   We fix these problems as quickly as we can and then release our fixed product
 
 -
 
-2. Other activities that occur in this phase include training, customer service, providing help-line assistance
+2. Other activities that occur in this phase include training, customer service,
+   providing help-line assistance
 
 -
 
-3. A new cycle may start before the current cycle finishes, so there might be some activities related to the fact that we are starting a new cycle
+3. A new cycle may start before the current cycle finishes, so there might be some
+   activities related to the fact that we are starting a new cycle
+```
 
 ***
 
