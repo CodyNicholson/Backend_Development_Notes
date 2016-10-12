@@ -1,15 +1,14 @@
-Version Control Notes
-
+#Version Control Notes
 
 Command Prompt File Compare: "FC file1 file2" Will display the differences between file1 and file2.
 
-
+***
 
 Terminal File Compare: "diff -u file1 file2" Will display the differences between file1 and file2 and -u stands for unified diff format and will make the result display better
 
 "ls -a" - Will show the contents of a directory including hidden files.
 
-
+***
 
 Workflow to get feedback on project before you update to master branch.
 
