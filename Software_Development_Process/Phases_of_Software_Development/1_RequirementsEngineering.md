@@ -4,9 +4,9 @@ Requirements Engineering is the process of establishing the needs of stakeholder
 
 The Cost of Late Correction goes up and up as the software process continues
 
-For example, fixing a problem in the Requirements Engineering phase might only cost 1, in the Design phase it will cost 5, in implementation 10, in Testing 50, and in maintenance it will cost around 100 -- which is 100 times more expensive than fixing the same issue in the RE phase (This is obviously a rough approximation)
+For example, fixing a problem in the Requirements Engineering phase might only cost 1, but fixing it in the Design phase it will cost 5, in implementation 10, in Testing 50, and in maintenance it will cost around 100 -- which is 100 times more expensive than fixing the same issue in the Requirements Engineering phase
 
-Finding problems early is the name of the game
+#####Finding problems early is the name of the game
 
 ***
 
