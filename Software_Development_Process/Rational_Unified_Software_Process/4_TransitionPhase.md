@@ -6,9 +6,7 @@ If we are ready to go to the market and to deploy our product then we can move t
 
 ####The main activities in the Transition phase are:
 
-1. Issues after deployment will normally manifest after the first release, and users might report failures or new feature requests
-
-   We fix these problems as quickly as we can and then release our fixed product
+1. Issues after deployment will normally manifest after the first release, and users might report failures or new feature requests - We fix these problems as quickly as we can and then release our fixed product
 
 -
 
