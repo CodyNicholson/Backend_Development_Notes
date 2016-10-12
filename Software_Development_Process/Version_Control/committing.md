@@ -1,3 +1,5 @@
+#Committing
+
 Commit - Building block of Git, each one represents a version of the content at one point in time. User created checkpoint in the development of the project.
 
 Commits: Fix off-by-one bugs, add new feature, and improve user docs
