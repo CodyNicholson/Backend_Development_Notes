@@ -1,11 +1,12 @@
+#Defining Requirements
+
 What are the requirements?
 
+***
 
-There are three domains:
+##There are three domains
 
-
-The domain of the machine:
-
+###The domain of the machine:
 
 Hardware, operating system, libraries in which the software will run
 
@@ -13,10 +14,9 @@ Characterized by computers and programs
 
 For example, an algorithm to sort the application data in the background
 
+-
 
-
-The domain of the application:
-
+###The domain of the application:
 
 The world in which the software will operate
 
@@ -26,10 +26,9 @@ Domain properties represent the assumptions we make on the domain
 
 For example, an employee wanting to organize a meeting
 
+***
 
-
-The overlap between the two domains called specifications:
-
+##The overlap between the two domains called specifications
 
 A formal description of what the machine should do to meet the requirements
 
