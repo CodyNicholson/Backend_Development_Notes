@@ -1,8 +1,8 @@
+#Architectual Recovery
+
 Architectural drift and erosion will produce degraded architecture
 
-
-
-Architectual Recovery
+***
 
 In order to fix these problems you need to determine the software architecture from the implementation and fix it
 
