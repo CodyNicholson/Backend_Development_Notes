@@ -1,12 +1,16 @@
+#Design
+
 In the Design phase software requirements are analzed in order to produce a description of the internal structure and organational distinction
 
+***
 
-The design phase consists of Design Activities
+###The design phase consists of Design Activities
 
 Design activities could consist of Architechtual Design, Abstract Specification, Interface Design, Component Design, Data Structure, and Algorithm Design
 
 We will usually go from a high level Architechtual Design to a low level Algoirthm Design
 
+-
 
 These activities result in a set of Design Products which describe various characteristics of the system
 
