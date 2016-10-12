@@ -1,29 +1,25 @@
+#Modeling Requirements
+
 What do you want to model and how do you want to model it?
 
+***
 
+###If you are modeling for enterprises you should pay attention to:
 
-If you are modeling for enterprises you should pay attention to:
+- Goals and objectives
 
+- Organizational structure
 
-Goals and objectives
+- Task and dependencies
 
-Organizational structure
+- Agents, roles, untentionality
 
-Task and dependencies
+- Modeling information and behaviors
 
-Agents, roles, untentionality
+- Information structure
 
+- Behavioral views like scenarios, state machine models, sequence diagrams, information flow
 
+- Time/sequencing requirements
 
-Modeling informatin and behaviors
-
-
-Information structure
-
-Behavioral views like scenarios, state machine models, sequence diagrams, information flow
-
-Time/sequencing requirements
-
-
-
-Modeling system qualities (NFRs)
+- Modeling system qualities (NFRs)
