@@ -1,3 +1,5 @@
+#Deployment Architectural Perspective
+
 A system cannot fufill its purpose until it is deployed
 
 Deploying a system involves physically placing a systems executable modules on the hardware devices where they are supposed to run
