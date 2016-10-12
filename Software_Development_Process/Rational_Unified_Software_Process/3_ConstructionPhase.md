@@ -16,21 +16,30 @@ The outcome of the construction phase is a product that is ready to be deployed 
 
 ####Specifically, this phase develops the following outcomes:
 
+```
 1. All the use-cases have been realized with traceability information
 
-  This means not only that all the functionality expressed by the use cases have been implemented but also that we have traceability information from the use cases to the different artifacts
+  This means not only that all the functionality expressed by the use cases
+  have been implemented but also that we have traceability information from
+  the use cases to the different artifacts
 
-  For example, we know which part of the design realizes which use-cases, we know which part of the implementation is related to a given use-case, we know which use-cases were derived from a use-case model and so on
+  For example, we know which part of the design realizes which use-cases,
+  we know which part of the implementation is related to a given use-case,
+  we know which use-cases were derived from a use-case model and so on
 
-  In this way we can trace our requirements throughout the system, throughout the different artifacts that were developed during the software process
+  In this way we can trace our requirements throughout the system,
+  throughout the different artifacts that were developed during the
+  software process
 
 -
 
-2. We aso have the complete software product which is integrated on all the needed platforms
+2. We aso have the complete software product which is integrated on
+   all the needed platforms
 
 -
 
-3. Since the system has to be thoroughly tested we will also have a complete set of results for our system test
+3. Since the system has to be thoroughly tested we will also have a
+   complete set of results for our system test
 
 -
 
@@ -38,7 +47,10 @@ The outcome of the construction phase is a product that is ready to be deployed 
 
 -
 
-5. We will have a complete set of artifacts -- design, code, test cases -- that have been produced during the development process
+5. We will have a complete set of artifacts
+   -- design, code, test cases -- that have been produced
+   during the development process
+```
 
 ***
 
