@@ -1,3 +1,5 @@
+#Key Features of Rational Unified Project
+
 The Rational Unified Process (RUP) is a Software Process Model
 
 This means that RUP defines an order of phases that has to be followed, and it perscribes transition criteria so it knows when to go from one phase to another
@@ -8,6 +10,7 @@ It also means that RUP is component based, meaning two things:
 
 2. There must be well-defined interfaces between these components, interfaces through which these components communicate
 
+-
 
 The RUP is tightly related to Unified Modeling Language (UML), in particular, it relies extensively on UML for its notation, and with respect to its basic principles
 
