@@ -72,6 +72,7 @@ When we are done with the Inception phase we hit the first major milestone for t
 1. Stakeholder concurrence, which means that all the stakeholders must agree on the scope, definition, and cost/schedule estimates for the projects
 
 2. Requirements understanding as evidenced by the fidelity of the primary use cases
+   
    Out of the initial primary use-cases that we have identified so far, which is the right one for our system?
 
 3. Credibility of the cost/schedule estimates, priorities, risks, and development process
