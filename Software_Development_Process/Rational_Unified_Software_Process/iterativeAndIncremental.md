@@ -34,8 +34,11 @@ Inception Elaboration Construction Transition
                                                                 |------|--------|------------|--------------|
                                                                 Inception Elaboration Construction Transition
 
-// Notice that the cycles can overlap one another, like Cycle two starts during the end of the construction phase of cycle one
-// Inside each of the four phases of the cycle there can be multiple iterations resulting in multiple product releases inside of a single phase of a single cycle
+// Notice that the cycles can overlap one another, like Cycle two starts during the end of the construction phase
+   of cycle one
+  
+// Inside each of the four phases of the cycle there can be multiple iterations resulting in multiple product
+   releases inside of a single phase of a single cycle
 ```
 
 ***
