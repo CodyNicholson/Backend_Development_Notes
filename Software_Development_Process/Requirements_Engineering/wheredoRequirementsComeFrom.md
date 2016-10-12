@@ -1,11 +1,7 @@
-Requirements come from:
+#Where do Requirements Come From?
 
+###Stakeholders
 
+###Application domain - If the software is for a bank it will have different regulations than software for a school
 
-Stakeholders
-
-
-Application domain - If the software is for a bank it will have different regulations than software for a school
-
-
-Documentation - Notes/Books
+###Documentation - Notes/Books
