@@ -2,13 +2,13 @@
 
 The Spiral Model is an incremental risk-oriented lifecycle model that has four main phases:
 
-###1 - Determine Objectives:
+###1 - Determine Objectives
 
 Define requirements
 
 -
 
-###2 - Identify and Resolve Risks:
+###2 - Identify and Resolve Risks
 
 Identify risks and create prototype
 
@@ -26,7 +26,7 @@ Evaluate the ouput of the current iteration and plan the next iteration
 
 ***
 
-Advantages:
+####Advantages:
 
 Reduced risk since the process is so iterative
 
@@ -36,7 +36,7 @@ Software produced early and then constantly improved with early customer feedbac
 
 -
 
-Disadvantages:
+####Disadvantages:
 
 The risk analysis requires a highly specific expertise
 
