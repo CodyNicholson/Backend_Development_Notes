@@ -14,7 +14,7 @@ Subclass Office:
 Instance Variables: OfficeNum
 Methods:
 
-**
+***
 
 ###We can merge these two classes into:
 
