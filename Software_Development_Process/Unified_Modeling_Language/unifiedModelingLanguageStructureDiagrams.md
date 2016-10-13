@@ -4,7 +4,7 @@ Unified Modeling Language Structure Diagrams are the diagrams that represent sta
 
 This is in contrast with dynamic models, which instead represent behaviors of the system we need to model
 
-**
+***
 
 ###UML Class Diagram
 
