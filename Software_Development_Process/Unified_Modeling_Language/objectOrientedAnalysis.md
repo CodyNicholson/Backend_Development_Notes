@@ -1,5 +1,4 @@
-Object Oriented Analysis:
-
+#Object Oriented Analysis
 
 A requirements analysis technique that concentrates on modeling real-world objects
 
@@ -7,10 +6,11 @@ The Object Modeling Technique consists of Data, Functions, and Control and evolv
 
 UML extends OMT by providing more diagrams and a broader system from multiple perspectives
 
+***
 
 The basic idea is to focus on the real world objects so you can make requirements accordingly
 
-There are four steps in this process:
+####There are four steps in this process:
 
 1. Obtain/prepare textual description of problem so we know what system to build
 
