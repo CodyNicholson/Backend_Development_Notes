@@ -1,5 +1,4 @@
-Refactoring is a powerful tool but does have some risks:
-
+#Refactoring is a powerful tool but does have some risks:
 
 You may introduce subtle faults by refactoring
 
@@ -7,10 +6,9 @@ Refactoring should not be abused, it should only be used when needed to improve 
 
 Should be used carefully on systems in production because this is so late in the process that it could be expensive to fix
 
+***
 
-
-Refactoring also has costs:
-
+##Refactoring also has costs:
 
 It can be free if you use tools, but in many cases you will have to do manual work
 
