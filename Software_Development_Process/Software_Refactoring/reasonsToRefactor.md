@@ -1,5 +1,4 @@
-Why do we refactor?
-
+#Why do we Refactor?
 
 Requirements change, and when they do we often need to change our design accordingly
 
