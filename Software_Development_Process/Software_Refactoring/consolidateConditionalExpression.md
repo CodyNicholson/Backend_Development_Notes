@@ -3,6 +3,7 @@
 Sometimes you will find a set of conditionals in your code that all have the same result:
 
 if(true){x += 1;};
+
 if(false){x += 1;};
 
 -
