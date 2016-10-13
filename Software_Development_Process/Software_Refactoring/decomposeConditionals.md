@@ -1,5 +1,8 @@
+#Decompose Conditionals
+
 To make your code more readable it is good to Decompose Complex Conditionals and modify the Then and Else part of the conditional like so:
 
+```java
 if(date.before(Summer_Start)||date.after(Summer_End))
 {
     c = q * winterRate + winterServiceCharge;
@@ -8,11 +11,11 @@ else
 {
     c = q * summerRate;
 }
+```
 
+####The above code can be changed into:
 
-The above code can be changed into:
-
-
+```java
 if(notSummer(date))
 {
     c = winterCharge(q);
@@ -36,3 +39,4 @@ public double summerCharge(double q)
 {
     return q * summerRate;
 }
+```
