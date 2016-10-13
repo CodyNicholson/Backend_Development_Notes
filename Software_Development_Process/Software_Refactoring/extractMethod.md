@@ -13,9 +13,9 @@ void printTotalAndDetails(int x, int y, int z)
 {
     int total = x + y + z;
     System.out.println("The total is: " + total);
-    System.out.println("x represents: " + descriptionX);
-    System.out.println("y represents: " + descriptionY);
-    System.out.println("z represents: " + descriptionZ);
+    System.out.println("x represents: " + x);
+    System.out.println("y represents: " + y);
+    System.out.println("z represents: " + z);
 }
 ```
 
@@ -25,6 +25,13 @@ void printTotalAndDetails(int x, int y, int z)
 void printTotalAndDetails(int x, int y, int z)
 {
     int total = x + y + z;
-    printTotalAndDetails();
+    printDetails(x, y, z);
+}
+
+void printDetails(int x, int y, int z)
+{
+    System.out.println("x represents: " + x);
+    System.out.println("y represents: " + y);
+    System.out.println("z represents: " + z);
 }
 ```
