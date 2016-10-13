@@ -29,6 +29,7 @@ data class, refused requests
 ***
 
 ####Examples:
+-
 
 Duplicated code problems can be resolved using the extract method refactoring technique to make a single method for the duplicated code and place calls to that method where the duplicated code was found
 
