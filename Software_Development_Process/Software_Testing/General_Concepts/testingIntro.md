@@ -1,14 +1,14 @@
+#Testing Intro
+
 Testing is the act of executing a program on a tiny sample of the input domain
 
-
 Testing is a dynamic technique meaning that the program must be executed in order to perform testing
-
 
 Testing is optimistic approximation because the program at test is exercised with a very small subset of all the possible inputs
 
 This is done under the assumption that the behavior with any other input is consistent with the behavior shown for the selected subset of input data, which is why it is an optimistic approach
 
-
+-
 
 What makes a Successful Test?
 
