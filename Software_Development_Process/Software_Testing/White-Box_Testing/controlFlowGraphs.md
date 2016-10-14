@@ -20,10 +20,12 @@ public void split(String str, int index)
 ###The control flow diagram would look like this:
 
 ```
-        T
+       True
 O --> O --> O --> O
-      L---> O
-        F
+       \---> O
+       False
+
+O = node
 ```
 
 Each node represents a statement in the code starting with the node on the farthest left which is where the program enters when the it is called, line 7 of this code
