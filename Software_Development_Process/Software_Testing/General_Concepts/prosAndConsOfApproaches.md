@@ -1,58 +1,57 @@
-Testing
+#Pros and Cons of Approaches
 
+###Testing
 
-Pros:
+####Pros:
 
 - No false positives
 
+-
 
-Cons:
+####Cons:
 
 - Incomplete, testing can consider only a tiny fraction of the program domain and therefore a tiny fraction of the program's behavior
 
+***
 
+###Static Verification
 
-
-Static Verification
-
-
-Pros:
+####Pros:
 
 - Considers all program behaviors, it will consider all inputs in the program's input domain
 
+-
 
-Cons:
+####Cons:
 
 - Considers more than all program behaviors, also considers impossible behaviors, meaning it can generate false positives
 
+***
 
+###Inspections
 
-
-Inspections
-
-
-Pros:
+####Pros:
 
 - Systematic and results in a thorough analysis of the code
 
+-
 
-Cons:
+####Cons:
 
 - They are a manual process, a human process
 - This makes them informal and their effectiveness may depend on the specific people performing the inspection so the results can be subjective
 
+***
 
+###Formal Proof of Correctness
 
-
-Formal Proof of Correctness
-
-
-Pros:
+####Pros:
 
 - They provide strong guarantees of a programs correctness unlike any of the other approaches
 
+-
 
-Cons:
+####Cons:
 
 - They need a form of specification , a complete mathematical description of the expected behavior of the whole program
 - Such a specification is rarely available
