@@ -69,7 +69,9 @@ The class name is not underlined
 
 Static methods are underlined
 
-> <<static>> is a stereotype
+```
+<<static>> is a stereotype
+```
 
 Method return type follows colon
 
