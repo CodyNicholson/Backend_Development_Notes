@@ -4,9 +4,25 @@ Reference/Exclusive Reference:
 
 ![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/umlRefVsExclusive.jpg)
 
+Simple rules:
+
+A "owns" B = Composition : B has no meaning or purpose in the system without A
+A "uses" B = Aggregation : B exists independently (conceptually) from A
+Example 1:
+
+A Company is an aggregation of People. A Company is a composition of Accounts. When a Company ceases to do business its Accounts cease to exist but its People continue to exist.
+
+Example 2: (very simplified)
+
+A Text Editor owns a Buffer (composition). A Text Editor uses a File (aggregation). When the Text Editor is closed, the Buffer is destroyed but the File itself is not destroyed.
+
+***
+
 Dependency (no reference):
 
 ![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/dependency2.jpg)
+
+***
 
 Association (could be either reference or dependency):
 
