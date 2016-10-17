@@ -51,8 +51,10 @@ Non-static methods are not underlined
 
 Fields are listed first, methods second
 
-> - is private
-> + is public
+```
+- is private
++ is public
+```
 
 A static class describes the class itself.
 An object class describes the instances of the class
