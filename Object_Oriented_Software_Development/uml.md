@@ -7,6 +7,7 @@ Reference/Exclusive Reference:
 Simple rules:
 
 A "owns" B = Composition : B has no meaning or purpose in the system without A
+
 A "uses" B = Aggregation : B exists independently (conceptually) from A
 Example 1:
 
@@ -31,7 +32,6 @@ Association (could be either reference or dependency):
 ***
 
 ###Uml sequence diagrams
--
 
 Depict a sequence of messages being passed around for some method as well as depict the activity of objects
 
@@ -40,7 +40,6 @@ Depict a sequence of messages being passed around for some method as well as dep
 ***
 
 ###UML Class Diagrams: Object Class
--
 
 An object class looks like this:
 
@@ -61,7 +60,6 @@ An object class describes the instances of the class
 ***
 
 ###UML Class Diagrams: Static Class
--
 
 A static class looks like this:
 
@@ -80,7 +78,6 @@ May contain static fields, which are also underlined (none shown here)
 ***
 
 ###UML Representation of Collections
--
 
 ![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/umlRepresentationOfClasses.jpg)
 
@@ -101,7 +98,6 @@ When you see a diagram like this, you can just say it shows “inheritance”
 ***
 
 ###UML Class Diagrams: Realization
--
 
 Realization is the implementation or derivation of an Interface or Abstract class
 
@@ -116,6 +112,5 @@ SomeClass realizes IInterface
 ***
 
 ###UML Arrows
--
 
 ![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/umlArrows.jpg)
