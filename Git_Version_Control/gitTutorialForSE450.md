@@ -10,6 +10,10 @@ Windows - [https://www.youtube.com/watch?v=IfLhXM4RnB4](https://www.youtube.com/
 
 Mac/Ubuntu - [https://www.youtube.com/watch?v=s_eFuGauy6k](https://www.youtube.com/watch?v=s_eFuGauy6k "Link to Mac/Ubuntu Git setup video")
 
+***
+
+##Using Git locally
+
 - Creating a git repository using: git init
 
 - The .git folder that stores all your changes
