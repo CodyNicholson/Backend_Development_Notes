@@ -277,7 +277,7 @@ To add a youtube video it is best to use HTML because then you can add a border 
 Syntax Example:
 
 ```
-<a href="https://www.youtube.com/watch?v=6A5EpqqDOdk" target="_blank"><img src="http://img.youtube.com/vi/6A5EpqqDOdk/0.jpg" alt="A like to the Markdown Tutorial Video" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=6A5EpqqDOdk" target="_blank"><img src="http://img.youtube.com/vi/6A5EpqqDOdk/0.jpg" alt="A link to the Markdown Tutorial Video" width="240" height="180" border="10" /></a>
 ```
 
 Real Example:
