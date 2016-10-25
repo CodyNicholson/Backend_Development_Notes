@@ -22,7 +22,7 @@ Mac/Ubuntu - [https://www.youtube.com/watch?v=s_eFuGauy6k](https://www.youtube.c
 
 - Adding files to staging and tracking files with git using: git add <file, or "." to add all untracked files in dir>
 
-[alt tag](https://github.com/CodyNicholson/Software_Development/blob/master/Git_Version_Control/workingdirStagingGitdir.png)
+![alt tag](https://github.com/CodyNicholson/Software_Development/blob/master/Git_Version_Control/workingdirStagingGitdir.png)
 
 - Commiting code to the .git directory using: git commit -m 'Commit Message'
 
