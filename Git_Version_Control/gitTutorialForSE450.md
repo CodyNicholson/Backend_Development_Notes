@@ -8,7 +8,11 @@
 
 Windows - [https://www.youtube.com/watch?v=IfLhXM4RnB4](https://www.youtube.com/watch?v=IfLhXM4RnB4 "Link to Windows Git setup video")
 
+<a href="https://www.youtube.com/watch?v=IfLhXM4RnB4" target="_blank"><img src="http://img.youtube.com/vi/IfLhXM4RnB4/0.jpg" alt="A link to Windows Git setup video" width="240" height="180" border="10" /></a>
+
 Mac/Ubuntu - [https://www.youtube.com/watch?v=s_eFuGauy6k](https://www.youtube.com/watch?v=s_eFuGauy6k "Link to Mac/Ubuntu Git setup video")
+
+<a href="https://www.youtube.com/watch?v=s_eFuGauy6k" target="_blank"><img src="http://img.youtube.com/vi/s_eFuGauy6k/0.jpg" alt="A link to Mac/Ubuntu Git setup video" width="240" height="180" border="10" /></a>
 
 ***
 
