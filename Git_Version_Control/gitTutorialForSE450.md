@@ -4,7 +4,7 @@
 
 - What is Git? Why should we use it? Why is it important in the context of Object Oriented Software Development? - A way for us to develop incrementally, and makes bugs easy to track and fix which saves us time
 
-![alt tag](https://github.com/CodyNicholson/Software_Development/blob/master/Git_Version_Control/featureComparisonChart.jpg)
+<img src="https://github.com/CodyNicholson/Software_Development/blob/master/Git_Version_Control/featureComparisonChart.jpg" style="width: 20px;">
 
 - Installing Git, setting up your workspace, follow video links
 
