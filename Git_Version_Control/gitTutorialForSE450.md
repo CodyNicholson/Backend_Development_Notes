@@ -20,7 +20,7 @@ Mac/Ubuntu - [https://www.youtube.com/watch?v=s_eFuGauy6k](https://www.youtube.c
 
 ##Using Git locally
 
-```
+
 - Creating a git repository using: git init
 
 - The .git folder that stores all your changes
@@ -31,8 +31,8 @@ Mac/Ubuntu - [https://www.youtube.com/watch?v=s_eFuGauy6k](https://www.youtube.c
 
 - Compares your working directory to the directory saved in the .git folder
 
-- Adding files to staging and tracking files with git using: git add <file, or "." to add all untracked files in dir>
-```
+- Adding files to staging and tracking files with git using: git add "file, or '.' to add all untracked files in dir"
+
 
 ![alt tag](https://github.com/CodyNicholson/Software_Development/blob/master/Git_Version_Control/workingdirStagingGitdir.png)
 
@@ -51,15 +51,15 @@ Mac/Ubuntu - [https://www.youtube.com/watch?v=s_eFuGauy6k](https://www.youtube.c
 
 - Reverting back to a previous commit using: git checkout <commit id>
 
-- The most important benefit for our project and for working on a team, branches: git checkout -b <New feature name>
+- The most important benefit for our project and for working on a team, branches: git checkout -b 'New feature name'
 
 - Why make a branch?
 
-- Switching between branches using: git checkout <branch name>
+- Switching between branches using: git checkout 'branch name'
 
 - Commit tree on the board. Shows all the commits and the place when the branch splits off
 
-- Merging the new feature branch back into the master branch (Only merge when you are in the master branch) using: git merge master <branch name>
+- Merging the new feature branch back into the master branch (Only merge when you are in the master branch) using: git merge master 'branch name'
 
 - Is this useful for the final project? It will help with counting hours, and it will help you develop an important skill. Since you should be working alone on this project it won't be completely necessary, but you should be able to imagine how helpful Git would be if you used in on a team.
 ```
@@ -72,9 +72,9 @@ Mac/Ubuntu - [https://www.youtube.com/watch?v=s_eFuGauy6k](https://www.youtube.c
 
 - Copy the url for the repositoy by clicking the "Clone or Download" button in your empty repository on Github
 
-- Create a git remote for your local git repository using: git remote add <name> <url from Github clone or download button>
+- Create a git remote for your local git repository using: git remote add 'name' 'url from Github clone or download button'
 
-- Upload all of your code to the github repository online by using: git push <remote name> <branch name>
+- Upload all of your code to the github repository online by using: git push 'remote name' 'branch name'
 
 - Check out your uploaded code online!
 ```
