@@ -24,7 +24,7 @@ Mac/Ubuntu - [https://www.youtube.com/watch?v=s_eFuGauy6k](https://www.youtube.c
 
 - The .git folder that stores all your changes
 
-- Basic command line commands navigate through directories, move files, and delete files: cd, mv, rm
+- Basic command line commands navigate through directories, move files, and delete files: cd, mv, rm, mkdir
 
 - Showing the status of your repository using: git status
 
