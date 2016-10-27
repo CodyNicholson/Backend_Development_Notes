@@ -9,10 +9,10 @@ public class Light implements Agent {
 	private boolean state;
 
 	public boolean getState() {
-		return state;
+		return state; // implement state pattern to change lights, has four different states
 	}
 	public void run(double time) {
-		if (time%40==0) {
+		if (time%40==0) { // remove, doesnt make sense
 			state = !state;
 		}
 	}

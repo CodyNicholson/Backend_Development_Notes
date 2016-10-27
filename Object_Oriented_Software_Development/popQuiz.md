@@ -263,3 +263,56 @@ You would want to give the caller the power to satisfy that dependency, like the
 ###Between the three methods of dependency injection, what should you default to?
 
 The default should be constructer injection because of the principle of least knowledge, hide the implementation princples as much as possible, whatever is using those objects does not need to know which dependencies its using
+
+***
+
+##Pop Quiz 10-25
+
+###What is a defining characteristic of the composite pattern?
+
+It contains objects that contain other objects
+
+-
+
+###How does a client interact with a composite object? Does it know it is potenitally composed of many objects?
+
+It gets back a pointer/handle to the interface. No.
+
+-
+
+###What pattern can be used to create immutable composite objects?
+
+Builder pattern
+
+-
+
+###What is the difference between the state pattern and the strategy pattern? Why use one over the other?
+
+The state is managed internally by some class, the strategy is manged by some other client
+
+-
+
+###What is the difference between the state and strategy UML diagram?
+
+Instead of aggregation you use composition
+
+-
+
+###The oberver pattern uses a ___ model to notify clients of some event occuring?
+
+Publish/subscribe
+
+-
+
+###What is a very common senario for using the observer pattern?
+
+Looking at a button to see if it has been pressed or not
+
+-
+
+###The subject and the observer patterns both need to implement different interfaces, what are the members of those interfaces?
+
+Subject/Observable: Attach, detach, notifyObservers
+Observer: Update/Notify
+
+***

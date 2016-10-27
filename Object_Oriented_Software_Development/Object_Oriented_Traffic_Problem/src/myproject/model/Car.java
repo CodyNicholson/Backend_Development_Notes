@@ -28,7 +28,7 @@ public class Car implements Agent {
 		return color;
 	}
 	public void run(double time) {
-		if (backAndForth) {
+		if (backAndForth) { //remove
 			if (((position + velocity) < 0) || ((position + velocity) > (MP.roadLength-MP.carLength)))
 				velocity *= -1;
 				
