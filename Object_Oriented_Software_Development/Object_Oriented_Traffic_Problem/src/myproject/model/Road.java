@@ -15,6 +15,12 @@ public class Road{
 		if (d == null) { throw new IllegalArgumentException(); }
 		cars.add(d);
 	}
+	
+	public void remove(Car d) {
+		if (d == null) { throw new IllegalArgumentException(); }
+		cars.remove(d);
+	}
+	
 	public List<Car> getCars() {
 		return cars;
 	}

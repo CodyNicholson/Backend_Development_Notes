@@ -8,33 +8,52 @@ package myproject.model;
  */
 public class Car implements Agent {
 
-	private boolean backAndForth = Math.round(Math.random())==1 ? true : false;
 	private double position = 0;
 	private double velocity = (int) Math.ceil(Math.random() * MP.maxVelocity);
 	private java.awt.Color color = new java.awt.Color((int)Math.ceil(Math.random()*255),(int)Math.ceil(Math.random()*255),(int)Math.ceil(Math.random()*255));
-	private boolean horizontal = false; // horizontal is true, vertical is false
+	private Direction dir = Direction.horizontal; // horizontal is true, vertical is false
 	private int roadIndex = 0;
 	
-	public Car(boolean h, int rIndex)
+	public Car(Direction dir, int rIndex)
 	{
-		horizontal = h;
+		this.dir = dir;
 		roadIndex = rIndex;
 	}
 			
 	public double getPosition() {
 		return position;
 	}
+	
+	public void resetPosition()
+	{
+		this.position = 0;
+	}
+	
 	public java.awt.Color getColor() {
 		return color;
 	}
-	public void run(double time) {
-		if (backAndForth) { //remove
-			if (((position + velocity) < 0) || ((position + velocity) > (MP.roadLength-MP.carLength)))
-				velocity *= -1;
-				
-		} else {
-			if ((position + velocity) > (MP.roadLength-MP.carLength))
-				position = 0;
+	
+	public Direction getDirection()
+	{
+		return this.dir;
+	}
+	
+	public int getRoadIndex()
+	{
+		return this.roadIndex;
+	}
+	
+	public void setRoadIndex(int i)
+	{
+		this.roadIndex = i;
+	}
+	
+	public void run(double time)
+	{
+		if ((position + velocity) > (MP.roadLength-MP.carLength))
+		{
+			CarVisitor cv = new CarVisitor(this);
+			SimpleModel.getModel().visitRoadController(cv);
 		}
 		position += velocity;
 	}

@@ -27,4 +27,43 @@ public class RoadController
 		return hRoadList.get(i);
 	}
 	
+	public void addCar(Car c, int roadIndex, Direction dir)
+	{
+		if(dir == Direction.horizontal)
+		{
+			if(roadIndex >= hRoadList.size())
+			{
+				roadIndex = 0;
+			}
+			Road currentRoad = getHRoad(roadIndex);
+			currentRoad.accept(c);
+			c.setRoadIndex(roadIndex);
+			c.resetPosition();
+		}
+		else
+		{
+			if(roadIndex >= vRoadList.size())
+			{
+				roadIndex = 0;
+			}
+			Road currentRoad = getVRoad(roadIndex);
+			currentRoad.accept(c);
+			c.setRoadIndex(roadIndex);
+			c.resetPosition();
+		}
+	}
+	
+	public void removeCar(Car c, int roadIndex, Direction dir)
+	{
+		if(dir == Direction.horizontal)
+		{
+			Road currentRoad = getHRoad(roadIndex);
+			currentRoad.remove(c);
+		}
+		else
+		{
+			Road currentRoad = getVRoad(roadIndex);
+			currentRoad.remove(c);
+		}
+	}
 }

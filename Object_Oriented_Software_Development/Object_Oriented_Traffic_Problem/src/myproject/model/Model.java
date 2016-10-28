@@ -16,6 +16,7 @@ public class Model extends Observable {
 	private boolean disposed;
 	private double time;
 	private RoadController rc;
+	private static Model instance;
 
 	/** Creates a model to be visualized using the <code>builder</code>.
 	 *  If the builder is null, no visualization is performed.
@@ -40,10 +41,12 @@ public class Model extends Observable {
 	 *  an observer of this model.
 	 *  <p>
 	 */
-	public Model(AnimatorBuilder builder, int rows, int columns){
+	public Model(AnimatorBuilder builder, int rows, int columns)
+	{
 		if (rows < 0 || columns < 0 || (rows == 0 && columns == 0)) {
 			throw new IllegalArgumentException();
 		}
+		instance = this;
 		if (builder == null) {
 			builder = new NullAnimatorBuilder();
 		}
@@ -51,6 +54,18 @@ public class Model extends Observable {
 		setup(builder, rows, columns);
 		this.animator = builder.getAnimator();
 		super.addObserver(animator);
+	}
+	
+	public static Model getModel()
+	{
+		return instance;
+	}
+	
+	public void visitRoadController(Visitor v)
+	{
+		RoadControllerVisitor rcv = new RoadControllerVisitor(rc);
+		v.visit(rcv);
+		rcv.visit(v);
 	}
 
 	/**
@@ -119,14 +134,14 @@ public class Model extends Observable {
 
 		// Add Horizontal Cars
 		for (int l = 0; l < hRoads.size(); l++) {
-			Car car = new Car(true, l);
+			Car car = new Car(Direction.horizontal, l);
 			agents.add(car);
 			hRoads.get(l).accept(car);
 		}
 		
 		// Add Vertical Cars
 		for (int l = 0; l < vRoads.size(); l++) {
-			Car car = new Car(false, l);
+			Car car = new Car(Direction.vertical, l);
 			agents.add(car);
 			vRoads.get(l).accept(car);
 		}

@@ -40,8 +40,21 @@ public final class PopupUI implements UI {
 	}
 
 	public String[] processForm(UIForm form) {
-		// TODO
-		
-		return null;
+		//Check this is right
+		String[] result = new String [form.size()];
+		int i=0;
+		while (i<form.size()) {
+			String response = JOptionPane.showInputDialog(form.getPrompt(i));
+			if (response == null) {
+				response = "";
+			}
+			if (!form.checkInput(i, response)) {
+				displayError("Invalid Input.  Try again.");
+			} else {
+				result[i] = response;
+				++i;
+			}
+		}
+		return result;
 	}
 }
