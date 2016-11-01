@@ -68,12 +68,12 @@ public class SimpleModel extends Observable {
 		List<Road> hRoads = new ArrayList<Road>();
 		List<Road> vRoads = new ArrayList<Road>();
 		Road r1 = new Road();
-		builder.addHorizontalRoad(r1, 0, 1, false);
+		builder.addHorizontalRoad(r1, 0, 1, false, null, null);
 		Car c = new Car(Direction.horizontal, 0);
 		r1.accept(c);
 		agents.add(c);
 		Road r2 = new Road();
-		builder.addHorizontalRoad(r2, 1, 1, false);
+		builder.addHorizontalRoad(r2, 1, 1, false, null, null);
 		hRoads.add(r1);
 		hRoads.add(r2);
 		

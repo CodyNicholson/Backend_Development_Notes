@@ -6,11 +6,30 @@ import java.util.ArrayList;
 /**
  * A road holds cars.
  */
-public class Road{
+public class Road
+{
 	Road() { } // Created only by this package
-
+	
+	private Road forwardRoad;
+	private Road backwardRoad;
 	private List<Car> cars = new ArrayList<Car>();
 
+	public Road(Road forwardRoad, Road backwardRoad)
+	{
+		this.forwardRoad = forwardRoad;
+		this.backwardRoad = backwardRoad;
+	}
+	
+	public Road getForwardRoad()
+	{
+		return forwardRoad;
+	}
+	
+	public Road getBackwardRoad()
+	{
+		return backwardRoad;
+	}
+	
 	public void accept(Car d) {
 		if (d == null) { throw new IllegalArgumentException(); }
 		cars.add(d);

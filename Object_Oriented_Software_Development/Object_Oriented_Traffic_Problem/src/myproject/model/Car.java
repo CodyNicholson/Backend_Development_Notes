@@ -48,12 +48,21 @@ public class Car implements Agent {
 		this.roadIndex = i;
 	}
 	
+	public void notifyCar(double time)
+	{
+		run(time);
+	}
+	
 	public void run(double time)
 	{
 		if ((position + velocity) > (MP.roadLength-MP.carLength))
 		{
+//			if(Light.)
+//			{
+//				
+//			}
 			CarVisitor cv = new CarVisitor(this);
-			SimpleModel.getModel().visitRoadController(cv);
+			Model.getModel().visitRoadController(cv);
 		}
 		position += velocity;
 	}

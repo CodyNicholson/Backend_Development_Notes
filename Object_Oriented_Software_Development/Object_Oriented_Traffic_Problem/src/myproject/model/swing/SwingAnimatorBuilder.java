@@ -108,5 +108,17 @@ public class SwingAnimatorBuilder implements AnimatorBuilder {
 			}
 		}
 	}
+
+
+	@Override
+	public void addHorizontalRoad(Road l, int i, int j, boolean eastToWest, Light backwardLight, Light forwardLight) {
+		// TODO Auto-generated method stub
+		
+	}
+	@Override
+	public void addVerticalRoad(Road l, int i, int j, boolean southToNorth, Light backwardLight, Light forwardLight) {
+		// TODO Auto-generated method stub
+		
+	}
 }
 

@@ -40,7 +40,6 @@ public final class PopupUI implements UI {
 	}
 
 	public String[] processForm(UIForm form) {
-		//Check this is right
 		String[] result = new String [form.size()];
 		int i=0;
 		while (i<form.size()) {
