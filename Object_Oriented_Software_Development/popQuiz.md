@@ -316,3 +316,54 @@ Subject/Observable: Attach, detach, notifyObservers
 Observer: Update/Notify
 
 ***
+
+##Pop Quiz 11/1
+
+###What is a Null object?
+
+A class that is used in place of actual null values that doesn't have any implementations
+
+***
+
+###In what situation would you want to use the Null Object Pattern?
+
+Preventing null pointer exceptions, enable the client to specify no functionality
+
+***
+
+###What should your design look like if you want to use the null object pattern? Should the class inherit from a class or an interface?
+
+Both work but **interface** works better, make sure the class that takes in the dependency is refering to the interface rather than the concrete class
+
+***
+
+###Which pattern would you use if you wanted to add functionality to a specific already existing concrete class without modifying the class?
+
+Proxy Pattern
+
+***
+
+###Draw the proxy pattern uml diagram
+
+INSERT PICTURE HERE
+
+***
+
+###What pattern would you use if you wanted to add funtionality to a group of related classes (classes that implement the same interface) without modifying those classes?
+
+Decorator Pattern
+
+***
+
+###What pattern would you use to add functionality to a third party library (or any code that you couldn't modify for some reason)?
+
+Adapter Pattern
+
+***
+
+###Draw the adapter uml diagram
+
+```
+                                              delagates
+Client ---- > <<Interface>> <| - - - - Adapter ------> Adaptee
+```
