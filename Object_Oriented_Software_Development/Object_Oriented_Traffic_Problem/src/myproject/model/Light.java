@@ -1,5 +1,6 @@
 package myproject.model;
 
+import java.awt.Color;
 import java.util.ArrayList;
 
 /**
@@ -9,18 +10,19 @@ public class Light implements Agent {
 	Light() { } // Created only by this package
 	
 	private ArrayList<Car> observers = new ArrayList<>();
-	private boolean state;
+	private Color c = Color.green;
 	
 	private void notifyCars(double time)
 	{
 		for(Car c : observers)
 		{
-//			Car.notifyCar(time);
+			c.notifyCar(time);
 		}
 	}
 
-	public boolean getState() {
-		return state; // implement state pattern to change lights, has four different states
+	public Color getColor()
+	{
+		return c;
 	}
 	
 	public void addObservingCar(Car c)
@@ -28,11 +30,16 @@ public class Light implements Agent {
 		observers.add(c);
 	}
 	
-	public void run(double time) {
-		if (time%40==0) { // remove, does not make sense
-			state = !state;
+	public void run(double time)
+	{
+		if (time%40==0) // replace conditional
+		{
 			notifyCars(time);
 		}
+	}
+
+	public void setColor(Color color) {
+		c = color;
 	}
 }
 

@@ -38,14 +38,14 @@ public class SwingAnimatorBuilder implements AnimatorBuilder {
 		Translator t = new TranslatorWE(x, y, MP.carLength, VP.elementWidth, VP.scaleFactor);
 		painter.addLight(d,t);
 	}
-	public void addHorizontalRoad(Road l, int i, int j, boolean eastToWest) {
+	public void addHorizontalRoad(Road l, int i, int j, boolean eastToWest, Light backwardLight, Light forwardLight) {
 		double x = skipInit + j*skipRoadCar;
 		double y = skipInit + skipRoad + i*skipRoadCar;
 		Translator t = eastToWest ? new TranslatorEW(x, y, MP.roadLength, VP.elementWidth, VP.scaleFactor)
 				: new TranslatorWE(x, y, MP.roadLength, VP.elementWidth, VP.scaleFactor);
 		painter.addRoad(l,t);
 	}
-	public void addVerticalRoad(Road l, int i, int j, boolean southToNorth) {
+	public void addVerticalRoad(Road l, int i, int j, boolean southToNorth, Light backwardLight, Light forewardLight) {
 		double x = skipInit + skipRoad + j*skipRoadCar;
 		double y = skipInit + i*skipRoadCar;
 		Translator t = southToNorth ? new TranslatorSN(x, y, MP.roadLength, VP.elementWidth, VP.scaleFactor)
@@ -86,11 +86,7 @@ public class SwingAnimatorBuilder implements AnimatorBuilder {
 
 			// First draw the background elements
 			for (Element<Light> e : lightElements) {
-				if (e.x.getState()) {
-					g.setColor(Color.BLUE);
-				} else {
-					g.setColor(Color.YELLOW);
-				}
+				g.setColor(e.x.getColor());
 				XGraphics.fillOval(g, e.t, 0, 0, MP.carLength, VP.elementWidth);
 			}
 			g.setColor(Color.BLACK);
@@ -109,16 +105,5 @@ public class SwingAnimatorBuilder implements AnimatorBuilder {
 		}
 	}
 
-
-	@Override
-	public void addHorizontalRoad(Road l, int i, int j, boolean eastToWest, Light backwardLight, Light forwardLight) {
-		// TODO Auto-generated method stub
-		
-	}
-	@Override
-	public void addVerticalRoad(Road l, int i, int j, boolean southToNorth, Light backwardLight, Light forwardLight) {
-		// TODO Auto-generated method stub
-		
-	}
 }
 

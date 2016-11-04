@@ -17,6 +17,7 @@ public class Model extends Observable {
 	private double time;
 	private RoadController rc;
 	private static Model instance;
+	private IntersectionManager im;
 
 	/** Creates a model to be visualized using the <code>builder</code>.
 	 *  If the builder is null, no visualization is performed.
@@ -82,6 +83,7 @@ public class Model extends Observable {
 			}
 			super.setChanged();
 			super.notifyObservers();
+			im.update(time);
 		}
 	}
 
@@ -96,7 +98,8 @@ public class Model extends Observable {
 	/**
 	 * Construct the model, establishing correspondences with the visualizer.
 	 */
-	private void setup(AnimatorBuilder builder, int rows, int columns) {
+	private void setup(AnimatorBuilder builder, int rows, int columns)
+	{
 		List<Road> hRoads = new ArrayList<Road>();
 		List<Road> vRoads = new ArrayList<Road>();
 		Light[][] intersections = new Light[rows][columns];
@@ -104,22 +107,27 @@ public class Model extends Observable {
 		Light forwardLight;// = intersections[0][0];
 
 		// Add Lights
-		for (int i=0; i<rows; i++) {
-			for (int j=0; j<columns; j++) {
+		for (int i=0; i<rows; i++)
+		{
+			for (int j=0; j<columns; j++)
+			{
 				intersections[i][j] = new Light();
 				builder.addLight(intersections[i][j], i, j);
 				agents.add(intersections[i][j]);
 			}
 		}
+		
+		//Setup Intersection Manager
+		im = new IntersectionManager(intersections);
 
 		// Add Horizontal Roads
 		boolean eastToWest = false;
 		for (int i=0; i<rows; i++) {
 			for (int j=0; j<=columns; j++) {
 				backwardLight = null;
-				//if (i-1 >= 0) backwardLight = intersections[i-1][j];
+//				if (i-1 > 0) backwardLight = intersections[i-1][j];
 				forwardLight = null;
-				//if (i < rows && i > 0) forwardLight = intersections[i][j];
+//				if (i < rows && i > 0) forwardLight = intersections[i][j];
 				Road l = new Road();
 				builder.addHorizontalRoad(l, i, j, eastToWest, backwardLight, forwardLight);
 				hRoads.add(l);
@@ -132,9 +140,9 @@ public class Model extends Observable {
 		for (int j=0; j<columns; j++) {
 			for (int i=0; i<=rows; i++) {
 				backwardLight = null;
-				//if (j-1 >=0) backwardLight = intersections[i][j-1];
+//				if (j-1 > 0) backwardLight = intersections[i][j-1];
 				forwardLight = null;
-				//if (j < columns && j > 0) forwardLight = intersections[i][j];
+//				if (j < columns && j > 0) forwardLight = intersections[i][j];
 				Road l = new Road();
 				builder.addVerticalRoad(l, i, j, southToNorth, backwardLight, forwardLight);
 				vRoads.add(l);

@@ -36,3 +36,41 @@ We’ve already talked about the Static Factory pattern, and it has a couple of 
 When you have two related objects (like a collection and it’s iterator), you might want the first object to be in charge of creating the specific second object (ArrayList creates an ArrayListIterator)
 
 Static factory can’t handle this situation without the client being aware of its type
+
+Example:
+
+```java
+public class ArrayList {
+
+}
+
+public class LinkedList {
+
+}
+
+public class ArrayListIterator : IIterator {
+
+}
+
+public class LinkedListIterator : IIterator {
+
+}
+```
+
+***
+
+##Abstract Factory
+
+Sometimes there might be a whole suite of related classes, that each need factories
+
+In this case, use an Abstract Factory:
+
+```java
+public interface ICarFactory {
+    IEngine CreateEngine();
+    ICarBody CreateCarBody();
+    IWheels CreateWheels();
+}
+```
+
+
