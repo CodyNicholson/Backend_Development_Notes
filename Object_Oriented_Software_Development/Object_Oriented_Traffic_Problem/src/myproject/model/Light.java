@@ -10,19 +10,29 @@ public class Light implements Agent {
 	Light() { } // Created only by this package
 	
 	private ArrayList<Car> observers = new ArrayList<>();
-	private Color c = Color.green;
+	private Color clr = Color.green;
 	
-	private void notifyCars(double time)
+	public void notifyAllCars(double time, Light li)
 	{
 		for(Car c : observers)
 		{
-			c.notifyCar(time);
+			c.notifyCar(time, this);
 		}
+	}
+	
+	public void subscribeCar(Car c)
+	{
+		observers.add(c);
+	}
+	
+	public void unsubscribeCar(Car c)
+	{
+		observers.remove(c);
 	}
 
 	public Color getColor()
 	{
-		return c;
+		return clr;
 	}
 	
 	public void addObservingCar(Car c)
@@ -34,12 +44,13 @@ public class Light implements Agent {
 	{
 		if (time%40==0) // replace conditional
 		{
-			notifyCars(time);
+			notifyAllCars(time, this);
 		}
 	}
 
-	public void setColor(Color color) {
-		c = color;
+	public void setColor(Color color, double time, Light li) {
+		clr = color;
+		notifyAllCars(time, this);
 	}
 }
 

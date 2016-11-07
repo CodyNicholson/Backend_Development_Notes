@@ -1,7 +1,5 @@
 package myproject.model;
 
-import java.util.List;
-
 public class IntersectionManager
 {
 	
@@ -30,7 +28,7 @@ public class IntersectionManager
 		{
 			for(int j = 0; j < lights[i].length; j++)
 			{
-				lights[i][j].setColor(this.state.getColor());
+				lights[i][j].setColor(this.state.getColor(), time, lights[i][j]);
 			}
 		}
 	}

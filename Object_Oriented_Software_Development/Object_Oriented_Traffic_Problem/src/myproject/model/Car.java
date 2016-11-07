@@ -1,18 +1,22 @@
 package myproject.model;
 
+import java.awt.Color;
+
 /**
  * A car remembers its position from the beginning of its road.
  * Cars have random velocity and random movement pattern:
  * when reaching the end of a road, the dot either resets its position
  * to the beginning of the road, or reverses its direction.
  */
-public class Car implements Agent {
+public class Car implements Agent, LightObserver{
 
 	private double position = 0;
 	private double velocity = (int) Math.ceil(Math.random() * MP.maxVelocity);
 	private java.awt.Color color = new java.awt.Color((int)Math.ceil(Math.random()*255),(int)Math.ceil(Math.random()*255),(int)Math.ceil(Math.random()*255));
 	private Direction dir = Direction.horizontal; // horizontal is true, vertical is false
 	private int roadIndex = 0;
+	private int brakeDistance = 5;
+	private int stopDistance = 0;
 	
 	public Car(Direction dir, int rIndex)
 	{
@@ -47,20 +51,33 @@ public class Car implements Agent {
 	{
 		this.roadIndex = i;
 	}
-	
-	public void notifyCar(double time)
+
+	@Override
+	public void notifyCar(double time, Light l)
 	{
-		run(time);
+		//Implementation for car based on light state
+		if(l.getColor() == Color.red)
+		{
+			this.velocity = 0;
+		}
+		else if(l.getColor() == Color.yellow)
+		{
+			this.velocity = 0;
+		}
+		else if(this.velocity == 0)
+		{
+			this.velocity = (int) Math.ceil(Math.random() * MP.maxVelocity);
+		}
+		else
+		{
+			//Do nothing, the light is green
+		}
 	}
 	
 	public void run(double time)
 	{
 		if ((position + velocity) > (MP.roadLength-MP.carLength))
 		{
-//			if(Light.)
-//			{
-//				
-//			}
 			CarVisitor cv = new CarVisitor(this);
 			Model.getModel().visitRoadController(cv);
 		}
