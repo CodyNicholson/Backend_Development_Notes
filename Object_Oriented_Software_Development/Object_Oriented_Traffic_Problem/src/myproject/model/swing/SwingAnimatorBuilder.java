@@ -84,7 +84,7 @@ public class SwingAnimatorBuilder implements AnimatorBuilder {
 			// This method is called by the swing thread, so may be called
 			// at any time during execution...
 
-			// First draw the background elements
+			// First draw the background elements vaiarrm
 			for (Element<Light> e : lightElements) {
 				g.setColor(e.x.getColor());
 				XGraphics.fillOval(g, e.t, 0, 0, MP.carLength, VP.elementWidth);

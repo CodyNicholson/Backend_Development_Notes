@@ -125,9 +125,7 @@ public class Model extends Observable {
 		for (int i=0; i<rows; i++) {
 			for (int j=0; j<=columns; j++) {
 				backwardLight = null;
-//				if (i-1 > 0) backwardLight = intersections[i-1][j];
 				forwardLight = null;
-//				if (i < rows && i > 0) forwardLight = intersections[i][j];
 				Road l = new Road();
 				builder.addHorizontalRoad(l, i, j, eastToWest, backwardLight, forwardLight);
 				hRoads.add(l);
@@ -140,9 +138,7 @@ public class Model extends Observable {
 		for (int j=0; j<columns; j++) {
 			for (int i=0; i<=rows; i++) {
 				backwardLight = null;
-//				if (j-1 > 0) backwardLight = intersections[i][j-1];
 				forwardLight = null;
-//				if (j < columns && j > 0) forwardLight = intersections[i][j];
 				Road l = new Road();
 				builder.addVerticalRoad(l, i, j, southToNorth, backwardLight, forwardLight);
 				vRoads.add(l);
@@ -152,16 +148,19 @@ public class Model extends Observable {
 
 		// Add Horizontal Cars
 		for (int l = 0; l < hRoads.size(); l++) {
-			Car car = new Car(Direction.horizontal, l);
+//			CarFactory cf = new CarFactory();
+			Car car = CarFactory.createCar(Direction.horizontal, l);
 			agents.add(car);
 			hRoads.get(l).accept(car);
 		}
 		
 		// Add Vertical Cars
 		for (int l = 0; l < vRoads.size(); l++) {
-			Car car = new Car(Direction.vertical, l);
+//			Car car = new Car(Direction.vertical, l);
+			Car car = CarFactory.createCar(Direction.vertical, l);
 			agents.add(car);
 			vRoads.get(l).accept(car);
+			
 		}
 		
 		rc = new RoadController(hRoads, vRoads);

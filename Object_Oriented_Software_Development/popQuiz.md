@@ -367,3 +367,83 @@ Adapter Pattern
                                               delagates
 Client ---- > <<Interface>> <| - - - - Adapter ------> Adaptee
 ```
+
+***
+
+##Pop Quiz 10/8
+
+###What are default values for uninitialized variables?
+
+For booleans: **False**
+
+For numbers: **0**
+
+***
+
+###What keyword do you use to call into the parent class of a subclass?
+
+**Super**
+
+***
+
+###When does the garbage collecter run and what does it do?
+
+**Frees up memory from objects that have no other refference**
+
+***
+
+###Which three conditions should be met when implementing a clone method?
+
+**x.clone() != x**
+
+**x.clone().getClass() == x.getClass()**
+
+**x.clone().equals(x) == true**
+
+***
+
+###What is the difference between cloning and deep copying?
+
+
+
+***
+
+###Define the Singleton Pattern
+
+Creating objects that only ever have one instance
+
+***
+
+###Describe the three ways of interfacing with a Singleton object
+
+
+
+***
+
+###A class intended to be used as a Singleton should have a clone method (T/F)
+
+**False**
+
+***
+
+###A class intended to be a Singleton should have a public constructor (T/F)
+
+**False**
+
+***
+
+###When you have two related classes and you want to delegate responsibility pattern it should use?
+
+**Factory Method**
+
+***
+
+###When you have a whole suite of related objects, which pattern would you use to create that suite of related objects?
+
+**Abstract Factory**
+
+***
+
+###What pattern would you use if you want to reduce your memory foot print and all your objects of a certain type will have values that will be shared among all instances?
+
+**Flyweight**
