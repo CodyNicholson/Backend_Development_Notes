@@ -148,7 +148,6 @@ public class Model extends Observable {
 
 		// Add Horizontal Cars
 		for (int l = 0; l < hRoads.size(); l++) {
-//			CarFactory cf = new CarFactory();
 			Car car = CarFactory.createCar(Direction.horizontal, l);
 			agents.add(car);
 			hRoads.get(l).accept(car);
@@ -156,7 +155,6 @@ public class Model extends Observable {
 		
 		// Add Vertical Cars
 		for (int l = 0; l < vRoads.size(); l++) {
-//			Car car = new Car(Direction.vertical, l);
 			Car car = CarFactory.createCar(Direction.vertical, l);
 			agents.add(car);
 			vRoads.get(l).accept(car);
