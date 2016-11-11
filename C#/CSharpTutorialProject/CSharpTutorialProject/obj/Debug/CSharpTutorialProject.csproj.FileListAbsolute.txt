@@ -1,1 +1,0 @@
-C:\Users\Cody\OneDrive\GitHub\Software_Development\C#\CSharpTutorialProject\CSharpTutorialProject\bin\Debug\CSharpTutorialProject.exe.config
