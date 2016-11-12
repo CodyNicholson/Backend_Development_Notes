@@ -18,7 +18,6 @@ public class Main {
 		UI ui = null;
 		ModelParameters modelParams = new ModelParameters();
 		ui = new myproject.ui.PopupUI();
-
 		Control control = new Control(modelParams, ui);
 		control.run();
 		

@@ -11,12 +11,12 @@ import java.awt.Color;
 public class Car implements Agent, LightObserver{
 
 	private double position = 0;
-	private double velocity = (int) Math.ceil(Math.random() * MP.maxVelocity);
+	private double velocity = (int) (Math.random() * (ModelParameters.carVelocityMin - ModelParameters.carVelocityMax) + ModelParameters.carVelocityMin);
 	private java.awt.Color color = new java.awt.Color((int)Math.ceil(Math.random()*255),(int)Math.ceil(Math.random()*255),(int)Math.ceil(Math.random()*255));
 	private Direction dir = Direction.horizontal; // horizontal is true, vertical is false
 	private int roadIndex = 0;
-	private int brakeDistance = 5;
-	private int stopDistance = 0;
+	private int brakeDistance =  (int) (Math.random() * (ModelParameters.carStopDistanceMin - ModelParameters.carStopDistanceMax) + ModelParameters.carStopDistanceMin);
+	private int stopDistance = (int) (Math.random() * (ModelParameters.carBrakeDistanceMin - ModelParameters.carBrakeDistanceMax) + ModelParameters.carBrakeDistanceMin);
 	
 	public Car(Direction dir, int rIndex)
 	{

@@ -62,7 +62,30 @@ class Control {
 		m.add("Show All Values", 
 				() ->{
 					UIFormBuilder f = new UIFormBuilder();
-					f.add("Simulation Time Steps " + modelParams.simTimeStep, stringTest);
+					f.add("Simulation Time Steps " + modelParams.simTimeStep + 
+							"\nSimulation Runtime " + modelParams.simRuntime +
+							"\nGrid Rows " + modelParams.gridRow +
+							"\nGrid Columns " + modelParams.gridColumn +
+							"\nTraffic Pattern " + modelParams.p +
+							"\nCar Generation Delay Min " + modelParams.carGenerationDelayMin +
+							"\nCar Generation Delay Max " + modelParams.carGenerationDelayMax +
+							"\nRoad Segment Length Min " + modelParams.roadLengthMin +
+							"\nRoad Segment Length Max " + modelParams.roadLengthMax +
+							"\nIntersection Length Min " + modelParams.intersectionMin +
+							"\nIntersection Length Max " + modelParams.intersectionMax +
+							"\nCar Length Min " + modelParams.carLenMin +
+							"\nCar Length Max " + modelParams.carLenMax +
+							"\nCar Velocity Min " + modelParams.carVelocityMin +
+							"\nCar Velocity Max " + modelParams.carVelocityMax +
+							"\nCar Stopping Distance Min " + modelParams.carStopDistanceMin +
+							"\nCar Stopping Distance Max " + modelParams.carStopDistanceMax +
+							"\nCar Braking Distance Min " + modelParams.carBrakeDistanceMin +
+							"\nCar Braking Distance Max " + modelParams.carBrakeDistanceMax +
+							"\nGreen Light Duration Min " + modelParams.greenLightLenMin +
+							"\nGreen Light Duration Max " + modelParams.greenLightLenMax +
+							"\nYellow Light Duration Min " + modelParams.yellowLightLenMin +
+							"\nYellow Light Duration Max " + modelParams.yellowLightLenMax, stringTest);
+					
 					UIForm form = f.toUIForm("");
 					ui.processForm(form);
 				});
@@ -98,13 +121,13 @@ class Control {
 					f.add("Traffic Pattern:", numberTest);
 					UIForm form = f.toUIForm("Traffic Pattern 1 = Simple, 2 = Alternating:");
 					String[] vals = ui.processForm(form);
-					if(vals[0].equals("1"))
+					if(vals[0].equals("2"))
 					{
-						modelParams.p = GridPattern.simple;
+						modelParams.p = GridPattern.alternating;
 					}
 					else
 					{
-						modelParams.p = GridPattern.alternating;
+						modelParams.p = GridPattern.simple;
 					}
 				});
 		m.add("Car Generation Delay:",
@@ -140,32 +163,62 @@ class Control {
 		m.add("Car Length:",
 				() -> {
 					UIFormBuilder f = new UIFormBuilder();
-					f.add("Road Segment Length Min:", numberTest);
-					f.add("Road Segment Length Max:", numberTest);
-					UIForm form = f.toUIForm("Enter Road Length Min and Max Values:");
+					f.add("Car Length Min:", numberTest);
+					f.add("Car Length Max:", numberTest);
+					UIForm form = f.toUIForm("Enter Car Length Min and Max Values:");
 					String[] vals = ui.processForm(form);
-					modelParams.roadLengthMin = Integer.parseInt(vals[0]);
-					modelParams.roadLengthMax = Integer.parseInt(vals[1]);
+					modelParams.carLenMin = Integer.parseInt(vals[0]);
+					modelParams.carLenMax = Integer.parseInt(vals[1]);
 				});
-		m.add("Car Maximum Velocity:",
+		m.add("Car Velocity:",
 				() -> {
-					
+					UIFormBuilder f = new UIFormBuilder();
+					f.add("Car Velocity Min:", numberTest);
+					f.add("Car Velocity Max:", numberTest);
+					UIForm form = f.toUIForm("Enter Car Velocity Min and Max Values:");
+					String[] vals = ui.processForm(form);
+					modelParams.carVelocityMin = Integer.parseInt(vals[0]);
+					modelParams.carVelocityMax = Integer.parseInt(vals[1]);
 				});
-		m.add("Car Stop Distance:",
+		m.add("Car Stopping Distance:",
 				() -> {
-					
+					UIFormBuilder f = new UIFormBuilder();
+					f.add("Car Stopping Distance Min:", numberTest);
+					f.add("Car Stopping Distance Max:", numberTest);
+					UIForm form = f.toUIForm("Enter Car Stopping Distance Min and Max Values:");
+					String[] vals = ui.processForm(form);
+					modelParams.carStopDistanceMin = Integer.parseInt(vals[0]);
+					modelParams.carStopDistanceMax = Integer.parseInt(vals[1]);
 				});
-		m.add("Car Brake Distance:",
+		m.add("Car Braking Distance:",
 				() -> {
-					
+					UIFormBuilder f = new UIFormBuilder();
+					f.add("Car Braking Distance Min:", numberTest);
+					f.add("Car Braking Distance Max:", numberTest);
+					UIForm form = f.toUIForm("Enter Car Braking Distance Min and Max Values:");
+					String[] vals = ui.processForm(form);
+					modelParams.carBrakeDistanceMin = Integer.parseInt(vals[0]);
+					modelParams.carBrakeDistanceMax = Integer.parseInt(vals[1]);
 				});
 		m.add("Green Light Duration:",
 				() -> {
-					
+					UIFormBuilder f = new UIFormBuilder();
+					f.add("Green Light Duration Min:", numberTest);
+					f.add("Green Light Duration Max:", numberTest);
+					UIForm form = f.toUIForm("Enter Green Light Duration Min and Max Values:");
+					String[] vals = ui.processForm(form);
+					modelParams.greenLightLenMin = Integer.parseInt(vals[0]);
+					modelParams.greenLightLenMax = Integer.parseInt(vals[1]);
 				});
 		m.add("Yellow Light Duration:",
 				() -> {
-					
+					UIFormBuilder f = new UIFormBuilder();
+					f.add("Yellow Light Duration Min:", numberTest);
+					f.add("Yellow Light Duration Max:", numberTest);
+					UIForm form = f.toUIForm("Enter Yellow Light Duration Min and Max Values:");
+					String[] vals = ui.processForm(form);
+					modelParams.yellowLightLenMin = Integer.parseInt(vals[0]);
+					modelParams.yellowLightLenMax = Integer.parseInt(vals[1]);
 				});
 		m.add("Exit",
 				() -> state = EXIT);
