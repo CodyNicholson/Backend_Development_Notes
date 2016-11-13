@@ -71,8 +71,7 @@ class Control {
 				() -> ui.displayError("You cannot leave."));
 		m.add("Show All Values", 
 				() ->{
-					UIFormBuilder f = new UIFormBuilder();//Change to UI display error
-					f.add("Simulation Time Steps: " + modelParams.simTimeStep + 
+					ui.displayMessage("Simulation Time Steps: " + modelParams.simTimeStep + 
 							"\nSimulation Runtime: " + modelParams.simRuntime +
 							"\nGrid Rows: " + modelParams.gridRow +
 							"\nGrid Columns: " + modelParams.gridColumn +
@@ -94,11 +93,7 @@ class Control {
 							"\nGreen Light Duration Min: " + ModelParameters.greenLightLenMin +
 							"\nGreen Light Duration Max: " + ModelParameters.greenLightLenMax +
 							"\nYellow Light Duration Min: " + ModelParameters.yellowLightLenMin +
-							"\nYellow Light Duration Max: " + ModelParameters.yellowLightLenMax +
-							"\n\nType any character and click Enter to return to the previous menu", stringTest);
-					
-					UIForm form = f.toUIForm("");
-					ui.processForm(form);
+							"\nYellow Light Duration Max: " + ModelParameters.yellowLightLenMax);
 				});
 		m.add("Simulation time step (seconds):",
 				() ->{
