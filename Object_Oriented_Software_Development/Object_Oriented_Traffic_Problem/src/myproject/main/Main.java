@@ -4,7 +4,6 @@ import myproject.main.Control;
 import myproject.model.Model;
 import myproject.model.ModelParameters;
 import myproject.model.swing.SwingAnimatorBuilder;
-import myproject.model.text.TextAnimatorBuilder;
 import myproject.ui.UI;
 
 /**
@@ -20,7 +19,6 @@ public class Main {
 		ui = new myproject.ui.PopupUI();
 		Control control = new Control(modelParams, ui);
 		control.run();
-		
 		{
 			Model m = new Model(new SwingAnimatorBuilder(), modelParams.gridRow, modelParams.gridColumn);
 			m.run(modelParams.simRuntime);
@@ -29,4 +27,3 @@ public class Main {
 		System.exit(0);
 	}
 }
-
