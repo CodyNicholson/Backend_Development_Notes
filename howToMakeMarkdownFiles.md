@@ -308,4 +308,4 @@ With a link to your image passed as the parameter
 
 Real Example:
 
-![alt tag](https://github.com/Cody-Nicholson96/Cody-Nicholson96.github.io/blob/master/images/chicagoSkyline.jpg)
+![alt tag](https://github.com/CodyNicholson/CodyNicholson.github.io/blob/master/images/topBanner.jpg)
