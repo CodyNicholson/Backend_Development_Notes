@@ -301,7 +301,7 @@ You will notice if you look at the source code for this document, I use a lot of
 You can add an image by using this syntax:
 
 ```
-![alt tag](https://github.com/Cody-Nicholson96/Cody-Nicholson96.github.io/blob/master/images/chicagoSkyline.jpg)
+![alt tag](https://github.com/CodyNicholson/CodyNicholson.github.io/blob/master/images/topBanner.jpg)
 ```
 
 With a link to your image passed as the parameter
