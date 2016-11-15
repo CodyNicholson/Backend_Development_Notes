@@ -122,28 +122,66 @@ public class Model extends Observable {
 
 		// Add Horizontal Roads
 		boolean eastToWest = false;
-		for (int i=0; i<rows; i++) {
-			for (int j=0; j<=columns; j++) {
-				backwardLight = null;
-				forwardLight = null;
-				Road l = new Road();
-				builder.addHorizontalRoad(l, i, j, eastToWest, backwardLight, forwardLight);
-				hRoads.add(l);
+		for (int i=0; i<rows; i++)
+		{
+			if(!eastToWest)
+			{
+				for (int j=0; j<=columns; j++)
+				{
+					backwardLight = null;
+					forwardLight = null;
+					Road l = new Road();
+					builder.addHorizontalRoad(l, i, j, eastToWest, backwardLight, forwardLight);
+					hRoads.add(l);
+				}
 			}
-			eastToWest = !eastToWest;
+			
+			if(eastToWest)	
+			{
+				for (int j=columns; j >= 0; j--)
+				{
+					backwardLight = null;
+					forwardLight = null;
+					Road l = new Road();
+					builder.addHorizontalRoad(l, i, j, eastToWest, backwardLight, forwardLight);
+					hRoads.add(l);
+				}
+			}
+			
+			if(ModelParameters.p == GridPattern.alternating)
+				eastToWest = !eastToWest;
 		}
 
 		// Add Vertical Roads
 		boolean southToNorth = false;
-		for (int j=0; j<columns; j++) {
-			for (int i=0; i<=rows; i++) {
-				backwardLight = null;
-				forwardLight = null;
-				Road l = new Road();
-				builder.addVerticalRoad(l, i, j, southToNorth, backwardLight, forwardLight);
-				vRoads.add(l);
+		for (int j=0; j<columns; j++)
+		{
+			if(!southToNorth)
+			{
+				for (int i=0; i <= rows; i++)
+				{
+					backwardLight = null;
+					forwardLight = null;
+					Road l = new Road();
+					builder.addVerticalRoad(l, i, j, southToNorth, backwardLight, forwardLight);
+					vRoads.add(l);
+				}
 			}
-			southToNorth = !southToNorth;
+			
+			if(southToNorth)
+			{
+				for (int i=rows; i >= 0; i--)
+				{
+					backwardLight = null;
+					forwardLight = null;
+					Road l = new Road();
+					builder.addVerticalRoad(l, i, j, southToNorth, backwardLight, forwardLight);
+					vRoads.add(l);
+				}
+			}
+			
+			if(ModelParameters.p == GridPattern.alternating)
+				southToNorth = !southToNorth;
 		}
 
 		// Add Horizontal Cars

@@ -13,7 +13,7 @@ public class LStateRedNSYellowEW implements LightState
 	}
 	
 	@Override
-	public void handle(IntersectionManager context, double time)
+	public void handle(Light context, double time)
 	{
 		if(time >= switchTime)
 		{

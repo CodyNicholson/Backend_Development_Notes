@@ -4,9 +4,9 @@ public class ModelParameters
 {
 	public double simTimeStep = 0.1;
 	public double simRuntime = 1000.0;
-	public int gridRow = 2;
-	public int gridColumn = 3;
-	public GridPattern p = GridPattern.simple;
+	public static int gridRow = 2;
+	public static int gridColumn = 3;
+	public static GridPattern p = GridPattern.alternating;
 	public static double carGenerationDelayMin = 2.0;
 	public static double carGenerationDelayMax = 25.0;
 	public static double roadLengthMin = 250.0;
@@ -21,8 +21,8 @@ public class ModelParameters
 	public static double carStopDistanceMax = 5.0;
 	public static double carBrakeDistanceMin = 9.0;
 	public static double carBrakeDistanceMax = 10.0;
-	public static double greenLightLenMin = 30.0;
-	public static double greenLightLenMax = 180.0;
-	public static double yellowLightLenMin = 4.0;
-	public static double yellowLightLenMax = 5.0;
+	public static double greenLightLenMin = 120.0;
+	public static double greenLightLenMax = 200.0;
+	public static double yellowLightLenMin = 35.0;
+	public static double yellowLightLenMax = 50.0;
 }

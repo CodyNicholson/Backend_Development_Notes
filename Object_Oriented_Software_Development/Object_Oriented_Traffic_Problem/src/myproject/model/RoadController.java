@@ -67,4 +67,18 @@ public class RoadController
 			currentRoad.remove(c);
 		}
 	}
+	
+	public boolean moveOrDeleteCar(Car c)
+	{
+		if((c.getDirection() == Direction.horizontal) && (c.getRoadIndex()%ModelParameters.gridColumn+1 == 0))
+		{
+			//removeCar(c, ModelParameters.gridRow-1, Direction.horizontal);
+			return false;
+		}
+		if((c.getDirection() == Direction.vertical) && (c.getRoadIndex()%ModelParameters.gridColumn+1 == 0))
+		{
+			return false;
+		}
+		return true;
+	}
 }
