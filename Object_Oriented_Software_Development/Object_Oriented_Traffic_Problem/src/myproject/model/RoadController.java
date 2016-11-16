@@ -30,12 +30,9 @@ public class RoadController
 	
 	public void addCar(Car c, int roadIndex, Direction dir)
 	{
+//		roadIndex = 1;
 		if(dir == Direction.horizontal)
 		{
-			if(roadIndex >= hRoadList.size())
-			{
-				roadIndex = 0;
-			}
 			Road currentRoad = getHRoad(roadIndex);
 			currentRoad.accept(c);
 			c.setRoadIndex(roadIndex);
@@ -70,12 +67,12 @@ public class RoadController
 	
 	public boolean moveOrDeleteCar(Car c)
 	{
-		if((c.getDirection() == Direction.horizontal) && (c.getRoadIndex()%ModelParameters.gridColumn+1 == 0))
+		if((c.getDirection() == Direction.horizontal) && (c.getRoadIndex()%ModelParameters.gridColumn+1 == ModelParameters.gridColumn))
 		{
 			//removeCar(c, ModelParameters.gridRow-1, Direction.horizontal);
 			return false;
 		}
-		if((c.getDirection() == Direction.vertical) && (c.getRoadIndex()%ModelParameters.gridColumn+1 == 0))
+		if((c.getDirection() == Direction.vertical) && (c.getRoadIndex()%ModelParameters.gridRow+1 == ModelParameters.gridRow))
 		{
 			return false;
 		}

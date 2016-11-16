@@ -404,7 +404,7 @@ For numbers: **0**
 
 ###What is the difference between cloning and deep copying?
 
-
+**Cloning is a shallow copy, a deep copy is where you are not just copying this object, you are also copying the child objects**
 
 ***
 
@@ -416,7 +416,11 @@ Creating objects that only ever have one instance
 
 ###Describe the three ways of interfacing with a Singleton object
 
+**A private static variable where you limit access to certain methods on static variable**
 
+**A public static read-only variable**
+
+**Lazy loaded - where the instance is loaded on the first access attempt**
 
 ***
 
@@ -447,3 +451,47 @@ Creating objects that only ever have one instance
 ###What pattern would you use if you want to reduce your memory foot print and all your objects of a certain type will have values that will be shared among all instances?
 
 **Flyweight**
+
+***
+
+##Pop Quiz 11/15
+
+###What is an abstract class?
+
+**An interface that can have functionality in it**
+
+***
+
+###When would you pick an abstract class over an interface?
+
+**When you want to share code between the subclasses of that abstract class**
+
+***
+
+###What keyword would you use to disallow any subquery of a class? It is the same kayword to mark something as read-only
+
+**Final**
+
+***
+
+###What is the difference between overriding and hiding?
+
+**Overriding is when you have a method in a parent class , and hiding is when you have a parent scope and a child scope for your variable (NEVER USE HIDING)**
+
+***
+
+###What is the difference between overriding and overloading?
+
+**Overloading is when you have the same method signature (name and return type) but different parameters/arguments
+
+***
+
+###What is the Template Method Pattern?
+
+**When you have an abstract class with a concete method that calls an abstract method from within the concrete method**
+
+***
+
+###When would you use the Template Method Pattern? (In place of strategy)
+
+**When you have code you need to share between classes or if I want to add a state to the concrete classes**

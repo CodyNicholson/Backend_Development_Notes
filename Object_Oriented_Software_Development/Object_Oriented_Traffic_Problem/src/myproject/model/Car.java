@@ -83,4 +83,6 @@ public class Car implements Agent, LightObserver{
 		}
 		position += velocity;
 	}
+	
+	// Make a carAccept interface to provide an accept method for the different things that need to accept the car (Roads, intersections, sink)
 }

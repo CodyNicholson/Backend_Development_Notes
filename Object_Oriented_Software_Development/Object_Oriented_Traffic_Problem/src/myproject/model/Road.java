@@ -6,7 +6,7 @@ import java.util.ArrayList;
 /**
  * A road holds cars.
  */
-public class Road
+public class Road implements CarAccepter 
 {
 	Road() { } // Created only by this package
 	

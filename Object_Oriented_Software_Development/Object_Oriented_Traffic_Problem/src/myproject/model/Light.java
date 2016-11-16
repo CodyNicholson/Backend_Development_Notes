@@ -2,11 +2,12 @@ package myproject.model;
 
 import java.awt.Color;
 import java.util.ArrayList;
+import java.util.List;
 
 /**
  * A light has a boolean state.
  */
-public class Light implements Agent
+public class Light implements Agent, CarAccepter
 {	
 	private ArrayList<Car> observers = new ArrayList<>();
 	private Color clr = Color.green;
@@ -15,6 +16,7 @@ public class Light implements Agent
 	private LStateYellowNSRedEW NSyellowEWred;
 	private LStateRedNSGreenEW NSredEWgreen;
 	private LStateRedNSYellowEW NSredEWyellow;
+	private List<Car> cars;
 	
 	public Light()
 	{
@@ -106,6 +108,18 @@ public class Light implements Agent
 		this.state.setSwitchTime(time);
 		clr = this.state.getColor();
 		notifyAllCars(time, this);
+	}
+
+	@Override
+	public void accept(Car c) {
+		if (c == null) { throw new IllegalArgumentException(); }
+		cars.add(c);
+	}
+
+	@Override
+	public void remove(Car c) {
+		if (c == null) { throw new IllegalArgumentException(); }
+		cars.remove(c);
 	}
 }
 

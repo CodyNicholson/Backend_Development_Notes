@@ -20,7 +20,7 @@ public class Main {
 		Control control = new Control(modelParams, ui);
 		control.run();
 		{
-			Model m = new Model(new SwingAnimatorBuilder(), modelParams.gridRow, modelParams.gridColumn);
+			Model m = new Model(new SwingAnimatorBuilder(), ModelParameters.gridRow, ModelParameters.gridColumn);
 			m.run(modelParams.simRuntime);
 			m.dispose();
 		}

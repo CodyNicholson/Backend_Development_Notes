@@ -94,6 +94,11 @@ public class Model extends Observable {
 		animator.dispose();
 		disposed = true;
 	}
+	
+	public void removeAgent(Agent x)
+	{
+		agents.remove(x);
+	}
 
 	/**
 	 * Construct the model, establishing correspondences with the visualizer.
@@ -134,6 +139,7 @@ public class Model extends Observable {
 					builder.addHorizontalRoad(l, i, j, eastToWest, backwardLight, forwardLight);
 					hRoads.add(l);
 				}
+				hRoads.add(new Sink());
 			}
 			
 			if(eastToWest)	
@@ -146,6 +152,7 @@ public class Model extends Observable {
 					builder.addHorizontalRoad(l, i, j, eastToWest, backwardLight, forwardLight);
 					hRoads.add(l);
 				}
+				hRoads.add(new Sink());
 			}
 			
 			if(ModelParameters.p == GridPattern.alternating)
@@ -166,6 +173,7 @@ public class Model extends Observable {
 					builder.addVerticalRoad(l, i, j, southToNorth, backwardLight, forwardLight);
 					vRoads.add(l);
 				}
+				vRoads.add(new Sink());
 			}
 			
 			if(southToNorth)
@@ -178,6 +186,7 @@ public class Model extends Observable {
 					builder.addVerticalRoad(l, i, j, southToNorth, backwardLight, forwardLight);
 					vRoads.add(l);
 				}
+				vRoads.add(new Sink());
 			}
 			
 			if(ModelParameters.p == GridPattern.alternating)

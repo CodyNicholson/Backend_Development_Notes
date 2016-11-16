@@ -39,7 +39,7 @@ class Control {
 				return false;
 			}
 		};
-		stringTest = input -> ! "".equals(input.trim());	
+		setStringTest(input -> ! "".equals(input.trim()));	
 		
 	}
 
@@ -73,9 +73,9 @@ class Control {
 				() ->{
 					ui.displayMessage("Simulation Time Steps: " + modelParams.simTimeStep + 
 							"\nSimulation Runtime: " + modelParams.simRuntime +
-							"\nGrid Rows: " + modelParams.gridRow +
-							"\nGrid Columns: " + modelParams.gridColumn +
-							"\nTraffic Pattern: " + modelParams.p +
+							"\nGrid Rows: " + ModelParameters.gridRow +
+							"\nGrid Columns: " + ModelParameters.gridColumn +
+							"\nTraffic Pattern: " + ModelParameters.p +
 							"\nCar Generation Delay Min: " + ModelParameters.carGenerationDelayMin +
 							"\nCar Generation Delay Max: " + ModelParameters.carGenerationDelayMax +
 							"\nRoad Segment Length Min: " + ModelParameters.roadLengthMin +
@@ -118,8 +118,8 @@ class Control {
 					f.add("Simulation Grid Columns", numberTest); //takes input
 					UIForm form = f.toUIForm("Enter Row and Column Value"); //Creates form to take input
 					String[] vals = ui.processForm(form); // Gets the output from the form
-					modelParams.gridRow = Integer.parseInt(vals[0]); // Stores rows in model params
-					modelParams.gridColumn = Integer.parseInt(vals[1]); // Stores columns in model params
+					ModelParameters.gridRow = Integer.parseInt(vals[0]); // Stores rows in model params
+					ModelParameters.gridColumn = Integer.parseInt(vals[1]); // Stores columns in model params
 				});
 		m.add("Traffic Pattern:",
 				() -> {
@@ -129,11 +129,11 @@ class Control {
 					String[] vals = ui.processForm(form);
 					if(vals[0].equals("2"))
 					{
-						modelParams.p = GridPattern.alternating;
+						ModelParameters.p = GridPattern.alternating;
 					}
 					else
 					{
-						modelParams.p = GridPattern.simple;
+						ModelParameters.p = GridPattern.simple;
 					}
 				});
 		m.add("Car Generation Delay:",
@@ -241,5 +241,13 @@ class Control {
 				() -> state = START);
 
 		menus[stateNum] = m.toUIMenu("Are you sure you want to exit?");
+	}
+
+	public UIFormTest getStringTest() {
+		return stringTest;
+	}
+
+	public void setStringTest(UIFormTest stringTest) {
+		this.stringTest = stringTest;
 	}
 }
