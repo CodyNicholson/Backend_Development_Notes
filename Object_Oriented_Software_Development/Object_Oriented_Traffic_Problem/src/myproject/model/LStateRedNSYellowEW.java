@@ -29,8 +29,20 @@ public class LStateRedNSYellowEW implements LightState
 	}
 
 	@Override
-	public Color getColor()
+	public Color getDrawColor()
 	{
 		return Color.YELLOW;
+	}
+	
+	@Override
+	public LightColor getLightColor(Car c) {
+		if(c.getDirection() == Direction.horizontal)
+		{
+			return LightColor.yellow;
+		}
+		else
+		{
+			return LightColor.red;
+		}
 	}
 }

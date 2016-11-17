@@ -67,7 +67,7 @@ public class TextAnimatorBuilder implements AnimatorBuilder {
 		public void update(Observable o, Object arg) {
 			for (Element<Light> e : lightElements) {
 				System.out.print("Light at (" + e.i + "," + e.j + "): ");
-				System.out.println(e.x.getColor());
+				System.out.println(e.x.getDrawColor());
 			}
 			for (Element<Road> e : roadElements) {
 				for (Car d : e.x.getCars()) {

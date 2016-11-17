@@ -15,8 +15,8 @@ public class Car implements Agent, LightObserver{
 	private java.awt.Color color = new java.awt.Color((int)Math.ceil(Math.random()*255),(int)Math.ceil(Math.random()*255),(int)Math.ceil(Math.random()*255));
 	private Direction dir = Direction.horizontal; // horizontal is true, vertical is false
 	private int roadIndex = 0;
-//	private int brakeDistance =  (int) (Math.random() * (ModelParameters.carStopDistanceMin - ModelParameters.carStopDistanceMax) + ModelParameters.carStopDistanceMin);
-//	private int stopDistance = (int) (Math.random() * (ModelParameters.carBrakeDistanceMin - ModelParameters.carBrakeDistanceMax) + ModelParameters.carBrakeDistanceMin);
+	private int brakeDistance =  (int) (Math.random() * (ModelParameters.carStopDistanceMin - ModelParameters.carStopDistanceMax) + ModelParameters.carStopDistanceMin);
+	private int stopDistance = (int) (Math.random() * (ModelParameters.carBrakeDistanceMin - ModelParameters.carBrakeDistanceMax) + ModelParameters.carBrakeDistanceMin);
 	
 	public Car(Direction dir, int rIndex)
 	{
@@ -56,11 +56,11 @@ public class Car implements Agent, LightObserver{
 	public void notifyCar(double time, Light l)
 	{
 		//Implementation for car based on light state
-		if(l.getColor() == Color.red)
+		if(l.getLightColor(this) == LightColor.red)
 		{
 			this.velocity = 0;
 		}
-		else if(l.getColor() == Color.yellow)
+		else if(l.getLightColor(this) == LightColor.yellow)
 		{
 			this.velocity = 0;
 		}

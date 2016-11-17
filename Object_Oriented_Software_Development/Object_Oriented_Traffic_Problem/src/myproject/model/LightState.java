@@ -6,5 +6,6 @@ public interface LightState
 {
 	public void handle(Light context, double time);
 	public void setSwitchTime(double time);
-	public Color getColor();
+	public Color getDrawColor();
+	public LightColor getLightColor(Car c);
 }

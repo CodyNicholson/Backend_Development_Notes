@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * A light has a boolean state.
  */
-public class Light implements Agent, CarAccepter
+public class Light implements Agent
 {	
 	private ArrayList<Car> observers = new ArrayList<>();
 	private Color clr = Color.green;
@@ -59,9 +59,14 @@ public class Light implements Agent, CarAccepter
 		observers.remove(c);
 	}
 
-	public Color getColor()
+	public Color getDrawColor()
 	{
 		return clr;
+	}
+	
+	public LightColor getLightColor(Car c)
+	{
+		return state.getLightColor(c);
 	}
 	
 	public void addObservingCar(Car c)
@@ -106,20 +111,8 @@ public class Light implements Agent, CarAccepter
 	{
 		this.state = s;
 		this.state.setSwitchTime(time);
-		clr = this.state.getColor();
+		clr = this.state.getDrawColor();
 		notifyAllCars(time, this);
-	}
-
-	@Override
-	public void accept(Car c) {
-		if (c == null) { throw new IllegalArgumentException(); }
-		cars.add(c);
-	}
-
-	@Override
-	public void remove(Car c) {
-		if (c == null) { throw new IllegalArgumentException(); }
-		cars.remove(c);
 	}
 }
 

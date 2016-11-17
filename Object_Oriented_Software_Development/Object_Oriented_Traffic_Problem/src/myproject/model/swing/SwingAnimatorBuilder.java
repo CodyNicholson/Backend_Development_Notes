@@ -86,7 +86,7 @@ public class SwingAnimatorBuilder implements AnimatorBuilder {
 
 			// First draw the background elements
 			for (Element<Light> e : lightElements) {
-				g.setColor(e.x.getColor());
+				g.setColor(e.x.getDrawColor());
 				XGraphics.fillOval(g, e.t, 0, 0, MP.carLength, VP.elementWidth);
 			}
 			g.setColor(Color.BLACK);
