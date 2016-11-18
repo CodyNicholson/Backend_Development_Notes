@@ -226,7 +226,7 @@ class Control {
 					ModelParameters.yellowLightLenMin = Integer.parseInt(vals[0]);
 					ModelParameters.yellowLightLenMax = Integer.parseInt(vals[1]);
 				});
-		m.add("Exit",
+		m.add("Return to Home Menu",
 				() -> startMenu(stateNum));
 		menus[stateNum] = m.toUIMenu("Simulator Parameters");
 	}

@@ -30,7 +30,6 @@ public class RoadController
 	
 	public void addCar(Car c, int roadIndex, Direction dir)
 	{
-//		roadIndex = 1;
 		if(dir == Direction.horizontal)
 		{
 			Road currentRoad = getHRoad(roadIndex);

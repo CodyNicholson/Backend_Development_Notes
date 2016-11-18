@@ -34,6 +34,8 @@ public class Road implements CarAccepter
 	
 	public void accept(Car d) {
 		if (d == null) { throw new IllegalArgumentException(); }
+		d.getState().setNextCar(getClosestCar());
+		d.getState().setNextLight(getForwardLight());
 		cars.add(d);
 		if(this.forwardLight != null)
 		{
@@ -52,6 +54,21 @@ public class Road implements CarAccepter
 	
 	public List<Car> getCars() {
 		return cars;
+	}
+	
+	public Car getClosestCar()
+	{
+		if(cars.isEmpty())
+			return null;
+		Car closestCar = cars.get(0);
+		for(int i = 1; i < cars.size(); i++)
+		{
+			if(cars.get(i).getPosition() < closestCar.getPosition())
+			{
+				closestCar = cars.get(i);
+			}
+		}
+		return closestCar;
 	}
 
 	public Light getForwardLight() {

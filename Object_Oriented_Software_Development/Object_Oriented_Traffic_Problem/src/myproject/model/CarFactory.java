@@ -2,15 +2,34 @@ package myproject.model;
 
 public class CarFactory
 {
-//	private double position = 0;
-//	private double velocity = (int) (Math.random() * (ModelParameters.carVelocityMin - ModelParameters.carVelocityMax) + ModelParameters.carVelocityMin);
-//	private java.awt.Color color = new java.awt.Color((int)Math.ceil(Math.random()*255),(int)Math.ceil(Math.random()*255),(int)Math.ceil(Math.random()*255));
-//	private Direction dir = Direction.horizontal; // horizontal is true, vertical is false
-//	private int roadIndex = 0;
+	private static double switchTime = -10;
 	
 	public static Car createCar(Direction dir, int rIndex)
 	{
 		Car c = new Car(dir, rIndex);
+		System.out.println("Velocity: " + c.getVelocity());
 		return c;
+	}
+	
+	public static void updateTimedCarSpawn(double time)
+	{
+		if(switchTime < 0)
+		{
+			switchTime = (Math.random() * (ModelParameters.carGenerationDelayMax - ModelParameters.carGenerationDelayMin) + ModelParameters.carGenerationDelayMin);
+		}
+		if(time > switchTime)
+		{
+			System.out.println(time+" "+switchTime);
+			if(Math.random() > 0.5)
+			{
+				Model.getModel().addCar(createCar(Direction.horizontal, 0));
+				switchTime = time + (Math.random() * (ModelParameters.carGenerationDelayMax - ModelParameters.carGenerationDelayMin) + ModelParameters.carGenerationDelayMin);
+			}
+			else
+			{
+				Model.getModel().addCar(createCar(Direction.vertical, 0));
+				switchTime = time + (Math.random() * (ModelParameters.carGenerationDelayMax - ModelParameters.carGenerationDelayMin) + ModelParameters.carGenerationDelayMin);
+			}
+		}
 	}
 }

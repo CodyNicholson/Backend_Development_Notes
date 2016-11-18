@@ -62,6 +62,17 @@ public class Model extends Observable {
 		return instance;
 	}
 	
+	public void addCar(Car c)
+	{
+		int roadIndex = 0;
+		if(c.getDirection() == Direction.horizontal)
+			roadIndex = (int) (Math.random() * (ModelParameters.gridRow));
+		else if(c.getDirection() == Direction.vertical)
+			roadIndex = (int) (Math.random() * (ModelParameters.gridColumn));
+		agents.add(c);
+		rc.addCar(c, roadIndex, c.getDirection());
+	}
+	
 	public void visitRoadController(Visitor v)
 	{
 		RoadControllerVisitor rcv = new RoadControllerVisitor(rc);
@@ -84,6 +95,7 @@ public class Model extends Observable {
 			super.setChanged();
 			super.notifyObservers();
 			im.update(time);
+			CarFactory.updateTimedCarSpawn(time);
 		}
 	}
 
@@ -108,6 +120,11 @@ public class Model extends Observable {
 		}
 		return lights[x][y];
 	}
+	
+	public void publicSetup(AnimatorBuilder builder, int rows, int columns)
+	{
+		setup(builder, rows, columns);
+	}
 
 	/**
 	 * Construct the model, establishing correspondences with the visualizer.
@@ -116,18 +133,22 @@ public class Model extends Observable {
 	{
 		List<Road> hRoads = new ArrayList<Road>();
 		List<Road> vRoads = new ArrayList<Road>();
-		Light[][] intersections = new Light[rows][columns];
+		Light[][] intersections = new Light[columns][rows];
 		Light backwardLight;// = intersections[0][0];
 		Light forwardLight;// = intersections[0][0];
 
 		// Add Lights
-		for (int i=0; i<rows; i++)
+		for (int x=0; x<columns; x++)
 		{
-			for (int j=0; j<columns; j++)
+			for (int y=0; y<rows; y++)
 			{
-				intersections[i][j] = new Light();
-				builder.addLight(intersections[i][j], i, j);
-				agents.add(intersections[i][j]);
+				Light l = new Light();
+				l.debugX = x;
+				l.debugY = y;
+				intersections[x][y]=l;
+				
+				builder.addLight(intersections[x][y], y, x);
+				agents.add(intersections[x][y]);
 			}
 		}
 		
@@ -136,16 +157,16 @@ public class Model extends Observable {
 
 		// Add Horizontal Roads
 		boolean eastToWest = false;
-		for (int i=0; i<rows; i++)
+		for (int y=0; y<rows; y++)
 		{
 			if(!eastToWest)
 			{
-				for (int j=0; j<=columns; j++)
+				for (int x1=0; x1 <= columns; x1++)
 				{
-					backwardLight = getLightAt(i-1, j, intersections);
-					forwardLight = getLightAt(i, j, intersections);
+					backwardLight = getLightAt(x1-1, y, intersections);
+					forwardLight = getLightAt(x1, y, intersections);
 					Road l = new Road();
-					builder.addHorizontalRoad(l, i, j, eastToWest, backwardLight, forwardLight);
+					builder.addHorizontalRoad(l, y, x1, eastToWest, backwardLight, forwardLight);
 					l.setForwardLight(forwardLight);
 					l.setBackwardLight(backwardLight);
 					hRoads.add(l);
@@ -155,12 +176,12 @@ public class Model extends Observable {
 			
 			if(eastToWest)	
 			{
-				for (int j=columns; j >= 0; j--)
+				for (int x2=columns; x2 >= 0; x2--)
 				{
-					backwardLight = getLightAt(i, j, intersections);
-					forwardLight = getLightAt(i-1, j, intersections);
+					backwardLight = getLightAt(x2, y, intersections);
+					forwardLight = getLightAt(x2-1, y, intersections);
 					Road l = new Road();
-					builder.addHorizontalRoad(l, i, j, eastToWest, backwardLight, forwardLight);
+					builder.addHorizontalRoad(l, y, x2, eastToWest, backwardLight, forwardLight);
 					l.setForwardLight(forwardLight);
 					l.setBackwardLight(backwardLight);
 					hRoads.add(l);
@@ -174,18 +195,20 @@ public class Model extends Observable {
 
 		// Add Vertical Roads
 		boolean southToNorth = false;
-		for (int j=0; j<columns; j++)
+		for (int x=0; x<columns; x++)
 		{
 			if(!southToNorth)
 			{
-				for (int i=0; i <= rows; i++)
+				for (int y1=0; y1 <= rows; y1++)
 				{
-					backwardLight = getLightAt(i, j-1, intersections);
-					forwardLight = getLightAt(i, j, intersections);
+					backwardLight = getLightAt(x, y1-1, intersections);
+					forwardLight = getLightAt(x, y1, intersections);
 					Road l = new Road();
-					builder.addVerticalRoad(l, i, j, southToNorth, backwardLight, forwardLight);
+					System.out.println("NS "+y1+ (forwardLight != null? " F: "+forwardLight.debugX+" "+forwardLight.debugY : "NULL"));
+					builder.addVerticalRoad(l, y1, x, southToNorth, backwardLight, forwardLight);
 					l.setForwardLight(forwardLight);
 					l.setBackwardLight(backwardLight);
+					
 					vRoads.add(l);
 				}
 				vRoads.add(new Sink());
@@ -193,15 +216,17 @@ public class Model extends Observable {
 			
 			if(southToNorth)
 			{
-				for (int i=rows; i >= 0; i--)
+				for (int y2=rows; y2 >= 0; y2--)
 				{
-					backwardLight = getLightAt(i, j, intersections);
-					forwardLight = getLightAt(i, j-1, intersections);
+					backwardLight = getLightAt(x, y2, intersections);
+					forwardLight = getLightAt(x, y2-1, intersections);
 					Road l = new Road();
-					builder.addVerticalRoad(l, i, j, southToNorth, backwardLight, forwardLight);
+					
+					builder.addVerticalRoad(l, y2, x, southToNorth, backwardLight, forwardLight);
 					l.setForwardLight(forwardLight);
 					l.setBackwardLight(backwardLight);
 					vRoads.add(l);
+					System.out.println("SN "+y2+(forwardLight != null? " F: "+forwardLight.debugX+" "+forwardLight.debugY : "NULL"));
 				}
 				vRoads.add(new Sink());
 			}
@@ -222,7 +247,6 @@ public class Model extends Observable {
 			Car car = CarFactory.createCar(Direction.vertical, l);
 			agents.add(car);
 			vRoads.get(l).accept(car);
-			
 		}
 		
 		rc = new RoadController(hRoads, vRoads);

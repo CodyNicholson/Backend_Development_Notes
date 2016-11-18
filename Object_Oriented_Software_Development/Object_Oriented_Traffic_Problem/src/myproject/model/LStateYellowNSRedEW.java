@@ -30,7 +30,7 @@ public class LStateYellowNSRedEW implements LightState
 	@Override
 	public Color getDrawColor()
 	{
-		return Color.RED;
+		return Color.blue;
 	}
 	
 	@Override

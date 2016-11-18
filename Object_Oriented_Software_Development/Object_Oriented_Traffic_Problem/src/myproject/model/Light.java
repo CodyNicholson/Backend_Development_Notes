@@ -16,7 +16,9 @@ public class Light implements Agent
 	private LStateYellowNSRedEW NSyellowEWred;
 	private LStateRedNSGreenEW NSredEWgreen;
 	private LStateRedNSYellowEW NSredEWyellow;
-	private List<Car> cars;
+	
+	public int debugX;
+	public int debugY;
 	
 	public Light()
 	{
