@@ -2,7 +2,6 @@ package myproject.model;
 
 import java.awt.Color;
 import java.util.ArrayList;
-import java.util.List;
 
 /**
  * A light has a boolean state.
@@ -41,14 +40,6 @@ public class Light implements Agent
 			case 3: state = this.NSredEWyellow;
 				break;
 		}
-	}	
-	
-	public void notifyAllCars(double time, Light li)
-	{
-		for(Car c : observers)
-		{
-			c.notifyCar(time, this);
-		}
 	}
 	
 	public void subscribeCar(Car c)
@@ -76,13 +67,7 @@ public class Light implements Agent
 		observers.add(c);
 	}
 	
-	public void run(double time)
-	{
-		if (time%40==0) // replace conditional
-		{
-			notifyAllCars(time, this);
-		}
-	}
+
 	
 	public void update(double time)
 	{
@@ -114,7 +99,13 @@ public class Light implements Agent
 		this.state = s;
 		this.state.setSwitchTime(time);
 		clr = this.state.getDrawColor();
-		notifyAllCars(time, this);
+		
+	}
+
+	@Override
+	public void run(double time) {
+		// Auto-generated method stub
+		
 	}
 }
 
