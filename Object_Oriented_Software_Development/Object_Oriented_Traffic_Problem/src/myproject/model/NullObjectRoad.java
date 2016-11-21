@@ -1,6 +1,6 @@
 package myproject.model;
 
-public class Sink extends Road implements CarAccepter
+public class NullObjectRoad extends Road implements CarAccepter
 {
 	@Override
 	public void accept(Car d)

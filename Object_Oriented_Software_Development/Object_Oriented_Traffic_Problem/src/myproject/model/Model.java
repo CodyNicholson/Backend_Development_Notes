@@ -66,9 +66,9 @@ public class Model extends Observable {
 	{
 		int roadIndex = 0;
 		if(c.getDirection() == Direction.horizontal)
-			roadIndex = (int) (Math.random() * (MP.gridRow));
+			roadIndex = (int) (Math.random() * (MP.gridRow)) * (MP.gridColumn + 2);
 		else if(c.getDirection() == Direction.vertical)
-			roadIndex = (int) (Math.random() * (MP.gridColumn));
+			roadIndex = (int) (Math.random() * (MP.gridColumn)) * (MP.gridRow + 2);
 		agents.add(c);
 		rc.addCar(c, roadIndex, c.getDirection());
 	}
@@ -168,7 +168,7 @@ public class Model extends Observable {
 					l.setForwardLight(forwardLight);
 					hRoads.add(l);
 				}
-				hRoads.add(new Sink());
+				hRoads.add(new NullObjectRoad());
 			}
 			
 			if(eastToWest)	
@@ -181,7 +181,7 @@ public class Model extends Observable {
 					l.setForwardLight(forwardLight);
 					hRoads.add(l);
 				}
-				hRoads.add(new Sink());
+				hRoads.add(new NullObjectRoad());
 			}
 			
 			if(MP.trafficPattern == GridPattern.alternating)
@@ -203,7 +203,7 @@ public class Model extends Observable {
 					l.setForwardLight(forwardLight);
 					vRoads.add(l);
 				}
-				vRoads.add(new Sink());
+				vRoads.add(new NullObjectRoad());
 			}
 			
 			if(southToNorth)
@@ -218,7 +218,7 @@ public class Model extends Observable {
 					vRoads.add(l);
 					System.out.println("SN "+y2+(forwardLight != null? " F: "+forwardLight.debugX+" "+forwardLight.debugY : "NULL"));
 				}
-				vRoads.add(new Sink());
+				vRoads.add(new NullObjectRoad());
 			}
 			
 			if(MP.trafficPattern == GridPattern.alternating)

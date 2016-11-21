@@ -11,25 +11,17 @@ public class Road implements CarAccepter
 	Road() { } // Created only by this package
 	
 	private Road forwardRoad;
-	private Road backwardRoad;
 	private Light forwardLight;
-	private Light backwardLight;
 	private List<Car> cars = new ArrayList<Car>();
 
-	public Road(Road forwardRoad, Road backwardRoad)
+	public Road(Road forwardRoad)
 	{
 		this.forwardRoad = forwardRoad;
-		this.backwardRoad = backwardRoad;
 	}
 	
 	public Road getForwardRoad()
 	{
 		return forwardRoad;
-	}
-	
-	public Road getBackwardRoad()
-	{
-		return backwardRoad;
 	}
 	
 	public void accept(Car d) {
@@ -79,11 +71,4 @@ public class Road implements CarAccepter
 		this.forwardLight = forwardLight;
 	}
 
-	public Light getBackwardLight() {
-		return backwardLight;
-	}
-
-	public void setBackwardLight(Light backwardLight) {
-		this.backwardLight = backwardLight;
-	}
 }

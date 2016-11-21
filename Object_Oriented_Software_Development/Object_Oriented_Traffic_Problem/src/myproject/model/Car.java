@@ -11,12 +11,11 @@ public class Car implements Agent
 	private double position = 0;
 	private double velocity = (Math.random() * (MP.carVelocityMax - MP.carVelocityMin) + MP.carVelocityMin);
 	private java.awt.Color color = new java.awt.Color((int)Math.ceil(Math.random()*255),(int)Math.ceil(Math.random()*255),(int)Math.ceil(Math.random()*255));
-	private Direction dir = Direction.horizontal; // horizontal is true, vertical is false
+	private Direction dir = Direction.horizontal;
 	private int roadIndex = 0;
-//	private double brakeDistance =  (Math.random() * (ModelParameters.carStopDistanceMax - ModelParameters.carStopDistanceMin) + ModelParameters.carStopDistanceMin);
 	private double stopDistance = (Math.random() * (MP.carBrakeDistanceMax - MP.carBrakeDistanceMin) + MP.carBrakeDistanceMin);
-	public double speed = 1;
 	private CarState state = new CarState(null, null);
+	public double speed = 1;
 	
 	public Car(Direction dir, int rIndex)
 	{
@@ -73,7 +72,6 @@ public class Car implements Agent
 		}
 		else if(state.getNextLight() != null && state.getNextLight().getLightColor(this) == LightColor.red)
 		{
-			//System.out.println(c.getVelocity()+"V  "+(c.getPosition()+c.getVelocity())+" "+(MP.roadLength - c.getStopDistance()));
 			if(this.getPosition()+this.getVelocity()+MP.carLength >= (MP.roadLength-this.getStopDistance()))
 				this.speed = 0;
 			else
@@ -88,7 +86,7 @@ public class Car implements Agent
 			CarVisitor cv = new CarVisitor(this);
 			Model.getModel().visitRoadController(cv);
 		}
-		position += velocity*speed;
+		position += velocity * speed;
 		
 	}
 

@@ -27,3 +27,10 @@ public class Main {
 		System.exit(0);
 	}
 }
+
+/*
+State
+Visitor
+Factory Method
+Null Object
+*/
