@@ -66,9 +66,9 @@ public class Model extends Observable {
 	{
 		int roadIndex = 0;
 		if(c.getDirection() == Direction.horizontal)
-			roadIndex = (int) (Math.random() * (ModelParameters.gridRow));
+			roadIndex = (int) (Math.random() * (MP.gridRow));
 		else if(c.getDirection() == Direction.vertical)
-			roadIndex = (int) (Math.random() * (ModelParameters.gridColumn));
+			roadIndex = (int) (Math.random() * (MP.gridColumn));
 		agents.add(c);
 		rc.addCar(c, roadIndex, c.getDirection());
 	}
@@ -134,8 +134,7 @@ public class Model extends Observable {
 		List<Road> hRoads = new ArrayList<Road>();
 		List<Road> vRoads = new ArrayList<Road>();
 		Light[][] intersections = new Light[columns][rows];
-		Light backwardLight;// = intersections[0][0];
-		Light forwardLight;// = intersections[0][0];
+		Light forwardLight;
 
 		// Add Lights
 		for (int x=0; x<columns; x++)
@@ -163,12 +162,10 @@ public class Model extends Observable {
 			{
 				for (int x1=0; x1 <= columns; x1++)
 				{
-					backwardLight = getLightAt(x1-1, y, intersections);
 					forwardLight = getLightAt(x1, y, intersections);
 					Road l = new Road();
-					builder.addHorizontalRoad(l, y, x1, eastToWest, backwardLight, forwardLight);
+					builder.addHorizontalRoad(l, y, x1, eastToWest, forwardLight);
 					l.setForwardLight(forwardLight);
-					l.setBackwardLight(backwardLight);
 					hRoads.add(l);
 				}
 				hRoads.add(new Sink());
@@ -178,18 +175,16 @@ public class Model extends Observable {
 			{
 				for (int x2=columns; x2 >= 0; x2--)
 				{
-					backwardLight = getLightAt(x2, y, intersections);
 					forwardLight = getLightAt(x2-1, y, intersections);
 					Road l = new Road();
-					builder.addHorizontalRoad(l, y, x2, eastToWest, backwardLight, forwardLight);
+					builder.addHorizontalRoad(l, y, x2, eastToWest, forwardLight);
 					l.setForwardLight(forwardLight);
-					l.setBackwardLight(backwardLight);
 					hRoads.add(l);
 				}
 				hRoads.add(new Sink());
 			}
 			
-			if(ModelParameters.p == GridPattern.alternating)
+			if(MP.trafficPattern == GridPattern.alternating)
 				eastToWest = !eastToWest;
 		}
 
@@ -201,14 +196,11 @@ public class Model extends Observable {
 			{
 				for (int y1=0; y1 <= rows; y1++)
 				{
-					backwardLight = getLightAt(x, y1-1, intersections);
 					forwardLight = getLightAt(x, y1, intersections);
 					Road l = new Road();
 					System.out.println("NS "+y1+ (forwardLight != null? " F: "+forwardLight.debugX+" "+forwardLight.debugY : "NULL"));
-					builder.addVerticalRoad(l, y1, x, southToNorth, backwardLight, forwardLight);
+					builder.addVerticalRoad(l, y1, x, southToNorth, forwardLight);
 					l.setForwardLight(forwardLight);
-					l.setBackwardLight(backwardLight);
-					
 					vRoads.add(l);
 				}
 				vRoads.add(new Sink());
@@ -218,20 +210,18 @@ public class Model extends Observable {
 			{
 				for (int y2=rows; y2 >= 0; y2--)
 				{
-					backwardLight = getLightAt(x, y2, intersections);
 					forwardLight = getLightAt(x, y2-1, intersections);
 					Road l = new Road();
 					
-					builder.addVerticalRoad(l, y2, x, southToNorth, backwardLight, forwardLight);
+					builder.addVerticalRoad(l, y2, x, southToNorth, forwardLight);
 					l.setForwardLight(forwardLight);
-					l.setBackwardLight(backwardLight);
 					vRoads.add(l);
 					System.out.println("SN "+y2+(forwardLight != null? " F: "+forwardLight.debugX+" "+forwardLight.debugY : "NULL"));
 				}
 				vRoads.add(new Sink());
 			}
 			
-			if(ModelParameters.p == GridPattern.alternating)
+			if(MP.trafficPattern == GridPattern.alternating)
 				southToNorth = !southToNorth;
 		}
 		

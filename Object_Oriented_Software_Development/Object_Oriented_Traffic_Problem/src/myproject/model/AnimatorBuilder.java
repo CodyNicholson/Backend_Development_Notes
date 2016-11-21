@@ -23,7 +23,7 @@ public interface AnimatorBuilder {
 	 * @param forwardLight 
 	 * @param backwardLight 
 	 */
-	public void addHorizontalRoad(Road l, int i, int j, boolean eastToWest, Light backwardLight, Light forwardLight);
+	public void addHorizontalRoad(Road l, int i, int j, boolean eastToWest, Light forwardLight);
 	/**
 	 *  Add the vertical {@link Road} to the display, north of position <code>i,j</code>.
 	 *  If <code>southToNorth</code> is true, then road position 0 is the southmost position.
@@ -31,7 +31,7 @@ public interface AnimatorBuilder {
 	 * @param forwardLight 
 	 * @param backwardLight 
 	 */
-	public void addVerticalRoad(Road l, int i, int j, boolean southToNorth, Light backwardLight, Light forwardLight);
+	public void addVerticalRoad(Road l, int i, int j, boolean southToNorth, Light forwardLight);
 }
 
 /**
@@ -40,8 +40,8 @@ public interface AnimatorBuilder {
 class NullAnimatorBuilder implements AnimatorBuilder {
 	public Animator getAnimator() { return new NullAnimator(); }
 	public void addLight(Light d, int i, int j) { }
-	public void addHorizontalRoad(Road l, int i, int j, boolean eastToWest, Light backwardLight, Light forwardLight) { }
-	public void addVerticalRoad(Road l, int i, int j, boolean southToNorth, Light backwardLight, Light forwardLight) { }
+	public void addHorizontalRoad(Road l, int i, int j, boolean eastToWest, Light forwardLight) { }
+	public void addVerticalRoad(Road l, int i, int j, boolean southToNorth, Light forwardLight) { }
 }
 
 /**

@@ -21,8 +21,8 @@ public class Light implements Agent
 	
 	public Light()
 	{
-		double randomGreenLightLen = (Math.random() * (ModelParameters.greenLightLenMin - ModelParameters.greenLightLenMax) + ModelParameters.greenLightLenMin);
-		double randomYellowLightLen = (Math.random() * (ModelParameters.yellowLightLenMin - ModelParameters.yellowLightLenMax) + ModelParameters.yellowLightLenMin);
+		double randomGreenLightLen = (Math.random() * (MP.greenLightLenMin - MP.greenLightLenMax) + MP.greenLightLenMin);
+		double randomYellowLightLen = (Math.random() * (MP.yellowLightLenMin - MP.yellowLightLenMax) + MP.yellowLightLenMin);
 		int rand1234 = (int) (Math.random() * 4);
 		this.NSgreenEWred = new LStateGreenNSRedEW(randomGreenLightLen);
 		this.NSyellowEWred = new LStateYellowNSRedEW(randomYellowLightLen);

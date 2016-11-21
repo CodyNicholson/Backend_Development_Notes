@@ -9,12 +9,12 @@ package myproject.model;
 public class Car implements Agent
 {
 	private double position = 0;
-	private double velocity = (Math.random() * (ModelParameters.carVelocityMax - ModelParameters.carVelocityMin) + ModelParameters.carVelocityMin);
+	private double velocity = (Math.random() * (MP.carVelocityMax - MP.carVelocityMin) + MP.carVelocityMin);
 	private java.awt.Color color = new java.awt.Color((int)Math.ceil(Math.random()*255),(int)Math.ceil(Math.random()*255),(int)Math.ceil(Math.random()*255));
 	private Direction dir = Direction.horizontal; // horizontal is true, vertical is false
 	private int roadIndex = 0;
 //	private double brakeDistance =  (Math.random() * (ModelParameters.carStopDistanceMax - ModelParameters.carStopDistanceMin) + ModelParameters.carStopDistanceMin);
-	private double stopDistance = (Math.random() * (ModelParameters.carBrakeDistanceMax - ModelParameters.carBrakeDistanceMin) + ModelParameters.carBrakeDistanceMin);
+	private double stopDistance = (Math.random() * (MP.carBrakeDistanceMax - MP.carBrakeDistanceMin) + MP.carBrakeDistanceMin);
 	public double speed = 1;
 	private CarState state = new CarState(null, null);
 	

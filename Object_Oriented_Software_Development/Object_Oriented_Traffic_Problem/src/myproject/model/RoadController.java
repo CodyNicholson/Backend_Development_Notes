@@ -66,12 +66,12 @@ public class RoadController
 	
 	public boolean moveOrDeleteCar(Car c)
 	{
-		if((c.getDirection() == Direction.horizontal) && (c.getRoadIndex()%ModelParameters.gridColumn+1 == ModelParameters.gridColumn))
+		if((c.getDirection() == Direction.horizontal) && (c.getRoadIndex()%MP.gridColumn+1 == MP.gridColumn))
 		{
 			//removeCar(c, ModelParameters.gridRow-1, Direction.horizontal);
 			return false;
 		}
-		if((c.getDirection() == Direction.vertical) && (c.getRoadIndex()%ModelParameters.gridRow+1 == ModelParameters.gridRow))
+		if((c.getDirection() == Direction.vertical) && (c.getRoadIndex()%MP.gridRow+1 == MP.gridRow))
 		{
 			return false;
 		}

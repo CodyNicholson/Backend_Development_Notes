@@ -15,7 +15,7 @@ public class CarFactory
 	{
 		if(switchTime < 0)
 		{
-			switchTime = (Math.random() * (ModelParameters.carGenerationDelayMax - ModelParameters.carGenerationDelayMin) + ModelParameters.carGenerationDelayMin);
+			switchTime = (Math.random() * (MP.carGenerationDelayMax - MP.carGenerationDelayMin) + MP.carGenerationDelayMin);
 		}
 		if(time > switchTime)
 		{
@@ -23,12 +23,12 @@ public class CarFactory
 			if(Math.random() > 0.5)
 			{
 				Model.getModel().addCar(createCar(Direction.horizontal, 0));
-				switchTime = time + (Math.random() * (ModelParameters.carGenerationDelayMax - ModelParameters.carGenerationDelayMin) + ModelParameters.carGenerationDelayMin);
+				switchTime = time + (Math.random() * (MP.carGenerationDelayMax - MP.carGenerationDelayMin) + MP.carGenerationDelayMin);
 			}
 			else
 			{
 				Model.getModel().addCar(createCar(Direction.vertical, 0));
-				switchTime = time + (Math.random() * (ModelParameters.carGenerationDelayMax - ModelParameters.carGenerationDelayMin) + ModelParameters.carGenerationDelayMin);
+				switchTime = time + (Math.random() * (MP.carGenerationDelayMax - MP.carGenerationDelayMin) + MP.carGenerationDelayMin);
 			}
 		}
 	}

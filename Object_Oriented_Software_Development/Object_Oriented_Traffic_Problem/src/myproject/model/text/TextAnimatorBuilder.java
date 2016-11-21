@@ -26,10 +26,10 @@ public class TextAnimatorBuilder implements AnimatorBuilder {
 	public void addLight(Light d, int i, int j) {
 		animator.addLight(d,i,j);
 	}
-	public void addHorizontalRoad(Road l, int i, int j, boolean eastToWest, Light backwardLight, Light forwardLight) {
+	public void addHorizontalRoad(Road l, int i, int j, boolean eastToWest, Light forwardLight) {
 		animator.addRoad(l,i,j);
 	}
-	public void addVerticalRoad(Road l, int i, int j, boolean southToNorth, Light backwardLight, Light forwardLight) {
+	public void addVerticalRoad(Road l, int i, int j, boolean southToNorth, Light forwardLight) {
 		animator.addRoad(l,i,j);
 	}
 

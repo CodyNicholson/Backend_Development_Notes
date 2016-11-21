@@ -68,24 +68,17 @@ public class SimpleModel extends Observable {
 		List<Road> hRoads = new ArrayList<Road>();
 		List<Road> vRoads = new ArrayList<Road>();
 		Road r1 = new Road();
-		builder.addHorizontalRoad(r1, 0, 1, false, null, null);
+		builder.addHorizontalRoad(r1, 0, 1, false, null);
 		Car c = new Car(Direction.horizontal, 0);
 		r1.accept(c);
 		agents.add(c);
 		Road r2 = new Road();
-		builder.addHorizontalRoad(r2, 1, 1, false, null, null);
+		builder.addHorizontalRoad(r2, 1, 1, false, null);
 		hRoads.add(r1);
 		hRoads.add(r2);
 		
 		rc = new RoadController(hRoads, vRoads);
 
-		// Road oldroad = null;
-		// for (int j = 0; j <= columns; j++) {
-		//   Road newroad = new Road();
-		//   builder.addHorizontalRoad(newroad, 0, (eastToWest? columns-j : j), eastToWest);
-		//   newroad.setNext(oldroad);
-		//   oldroad = newroad;
-		// }
 	}
 
 	public void visitRoadController(Visitor v) {

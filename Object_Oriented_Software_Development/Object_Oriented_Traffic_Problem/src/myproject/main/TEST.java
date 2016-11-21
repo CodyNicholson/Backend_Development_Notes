@@ -1,7 +1,7 @@
 package myproject.main;
 
 import myproject.model.Model;
-import myproject.model.ModelParameters;
+import myproject.model.MP;
 import myproject.model.swing.SwingAnimatorBuilder;
 
 public class TEST
@@ -10,8 +10,8 @@ public class TEST
 	{
 //		ModelParameters modelParams = new ModelParameters();
 		{
-			Model m = new Model(new SwingAnimatorBuilder(), ModelParameters.gridRow, ModelParameters.gridColumn);
-			m.publicSetup(new SwingAnimatorBuilder(), ModelParameters.gridRow, ModelParameters.gridColumn);
+			Model m = new Model(new SwingAnimatorBuilder(), MP.gridRow, MP.gridColumn);
+			m.publicSetup(new SwingAnimatorBuilder(), MP.gridRow, MP.gridColumn);
 			System.out.println("ASDF");
 		}
 		System.exit(0);

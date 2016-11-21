@@ -38,14 +38,14 @@ public class SwingAnimatorBuilder implements AnimatorBuilder {
 		Translator t = new TranslatorWE(x, y, MP.carLength, VP.elementWidth, VP.scaleFactor);
 		painter.addLight(d,t);
 	}
-	public void addHorizontalRoad(Road l, int i, int j, boolean eastToWest, Light backwardLight, Light forwardLight) {
+	public void addHorizontalRoad(Road l, int i, int j, boolean eastToWest, Light forwardLight) {
 		double x = skipInit + j*skipRoadCar;
 		double y = skipInit + skipRoad + i*skipRoadCar;
 		Translator t = eastToWest ? new TranslatorEW(x, y, MP.roadLength, VP.elementWidth, VP.scaleFactor)
 				: new TranslatorWE(x, y, MP.roadLength, VP.elementWidth, VP.scaleFactor);
 		painter.addRoad(l,t);
 	}
-	public void addVerticalRoad(Road l, int i, int j, boolean southToNorth, Light backwardLight, Light forewardLight) {
+	public void addVerticalRoad(Road l, int i, int j, boolean southToNorth, Light forewardLight) {
 		double x = skipInit + skipRoad + j*skipRoadCar;
 		double y = skipInit + i*skipRoadCar;
 		Translator t = southToNorth ? new TranslatorSN(x, y, MP.roadLength, VP.elementWidth, VP.scaleFactor)
