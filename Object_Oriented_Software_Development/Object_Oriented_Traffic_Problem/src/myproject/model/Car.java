@@ -64,13 +64,32 @@ public class Car implements Agent
 	
 	public void run(double time)
 	{
-		state.run(this);
+		if(state.getNextCar() != null && this.getRoadIndex() == state.getNextCar().getRoadIndex())
+		{
+			if(state.getNextCar().getPosition()-(this.getPosition()+this.getVelocity()+MP.carLength) < this.getStopDistance())
+				this.speed = 0; 
+			else
+				this.speed = 1;
+		}
+		else if(state.getNextLight() != null && state.getNextLight().getLightColor(this) == LightColor.red)
+		{
+			//System.out.println(c.getVelocity()+"V  "+(c.getPosition()+c.getVelocity())+" "+(MP.roadLength - c.getStopDistance()));
+			if(this.getPosition()+this.getVelocity()+MP.carLength >= (MP.roadLength-this.getStopDistance()))
+				this.speed = 0;
+			else
+				this.speed = 1;
+		}
+		else
+		{
+			this.speed = 1;
+		}
 		if ((position + velocity*speed) > (MP.roadLength-MP.carLength))
 		{
 			CarVisitor cv = new CarVisitor(this);
 			Model.getModel().visitRoadController(cv);
 		}
 		position += velocity*speed;
+		
 	}
 
 	public CarState getState() {

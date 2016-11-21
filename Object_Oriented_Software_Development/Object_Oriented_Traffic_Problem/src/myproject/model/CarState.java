@@ -10,27 +10,6 @@ public class CarState
 		this.setNextCar(nextCar);
 		this.setNextLight(nextLight);
 	}
-	
-	public void run(Car c)
-	{
-		if(nextCar != null && c.getRoadIndex() == nextCar.getRoadIndex())
-		{
-			if(nextCar.getPosition()-(c.getPosition()+c.getVelocity()+MP.carLength) < c.getStopDistance())
-				c.speed = 0; 
-			else
-				c.speed = 1;
-		}
-		else if(nextLight != null && nextLight.getLightColor(c) == LightColor.red)
-		{
-			//System.out.println(c.getVelocity()+"V  "+(c.getPosition()+c.getVelocity())+" "+(MP.roadLength - c.getStopDistance()));
-			if(c.getPosition()+c.getVelocity()+MP.carLength >= (MP.roadLength-c.getStopDistance()))
-				c.speed = 0;
-			else
-				c.speed = 1;
-		}
-		else
-			c.speed = 1;
-	}
 
 	public Light getNextLight() {
 		return nextLight;
