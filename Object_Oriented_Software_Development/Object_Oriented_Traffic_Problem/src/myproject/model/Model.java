@@ -142,8 +142,6 @@ public class Model extends Observable {
 			for (int y=0; y<rows; y++)
 			{
 				Light l = new Light();
-				l.debugX = x;
-				l.debugY = y;
 				intersections[x][y]=l;
 				
 				builder.addLight(intersections[x][y], y, x);
@@ -198,7 +196,6 @@ public class Model extends Observable {
 				{
 					forwardLight = getLightAt(x, y1, intersections);
 					Road l = new Road();
-					System.out.println("NS "+y1+ (forwardLight != null? " F: "+forwardLight.debugX+" "+forwardLight.debugY : "NULL"));
 					builder.addVerticalRoad(l, y1, x, southToNorth, forwardLight);
 					l.setForwardLight(forwardLight);
 					vRoads.add(l);
@@ -216,7 +213,6 @@ public class Model extends Observable {
 					builder.addVerticalRoad(l, y2, x, southToNorth, forwardLight);
 					l.setForwardLight(forwardLight);
 					vRoads.add(l);
-					System.out.println("SN "+y2+(forwardLight != null? " F: "+forwardLight.debugX+" "+forwardLight.debugY : "NULL"));
 				}
 				vRoads.add(new NullObjectRoad());
 			}

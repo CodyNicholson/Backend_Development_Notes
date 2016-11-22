@@ -17,15 +17,8 @@ public class CarVisitor implements Visitor
 	@Override
 	public void visit(RoadController rc)
 	{
-//		if(rc.moveOrDeleteCar(c))
-//		{
-			rc.removeCar(c, c.getRoadIndex(), c.getDirection());
-			rc.addCar(c, c.getRoadIndex()+1, c.getDirection());
-//		}
-//		else
-//		{
-//			rc.removeCar(c, c.getRoadIndex(), c.getDirection());
-//		}
+		rc.removeCar(c, c.getRoadIndex(), c.getDirection());
+		rc.addCar(c, c.getRoadIndex()+1, c.getDirection());
 	}
 
 	@Override

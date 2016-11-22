@@ -124,8 +124,8 @@ class Control {
 		m.add("Traffic Pattern:",
 				() -> {
 					UIFormBuilder f = new UIFormBuilder();
-					f.add("Traffic Pattern:", numberTest);
-					UIForm form = f.toUIForm("Traffic Pattern 1 = Simple, 2 = Alternating:");
+					f.add("Traffic Pattern, 1 = Simple, 2 = Alternating:", numberTest);
+					UIForm form = f.toUIForm("Traffic Pattern, 1 = Simple, 2 = Alternating:");
 					String[] vals = ui.processForm(form);
 					if(vals[0].equals("2"))
 					{

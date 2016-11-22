@@ -16,9 +16,6 @@ public class Light implements Agent
 	private LStateRedNSGreenEW NSredEWgreen;
 	private LStateRedNSYellowEW NSredEWyellow;
 	
-	public int debugX;
-	public int debugY;
-	
 	public Light()
 	{
 		double randomGreenLightLen = (Math.random() * (MP.greenLightLenMin - MP.greenLightLenMax) + MP.greenLightLenMin);
@@ -103,9 +100,9 @@ public class Light implements Agent
 	}
 
 	@Override
-	public void run(double time) {
-		// Auto-generated method stub
-		
+	public void run(double time)
+	{
+		// Allows my to add intersections to agents in Model
 	}
 }
 

@@ -87,7 +87,6 @@ public class Car implements Agent
 			Model.getModel().visitRoadController(cv);
 		}
 		position += velocity * speed;
-		
 	}
 
 	public CarState getState() {
