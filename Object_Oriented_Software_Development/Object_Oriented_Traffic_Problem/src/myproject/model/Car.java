@@ -65,14 +65,14 @@ public class Car implements Agent
 	{
 		if(state.getNextCar() != null && this.getRoadIndex() == state.getNextCar().getRoadIndex())
 		{
-			if(state.getNextCar().getPosition()-(this.getPosition()+this.getVelocity()+MP.carLength) < this.getStopDistance())
+			if(state.getNextCar().getPosition() - (this.getPosition() + this.getVelocity() + MP.carLength) < this.getStopDistance())
 				this.speed = 0; 
 			else
 				this.speed = 1;
 		}
 		else if(state.getNextLight() != null && state.getNextLight().getLightColor(this) == LightColor.red)
 		{
-			if(this.getPosition()+this.getVelocity()+MP.carLength >= (MP.roadLength-this.getStopDistance()))
+			if(this.getPosition() + this.getVelocity() + MP.carLength >= (MP.roadLength - this.getStopDistance()))
 				this.speed = 0;
 			else
 				this.speed = 1;
@@ -81,7 +81,7 @@ public class Car implements Agent
 		{
 			this.speed = 1;
 		}
-		if ((position + velocity*speed) > (MP.roadLength-MP.carLength))
+		if ((position + velocity * speed) > (MP.roadLength - MP.carLength))
 		{
 			CarVisitor cv = new CarVisitor(this);
 			Model.getModel().visitRoadController(cv);

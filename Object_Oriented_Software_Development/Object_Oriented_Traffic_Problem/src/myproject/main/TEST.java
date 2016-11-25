@@ -1,16 +1,16 @@
 package myproject.main;
 
-import myproject.model.Model;
-import myproject.model.MP;
-import myproject.model.swing.SwingAnimatorBuilder;
+import myproject.model.Car;
 
 public class TEST
 {
+	private static double time;
+	
 	public static void main(String[] args)
 	{
 		{
-			Model m = new Model(new SwingAnimatorBuilder(), MP.gridRow, MP.gridColumn);
-			m.publicSetup(new SwingAnimatorBuilder(), MP.gridRow, MP.gridColumn);
+			Car testCar = new Car(null, 0);
+			testCar.run(time);
 		}
 		System.exit(0);
 	}
