@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LON-DEV-081</Machine>
+    <WindowsUser>John</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>70136C5481554E1AEE7B27896E8C142B42429171E1C3B4FD2DCF267797E4C6AD</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f3d68282-b2dd-420b-9ef2-2b904aa35e46_1.0.0.0_neutral__v2eq8qs7wm15j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f3d68282-b2dd-420b-9ef2-2b904aa35e46_v2eq8qs7wm15j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f3d68282-b2dd-420b-9ef2-2b904aa35e46</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=John</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Visual CSharp Step By Step\Chapter 4\Windows 8\SwitchStatement\SwitchStatement\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-02T14:49:14.311</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 4\Windows 8\SwitchStatement\SwitchStatement\bin\Debug\SwitchStatement.exe">
+      <PackagePath>SwitchStatement.exe</PackagePath>
+      <Modified>2013-07-02T14:49:14.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 4\Windows 8\SwitchStatement\SwitchStatement\bin\Debug\SwitchStatement.pdb">
+      <PackagePath>SwitchStatement.pdb</PackagePath>
+      <Modified>2013-07-02T14:49:14.127</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 4\Windows 8\SwitchStatement\SwitchStatement\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T18:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 4\Windows 8\SwitchStatement\SwitchStatement\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T18:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 4\Windows 8\SwitchStatement\SwitchStatement\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T18:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 4\Windows 8\SwitchStatement\SwitchStatement\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T18:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 4\Windows 8\SwitchStatement\SwitchStatement\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2013-07-02T14:49:13.970</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 4\Windows 8\SwitchStatement\SwitchStatement\bin\Debug\MainWindow.xbf">
+      <PackagePath>MainWindow.xbf</PackagePath>
+      <Modified>2013-07-02T14:49:13.991</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 4\Windows 8\SwitchStatement\SwitchStatement\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-07-02T14:49:14.213</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

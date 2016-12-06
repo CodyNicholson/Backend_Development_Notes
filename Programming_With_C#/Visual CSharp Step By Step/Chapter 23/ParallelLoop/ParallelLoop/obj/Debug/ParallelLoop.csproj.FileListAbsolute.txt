@@ -1,0 +1,12 @@
+D:\Visual CSharp Step By Step\Chapter 23\ParallelLoop\ParallelLoop\bin\Debug\ParallelLoop.exe.config
+D:\Visual CSharp Step By Step\Chapter 23\ParallelLoop\ParallelLoop\bin\Debug\ParallelLoop.exe
+D:\Visual CSharp Step By Step\Chapter 23\ParallelLoop\ParallelLoop\bin\Debug\ParallelLoop.pdb
+D:\Visual CSharp Step By Step\Chapter 23\ParallelLoop\ParallelLoop\obj\Debug\ParallelLoop.csprojResolveAssemblyReference.cache
+D:\Visual CSharp Step By Step\Chapter 23\ParallelLoop\ParallelLoop\obj\Debug\ParallelLoop.exe
+D:\Visual CSharp Step By Step\Chapter 23\ParallelLoop\ParallelLoop\obj\Debug\ParallelLoop.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\ParallelLoop\ParallelLoop\bin\Debug\ParallelLoop.exe.config
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\ParallelLoop\ParallelLoop\obj\Debug\ParallelLoop.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\ParallelLoop\ParallelLoop\obj\Debug\ParallelLoop.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\ParallelLoop\ParallelLoop\bin\Debug\ParallelLoop.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\ParallelLoop\ParallelLoop\bin\Debug\ParallelLoop.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\ParallelLoop\ParallelLoop\obj\Debug\ParallelLoop.csprojResolveAssemblyReference.cache

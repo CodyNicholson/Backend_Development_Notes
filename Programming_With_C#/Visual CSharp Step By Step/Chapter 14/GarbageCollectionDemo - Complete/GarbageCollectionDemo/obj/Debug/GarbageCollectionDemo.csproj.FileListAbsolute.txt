@@ -1,0 +1,12 @@
+D:\Visual CSharp Step By Step\Chapter 14\Windows 8.1\GarbageCollectionDemo\GarbageCollectionDemo\bin\Debug\GarbageCollectionDemo.exe.config
+D:\Visual CSharp Step By Step\Chapter 14\Windows 8.1\GarbageCollectionDemo\GarbageCollectionDemo\bin\Debug\GarbageCollectionDemo.exe
+D:\Visual CSharp Step By Step\Chapter 14\Windows 8.1\GarbageCollectionDemo\GarbageCollectionDemo\bin\Debug\GarbageCollectionDemo.pdb
+D:\Visual CSharp Step By Step\Chapter 14\Windows 8.1\GarbageCollectionDemo\GarbageCollectionDemo\obj\Debug\GarbageCollectionDemo.csprojResolveAssemblyReference.cache
+D:\Visual CSharp Step By Step\Chapter 14\Windows 8.1\GarbageCollectionDemo\GarbageCollectionDemo\obj\Debug\GarbageCollectionDemo.exe
+D:\Visual CSharp Step By Step\Chapter 14\Windows 8.1\GarbageCollectionDemo\GarbageCollectionDemo\obj\Debug\GarbageCollectionDemo.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 14\Windows 8.1\GarbageCollectionDemo - Complete\GarbageCollectionDemo\bin\Debug\GarbageCollectionDemo.exe.config
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 14\Windows 8.1\GarbageCollectionDemo - Complete\GarbageCollectionDemo\obj\Debug\GarbageCollectionDemo.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 14\Windows 8.1\GarbageCollectionDemo - Complete\GarbageCollectionDemo\obj\Debug\GarbageCollectionDemo.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 14\Windows 8.1\GarbageCollectionDemo - Complete\GarbageCollectionDemo\bin\Debug\GarbageCollectionDemo.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 14\Windows 8.1\GarbageCollectionDemo - Complete\GarbageCollectionDemo\bin\Debug\GarbageCollectionDemo.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 14\Windows 8.1\GarbageCollectionDemo - Complete\GarbageCollectionDemo\obj\Debug\GarbageCollectionDemo.csprojResolveAssemblyReference.cache

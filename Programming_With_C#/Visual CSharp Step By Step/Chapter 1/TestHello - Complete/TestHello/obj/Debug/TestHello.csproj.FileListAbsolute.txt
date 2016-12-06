@@ -1,0 +1,15 @@
+C:\Users\John\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\TestHello\TestHello\bin\Debug\TestHello.exe.config
+C:\Users\John\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\TestHello\TestHello\bin\Debug\TestHello.exe
+C:\Users\John\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\TestHello\TestHello\bin\Debug\TestHello.pdb
+C:\Users\John\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\TestHello\TestHello\obj\Debug\TestHello.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\TestHello\TestHello\obj\Debug\TestHello.exe
+C:\Users\John\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\TestHello\TestHello\obj\Debug\TestHello.pdb
+D:\Visual CSharp Step By Step\Chapter 1\Windows 8.1\TestHello - Complete\TestHello\bin\Debug\TestHello.exe.config
+D:\Visual CSharp Step By Step\Chapter 1\Windows 8.1\TestHello - Complete\TestHello\obj\Debug\TestHello.exe
+D:\Visual CSharp Step By Step\Chapter 1\Windows 8.1\TestHello - Complete\TestHello\obj\Debug\TestHello.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 1\Windows 8\TestHello - Complete\TestHello\bin\Debug\TestHello.exe.config
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 1\Windows 8\TestHello - Complete\TestHello\obj\Debug\TestHello.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 1\Windows 8\TestHello - Complete\TestHello\obj\Debug\TestHello.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 1\Windows 8\TestHello - Complete\TestHello\bin\Debug\TestHello.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 1\Windows 8\TestHello - Complete\TestHello\bin\Debug\TestHello.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 1\Windows 8\TestHello - Complete\TestHello\obj\Debug\TestHello.csprojResolveAssemblyReference.cache

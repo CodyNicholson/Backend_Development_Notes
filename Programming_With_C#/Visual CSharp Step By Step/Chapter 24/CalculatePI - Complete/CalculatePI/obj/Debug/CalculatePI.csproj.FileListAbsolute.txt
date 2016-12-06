@@ -1,0 +1,18 @@
+D:\Visual CSharp Step By Step\Chapter 24\CalculatePI\CalculatePI\bin\Debug\CalculatePI.exe.config
+D:\Visual CSharp Step By Step\Chapter 24\CalculatePI\CalculatePI\bin\Debug\CalculatePI.exe
+D:\Visual CSharp Step By Step\Chapter 24\CalculatePI\CalculatePI\bin\Debug\CalculatePI.pdb
+D:\Visual CSharp Step By Step\Chapter 24\CalculatePI\CalculatePI\obj\Debug\CalculatePI.csprojResolveAssemblyReference.cache
+D:\Visual CSharp Step By Step\Chapter 24\CalculatePI\CalculatePI\obj\Debug\CalculatePI.exe
+D:\Visual CSharp Step By Step\Chapter 24\CalculatePI\CalculatePI\obj\Debug\CalculatePI.pdb
+D:\Visual CSharp Step By Step\Chapter 24\CalculatePI - Complete\CalculatePI\bin\Debug\CalculatePI.exe.config
+D:\Visual CSharp Step By Step\Chapter 24\CalculatePI - Complete\CalculatePI\obj\Debug\CalculatePI.exe
+D:\Visual CSharp Step By Step\Chapter 24\CalculatePI - Complete\CalculatePI\obj\Debug\CalculatePI.pdb
+D:\Visual CSharp Step By Step\Chapter 24\CalculatePI - Complete\CalculatePI\bin\Debug\CalculatePI.exe
+D:\Visual CSharp Step By Step\Chapter 24\CalculatePI - Complete\CalculatePI\bin\Debug\CalculatePI.pdb
+D:\Visual CSharp Step By Step\Chapter 24\CalculatePI - Complete\CalculatePI\obj\Debug\CalculatePI.csprojResolveAssemblyReference.cache
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\CalculatePI - Complete\CalculatePI\bin\Debug\CalculatePI.exe.config
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\CalculatePI - Complete\CalculatePI\obj\Debug\CalculatePI.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\CalculatePI - Complete\CalculatePI\obj\Debug\CalculatePI.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\CalculatePI - Complete\CalculatePI\bin\Debug\CalculatePI.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\CalculatePI - Complete\CalculatePI\bin\Debug\CalculatePI.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\CalculatePI - Complete\CalculatePI\obj\Debug\CalculatePI.csprojResolveAssemblyReference.cache

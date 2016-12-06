@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LON-DEV-082</Machine>
+    <WindowsUser>John</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f8779f5c-9848-42cd-bbba-008c279cf2e0</PackageIdentityName>
+    <RegisteredManifestChecksum>A72BC1F4AED96771CE098E2FDBAF83523EBC84369DA2B7606BF3FDA64967DEC9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f8779f5c-9848-42cd-bbba-008c279cf2e0_1.0.0.0_neutral__v2eq8qs7wm15j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f8779f5c-9848-42cd-bbba-008c279cf2e0_v2eq8qs7wm15j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f8779f5c-9848-42cd-bbba-008c279cf2e0</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=John</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\Search - Complete\Customers\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-08T18:23:46.953</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\Search - Complete\Customers\bin\Debug\Customers.exe">
+      <PackagePath>Customers.exe</PackagePath>
+      <Modified>2014-02-08T18:23:46.849</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\Search - Complete\Customers\Assets\AdventureWorksLogo150x150.png">
+      <PackagePath>Assets\AdventureWorksLogo150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-08T15:52:53.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\Search - Complete\Customers\Assets\AdventureWorksLogo30x30.png">
+      <PackagePath>Assets\AdventureWorksLogo30x30.png</PackagePath>
+      <Modified>2014-02-08T15:52:53.113</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\Search - Complete\Customers\Assets\AdventureWorksLogo620x300.png">
+      <PackagePath>Assets\AdventureWorksLogo620x300.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-08T15:52:53.113</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\Search - Complete\Customers\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <Modified>2014-02-08T15:52:53.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\Search - Complete\Customers\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-08T15:52:53.175</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\Search - Complete\Customers\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <Modified>2014-02-08T15:52:53.222</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\Search - Complete\Customers\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-08T15:52:53.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\Search - Complete\Customers\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2014-02-08T15:52:54.456</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\Search - Complete\Customers\Images\wood.jpg">
+      <PackagePath>Images\wood.jpg</PackagePath>
+      <Modified>2014-02-08T15:52:54.581</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\Search - Complete\Customers\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-02-08T15:52:54.644</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\Search - Complete\Customers\bin\Debug\AppStyles.xbf">
+      <PackagePath>AppStyles.xbf</PackagePath>
+      <Modified>2014-02-08T18:23:13.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\Search - Complete\Customers\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-02-08T18:23:13.706</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\Search - Complete\Customers\bin\Debug\SearchResultsPage.xbf">
+      <PackagePath>SearchResultsPage.xbf</PackagePath>
+      <Modified>2014-02-08T15:52:55.378</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\Search - Complete\Customers\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-02-08T18:23:46.909</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

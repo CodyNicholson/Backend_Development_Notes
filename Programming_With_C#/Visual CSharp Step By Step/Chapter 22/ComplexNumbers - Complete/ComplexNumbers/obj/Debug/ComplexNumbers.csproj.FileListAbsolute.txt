@@ -1,0 +1,17 @@
+D:\Visual CSharp Step By Step\Chapter 22\Windows 8\ComplexNumbers\ComplexNumbers\bin\Debug\ComplexNumbers.exe.config
+D:\Visual CSharp Step By Step\Chapter 22\Windows 8\ComplexNumbers\ComplexNumbers\bin\Debug\ComplexNumbers.exe
+D:\Visual CSharp Step By Step\Chapter 22\Windows 8\ComplexNumbers\ComplexNumbers\bin\Debug\ComplexNumbers.pdb
+D:\Visual CSharp Step By Step\Chapter 22\Windows 8\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.csprojResolveAssemblyReference.cache
+D:\Visual CSharp Step By Step\Chapter 22\Windows 8\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.exe
+D:\Visual CSharp Step By Step\Chapter 22\Windows 8\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.pdb
+D:\Visual CSharp Step By Step\Chapter 22\Windows 8.1\ComplexNumbers - Complete\ComplexNumbers\bin\Debug\ComplexNumbers.exe.config
+D:\Visual CSharp Step By Step\Chapter 22\Windows 8.1\ComplexNumbers - Complete\ComplexNumbers\obj\Debug\ComplexNumbers.exe
+D:\Visual CSharp Step By Step\Chapter 22\Windows 8.1\ComplexNumbers - Complete\ComplexNumbers\obj\Debug\ComplexNumbers.pdb
+D:\Visual CSharp Step By Step\Chapter 22\Windows 8.1\ComplexNumbers - Complete\ComplexNumbers\bin\Debug\ComplexNumbers.exe
+D:\Visual CSharp Step By Step\Chapter 22\Windows 8.1\ComplexNumbers - Complete\ComplexNumbers\bin\Debug\ComplexNumbers.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 22\Windows 8.1\ComplexNumbers - Complete\ComplexNumbers\bin\Debug\ComplexNumbers.exe.config
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 22\Windows 8.1\ComplexNumbers - Complete\ComplexNumbers\obj\Debug\ComplexNumbers.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 22\Windows 8.1\ComplexNumbers - Complete\ComplexNumbers\obj\Debug\ComplexNumbers.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 22\Windows 8.1\ComplexNumbers - Complete\ComplexNumbers\bin\Debug\ComplexNumbers.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 22\Windows 8.1\ComplexNumbers - Complete\ComplexNumbers\bin\Debug\ComplexNumbers.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 22\Windows 8.1\ComplexNumbers - Complete\ComplexNumbers\obj\Debug\ComplexNumbers.csprojResolveAssemblyReference.cache

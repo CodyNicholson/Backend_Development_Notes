@@ -1,0 +1,18 @@
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\DailyRate\DailyRate\bin\Debug\DailyRate.exe.config
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\DailyRate\DailyRate\bin\Debug\DailyRate.exe
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\DailyRate\DailyRate\bin\Debug\DailyRate.pdb
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\DailyRate\DailyRate\obj\Debug\DailyRate.csprojResolveAssemblyReference.cache
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\DailyRate\DailyRate\obj\Debug\DailyRate.exe
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\DailyRate\DailyRate\obj\Debug\DailyRate.pdb
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8.1\DailyRate - Complete\DailyRate\bin\Debug\DailyRate.exe.config
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8.1\DailyRate - Complete\DailyRate\obj\Debug\DailyRate.exe
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8.1\DailyRate - Complete\DailyRate\obj\Debug\DailyRate.pdb
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8.1\DailyRate - Complete\DailyRate\bin\Debug\DailyRate.exe
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8.1\DailyRate - Complete\DailyRate\bin\Debug\DailyRate.pdb
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8.1\DailyRate - Complete\DailyRate\obj\Debug\DailyRate.csprojResolveAssemblyReference.cache
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 3\Windows 8.1\DailyRate - Complete\DailyRate\bin\Debug\DailyRate.exe.config
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 3\Windows 8.1\DailyRate - Complete\DailyRate\obj\Debug\DailyRate.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 3\Windows 8.1\DailyRate - Complete\DailyRate\obj\Debug\DailyRate.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 3\Windows 8.1\DailyRate - Complete\DailyRate\bin\Debug\DailyRate.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 3\Windows 8.1\DailyRate - Complete\DailyRate\bin\Debug\DailyRate.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 3\Windows 8.1\DailyRate - Complete\DailyRate\obj\Debug\DailyRate.csprojResolveAssemblyReference.cache

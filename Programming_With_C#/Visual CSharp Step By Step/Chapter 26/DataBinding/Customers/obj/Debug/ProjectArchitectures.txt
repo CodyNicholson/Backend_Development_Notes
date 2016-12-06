@@ -1,0 +1,1 @@
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\Customers.csproj;neutral

@@ -1,0 +1,18 @@
+D:\Visual CSharp Step By Step\Chapter 15\Windows 8\AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.exe.config
+D:\Visual CSharp Step By Step\Chapter 15\Windows 8\AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.exe
+D:\Visual CSharp Step By Step\Chapter 15\Windows 8\AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.pdb
+D:\Visual CSharp Step By Step\Chapter 15\Windows 8\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.csprojResolveAssemblyReference.cache
+D:\Visual CSharp Step By Step\Chapter 15\Windows 8\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.exe
+D:\Visual CSharp Step By Step\Chapter 15\Windows 8\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.pdb
+D:\Visual CSharp Step By Step\Chapter 15\Windows 8.1\AutomaticProperties - Complete\AutomaticProperties\bin\Debug\AutomaticProperties.exe.config
+D:\Visual CSharp Step By Step\Chapter 15\Windows 8.1\AutomaticProperties - Complete\AutomaticProperties\obj\Debug\AutomaticProperties.exe
+D:\Visual CSharp Step By Step\Chapter 15\Windows 8.1\AutomaticProperties - Complete\AutomaticProperties\obj\Debug\AutomaticProperties.pdb
+D:\Visual CSharp Step By Step\Chapter 15\Windows 8.1\AutomaticProperties - Complete\AutomaticProperties\bin\Debug\AutomaticProperties.exe
+D:\Visual CSharp Step By Step\Chapter 15\Windows 8.1\AutomaticProperties - Complete\AutomaticProperties\bin\Debug\AutomaticProperties.pdb
+D:\Visual CSharp Step By Step\Chapter 15\Windows 8.1\AutomaticProperties - Complete\AutomaticProperties\obj\Debug\AutomaticProperties.csprojResolveAssemblyReference.cache
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 15\Windows 8.1\AutomaticProperties - Complete\AutomaticProperties\bin\Debug\AutomaticProperties.exe.config
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 15\Windows 8.1\AutomaticProperties - Complete\AutomaticProperties\obj\Debug\AutomaticProperties.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 15\Windows 8.1\AutomaticProperties - Complete\AutomaticProperties\obj\Debug\AutomaticProperties.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 15\Windows 8.1\AutomaticProperties - Complete\AutomaticProperties\bin\Debug\AutomaticProperties.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 15\Windows 8.1\AutomaticProperties - Complete\AutomaticProperties\bin\Debug\AutomaticProperties.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 15\Windows 8.1\AutomaticProperties - Complete\AutomaticProperties\obj\Debug\AutomaticProperties.csprojResolveAssemblyReference.cache

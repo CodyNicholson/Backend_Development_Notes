@@ -1,0 +1,9 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\visual csharp step by step\chapter 27\updateable viewmodel\customers\obj\debug\intermediatexaml\customers.exe" HashGuid="5b0e594b-89b2-75e1-4807-e9f60034df67" />
+    <ReferenceAssembly PathName="d:\c_sharp_sbs\microsoft press\visual csharp step by step\chapter 27\updateable viewmodel\packages\newtonsoft.json.4.5.11\lib\winrt45\newtonsoft.json.dll" HashGuid="962eab9d-2610-3ee3-6c11-2f3bc9a70fed" />
+    <ReferenceAssembly PathName="d:\c_sharp_sbs\microsoft press\visual csharp step by step\chapter 27\updateable viewmodel\packages\microsoft.net.http.2.1.10\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="d:\c_sharp_sbs\microsoft press\visual csharp step by step\chapter 27\updateable viewmodel\packages\microsoft.aspnet.webapi.client.5.0.0-beta2\lib\portable-wp8+netcore45+net45\system.net.http.formatting.dll" HashGuid="77393253-ba16-e21b-5d65-de958241d200" />
+    <ReferenceAssembly PathName="d:\c_sharp_sbs\microsoft press\visual csharp step by step\chapter 27\updateable viewmodel\packages\microsoft.net.http.2.1.10\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

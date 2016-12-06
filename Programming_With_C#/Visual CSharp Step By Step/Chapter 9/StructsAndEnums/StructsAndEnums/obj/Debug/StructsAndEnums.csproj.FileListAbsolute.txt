@@ -1,0 +1,12 @@
+D:\Visual CSharp Step By Step\Chapter 9\Windows 8\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.exe.config
+D:\Visual CSharp Step By Step\Chapter 9\Windows 8\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.exe
+D:\Visual CSharp Step By Step\Chapter 9\Windows 8\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.pdb
+D:\Visual CSharp Step By Step\Chapter 9\Windows 8\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.csprojResolveAssemblyReference.cache
+D:\Visual CSharp Step By Step\Chapter 9\Windows 8\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.exe
+D:\Visual CSharp Step By Step\Chapter 9\Windows 8\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 9\Windows 8.1\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.exe.config
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 9\Windows 8.1\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 9\Windows 8.1\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 9\Windows 8.1\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 9\Windows 8.1\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 9\Windows 8.1\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.csprojResolveAssemblyReference.cache

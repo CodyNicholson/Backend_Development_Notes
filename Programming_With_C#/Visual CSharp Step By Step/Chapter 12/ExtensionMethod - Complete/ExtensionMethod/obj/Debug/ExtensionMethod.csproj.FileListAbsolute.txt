@@ -1,0 +1,17 @@
+D:\Visual CSharp Step By Step\Chapter 12\Windows 8\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe.config
+D:\Visual CSharp Step By Step\Chapter 12\Windows 8\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe
+D:\Visual CSharp Step By Step\Chapter 12\Windows 8\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.pdb
+D:\Visual CSharp Step By Step\Chapter 12\Windows 8\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.exe
+D:\Visual CSharp Step By Step\Chapter 12\Windows 8\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.pdb
+D:\Visual CSharp Step By Step\Chapter 12\Windows 8.1\ExtensionMethod - Complete\ExtensionMethod\bin\Debug\ExtensionMethod.exe.config
+D:\Visual CSharp Step By Step\Chapter 12\Windows 8.1\ExtensionMethod - Complete\ExtensionMethod\obj\Debug\ExtensionMethod.exe
+D:\Visual CSharp Step By Step\Chapter 12\Windows 8.1\ExtensionMethod - Complete\ExtensionMethod\obj\Debug\ExtensionMethod.pdb
+D:\Visual CSharp Step By Step\Chapter 12\Windows 8.1\ExtensionMethod - Complete\ExtensionMethod\bin\Debug\ExtensionMethod.exe
+D:\Visual CSharp Step By Step\Chapter 12\Windows 8.1\ExtensionMethod - Complete\ExtensionMethod\bin\Debug\ExtensionMethod.pdb
+D:\Visual CSharp Step By Step\Chapter 12\Windows 8.1\ExtensionMethod - Complete\ExtensionMethod\obj\Debug\ExtensionMethod.csprojResolveAssemblyReference.cache
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 12\Windows 8.1\ExtensionMethod - Complete\ExtensionMethod\bin\Debug\ExtensionMethod.exe.config
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 12\Windows 8.1\ExtensionMethod - Complete\ExtensionMethod\obj\Debug\ExtensionMethod.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 12\Windows 8.1\ExtensionMethod - Complete\ExtensionMethod\obj\Debug\ExtensionMethod.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 12\Windows 8.1\ExtensionMethod - Complete\ExtensionMethod\bin\Debug\ExtensionMethod.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 12\Windows 8.1\ExtensionMethod - Complete\ExtensionMethod\bin\Debug\ExtensionMethod.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 12\Windows 8.1\ExtensionMethod - Complete\ExtensionMethod\obj\Debug\ExtensionMethod.csprojResolveAssemblyReference.cache

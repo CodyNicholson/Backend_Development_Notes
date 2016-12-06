@@ -1,0 +1,32 @@
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\DataTypes\bin\Debug\DataTypes.dll
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\DataTypes\bin\Debug\DataTypes.pdb
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\DataTypes\bin\Debug\DataTypes.pri
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\DataTypes\obj\Debug\DataTypes.dll
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\DataTypes\obj\Debug\DataTypes.pdb
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\DataTypes\obj\Debug\priconfig.xml
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\DataTypes\obj\Debug\priconfig.xml.intermediate
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\DataTypes\obj\Debug\layout.resfiles
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\DataTypes\obj\Debug\layout.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\DataTypes\obj\Debug\resources.resfiles
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\DataTypes\obj\Debug\resources.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\DataTypes\obj\Debug\pri.resfiles
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\DataTypes\obj\Debug\pri.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\DataTypes\obj\Debug\qualifiers.txt
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\DataTypes\obj\Debug\qualifiers.txt.intermediate
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\DataTypes\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\DataTypes\bin\Debug\DataTypes.dll
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\DataTypes\bin\Debug\DataTypes.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\DataTypes\bin\Debug\DataTypes.pri
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\DataTypes\obj\Debug\DataTypes.dll
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\DataTypes\obj\Debug\DataTypes.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\DataTypes\obj\Debug\priconfig.xml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\DataTypes\obj\Debug\priconfig.xml.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\DataTypes\obj\Debug\layout.resfiles
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\DataTypes\obj\Debug\layout.resfiles.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\DataTypes\obj\Debug\resources.resfiles
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\DataTypes\obj\Debug\resources.resfiles.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\DataTypes\obj\Debug\pri.resfiles
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\DataTypes\obj\Debug\pri.resfiles.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\DataTypes\obj\Debug\qualifiers.txt
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\DataTypes\obj\Debug\qualifiers.txt.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\DataTypes\obj\Debug\MultipleQualifiersPerDimensionFound.txt

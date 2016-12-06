@@ -1,0 +1,84 @@
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\obj\Debug\App.g.i.cs
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\obj\Debug\App.g.cs
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\obj\Debug\MainWindow.g.i.cs
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\obj\Debug\MainWindow.g.cs
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\obj\Debug\XamlTypeInfo.g.cs
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\obj\Debug\App.xaml
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\obj\Debug\App.xbf
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\obj\Debug\XamlSaveStateFile.xml
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\bin\Debug\App.xbf
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\bin\Debug\MainWindow.xbf
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\bin\Debug\Delegates.exe
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\bin\Debug\Delegates.pdb
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\bin\Debug\resources.pri
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\bin\Debug\AppxManifest.xml
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\bin\Debug\Delegates.build.appxrecipe
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\bin\Debug\AuditService.dll
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\bin\Debug\DataTypes.dll
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\bin\Debug\DeliveryService.dll
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\bin\Debug\AuditService.pdb
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\bin\Debug\AuditService.pri
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\bin\Debug\DataTypes.pdb
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\bin\Debug\DataTypes.pri
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\bin\Debug\DeliveryService.pdb
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\bin\Debug\DeliveryService.pri
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\obj\Debug\MainWindow.xaml
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\obj\Debug\MainWindow.xbf
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\obj\Debug\Delegates.exe
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\obj\Debug\Delegates.pdb
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\obj\Debug\Delegates.csproj.GenerateResource.Cache
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\obj\Debug\priconfig.xml
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\obj\Debug\priconfig.xml.intermediate
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\obj\Debug\layout.resfiles
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\obj\Debug\layout.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\obj\Debug\resources.resfiles
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\obj\Debug\resources.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\obj\Debug\pri.resfiles
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\obj\Debug\pri.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\obj\Debug\qualifiers.txt
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\obj\Debug\qualifiers.txt.intermediate
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Visual CSharp Step By Step\Chapter 20\Windows 8\Delegates\Delegates\obj\Debug\ProjectArchitectures.txt
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\bin\Debug\App.xbf
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\bin\Debug\MainWindow.xbf
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\bin\Debug\Delegates.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\bin\Debug\Delegates.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\bin\Debug\resources.pri
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\bin\Debug\AppxManifest.xml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\bin\Debug\Delegates.build.appxrecipe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\bin\Debug\AuditService.dll
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\bin\Debug\DataTypes.dll
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\bin\Debug\DeliveryService.dll
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\bin\Debug\AuditService.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\bin\Debug\AuditService.pri
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\bin\Debug\DataTypes.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\bin\Debug\DataTypes.pri
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\bin\Debug\DeliveryService.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\bin\Debug\DeliveryService.pri
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\obj\Debug\App.g.i.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\obj\Debug\App.g.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\obj\Debug\MainWindow.g.i.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\obj\Debug\MainWindow.g.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\obj\Debug\XamlTypeInfo.g.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\obj\Debug\App.xaml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\obj\Debug\MainWindow.xaml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\obj\Debug\App.xbf
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\obj\Debug\MainWindow.xbf
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\obj\Debug\XamlSaveStateFile.xml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\obj\Debug\Delegates.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\obj\Debug\Delegates.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\obj\Debug\Delegates.csproj.GenerateResource.Cache
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\obj\Debug\priconfig.xml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\obj\Debug\priconfig.xml.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\obj\Debug\layout.resfiles
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\obj\Debug\layout.resfiles.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\obj\Debug\resources.resfiles
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\obj\Debug\resources.resfiles.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\obj\Debug\pri.resfiles
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\obj\Debug\pri.resfiles.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\obj\Debug\qualifiers.txt
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\obj\Debug\qualifiers.txt.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\obj\Debug\ProjectArchitectures.txt

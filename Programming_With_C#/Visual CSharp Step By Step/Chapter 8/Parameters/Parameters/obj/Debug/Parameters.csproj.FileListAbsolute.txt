@@ -1,0 +1,12 @@
+D:\Visual CSharp Step By Step\Chapter 8\Windows 8\Parameters\Parameters\bin\Debug\Parameters.exe.config
+D:\Visual CSharp Step By Step\Chapter 8\Windows 8\Parameters\Parameters\bin\Debug\Parameters.exe
+D:\Visual CSharp Step By Step\Chapter 8\Windows 8\Parameters\Parameters\bin\Debug\Parameters.pdb
+D:\Visual CSharp Step By Step\Chapter 8\Windows 8\Parameters\Parameters\obj\Debug\Parameters.csprojResolveAssemblyReference.cache
+D:\Visual CSharp Step By Step\Chapter 8\Windows 8\Parameters\Parameters\obj\Debug\Parameters.exe
+D:\Visual CSharp Step By Step\Chapter 8\Windows 8\Parameters\Parameters\obj\Debug\Parameters.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 8\Windows 8.1\Parameters\Parameters\bin\Debug\Parameters.exe.config
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 8\Windows 8.1\Parameters\Parameters\obj\Debug\Parameters.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 8\Windows 8.1\Parameters\Parameters\obj\Debug\Parameters.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 8\Windows 8.1\Parameters\Parameters\bin\Debug\Parameters.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 8\Windows 8.1\Parameters\Parameters\bin\Debug\Parameters.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 8\Windows 8.1\Parameters\Parameters\obj\Debug\Parameters.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Visual CSharp Step By Step\Chapter 24\CalculatePI\CalculatePI\bin\Debug\CalculatePI.exe.config
+D:\Visual CSharp Step By Step\Chapter 24\CalculatePI\CalculatePI\bin\Debug\CalculatePI.exe
+D:\Visual CSharp Step By Step\Chapter 24\CalculatePI\CalculatePI\bin\Debug\CalculatePI.pdb
+D:\Visual CSharp Step By Step\Chapter 24\CalculatePI\CalculatePI\obj\Debug\CalculatePI.csprojResolveAssemblyReference.cache
+D:\Visual CSharp Step By Step\Chapter 24\CalculatePI\CalculatePI\obj\Debug\CalculatePI.exe
+D:\Visual CSharp Step By Step\Chapter 24\CalculatePI\CalculatePI\obj\Debug\CalculatePI.pdb

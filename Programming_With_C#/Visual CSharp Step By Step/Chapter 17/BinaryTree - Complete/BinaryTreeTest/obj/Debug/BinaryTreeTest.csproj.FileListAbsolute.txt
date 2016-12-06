@@ -1,0 +1,24 @@
+D:\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTreeTest.exe.config
+D:\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTreeTest.exe
+D:\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTreeTest.pdb
+D:\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTree.dll
+D:\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTree.pdb
+D:\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree\BinaryTreeTest\obj\Debug\BinaryTreeTest.csprojResolveAssemblyReference.cache
+D:\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree\BinaryTreeTest\obj\Debug\BinaryTreeTest.exe
+D:\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree\BinaryTreeTest\obj\Debug\BinaryTreeTest.pdb
+D:\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree - Complete\BinaryTreeTest\bin\Debug\BinaryTreeTest.exe.config
+D:\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree - Complete\BinaryTreeTest\bin\Debug\BinaryTreeTest.exe
+D:\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree - Complete\BinaryTreeTest\bin\Debug\BinaryTreeTest.pdb
+D:\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree - Complete\BinaryTreeTest\bin\Debug\BinaryTree.dll
+D:\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree - Complete\BinaryTreeTest\bin\Debug\BinaryTree.pdb
+D:\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree - Complete\BinaryTreeTest\obj\Debug\BinaryTreeTest.csprojResolveAssemblyReference.cache
+D:\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree - Complete\BinaryTreeTest\obj\Debug\BinaryTreeTest.exe
+D:\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree - Complete\BinaryTreeTest\obj\Debug\BinaryTreeTest.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree - Complete\BinaryTreeTest\bin\Debug\BinaryTreeTest.exe.config
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree - Complete\BinaryTreeTest\obj\Debug\BinaryTreeTest.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree - Complete\BinaryTreeTest\obj\Debug\BinaryTreeTest.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree - Complete\BinaryTreeTest\bin\Debug\BinaryTreeTest.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree - Complete\BinaryTreeTest\bin\Debug\BinaryTreeTest.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree - Complete\BinaryTreeTest\bin\Debug\BinaryTree.dll
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree - Complete\BinaryTreeTest\bin\Debug\BinaryTree.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree - Complete\BinaryTreeTest\obj\Debug\BinaryTreeTest.csprojResolveAssemblyReference.cache

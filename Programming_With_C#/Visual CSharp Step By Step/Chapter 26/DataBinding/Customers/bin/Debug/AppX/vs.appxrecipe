@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LON-DEV-081</Machine>
+    <WindowsUser>John</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>D9DAC22AD7CD844688722B0D9364EC4024690DE66B39D9A4BF679AE560938804</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f8779f5c-9848-42cd-bbba-008c279cf2e0_1.0.0.0_neutral__v2eq8qs7wm15j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f8779f5c-9848-42cd-bbba-008c279cf2e0_v2eq8qs7wm15j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f8779f5c-9848-42cd-bbba-008c279cf2e0</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=John</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-04T16:49:26.092</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\bin\Debug\Customers.exe">
+      <PackagePath>Customers.exe</PackagePath>
+      <Modified>2013-07-04T16:53:25.479</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\bin\Debug\Customers.pdb">
+      <PackagePath>Customers.pdb</PackagePath>
+      <Modified>2013-07-04T16:53:25.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T18:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T18:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T18:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T18:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\Images\wood.jpg">
+      <PackagePath>Images\wood.jpg</PackagePath>
+      <Modified>2013-07-04T16:49:02.931</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2013-07-04T16:53:25.325</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\bin\Debug\AppStyles.xbf">
+      <PackagePath>AppStyles.xbf</PackagePath>
+      <Modified>2013-07-04T16:49:25.708</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2013-07-04T16:53:25.326</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-07-04T16:49:25.981</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

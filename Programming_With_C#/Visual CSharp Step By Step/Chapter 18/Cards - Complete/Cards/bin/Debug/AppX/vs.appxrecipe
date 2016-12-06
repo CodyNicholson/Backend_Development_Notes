@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LON-DEV-082</Machine>
+    <WindowsUser>John</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>aed7dd80-6187-4021-b6fd-cc91cb1da69c</PackageIdentityName>
+    <RegisteredManifestChecksum>DCC4BEDDFA7C7919DA9AA380D96C24E2D1BA60C8BF4804DEAD0C2F9CB1BAD71A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>aed7dd80-6187-4021-b6fd-cc91cb1da69c_1.0.0.0_neutral__v2eq8qs7wm15j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>aed7dd80-6187-4021-b6fd-cc91cb1da69c_v2eq8qs7wm15j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>aed7dd80-6187-4021-b6fd-cc91cb1da69c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=John</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 18\Windows 8.1\Cards - Complete\Cards\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-08T17:33:40.768</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 18\Windows 8.1\Cards - Complete\Cards\bin\Debug\Cards.exe">
+      <PackagePath>Cards.exe</PackagePath>
+      <Modified>2014-02-08T17:33:40.659</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 18\Windows 8.1\Cards - Complete\Cards\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T19:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 18\Windows 8.1\Cards - Complete\Cards\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T19:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 18\Windows 8.1\Cards - Complete\Cards\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T19:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 18\Windows 8.1\Cards - Complete\Cards\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T19:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 18\Windows 8.1\Cards - Complete\Cards\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2013-07-08T11:13:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 18\Windows 8.1\Cards - Complete\Cards\bin\Debug\MainWindow.xbf">
+      <PackagePath>MainWindow.xbf</PackagePath>
+      <Modified>2013-07-08T11:13:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 18\Windows 8.1\Cards - Complete\Cards\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-02-08T17:33:40.721</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

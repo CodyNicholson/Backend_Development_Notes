@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LON-DEV-082</Machine>
+    <WindowsUser>John</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f3dadaec-6154-4c17-93ff-bc5a5c557d5f</PackageIdentityName>
+    <RegisteredManifestChecksum>7630482EA2DCAB922B3914AC415D0E85D9C518B3D9BEEE21563D6D47CFD6D1C8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f3dadaec-6154-4c17-93ff-bc5a5c557d5f_1.0.0.0_neutral__v2eq8qs7wm15j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f3dadaec-6154-4c17-93ff-bc5a5c557d5f_v2eq8qs7wm15j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f3dadaec-6154-4c17-93ff-bc5a5c557d5f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=John</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\GraphDemo\GraphDemo\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-08T17:49:29.977</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\GraphDemo\GraphDemo\bin\Debug\GraphDemo.exe">
+      <PackagePath>GraphDemo.exe</PackagePath>
+      <Modified>2014-02-08T18:01:05.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\GraphDemo\GraphDemo\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T19:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\GraphDemo\GraphDemo\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T19:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\GraphDemo\GraphDemo\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T19:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\GraphDemo\GraphDemo\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T19:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\GraphDemo\GraphDemo\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2013-07-03T11:55:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\GraphDemo\GraphDemo\bin\Debug\GraphWindow.xbf">
+      <PackagePath>GraphWindow.xbf</PackagePath>
+      <Modified>2013-07-03T12:37:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\GraphDemo\GraphDemo\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-02-08T17:49:29.570</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LON-DEV-082</Machine>
+    <WindowsUser>John</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>00a79705-4155-4d86-a699-36778d62fc9e</PackageIdentityName>
+    <RegisteredManifestChecksum>B27E6B398748E48D6469785B7822DCAA9FD0760CB34A1D8DA9E374F56C20323E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>00a79705-4155-4d86-a699-36778d62fc9e_1.0.0.0_neutral__v2eq8qs7wm15j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>00a79705-4155-4d86-a699-36778d62fc9e_v2eq8qs7wm15j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>00a79705-4155-4d86-a699-36778d62fc9e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=John</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 16\Windows 8.1\Indexers - Complete\Indexers\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-08T17:27:20.798</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 16\Windows 8.1\Indexers - Complete\Indexers\bin\Debug\Indexers.exe">
+      <PackagePath>Indexers.exe</PackagePath>
+      <Modified>2014-02-08T17:27:20.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 16\Windows 8.1\Indexers - Complete\Indexers\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T19:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 16\Windows 8.1\Indexers - Complete\Indexers\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T19:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 16\Windows 8.1\Indexers - Complete\Indexers\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T19:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 16\Windows 8.1\Indexers - Complete\Indexers\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T19:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 16\Windows 8.1\Indexers - Complete\Indexers\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2013-07-02T17:35:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 16\Windows 8.1\Indexers - Complete\Indexers\bin\Debug\MainWindow.xbf">
+      <PackagePath>MainWindow.xbf</PackagePath>
+      <Modified>2013-07-02T17:35:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 16\Windows 8.1\Indexers - Complete\Indexers\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-02-08T17:27:20.751</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,15 @@
+D:\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree\BinaryTree\bin\Debug\BinaryTree.dll
+D:\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+D:\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+D:\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree\BinaryTree\obj\Debug\BinaryTree.dll
+D:\Visual CSharp Step By Step\Chapter 17\Windows 8.1\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+D:\Visual CSharp Step By Step\Chapter 19\Windows 8\BinaryTree - Complete\BinaryTree\bin\Debug\BinaryTree.dll
+D:\Visual CSharp Step By Step\Chapter 19\Windows 8\BinaryTree - Complete\BinaryTree\bin\Debug\BinaryTree.pdb
+D:\Visual CSharp Step By Step\Chapter 19\Windows 8\BinaryTree - Complete\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+D:\Visual CSharp Step By Step\Chapter 19\Windows 8\BinaryTree - Complete\BinaryTree\obj\Debug\BinaryTree.dll
+D:\Visual CSharp Step By Step\Chapter 19\Windows 8\BinaryTree - Complete\BinaryTree\obj\Debug\BinaryTree.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 19\Windows 8.1\BinaryTree - Complete\BinaryTree\bin\Debug\BinaryTree.dll
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 19\Windows 8.1\BinaryTree - Complete\BinaryTree\bin\Debug\BinaryTree.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 19\Windows 8.1\BinaryTree - Complete\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 19\Windows 8.1\BinaryTree - Complete\BinaryTree\obj\Debug\BinaryTree.dll
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 19\Windows 8.1\BinaryTree - Complete\BinaryTree\obj\Debug\BinaryTree.pdb

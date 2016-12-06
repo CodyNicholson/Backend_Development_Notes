@@ -1,0 +1,108 @@
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\bin\Debug\App.xbf
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\bin\Debug\AppStyles.xbf
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\bin\Debug\MainPage.xbf
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\bin\Debug\Customers.exe
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\bin\Debug\Customers.pdb
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\bin\Debug\resources.pri
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\bin\Debug\AppxManifest.xml
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\bin\Debug\Customers.build.appxrecipe
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\App.g.i.cs
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\App.g.cs
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\AppStyles.g.i.cs
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\AppStyles.g.cs
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\MainPage.g.i.cs
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\MainPage.g.cs
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\XamlTypeInfo.g.cs
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\AppStyles.xaml
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\MainPage.xaml
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\AppStyles.xbf
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\MainPage.xbf
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\XamlSaveStateFile.xml
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\App.xaml
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\App.xbf
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\Customers.exe
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\Customers.pdb
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\priconfig.xml
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\priconfig.xml.intermediate
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\layout.resfiles
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\layout.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\resources.resfiles
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\resources.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\pri.resfiles
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\pri.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\qualifiers.txt
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\qualifiers.txt.intermediate
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Visual CSharp Step By Step\Chapter 26\Customers\Customers\obj\Debug\ProjectArchitectures.txt
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\bin\Debug\App.xbf
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\bin\Debug\AppStyles.xbf
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\bin\Debug\MainPage.xbf
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\bin\Debug\Customers.exe
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\bin\Debug\Customers.pdb
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\bin\Debug\resources.pri
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\bin\Debug\AppxManifest.xml
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\bin\Debug\Customers.build.appxrecipe
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\App.g.i.cs
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\App.g.cs
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\AppStyles.g.i.cs
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\AppStyles.g.cs
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\MainPage.g.i.cs
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\MainPage.g.cs
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\XamlTypeInfo.g.cs
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\App.xaml
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\AppStyles.xaml
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\App.xbf
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\AppStyles.xbf
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\XamlSaveStateFile.xml
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\MainPage.xaml
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\MainPage.xbf
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\Customers.exe
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\Customers.pdb
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\priconfig.xml
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\priconfig.xml.intermediate
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\layout.resfiles
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\layout.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\resources.resfiles
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\resources.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\pri.resfiles
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\pri.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\qualifiers.txt
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\qualifiers.txt.intermediate
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\ProjectArchitectures.txt
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\bin\Debug\App.xbf
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\bin\Debug\AppStyles.xbf
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\bin\Debug\MainPage.xbf
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\bin\Debug\Customers.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\bin\Debug\Customers.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\bin\Debug\resources.pri
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\bin\Debug\AppxManifest.xml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\bin\Debug\Customers.build.appxrecipe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\App.g.i.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\App.g.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\AppStyles.g.i.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\AppStyles.g.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\MainPage.g.i.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\MainPage.g.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\XamlTypeInfo.g.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\App.xaml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\AppStyles.xaml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\MainPage.xaml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\App.xbf
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\AppStyles.xbf
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\MainPage.xbf
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\XamlSaveStateFile.xml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\Customers.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\Customers.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\priconfig.xml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\priconfig.xml.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\layout.resfiles
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\layout.resfiles.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\resources.resfiles
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\resources.resfiles.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\pri.resfiles
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\pri.resfiles.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\qualifiers.txt
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\qualifiers.txt.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 26\DataBinding - Complete\Customers\obj\Debug\ProjectArchitectures.txt

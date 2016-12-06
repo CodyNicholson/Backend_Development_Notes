@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LON-DEV-082</Machine>
+    <WindowsUser>John</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>11cd7087-9def-4ce2-954e-1c00a2a5cbd8</PackageIdentityName>
+    <RegisteredManifestChecksum>79DDE8144BFC52F98FE5524CBC27ED6AE1CA80E7881C4A01BBED09EA1E1B6F7C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>11cd7087-9def-4ce2-954e-1c00a2a5cbd8_1.0.0.0_neutral__v2eq8qs7wm15j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>11cd7087-9def-4ce2-954e-1c00a2a5cbd8_v2eq8qs7wm15j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>11cd7087-9def-4ce2-954e-1c00a2a5cbd8</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=John</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\Delegates\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-08T17:42:52.312</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\Delegates\bin\Debug\Delegates.exe">
+      <PackagePath>Delegates.exe</PackagePath>
+      <Modified>2014-02-08T17:42:52.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\AuditService\bin\Debug\AuditService.dll">
+      <PackagePath>AuditService.dll</PackagePath>
+      <Modified>2014-02-08T17:42:50.703</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\CheckoutService\bin\Debug\CheckoutService.dll">
+      <PackagePath>CheckoutService.dll</PackagePath>
+      <Modified>2014-02-08T17:42:51.249</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\DataTypes\bin\Debug\DataTypes.dll">
+      <PackagePath>DataTypes.dll</PackagePath>
+      <Modified>2014-02-08T17:42:50.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\DeliveryService\bin\Debug\DeliveryService.dll">
+      <PackagePath>DeliveryService.dll</PackagePath>
+      <Modified>2014-02-08T17:42:50.968</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\Delegates\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T19:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\Delegates\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T19:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\Delegates\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T19:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\Delegates\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T19:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\Delegates\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2013-07-02T18:31:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\Delegates\bin\Debug\MainWindow.xbf">
+      <PackagePath>MainWindow.xbf</PackagePath>
+      <Modified>2013-07-25T19:07:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates - Complete\Delegates\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-02-08T17:42:52.265</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

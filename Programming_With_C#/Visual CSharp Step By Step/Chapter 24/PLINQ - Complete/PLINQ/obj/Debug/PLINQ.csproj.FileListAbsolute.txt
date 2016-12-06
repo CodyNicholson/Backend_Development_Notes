@@ -1,0 +1,17 @@
+D:\Visual CSharp Step By Step\Chapter 24\PLINQ\PLINQ\bin\Debug\PLINQ.exe.config
+D:\Visual CSharp Step By Step\Chapter 24\PLINQ\PLINQ\bin\Debug\PLINQ.exe
+D:\Visual CSharp Step By Step\Chapter 24\PLINQ\PLINQ\bin\Debug\PLINQ.pdb
+D:\Visual CSharp Step By Step\Chapter 24\PLINQ\PLINQ\obj\Debug\PLINQ.exe
+D:\Visual CSharp Step By Step\Chapter 24\PLINQ\PLINQ\obj\Debug\PLINQ.pdb
+D:\Visual CSharp Step By Step\Chapter 24\PLINQ - Complete\PLINQ\bin\Debug\PLINQ.exe.config
+D:\Visual CSharp Step By Step\Chapter 24\PLINQ - Complete\PLINQ\obj\Debug\PLINQ.exe
+D:\Visual CSharp Step By Step\Chapter 24\PLINQ - Complete\PLINQ\obj\Debug\PLINQ.pdb
+D:\Visual CSharp Step By Step\Chapter 24\PLINQ - Complete\PLINQ\bin\Debug\PLINQ.exe
+D:\Visual CSharp Step By Step\Chapter 24\PLINQ - Complete\PLINQ\bin\Debug\PLINQ.pdb
+D:\Visual CSharp Step By Step\Chapter 24\PLINQ - Complete\PLINQ\obj\Debug\PLINQ.csprojResolveAssemblyReference.cache
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\PLINQ - Complete\PLINQ\bin\Debug\PLINQ.exe.config
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\PLINQ - Complete\PLINQ\obj\Debug\PLINQ.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\PLINQ - Complete\PLINQ\obj\Debug\PLINQ.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\PLINQ - Complete\PLINQ\bin\Debug\PLINQ.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\PLINQ - Complete\PLINQ\bin\Debug\PLINQ.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\PLINQ - Complete\PLINQ\obj\Debug\PLINQ.csprojResolveAssemblyReference.cache

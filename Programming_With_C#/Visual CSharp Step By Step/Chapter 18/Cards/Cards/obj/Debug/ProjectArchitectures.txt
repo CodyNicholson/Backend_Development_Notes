@@ -1,0 +1,1 @@
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 18\Windows 8.1\Cards\Cards\Cards.csproj;neutral

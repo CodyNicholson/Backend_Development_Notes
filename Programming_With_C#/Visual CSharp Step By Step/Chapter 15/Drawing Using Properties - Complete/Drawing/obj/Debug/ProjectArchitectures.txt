@@ -1,0 +1,1 @@
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 15\Windows 8.1\Drawing Using Properties - Complete\Drawing\Drawing.csproj;neutral

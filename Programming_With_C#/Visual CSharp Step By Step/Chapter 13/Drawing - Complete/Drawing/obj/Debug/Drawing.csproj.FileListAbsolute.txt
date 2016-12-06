@@ -1,0 +1,93 @@
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\obj\Debug\App.g.i.cs
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\obj\Debug\App.g.cs
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\obj\Debug\DrawingPad.g.i.cs
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\obj\Debug\DrawingPad.g.cs
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\obj\Debug\XamlTypeInfo.g.cs
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\obj\Debug\App.xaml
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\obj\Debug\App.xbf
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\obj\Debug\XamlSaveStateFile.xml
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\bin\Debug\App.xbf
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\bin\Debug\DrawingPad.xbf
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\bin\Debug\Drawing.exe
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\bin\Debug\Drawing.pdb
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\bin\Debug\resources.pri
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\bin\Debug\AppxManifest.xml
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\bin\Debug\Drawing.build.appxrecipe
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\obj\Debug\DrawingPad.xaml
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\obj\Debug\DrawingPad.xbf
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\obj\Debug\Drawing.exe
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\obj\Debug\Drawing.pdb
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\obj\Debug\priconfig.xml
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\obj\Debug\priconfig.xml.intermediate
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\obj\Debug\layout.resfiles
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\obj\Debug\layout.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\obj\Debug\resources.resfiles
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\obj\Debug\resources.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\obj\Debug\pri.resfiles
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\obj\Debug\pri.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\obj\Debug\qualifiers.txt
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\obj\Debug\qualifiers.txt.intermediate
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8\Drawing\Drawing\obj\Debug\ProjectArchitectures.txt
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\bin\Debug\App.xbf
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\bin\Debug\DrawingPad.xbf
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\bin\Debug\Drawing.exe
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\bin\Debug\Drawing.pdb
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\bin\Debug\resources.pri
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\bin\Debug\AppxManifest.xml
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\bin\Debug\Drawing.build.appxrecipe
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\App.g.i.cs
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\App.g.cs
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\DrawingPad.g.i.cs
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\DrawingPad.g.cs
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\XamlTypeInfo.g.cs
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\App.xaml
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\App.xbf
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\XamlSaveStateFile.xml
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\DrawingPad.xaml
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\DrawingPad.xbf
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\Drawing.exe
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\Drawing.pdb
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\priconfig.xml
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\priconfig.xml.intermediate
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\layout.resfiles
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\layout.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\resources.resfiles
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\resources.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\pri.resfiles
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\pri.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\qualifiers.txt
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\qualifiers.txt.intermediate
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\ProjectArchitectures.txt
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\bin\Debug\App.xbf
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\bin\Debug\DrawingPad.xbf
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\bin\Debug\Drawing.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\bin\Debug\Drawing.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\bin\Debug\resources.pri
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\bin\Debug\AppxManifest.xml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\bin\Debug\Drawing.build.appxrecipe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\App.g.i.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\App.g.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\DrawingPad.g.i.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\DrawingPad.g.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\XamlTypeInfo.g.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\App.xaml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\DrawingPad.xaml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\App.xbf
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\DrawingPad.xbf
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\XamlSaveStateFile.xml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\Drawing.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\Drawing.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\priconfig.xml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\priconfig.xml.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\layout.resfiles
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\layout.resfiles.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\resources.resfiles
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\resources.resfiles.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\pri.resfiles
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\pri.resfiles.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\qualifiers.txt
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\qualifiers.txt.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Windows 8.1\Drawing - Complete\Drawing\obj\Debug\ProjectArchitectures.txt

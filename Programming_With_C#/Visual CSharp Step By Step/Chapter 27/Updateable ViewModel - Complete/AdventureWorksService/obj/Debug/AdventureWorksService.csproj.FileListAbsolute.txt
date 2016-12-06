@@ -1,0 +1,207 @@
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\AdventureWorksService.dll.config
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\AdventureWorksService.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\AdventureWorksService.pdb
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\Antlr3.Runtime.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\EntityFramework.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\Microsoft.Data.Edm.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\Microsoft.Data.OData.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\Newtonsoft.Json.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\System.Net.Http.Formatting.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\System.Spatial.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\System.Web.Helpers.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\System.Web.Http.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\System.Web.Http.OData.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\System.Web.Http.Tracing.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\System.Web.Http.WebHost.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\System.Web.Mvc.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\System.Web.Optimization.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\System.Web.Razor.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\System.Web.WebPages.Deployment.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\System.Web.WebPages.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\System.Web.WebPages.Razor.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\WebGrease.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\EntityFramework.xml
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\Newtonsoft.Json.xml
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\System.Net.Http.Formatting.xml
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\System.Web.Helpers.xml
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\System.Web.Http.xml
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\System.Web.Http.WebHost.xml
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\System.Web.Mvc.xml
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\System.Web.Razor.xml
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\System.Web.WebPages.xml
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\System.Web.WebPages.Deployment.xml
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\System.Web.WebPages.Razor.xml
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\System.Web.Http.Tracing.xml
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\System.Web.Http.OData.xml
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\Microsoft.Data.Edm.xml
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\Microsoft.Data.OData.xml
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\System.Spatial.xml
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\de\Microsoft.Data.OData.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\es\Microsoft.Data.OData.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\it\Microsoft.Data.OData.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\de\System.Spatial.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\es\System.Spatial.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\fr\System.Spatial.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\it\System.Spatial.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\ja\System.Spatial.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\ko\System.Spatial.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\ru\System.Spatial.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\zh-Hans\System.Spatial.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\bin\zh-Hant\System.Spatial.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\obj\Debug\AdventureWorksService.dll
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\obj\Debug\AdventureWorksService.pdb
+D:\Visual CSharp Step By Step\Chapter 27\Data Service - Complete\AdventureWorksService\obj\Debug\AdventureWorksService.csprojResolveAssemblyReference.cache
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\AdventureWorksService.dll.config
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\AdventureWorksService.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\AdventureWorksService.pdb
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\Antlr3.Runtime.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\EntityFramework.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\Microsoft.Data.Edm.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\Microsoft.Data.OData.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\Newtonsoft.Json.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\System.Net.Http.Formatting.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\System.Spatial.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\System.Web.Helpers.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\System.Web.Http.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\System.Web.Http.OData.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\System.Web.Http.Tracing.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\System.Web.Http.WebHost.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\System.Web.Mvc.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\System.Web.Optimization.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\System.Web.Razor.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\System.Web.WebPages.Deployment.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\System.Web.WebPages.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\System.Web.WebPages.Razor.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\WebGrease.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\EntityFramework.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\Newtonsoft.Json.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\System.Net.Http.Formatting.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\System.Web.Helpers.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\System.Web.Http.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\System.Web.Http.WebHost.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\System.Web.Mvc.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\System.Web.Razor.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\System.Web.WebPages.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\System.Web.WebPages.Deployment.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\System.Web.WebPages.Razor.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\System.Web.Http.Tracing.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\System.Web.Http.OData.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\Microsoft.Data.Edm.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\Microsoft.Data.OData.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\System.Spatial.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\de\Microsoft.Data.OData.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\es\Microsoft.Data.OData.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\it\Microsoft.Data.OData.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\de\System.Spatial.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\es\System.Spatial.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\fr\System.Spatial.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\it\System.Spatial.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\ja\System.Spatial.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\ko\System.Spatial.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\ru\System.Spatial.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\zh-Hans\System.Spatial.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\bin\zh-Hant\System.Spatial.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\obj\Debug\AdventureWorksService.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\obj\Debug\AdventureWorksService.pdb
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel\AdventureWorksService\obj\Debug\AdventureWorksService.csprojResolveAssemblyReference.cache
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\AdventureWorksService.dll.config
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\AdventureWorksService.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\AdventureWorksService.pdb
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\Antlr3.Runtime.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\EntityFramework.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\Microsoft.Data.Edm.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\Microsoft.Data.OData.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\Newtonsoft.Json.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\System.Net.Http.Formatting.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\System.Spatial.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\System.Web.Helpers.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\System.Web.Http.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\System.Web.Http.OData.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\System.Web.Http.Tracing.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\System.Web.Http.WebHost.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\System.Web.Mvc.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\System.Web.Optimization.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\System.Web.Razor.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\System.Web.WebPages.Deployment.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\System.Web.WebPages.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\System.Web.WebPages.Razor.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\WebGrease.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\EntityFramework.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\Newtonsoft.Json.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\System.Net.Http.Formatting.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\System.Web.Helpers.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\System.Web.Http.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\System.Web.Http.WebHost.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\System.Web.Mvc.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\System.Web.Razor.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\System.Web.WebPages.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\System.Web.WebPages.Deployment.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\System.Web.WebPages.Razor.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\System.Web.Http.Tracing.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\System.Web.Http.OData.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\Microsoft.Data.Edm.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\Microsoft.Data.OData.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\System.Spatial.xml
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\de\Microsoft.Data.OData.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\es\Microsoft.Data.OData.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\it\Microsoft.Data.OData.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\de\System.Spatial.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\es\System.Spatial.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\fr\System.Spatial.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\it\System.Spatial.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\ja\System.Spatial.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\ko\System.Spatial.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\ru\System.Spatial.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\zh-Hans\System.Spatial.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\bin\zh-Hant\System.Spatial.resources.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\obj\Debug\AdventureWorksService.csprojResolveAssemblyReference.cache
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\obj\Debug\AdventureWorksService.dll
+D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\AdventureWorksService\obj\Debug\AdventureWorksService.pdb

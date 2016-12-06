@@ -1,0 +1,1 @@
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement - Complete\WhileStatement\WhileStatement.csproj;neutral

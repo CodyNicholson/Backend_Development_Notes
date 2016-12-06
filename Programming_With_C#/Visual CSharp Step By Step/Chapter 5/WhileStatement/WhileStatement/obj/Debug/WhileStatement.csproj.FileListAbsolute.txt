@@ -1,0 +1,62 @@
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\bin\Debug\App.xbf
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\bin\Debug\MainWindow.xbf
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\bin\Debug\WhileStatement.exe
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\bin\Debug\WhileStatement.pdb
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\bin\Debug\resources.pri
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\bin\Debug\AppxManifest.xml
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\bin\Debug\WhileStatement.build.appxrecipe
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\obj\Debug\App.g.i.cs
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\obj\Debug\App.g.cs
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\obj\Debug\MainWindow.g.i.cs
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\obj\Debug\MainWindow.g.cs
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\obj\Debug\XamlTypeInfo.g.cs
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\obj\Debug\App.xaml
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\obj\Debug\App.xbf
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\obj\Debug\XamlSaveStateFile.xml
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\obj\Debug\MainWindow.xaml
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\obj\Debug\MainWindow.xbf
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\obj\Debug\WhileStatement.exe
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\obj\Debug\WhileStatement.pdb
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\obj\Debug\priconfig.xml
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\obj\Debug\priconfig.xml.intermediate
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\obj\Debug\layout.resfiles
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\obj\Debug\layout.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\obj\Debug\resources.resfiles
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\obj\Debug\resources.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\obj\Debug\pri.resfiles
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\obj\Debug\pri.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\obj\Debug\qualifiers.txt
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\obj\Debug\qualifiers.txt.intermediate
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Visual CSharp Step By Step\Chapter 5\Windows 8\WhileStatement\WhileStatement\obj\Debug\ProjectArchitectures.txt
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\bin\Debug\App.xbf
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\bin\Debug\MainWindow.xbf
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\bin\Debug\WhileStatement.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\bin\Debug\WhileStatement.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\bin\Debug\resources.pri
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\bin\Debug\AppxManifest.xml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\bin\Debug\WhileStatement.build.appxrecipe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\obj\Debug\App.g.i.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\obj\Debug\App.g.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\obj\Debug\MainWindow.g.i.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\obj\Debug\MainWindow.g.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\obj\Debug\XamlTypeInfo.g.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\obj\Debug\App.xaml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\obj\Debug\MainWindow.xaml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\obj\Debug\App.xbf
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\obj\Debug\MainWindow.xbf
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\obj\Debug\XamlSaveStateFile.xml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\obj\Debug\WhileStatement.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\obj\Debug\WhileStatement.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\obj\Debug\priconfig.xml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\obj\Debug\priconfig.xml.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\obj\Debug\layout.resfiles
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\obj\Debug\layout.resfiles.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\obj\Debug\resources.resfiles
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\obj\Debug\resources.resfiles.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\obj\Debug\pri.resfiles
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\obj\Debug\pri.resfiles.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\obj\Debug\qualifiers.txt
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\obj\Debug\qualifiers.txt.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 8.1\WhileStatement\WhileStatement\obj\Debug\ProjectArchitectures.txt

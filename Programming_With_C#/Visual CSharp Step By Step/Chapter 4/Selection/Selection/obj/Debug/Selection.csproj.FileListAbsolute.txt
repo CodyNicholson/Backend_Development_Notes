@@ -1,0 +1,124 @@
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\bin\Debug\App.xbf
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\bin\Debug\MainWindow.xbf
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\bin\Debug\Selection.exe
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\bin\Debug\Selection.pdb
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\bin\Debug\resources.pri
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\bin\Debug\AppxManifest.xml
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\bin\Debug\Selection.build.appxrecipe
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\obj\Debug\App.g.i.cs
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\obj\Debug\App.g.cs
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\obj\Debug\MainWindow.g.i.cs
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\obj\Debug\MainWindow.g.cs
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\obj\Debug\XamlTypeInfo.g.cs
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\obj\Debug\App.xaml
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\obj\Debug\App.xbf
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\obj\Debug\XamlSaveStateFile.xml
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\obj\Debug\MainWindow.xaml
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\obj\Debug\MainWindow.xbf
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\obj\Debug\Selection.exe
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\obj\Debug\Selection.pdb
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\obj\Debug\priconfig.xml
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\obj\Debug\priconfig.xml.intermediate
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\obj\Debug\layout.resfiles
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\obj\Debug\layout.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\obj\Debug\resources.resfiles
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\obj\Debug\resources.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\obj\Debug\pri.resfiles
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\obj\Debug\pri.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\obj\Debug\qualifiers.txt
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\obj\Debug\qualifiers.txt.intermediate
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Visual CSharp Step By Step\Chapter 3\Windows 8\Selection\Selection\obj\Debug\ProjectArchitectures.txt
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\bin\Debug\App.xbf
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\bin\Debug\MainWindow.xbf
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\bin\Debug\Selection.exe
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\bin\Debug\Selection.pdb
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\bin\Debug\resources.pri
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\bin\Debug\AppxManifest.xml
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\bin\Debug\Selection.build.appxrecipe
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\App.g.i.cs
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\App.g.cs
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\MainWindow.g.i.cs
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\MainWindow.g.cs
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\XamlTypeInfo.g.cs
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\App.xaml
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\MainWindow.xaml
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\App.xbf
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\MainWindow.xbf
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\XamlSaveStateFile.xml
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\Selection.exe
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\Selection.pdb
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\priconfig.xml
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\priconfig.xml.intermediate
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\layout.resfiles
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\layout.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\resources.resfiles
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\resources.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\pri.resfiles
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\pri.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\qualifiers.txt
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\qualifiers.txt.intermediate
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\ProjectArchitectures.txt
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\obj\Debug\App.g.i.cs
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\obj\Debug\App.g.cs
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\obj\Debug\MainWindow.g.i.cs
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\obj\Debug\MainWindow.g.cs
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\obj\Debug\XamlTypeInfo.g.cs
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\obj\Debug\App.xaml
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\obj\Debug\App.xbf
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\obj\Debug\XamlSaveStateFile.xml
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\obj\Debug\Selection.exe
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\obj\Debug\Selection.pdb
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\bin\Debug\App.xbf
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\bin\Debug\MainWindow.xbf
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\bin\Debug\Selection.exe
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\bin\Debug\Selection.pdb
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\bin\Debug\resources.pri
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\bin\Debug\AppxManifest.xml
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\bin\Debug\Selection.build.appxrecipe
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\obj\Debug\MainWindow.xaml
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\obj\Debug\MainWindow.xbf
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\obj\Debug\priconfig.xml
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\obj\Debug\priconfig.xml.intermediate
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\obj\Debug\layout.resfiles
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\obj\Debug\layout.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\obj\Debug\resources.resfiles
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\obj\Debug\resources.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\obj\Debug\pri.resfiles
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\obj\Debug\pri.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\obj\Debug\qualifiers.txt
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\obj\Debug\qualifiers.txt.intermediate
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection - Copy\Selection\obj\Debug\ProjectArchitectures.txt
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\bin\Debug\App.xbf
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\bin\Debug\MainWindow.xbf
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\bin\Debug\Selection.exe
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\bin\Debug\Selection.pdb
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\bin\Debug\resources.pri
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\bin\Debug\AppxManifest.xml
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\bin\Debug\Selection.build.appxrecipe
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\App.g.i.cs
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\App.g.cs
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\MainWindow.g.i.cs
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\MainWindow.g.cs
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\XamlTypeInfo.g.cs
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\App.xaml
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\MainWindow.xaml
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\App.xbf
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\MainWindow.xbf
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\XamlSaveStateFile.xml
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\Selection.exe
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\Selection.pdb
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\priconfig.xml
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\priconfig.xml.intermediate
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\layout.resfiles
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\layout.resfiles.intermediate
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\resources.resfiles
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\resources.resfiles.intermediate
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\pri.resfiles
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\pri.resfiles.intermediate
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\qualifiers.txt
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\qualifiers.txt.intermediate
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 8\Selection\Selection\obj\Debug\ProjectArchitectures.txt

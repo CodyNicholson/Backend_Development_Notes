@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LON-DEV-081</Machine>
+    <WindowsUser>John</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>5009DF15BF9840468B2FF8C403E6DBA1F18ADCA1E5622723DD68BDE64DD3109E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f8779f5c-9848-42cd-bbba-008c279cf2e0_1.0.0.0_neutral__v2eq8qs7wm15j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f8779f5c-9848-42cd-bbba-008c279cf2e0_v2eq8qs7wm15j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f8779f5c-9848-42cd-bbba-008c279cf2e0</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=John</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\Customers\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-11T09:53:58.923</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\Customers\bin\Debug\Customers.exe">
+      <PackagePath>Customers.exe</PackagePath>
+      <Modified>2013-07-11T09:53:58.531</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\Customers\bin\Debug\Customers.pdb">
+      <PackagePath>Customers.pdb</PackagePath>
+      <Modified>2013-07-11T09:53:58.512</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\packages\Newtonsoft.Json.4.5.11\lib\winrt45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2013-07-09T13:15:02.052</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\packages\Microsoft.Net.Http.2.1.10\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+      <Modified>2013-07-09T13:20:35.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\packages\Microsoft.AspNet.WebApi.Client.5.0.0-beta2\lib\portable-wp8+netcore45+net45\System.Net.Http.Formatting.dll">
+      <PackagePath>System.Net.Http.Formatting.dll</PackagePath>
+      <Modified>2013-07-09T13:20:35.838</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\packages\Microsoft.Net.Http.2.1.10\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+      <Modified>2013-07-09T13:20:35.143</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\Customers\Assets\AdventureWorksLogo150x150.png">
+      <PackagePath>Assets\AdventureWorksLogo150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-05T15:38:05.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\Customers\Assets\AdventureWorksLogo30x30.png">
+      <PackagePath>Assets\AdventureWorksLogo30x30.png</PackagePath>
+      <Modified>2013-07-05T15:38:05.094</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\Customers\Assets\AdventureWorksLogo620x300.png">
+      <PackagePath>Assets\AdventureWorksLogo620x300.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-05T15:38:05.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\Customers\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <Modified>2013-04-18T18:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\Customers\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T18:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\Customers\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <Modified>2013-04-18T18:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\Customers\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T18:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\Customers\Images\wood.jpg">
+      <PackagePath>Images\wood.jpg</PackagePath>
+      <Modified>2013-07-04T16:49:02.931</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\Customers\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2013-07-11T09:53:58.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\Customers\bin\Debug\AppStyles.xbf">
+      <PackagePath>AppStyles.xbf</PackagePath>
+      <Modified>2013-07-11T09:53:58.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\Customers\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2013-07-11T09:53:58.336</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Visual CSharp Step By Step\Chapter 27\Updateable ViewModel - Complete\Customers\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-07-11T09:53:58.811</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

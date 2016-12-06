@@ -1,0 +1,6 @@
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\AuditService\AuditService.csproj;neutral
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\DataTypes\DataTypes.csproj;neutral
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\DataTypes\DataTypes.csproj;neutral
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\DataTypes\DataTypes.csproj;neutral
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\Delegates\Delegates.csproj;neutral
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 20\Windows 8.1\Delegates\DeliveryService\DeliveryService.csproj;neutral

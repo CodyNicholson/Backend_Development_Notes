@@ -1,0 +1,93 @@
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\bin\Debug\App.xbf
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\bin\Debug\GraphWindow.xbf
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\bin\Debug\GraphDemo.exe
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\bin\Debug\GraphDemo.pdb
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\bin\Debug\resources.pri
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\bin\Debug\AppxManifest.xml
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\bin\Debug\GraphDemo.build.appxrecipe
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\obj\Debug\App.g.i.cs
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\obj\Debug\App.g.cs
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\obj\Debug\GraphWindow.g.i.cs
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\obj\Debug\GraphWindow.g.cs
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\obj\Debug\XamlTypeInfo.g.cs
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\obj\Debug\App.xaml
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\obj\Debug\App.xbf
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\obj\Debug\XamlSaveStateFile.xml
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\obj\Debug\GraphWindow.xaml
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\obj\Debug\GraphWindow.xbf
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\obj\Debug\GraphDemo.exe
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\obj\Debug\GraphDemo.pdb
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\obj\Debug\priconfig.xml
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\obj\Debug\priconfig.xml.intermediate
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\obj\Debug\layout.resfiles
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\obj\Debug\layout.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\obj\Debug\resources.resfiles
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\obj\Debug\resources.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\obj\Debug\pri.resfiles
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\obj\Debug\pri.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\obj\Debug\qualifiers.txt
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\obj\Debug\qualifiers.txt.intermediate
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo\GraphDemo\obj\Debug\ProjectArchitectures.txt
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\bin\Debug\App.xbf
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\bin\Debug\GraphWindow.xbf
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\bin\Debug\GraphDemo.exe
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\bin\Debug\GraphDemo.pdb
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\bin\Debug\resources.pri
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\bin\Debug\AppxManifest.xml
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\bin\Debug\GraphDemo.build.appxrecipe
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\App.g.i.cs
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\App.g.cs
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\GraphWindow.g.i.cs
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\GraphWindow.g.cs
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\XamlTypeInfo.g.cs
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\App.xaml
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\GraphWindow.xaml
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\App.xbf
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\GraphWindow.xbf
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\XamlSaveStateFile.xml
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\GraphDemo.exe
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\GraphDemo.pdb
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\priconfig.xml
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\priconfig.xml.intermediate
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\layout.resfiles
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\layout.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\resources.resfiles
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\resources.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\pri.resfiles
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\pri.resfiles.intermediate
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\qualifiers.txt
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\qualifiers.txt.intermediate
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\ProjectArchitectures.txt
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\bin\Debug\App.xbf
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\bin\Debug\GraphWindow.xbf
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\bin\Debug\GraphDemo.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\bin\Debug\GraphDemo.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\bin\Debug\resources.pri
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\bin\Debug\AppxManifest.xml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\bin\Debug\GraphDemo.build.appxrecipe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\App.g.i.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\App.g.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\GraphWindow.g.i.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\GraphWindow.g.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\XamlTypeInfo.g.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\App.xaml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\GraphWindow.xaml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\App.xbf
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\GraphWindow.xbf
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\XamlSaveStateFile.xml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\GraphDemo.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\GraphDemo.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\priconfig.xml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\priconfig.xml.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\layout.resfiles
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\layout.resfiles.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\resources.resfiles
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\resources.resfiles.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\pri.resfiles
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\pri.resfiles.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\qualifiers.txt
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\qualifiers.txt.intermediate
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 24\GraphDemo - Complete\GraphDemo\obj\Debug\ProjectArchitectures.txt

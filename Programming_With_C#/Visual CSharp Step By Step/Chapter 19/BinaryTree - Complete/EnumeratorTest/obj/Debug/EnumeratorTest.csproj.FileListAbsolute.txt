@@ -1,0 +1,16 @@
+D:\Visual CSharp Step By Step\Chapter 19\Windows 8\BinaryTree - Complete\EnumeratorTest\bin\Debug\EnumeratorTest.exe.config
+D:\Visual CSharp Step By Step\Chapter 19\Windows 8\BinaryTree - Complete\EnumeratorTest\bin\Debug\EnumeratorTest.exe
+D:\Visual CSharp Step By Step\Chapter 19\Windows 8\BinaryTree - Complete\EnumeratorTest\bin\Debug\EnumeratorTest.pdb
+D:\Visual CSharp Step By Step\Chapter 19\Windows 8\BinaryTree - Complete\EnumeratorTest\bin\Debug\BinaryTree.dll
+D:\Visual CSharp Step By Step\Chapter 19\Windows 8\BinaryTree - Complete\EnumeratorTest\bin\Debug\BinaryTree.pdb
+D:\Visual CSharp Step By Step\Chapter 19\Windows 8\BinaryTree - Complete\EnumeratorTest\obj\Debug\EnumeratorTest.csprojResolveAssemblyReference.cache
+D:\Visual CSharp Step By Step\Chapter 19\Windows 8\BinaryTree - Complete\EnumeratorTest\obj\Debug\EnumeratorTest.exe
+D:\Visual CSharp Step By Step\Chapter 19\Windows 8\BinaryTree - Complete\EnumeratorTest\obj\Debug\EnumeratorTest.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 19\Windows 8.1\BinaryTree - Complete\EnumeratorTest\bin\Debug\EnumeratorTest.exe.config
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 19\Windows 8.1\BinaryTree - Complete\EnumeratorTest\obj\Debug\EnumeratorTest.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 19\Windows 8.1\BinaryTree - Complete\EnumeratorTest\obj\Debug\EnumeratorTest.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 19\Windows 8.1\BinaryTree - Complete\EnumeratorTest\bin\Debug\EnumeratorTest.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 19\Windows 8.1\BinaryTree - Complete\EnumeratorTest\bin\Debug\EnumeratorTest.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 19\Windows 8.1\BinaryTree - Complete\EnumeratorTest\bin\Debug\BinaryTree.dll
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 19\Windows 8.1\BinaryTree - Complete\EnumeratorTest\bin\Debug\BinaryTree.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 19\Windows 8.1\BinaryTree - Complete\EnumeratorTest\obj\Debug\EnumeratorTest.csprojResolveAssemblyReference.cache
