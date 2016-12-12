@@ -24,7 +24,7 @@ We like to create algorithms that are of Linearithmic Complexity or faster becau
 
 ###Constant Time Complexity O(1)
 
-Swapping teo numbers or deciding whether a number is odd or even are both examples of things we can do in constant time
+Swapping two numbers or deciding whether a number is odd or even are both examples of things we can do in constant time
 
 ```
 function swapNums(num1, num2):
