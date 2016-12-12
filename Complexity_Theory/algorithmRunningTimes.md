@@ -66,7 +66,7 @@ end function
 
 mergesort, quicksort, heapsort
 
-finding closest pair of points whith divide and conquer method
+Finding closest pair of points with divide and conquer method
 
 -
 
@@ -74,7 +74,7 @@ finding closest pair of points whith divide and conquer method
 
 bubble sort, insertion sort
 
-finding the closest pair of points with brute fource approach
+Finding the closest pair of points with brute fource approach
 
 -
 
