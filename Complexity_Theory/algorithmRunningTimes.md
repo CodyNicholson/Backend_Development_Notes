@@ -24,7 +24,7 @@ We like to create algorithms that are of Linearithmic Complexity or faster becau
 
 ###Constant Time Complexity O(1)
 
-Swapping teo numbers or deciding whether a number is odd or even are both examples of things we can do in constant time
+Swapping two numbers or deciding whether a number is odd or even are both examples of things we can do in constant time
 
 ```
 function swapNums(num1, num2):
@@ -66,7 +66,7 @@ end function
 
 mergesort, quicksort, heapsort
 
-finding closest pair of points whith divide and conquer method
+Finding closest pair of points with divide and conquer method
 
 -
 
@@ -74,7 +74,7 @@ finding closest pair of points whith divide and conquer method
 
 bubble sort, insertion sort
 
-finding the closest pair of points with brute fource approach
+Finding the closest pair of points with brute fource approach
 
 -
 
