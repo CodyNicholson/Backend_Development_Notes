@@ -1,9 +1,9 @@
 #Interface
 
-- An interface (the concept, not the Java construct interface) is what client programmers interact with:
-- The interface of a package is the names of its public classes and interfaces.
-- The interface of a class (or interface) is the name and type of its public members.
-- The interface of a method is its type (arguments and return).
+- An interface (the concept, not the Java construct interface) is what client programmers interact with
+- The interface of a package is the names of its public classes and interfaces
+- The interface of a class (or interface) is the name and type of its public members
+- The interface of a method is its type (arguments and return)
 
 -
 
@@ -11,7 +11,7 @@
 -
 
 - Good interfaces have high cohesion
-- Cohesion - should be describable in one short sentence
+- Cohesion, should be describable in one short sentence
 - Cohesion = SRP
 
 ***
