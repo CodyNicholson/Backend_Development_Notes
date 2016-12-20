@@ -11,8 +11,8 @@
 -
 
 - Good interfaces have high cohesion
-- Cohesion, should be describable in one short sentence
-- Cohesion = SRP
+- Cohesion: measures the strength of relationship between pieces of functionality within a given module
+- High Cohesion helps us follow the Single Responsibility Principle
 
 ***
 
