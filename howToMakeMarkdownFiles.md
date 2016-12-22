@@ -291,8 +291,6 @@ Real Example:
 
 You can also add raw HTML into your Markdown and it will work most of the time, as seen above with the Youtube video
 
-You will notice if you look at the source code for this document, I use a lot of line break tags in this markdown file
-
 ***
 
 ###Adding Images
