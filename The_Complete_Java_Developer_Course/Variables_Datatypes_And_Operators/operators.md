@@ -215,3 +215,37 @@ if (topScore > secondTopScore || topScore > 100)
     System.out.println("Top Score is less than Second or it is greater than 100");
     // This will print since one of the conditionals is true
 ```
+
+-
+
+Since isCar is true, you don't need a conditional, the body of the if statement will run just fine
+
+```java
+boolean isCar = true;
+if (isCar)
+    System.out.println("It is a car");
+```
+
+-
+
+This is a ternary operator that says: if isCar is true return true, if not return false
+
+```java
+boolean wasCar = isCar ? true : false;
+if(wasCar)
+    System.out.println("The ternary expression wasCar was true");
+```
+
+-
+
+Below you will notice the myTotal variable is declared using the () operator. This just means that the smallNum and bigNum will be added BEFORE the multiplication happens
+
+```java
+double smallNum = 20d;
+double bigNum = 80d;
+double myTotal = (smallNum + bigNum) * 25;
+System.out.println("This is myTotal: " + myTotal);
+double myRemainder = myTotal % 40;
+if (myRemainder <= 20)
+    System.out.println("Total was over the limit");
+```
