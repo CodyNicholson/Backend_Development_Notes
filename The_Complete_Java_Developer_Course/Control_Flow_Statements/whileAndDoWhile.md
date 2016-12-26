@@ -49,7 +49,6 @@ This while loop would normally be an infinite loop since it is always true, but 
 ###Do While
 
 ```java
-int count = 0;
 do
 {
     System.out.println(count);
