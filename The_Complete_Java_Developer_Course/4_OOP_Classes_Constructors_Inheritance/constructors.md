@@ -20,6 +20,10 @@ In the case where you do not need to set any of them they will be set to the def
 
 When you call the constructor from the constructor, you must put this call on the first line of your constructor - We could not print "Empty Constructor" *before* we used the this() to call the constructor in the no-arguments constructor
 
+-
+
+If you wanted, in the non-empty constructor you could call the setter methods instead of using "this.field = field" - this is not good practice, though
+
 ```java
 public class Main
 {
@@ -34,11 +38,18 @@ public class Main
             codysAccount.getCustomerPhoneNumber());
             codysAccount.deposit(123456.789);
             codysAccount.withdrawal(8.0);
+
+        VipPerson person1 = new VipPerson();
+
+        VipPerson person2 = new VipPerson("Bob", 25000.0);
+
+        VipPerson person3 = new VipPerson("Cody", 100.0, "cody@cody.com");
     }
 }
 /*
 This code will print:
 
+Account Constructor With Parameters Called
 0123456789 12.34 Cody Liam cody@cody.com 123456789
 Deposit of 123456.789 made. New balance is: 123469.129
 Withdrawal of 8.0 processed. Remaining balance: 123461.129
@@ -60,6 +71,12 @@ public class Account
         System.out.println("Empty Constructor Called");
     }
 
+    public Account(String customerName, String customerEmailAddress, String customerPhoneNumber) {
+        this.customerName = customerName;
+        this.customerEmailAddress = customerEmailAddress;
+        this.customerPhoneNumber = customerPhoneNumber;
+    }
+
     public Account(String number, double balance, String customerName, String customerEmailAddress, String customerPhoneNumber)
     {
         System.out.println("Account Constructor With Parameters Called");
@@ -78,7 +95,7 @@ public class Account
 
     public void withdrawal(double withdrawalAmount)
     {
-        if(this.balance - withdrawalAmount <= 0)
+        if(this.balance - withdrawalAmount < 0)
         {
             System.out.println("Only " + this.balance + " available. Withdrawal not processed.");
         }
@@ -136,6 +153,63 @@ public class Account
     public void setCustomerPhoneNumber(String customerPhoneNumber)
     {
         this.customerPhoneNumber = customerPhoneNumber;
+    }
+}
+```
+
+```java
+public class VipPerson
+{
+    private String name;
+    private double creditLine;
+    private String emailAddress;
+
+    public VipPerson()
+    {
+        this("Default Name", 50000.0, "default@email.com");
+    }
+
+    public VipPerson(String name, double creditLine)
+    {
+        this.name = name;
+        this.creditLine = creditLine;
+    }
+
+    public VipPerson(String name, double creditLine, String emailAddress)
+    {
+        this.name = name;
+        this.creditLine = creditLine;
+        this.emailAddress = emailAddress;
+    }
+
+    public String getName()
+    {
+        return name;
+    }
+
+    public void setName(String name)
+    {
+        this.name = name;
+    }
+
+    public double getCreditLine()
+    {
+        return creditLine;
+    }
+
+    public void setCreditLine(double creditLine)
+    {
+        this.creditLine = creditLine;
+    }
+
+    public String getEmailAddress()
+    {
+        return emailAddress;
+    }
+
+    public void setEmailAddress(String emailAddress)
+    {
+        this.emailAddress = emailAddress;
     }
 }
 ```
