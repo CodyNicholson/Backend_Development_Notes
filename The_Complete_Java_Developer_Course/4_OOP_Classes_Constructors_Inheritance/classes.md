@@ -75,6 +75,10 @@ If we made out memeber/instance variables in the Car class public, we could do "
 
 The reason we do not do this is because that violates the laws of OOP, because then ANYONE could change the model of your Car object at anytime, and you don't want your object to be vulnerable
 
+***
+
+###Setter Method
+
 If we do want to change the model we create a method in the Car class to do so:
 
 ```java
@@ -86,5 +90,76 @@ public class Car
     private String model;
     private String engine;
     private String color;
+
+    public void setModel(String model)
+    {
+        this.model = model;
+    }
 }
 ```
+
+The setModel() method allows us to change the instance/member variable *while* keeping that variable private - using encapsulation correctly, and following the rules of OOP
+
+The **this** keyword allows us to access the fields of the object we call it on
+
+For example, below we call setModel() on porsche, so the "this" keyword in that case references the porsche object and its' fields
+
+```java
+public class Main
+{
+    public static void main(String[] args)
+    {
+        Car porsche = new Car();
+        porsche.setModel("2017 CarModelName");
+    }
+}
+```
+
+Above you will see how we can change the model by using the setModel() method since it is a public method - since the setModel() method is a part of the Car class, it has access to the fields or instance/member variables of that class
+
+-
+
+###Getter Method
+
+Now we can set the model, but we cannot check the value of model
+
+In order to check the value we will create a **Getter Method** for the Car's model field
+
+```java
+public class Car
+{
+    //These private variables represent the state of the Car
+    private int doors;
+    private int wheels;
+    private String model;
+    private String engine;
+    private String color;
+
+    public void setModel(String model)
+    {
+        this.model = model;
+    }
+
+    public String getModel()
+    {
+        return this.model;
+    }
+}
+```
+
+As you can see, when we call getModel() we will return the instance variable for the Car object by using the word **this**
+
+```java
+public class Main
+{
+    public static void main(String[] args)
+    {
+        Car porsche = new Car();
+        porsche.setModel("2017 CarModelName");
+        System.out.println(porsche.getModel());
+    }
+}
+// Output will be: 2017 CarModelName
+```
+
+getModel() returns the field "model" from whatever Car object we call it on
