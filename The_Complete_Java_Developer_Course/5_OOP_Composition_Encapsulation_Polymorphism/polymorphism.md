@@ -108,8 +108,47 @@ public class Main
     }
 }
 /*
-Output
+Example Output:
 
+Random Number wasL 3
+Move #1 : Maze Runner
+Plot: Kids try to escape a maze
+
+Random Number wasL 5
+Move #2 : Forgetable
+Plot: No plot here
+
+Random Number wasL 5
+Move #3 : Forgetable
+Plot: No plot here
+
+Random Number wasL 1
+Move #4 : Jaws
+Plot: A shark eats lots of people
+
+Random Number wasL 4
+Move #5 : Star Wars
+Plot: Imperial Forces try to take over the universe
+
+Random Number wasL 4
+Move #6 : Star Wars
+Plot: Imperial Forces try to take over the universe
+
+Random Number wasL 4
+Move #7 : Star Wars
+Plot: Imperial Forces try to take over the universe
+
+Random Number wasL 1
+Move #8 : Jaws
+Plot: A shark eats lots of people
+
+Random Number wasL 1
+Move #9 : Jaws
+Plot: A shark eats lots of people
+
+Random Number wasL 4
+Move #10 : Star Wars
+Plot: Imperial Forces try to take over the universe
 */
 ```
 
