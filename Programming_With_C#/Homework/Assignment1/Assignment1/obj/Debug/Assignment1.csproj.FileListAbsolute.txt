@@ -1,8 +1,0 @@
-C:\Users\Cody\OneDrive\GitHub\Software_Development\Programming_With_C#\Homework\Assignment1\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
-C:\Users\Cody\OneDrive\GitHub\Software_Development\Programming_With_C#\Homework\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
-C:\Users\Cody\OneDrive\GitHub\Software_Development\Programming_With_C#\Homework\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
-C:\Users\Cody\OneDrive\GitHub\Software_Development\Programming_With_C#\Homework\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.Cache
-C:\Users\Cody\OneDrive\GitHub\Software_Development\Programming_With_C#\Homework\Assignment1\Assignment1\Assignment1\bin\Debug\Assignment1.exe
-C:\Users\Cody\OneDrive\GitHub\Software_Development\Programming_With_C#\Homework\Assignment1\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
-C:\Users\Cody\OneDrive\GitHub\Software_Development\Programming_With_C#\Homework\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.exe
-C:\Users\Cody\OneDrive\GitHub\Software_Development\Programming_With_C#\Homework\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
