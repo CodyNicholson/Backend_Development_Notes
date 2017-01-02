@@ -104,13 +104,15 @@ class  FizzBuzz
 
 ***
 
+###Programming Languages
+
 Programming languages come and go
 
-You have to keep up
+You have to keep up with new languages
 
-Keep up with the changes to your current languages too
+Also keep up with the changes to your current languages, Java 8 and C++ 11 added anonymous functions and more
 
-Lots of common concepts
+Fortunately, lots of common concepts
 
 ***
 
@@ -118,7 +120,9 @@ Lots of common concepts
 
 Learn PLs more easily by recognizing concepts: While loops, closures, comprehensions, dynamic dispatch using vtables, mixins
 
-Deeper understanding of PL concepts
+Deeper understanding of PL concepts/paradigms
+
+Impact of PL on program development, modularity, correctness, runtime efficiency, etc
 
 -
 
@@ -142,7 +146,7 @@ Programming paradigms and styles:
 
 ###Course Approach
 
-Hands on: write many programs and experiments
+- Hands on: write many programs and experiments
 
 - Scala as main language: carefully designed multi-paradigm language, textbook explains PL concepts in context, minimize time spent installing PLs
 
