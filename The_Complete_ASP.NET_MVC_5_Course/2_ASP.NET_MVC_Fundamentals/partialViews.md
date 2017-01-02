@@ -2,7 +2,7 @@
 
 Take a look at the **Layout.cshtml** file in the Views/Shared folder:
 
-```cs
+```cshtml
 <!DOCTYPE html>
 <html>
 <head>
@@ -59,7 +59,7 @@ We are going to make our NavBar a partial view by cutting the code for the NavBa
 
 Our _NavBar.cshtml file will look like this:
 
-```cs
+```cshtml
 <div class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
         <div class="navbar-header">
