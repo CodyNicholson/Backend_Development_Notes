@@ -396,3 +396,42 @@ read function reads an expression
 (eval (read))
 (eval (append '(+) (read)))
 ```
+
+***
+
+###Scheme Stuff
+
+```scheme
+(cons 1 (cons 2 (cons 3))) ; Outputs (1 2 3)
+
+(quote (1 2 3)) ; Outputs (1 2 3)
+
+'(1 2 3) ; Outputs (1 2 3)
+
+(list 1 2 3) ; Outputs (1 2 3)
+
+(list 1 2 (+ 2 1)) ; Outputs (1 2 3)
+
+(quote (1 2 (+ 1 2))) ; Outputs (1 2 (+ 1 2))
+```
+
+-
+
+####Equals In Scheme
+
+```scheme
+(eq? '(1 2 3) '(1 2 3)) ; Outputs false because the lists are stored in separate places
+(equal? '(1 2 3) '(1 2 3)) ; Outputs true because the values are equalivalent
+```
+
+-
+
+###Linked List Length In Scheme
+
+```scheme
+(define (length l)
+  (if (equal? l ())
+    0
+    (+ 1 (length (cdr l))))
+)
+```
