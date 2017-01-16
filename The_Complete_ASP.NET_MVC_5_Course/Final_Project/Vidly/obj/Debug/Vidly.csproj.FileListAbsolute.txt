@@ -244,3 +244,15 @@ C:\Users\Cody\OneDrive\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Co
 C:\Users\Cody\OneDrive\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
 C:\Users\Cody\OneDrive\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\obj\Debug\Vidly.dll
 C:\Users\Cody\OneDrive\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\obj\Debug\Vidly.pdb
+C:\Users\Cody\OneDrive\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\Cody\OneDrive\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
+C:\Users\Cody\OneDrive\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+C:\Users\Cody\OneDrive\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+C:\Users\Cody\OneDrive\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+C:\Users\Cody\OneDrive\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName1.resources
+C:\Users\Cody\OneDrive\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToNewsletterToCustomer.resources
+C:\Users\Cody\OneDrive\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
+C:\Users\Cody\OneDrive\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\obj\Debug\Vidly.Migrations.AddNameValueToMembershipType.resources
+C:\Users\Cody\OneDrive\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
+C:\Users\Cody\OneDrive\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\obj\Debug\Vidly.Migrations.AddMovieDetails.resources
+C:\Users\Cody\OneDrive\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\obj\Debug\Vidly.Migrations.AddGenresToTable.resources

@@ -10,6 +10,9 @@ namespace Vidly.Models
         // This is a plain CLR object/POKO which represents the state and behavior of our application in terms of its problem domain
         public int Id { get; set; }
         public string Name { get; set; }
-        
+        public Genre Genre { get; set; }
+        public DateTime ReleaseDate { get; set; }
+        public DateTime DateAdded { get; set; }
+        public byte NumberInStock { get; set; }
     }
 }
