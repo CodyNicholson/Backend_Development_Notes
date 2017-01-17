@@ -256,3 +256,4 @@ C:\Users\Cody\OneDrive\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Co
 C:\Users\Cody\OneDrive\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
 C:\Users\Cody\OneDrive\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\obj\Debug\Vidly.Migrations.AddMovieDetails.resources
 C:\Users\Cody\OneDrive\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\obj\Debug\Vidly.Migrations.AddGenresToTable.resources
+C:\Users\Cody\OneDrive\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\obj\Debug\Vidly.Migrations.AddedEditableMovies.resources
