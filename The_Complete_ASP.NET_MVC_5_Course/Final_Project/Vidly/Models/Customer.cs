@@ -10,7 +10,7 @@ namespace Vidly.Models
     {
         public int Id { get; set; }
 
-        [Required] // Name is not nullable anymore, it is now required
+        [Required(ErrorMessage = "Please enter a valid Customer Name")] // Name is not nullable anymore, it is now required
         [StringLength(255)] // Name is not unlimited characters anymore, it is 255
         public string Name { get; set; }
 
@@ -22,6 +22,10 @@ namespace Vidly.Models
         public byte MembershipTypeId { get; set; }
 
         [Display(Name = "Date of Birth")] // Will display in the view as "Date of Birth" instead of "Birthdate"
+        [Min18YearsIfAMember]
         public DateTime? Birthdate { get; set; }
+
+        public static readonly byte Unknown = 0;
+        public static readonly byte PayAsYouGo = 1;
     }
 }

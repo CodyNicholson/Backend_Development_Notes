@@ -46,6 +46,7 @@ namespace Vidly.Controllers
             var membershipTypes = _context.MembershipTypes.ToList(); // We cannot pass this to the View() method because later we want to implement editing a customer because there we will also need to pass a Customer to this view. In cases like this we need to create a ViewModel
             var viewModel = new CustomerFormViewModel()
             {
+                Customer = new Customer(),
                 MembershipTypes = membershipTypes
             };
 
@@ -53,8 +54,20 @@ namespace Vidly.Controllers
         }
 
         [HttpPost] // This is here so that our Action can only be called using HttpPost and not HttpGet. By convention, if your actions modify data they should only be accessible using HttpPost
+        [ValidateAntiForgeryToken] // Protects against Cross-site Request Forgery
         public ActionResult Save(Customer customer) // This is called Model Binding. MVC framework will automatically map request data to this object
         {
+            // Checks if the entered information is valid based on the Customer Data Annotations
+            if (!ModelState.IsValid)
+            {
+                var viewModel = new CustomerFormViewModel()
+                {
+                    Customer = customer,
+                    MembershipTypes = _context.MembershipTypes.ToList()
+                };
+                return View("CustomerForm", viewModel);
+            }
+
             if (customer.Id == 0)
             {
                 _context.Customers.Add(customer); // This does not write customer to the database, this is just saved in local memory
