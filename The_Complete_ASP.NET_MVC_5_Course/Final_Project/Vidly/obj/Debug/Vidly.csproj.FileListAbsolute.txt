@@ -352,3 +352,9 @@ C:\Users\Cody\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Fina
 C:\Users\Cody\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
 C:\Users\Cody\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\obj\Debug\Vidly.dll
 C:\Users\Cody\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\obj\Debug\Vidly.pdb
+C:\Users\Cody\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\bin\System.Net.Http.Formatting.dll
+C:\Users\Cody\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\bin\System.Web.Http.dll
+C:\Users\Cody\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\bin\System.Web.Http.WebHost.dll
+C:\Users\Cody\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\bin\System.Net.Http.Formatting.xml
+C:\Users\Cody\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\bin\System.Web.Http.xml
+C:\Users\Cody\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\bin\System.Web.Http.WebHost.xml
