@@ -358,3 +358,5 @@ C:\Users\Cody\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Fina
 C:\Users\Cody\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\bin\System.Net.Http.Formatting.xml
 C:\Users\Cody\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\bin\System.Web.Http.xml
 C:\Users\Cody\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\bin\System.Web.Http.WebHost.xml
+C:\Users\Cody\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\bin\AutoMapper.dll
+C:\Users\Cody\GitHub\Software_Development\The_Complete_ASP.NET_MVC_5_Course\Final_Project\Vidly\bin\AutoMapper.xml

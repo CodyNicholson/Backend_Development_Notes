@@ -73,6 +73,34 @@ In the Customer controller, anywhere we return a customer object we need to map 
 
 We can do this using the **Auto Mapper**
 
+To install automapper simply run this command through the NuGet Package Manager: Install-Package automapper -version:4.1
+
 -
 
+To do this we need to add a MappingProfile.cs class to the App_Start directory:
 
+```cs
+
+```
+
+-
+
+We need to load our Mappers when the application is started, so go to Global.asax.cs in the root directory for the project and Initialize the MappingProfile.cs class we created above:
+
+```cs
+namespace Vidly
+{
+    public class MvcApplication : System.Web.HttpApplication
+    {
+        protected void Application_Start()
+        {
+            Mapper.Initialize(c => c.AddProfile<MappingProfile>());
+            GlobalConfiguration.Configure(WebApiConfig.Register);
+            AreaRegistration.RegisterAllAreas();
+            FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
+            RouteConfig.RegisterRoutes(RouteTable.Routes);
+            BundleConfig.RegisterBundles(BundleTable.Bundles);
+        }
+    }
+}
+```
