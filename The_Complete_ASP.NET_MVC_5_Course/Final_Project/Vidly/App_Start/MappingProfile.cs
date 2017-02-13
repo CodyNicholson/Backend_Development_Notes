@@ -6,7 +6,7 @@ using AutoMapper;
 using Vidly.DTOs;
 using Vidly.Models;
 
-namespace Vidly.App_Start
+namespace Vidly
 {
     public class MappingProfile : Profile
     {

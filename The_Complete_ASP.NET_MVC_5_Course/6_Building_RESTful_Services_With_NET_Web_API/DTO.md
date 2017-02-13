@@ -80,7 +80,22 @@ To install automapper simply run this command through the NuGet Package Manager:
 To do this we need to add a MappingProfile.cs class to the App_Start directory:
 
 ```cs
+namespace Vidly.App_Start
+{
+    public class MappingProfile : Profile
+    {
+        public MappingProfile()
+        {
+            // Domain to Dto
+            Mapper.CreateMap<Customer, CustomerDto>();
+            Mapper.CreateMap<CustomerDto, Customer>();
 
+            // Dto to Domain
+            Mapper.CreateMap<CustomerDto, Customer>().ForMember(c => c.Id, opt => opt.Ignore());
+            Mapper.CreateMap<MovieDto, Movie>().ForMember(c => c.Id, opt => opt.Ignore());
+        }
+    }
+}
 ```
 
 -
