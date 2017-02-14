@@ -1,14 +1,7 @@
-﻿@model IEnumerable<Vidly.Models.Customer>
-@*
-    Note: I've set the model for this view to IEnumerable<Customer>.
-    This is a simple interface implemented by the list class. Since
-    in this view we only want to iterate over this list, and we don't
-    need any of the operations in the List class (eg Add, Remove, etc),
-    it's better to use the IEnumerable interface, which allows use to
-    iterate over the list. If in the future, we replace the List with a
-    different data structure, as long as it is enumerable, our view code
-    will remain unchanged.
-*@
+#Calling An API Using jQuery
+
+```html
+@model IEnumerable<Vidly.Models.Customer>
 @{
     ViewBag.Title = "Customers";
     Layout = "~/Views/Shared/_Layout.cshtml";
@@ -60,3 +53,8 @@ else
         });
     </script>
 }
+```
+
+Notice near the bottom of the html file you can see we added a Delete button that calls a JavaScript function to delete the customer
+
+The function will go to the /api/customers/ with the id of the customer, and use the Delete method to remove the customer from the database. After this, you remove the table row (tr) from the Customers table.
