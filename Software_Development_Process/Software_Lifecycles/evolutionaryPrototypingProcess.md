@@ -1,4 +1,4 @@
-#The Evolutionary Prototyping Process works in four main phases
+# The Evolutionary Prototyping Process works in four main phases
 
 
 1 - Initial Concept

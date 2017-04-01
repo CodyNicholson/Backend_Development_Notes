@@ -5,4 +5,4 @@ This type of testing works on a formal model, like a Control Flow Diagram, so we
 
 White-Box Testing also allows us to compare different test suites against each other because we can measure the coverage achieved by every individual test suite
 
-One of the best features of White-Box Testing and coverage criteria is that they is fully automatable
+One of the best features of White-Box Testing and coverage criteria is that they is fully automate-able

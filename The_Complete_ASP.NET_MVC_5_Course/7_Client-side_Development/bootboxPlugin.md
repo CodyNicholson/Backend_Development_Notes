@@ -1,4 +1,4 @@
-#Bootbox Plug-in
+# Bootbox Plug-in
 
 Bootbox is an abstraction of bootstrap that provides a number of simple functions that we can call to create different kinds of dialog boxes
 
@@ -95,4 +95,4 @@ To:
 }
 ```
 
-This will give us a much nicer looking confirmation box using the Boostbox/Bootstrap popup rather than the native JavaScript popup
+This will give us a much nicer looking confirmation box using the Bootbox/Bootstrap popup rather than the native JavaScript popup

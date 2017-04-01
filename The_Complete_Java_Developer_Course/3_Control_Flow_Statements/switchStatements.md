@@ -1,4 +1,4 @@
-#Switch Statements
+# Switch Statements
 
 A **Switch Statement** in java is useful for checking the contents of a variable that could be one or many different types
 
@@ -53,7 +53,7 @@ The **default** case will always run unless you have a **break** statement befor
 
 ***
 
-###Challenge Problems
+### Challenge Problems
 
 ```java
 char charVal = 'A';

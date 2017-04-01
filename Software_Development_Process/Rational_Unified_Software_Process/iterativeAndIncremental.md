@@ -1,4 +1,4 @@
-#The Rational Unified Process is Iterative and Incremental
+# The Rational Unified Process is Iterative and Incremental
 
 The lifetime of a RUP consists of a series of cycles that are also called increments
 
@@ -8,7 +8,7 @@ Each cycle results in a product release which can be internal or external
 
 Each cycle terminates with a product release that includes a complete set of artifacts for the project -- which means code, manuals, use cases, non-functional specifications, test cases, and so on
 
-Specifically each cycle is further divied into four main phases: Inception, Elaboration, Construction, and Transition
+Specifically each cycle is further divided into four main phases: Inception, Elaboration, Construction, and Transition
 
 Within these four individual phases there can be multiple iterations that each correspond to a different group of use cases that are selected to deal with the most important risks first
 
@@ -47,15 +47,7 @@ In almost every iteration developers do the following activities:
 
 
 1. Identify relevant use cases, which piece of functionality will this iteration develop?
-
-
-2. Create the design for the considered use cases guided by the choosen architecture
-
-
-3. Implement the design which will result in a set of software componenets
-
-
+2. Create the design for the considered use cases guided by the chosen architecture
+3. Implement the design which will result in a set of software components
 4. Verify code in components against use cases
-
-
 5. Release a product at the end the iteration, this could be an internal or external release

@@ -1,4 +1,4 @@
-#Code-First Migrations
+# Code-First Migrations
 
 In the Code-First workflow we start with the code every time we modify our domain model by adding a class, or modifying one of the existing ones
 
@@ -49,7 +49,7 @@ namespace Vidly.Models
 }
 ```
 
-Now that we have added this DbSet we can recreate our migration by going to the package manager console and running "add-migration InitialModel -force". Since we alreeady have a migration called InitialModel and we want to overwrite it, we use the "-force" flag.
+Now that we have added this DbSet we can recreate our migration by going to the package manager console and running "add-migration InitialModel -force". Since we already have a migration called InitialModel and we want to overwrite it, we use the "-force" flag.
 
 Now if you go back to the class that was generated for the migration in the Migrations folder you will see:
 

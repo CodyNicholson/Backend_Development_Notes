@@ -1,4 +1,4 @@
-#What Is A Web API?
+# What Is A Web API?
 
 When a request arrives at our application, MVC Framework hands off that request to an action in a Controller
 
@@ -14,7 +14,7 @@ The benefits of returning raw data to the client are:
 
 - Uses less server resources (improves scalability)
 - Raw data often requires less bandwidth than HTML markup
-- We can biuld a broad range of clients, like mobile and tablet apps that simply call our **endpoints** to get the data and generate the view locally
+- We can build a broad range of clients, like mobile and tablet apps that simply call our **endpoints** to get the data and generate the view locally
 
 We call these endpoints **data services** or **web APIs** because they just return data, not markup
 

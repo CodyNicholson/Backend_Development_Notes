@@ -1,4 +1,4 @@
-#Functional and Nonfunctional Requirements
+# Functional and Nonfunctional Requirements
 
 Functional requirements have to do with the functionality of the system
 

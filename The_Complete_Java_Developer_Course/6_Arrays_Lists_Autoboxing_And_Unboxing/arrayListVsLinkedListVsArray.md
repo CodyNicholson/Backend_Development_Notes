@@ -1,6 +1,6 @@
-#ArrayList Vs LinkedList Vs Array
+# ArrayList Vs LinkedList Vs Array
 
-###Linked lists are preferable over arrays when:
+### Linked lists are preferable over arrays when:
 
 a) you need constant-time insertions/deletions from the list (such as in real-time computing where time predictability is absolutely critical)
 
@@ -12,7 +12,7 @@ d) you want to be able to insert items in the middle of the list (such as a prio
 
 ***
 
-###Arrays are preferable when:
+### Arrays are preferable when:
 
 a) you need indexed/random access to elements
 
@@ -24,6 +24,6 @@ d) memory is a concern. Filled arrays take up less memory than linked lists. Eac
 
 ***
 
-###Array Lists
+### Array Lists
 
 Array Lists (like those in .Net) give you the benefits of arrays, but dynamically allocate resources for you so that you don't need to worry too much about list size and you can delete items at any index without any effort or re-shuffling elements around. Performance-wise, **arraylists are slower than raw arrays**.

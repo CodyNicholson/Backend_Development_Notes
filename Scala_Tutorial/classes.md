@@ -1,4 +1,4 @@
-#Classes In Scala
+# Classes In Scala
 
 **Classes** are going to be used as blueprints to make real-world objects
 
@@ -18,9 +18,9 @@ Scala supports the same access modifiers that Java does: public, private, protec
 
 -
 
-###Inheritance
+### Inheritance
 
-When one class inherits from another it gains access to all of that classes protected variablesand methods
+When one class inherits from another it gains access to all of that classes protected variables and methods
 
 If you do not want a class to be inherited from, declare it as final
 
@@ -118,7 +118,7 @@ object ScalaTutorial
 
 ***
 
-###Abstract Classes
+### Abstract Classes
 
 Abstract Classes cannot be instantiated (Cannot create an object of this class) and is made up of both abstract and non-abstract methods
 

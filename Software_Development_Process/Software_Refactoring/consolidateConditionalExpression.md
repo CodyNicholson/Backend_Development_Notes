@@ -1,4 +1,4 @@
-#Consolidate Conditional Expression
+# Consolidate Conditional Expression
 
 Sometimes you will find a set of conditionals in your code that all have the same result:
 

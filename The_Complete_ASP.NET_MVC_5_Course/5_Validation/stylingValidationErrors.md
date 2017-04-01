@@ -1,4 +1,4 @@
-#Styling Validation Errors
+# Styling Validation Errors
 
 When a field/input in your application becomes invalid, ASP.NET will automatically give that field/input the class "field-validation-error"/"input-validation-error"
 

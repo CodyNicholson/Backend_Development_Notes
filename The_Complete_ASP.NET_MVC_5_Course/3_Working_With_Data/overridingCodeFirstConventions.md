@@ -1,4 +1,4 @@
-#Overriding Code-First Conventions
+# Overriding Code-First Conventions
 
 Entity Framework does a lot of work for us, but sometimes we want to overwrite the conventions that it uses. We can do this using Data Annotations.
 

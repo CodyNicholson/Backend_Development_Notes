@@ -1,10 +1,10 @@
-#Choosing a Design Pattern
+# Choosing a Design Pattern
 
 To choose a design pattern you must first make sure that you:
 
 1. Understand your design context.What are you designing, and what are the issues involved with this design?What are the problems you need to solve?
 
-2. Examine the patterns catalogue
+2. Examine the patterns catalog
 
 3. Identify and study related patterns
 

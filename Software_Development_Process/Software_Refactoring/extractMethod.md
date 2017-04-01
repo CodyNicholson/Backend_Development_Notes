@@ -1,4 +1,4 @@
-#Extract Method
+# Extract Method
 
 We start with a cohesive code fragment in a large method
 
@@ -6,7 +6,7 @@ We then create a method using that code fragment and then replace the code fragm
 
 This is just like extracting a class, but with methods
 
-####Example:
+#### Example:
 
 ````java
 void printTotalAndDetails(int x, int y, int z)

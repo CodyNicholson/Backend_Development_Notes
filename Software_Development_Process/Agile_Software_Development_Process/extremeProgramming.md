@@ -1,4 +1,4 @@
-#Extreme Programming
+# Extreme Programming
 
 Extreme Programming (XP) is a lightweight, humanistic, discipline of software development
 
@@ -12,7 +12,7 @@ Extreme Programming (XP) is a lightweight, humanistic, discipline of software de
 
 ***
 
-###Developing is like driving
+### Developing is like driving
 
 We need to focus on steering and not pointing in one direction
 
@@ -22,7 +22,7 @@ Change is the only constant in developing software!
 
 ***
 
-###Mentality of Sufficiency:
+### Mentality of Sufficiency:
 
 Create software like you would if you had all the time in the world
     - Write tests
@@ -31,34 +31,34 @@ Create software like you would if you had all the time in the world
 
 ***
 
-###XP Values and Principles
+### XP Values and Principles
 
 Communication - There is no good project without communication, use pair programming and customer involvement because they improve communication
 
-Simplcity - Simple, gets the job done right without being overly complex
+Simplicity - Simple, gets the job done right without being overly complex
 
-Feedback - Talk with customers as frequently as possible so that you can adapt softwre to their needs
+Feedback - Talk with customers as frequently as possible so that you can adapt software to their needs
 
 Courage - Have the guts to throw away code that goes not work, to change it to make it better, to fix it if you find a problem, to try new things if you think they might work better
 
 ***
 
-###XP Practices
+### XP Practices
 
-####Incremental Planning
+#### Incremental Planning
 
 Is based on the idea that requirements are recorded on story cards provided by the customer
 
 1. Select user stories for release
 2. Break stories into tasks
 3. Plan release
-4. Develop, integgrate, test (Repeat step 4 many ttimes in single cycle)
+4. Develop, integrate, test (Repeat step 4 many times in single cycle)
 5. Release software
 6. Evaluate system (Dev and Customer) and start a new iteration at step 1
 
 -
 
-####Small Releases
+#### Small Releases
 
 By releasing small updates in short cycles rather than one large release at the end of a long cycle we make the customers happy because they will see the development happening
 
@@ -70,15 +70,15 @@ Reduces risk because we will know quickly, from the customer, if we are ding som
 
 -
 
-####Simple Design
+#### Simple Design
 
 Only build enough to meet the requirements, and no duplicated functionality, so that we can adapt easily if it is wrong
 
-Fewests methods and classes because a large and cubersome project will not be flexibile enough to adapt and change like it should in XP and Agile
+Fewest methods and classes because a large and cumbersome project will not be flexible enough to adapt and change like it should in XP and Agile
 
 -
 
-####Test First
+#### Test First
 
 There are no program features that exist without a test
 
@@ -88,7 +88,7 @@ Since you know what your feature is supposed to do, you can create a Unit Test w
 
 -
 
-####Refactoring
+#### Refactoring
 
 Take code and restructure it to make it simpler
 
@@ -96,17 +96,17 @@ Refactor on demand of the system and the process, not on speculation
 
 -
 
-####Pair Programming
+#### Pair Programming
 
 All production code is written with two people looking at one machine
 
-The two devs alternate between the roles of programming and strategizing
+The two devs alternate between the roles of programming and planning
 
 Two people together can create much better quality work then two people working on there own, so it is not cutting productivity
 
 -
 
-####Countinuous Integration
+#### Continuous Integration
 
 In order to prevent problems from piling up, we must make sure that our new code integrates with the project code every few hours or every day
 
@@ -120,13 +120,13 @@ You then run system tests and if they fail you restart at the programming step, 
 
 -
 
-####On-site Customers
+#### On-site Customers
 
 There is a customer from the company that is an actual member of the dev team that sits with the team and brings them then new specs/requirements
 
 ***
 
-###Requirements Engineering
+### Requirements Engineering
 
 User requirements are expressed as scenarios or stories that are written by customers on cards
 
@@ -140,7 +140,7 @@ The developers will then take the stories/task cards and develop the correspondi
 
 ***
 
-###Testing Strategy:
+### Testing Strategy:
 
 Testing is coded confidence, when all the tests pass you know you did your job right
 

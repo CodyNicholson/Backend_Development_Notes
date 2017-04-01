@@ -1,4 +1,4 @@
-#Inheritance In Java
+# Inheritance In Java
 
 In order to avoid rewriting the same code we can use **inheritance**
 
@@ -162,7 +162,7 @@ This Fish class is an example of another subclass you could make that inherits f
 
 ***
 
-###Inheritance Challenge Problem
+### Inheritance Challenge Problem
 
 ```java
 public class Main

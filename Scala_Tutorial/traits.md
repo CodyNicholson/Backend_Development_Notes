@@ -1,4 +1,4 @@
-#Traits
+# Traits
 
 A **Trait** is more like a Java Interface in that a class can extend more than one
 

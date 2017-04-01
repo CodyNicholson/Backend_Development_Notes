@@ -1,4 +1,4 @@
-#Querying Objects
+# Querying Objects
 
 Now that we have a database we need to let the CustomersController know about the ApplicationDbContext so that our controller can take Customers out of the database and display them on the website.
 

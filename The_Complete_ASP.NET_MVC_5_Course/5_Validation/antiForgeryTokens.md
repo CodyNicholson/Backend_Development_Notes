@@ -1,4 +1,4 @@
-#Anti-Forgery Tokens
+# Anti-Forgery Tokens
 
 If a user logs into your application then quickly goes to another website and then returns, they should still be logged in
 

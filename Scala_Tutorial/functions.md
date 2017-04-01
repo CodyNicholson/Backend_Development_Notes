@@ -1,4 +1,4 @@
-#Functions In Scala
+# Functions In Scala
 
 The syntax for a function in Scala is:
 

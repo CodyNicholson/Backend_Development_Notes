@@ -1,4 +1,4 @@
-#Software Requirements Specification (SRS)
+# Software Requirements Specification (SRS)
 
 SRS document is a very important document that some projects require you to create
 

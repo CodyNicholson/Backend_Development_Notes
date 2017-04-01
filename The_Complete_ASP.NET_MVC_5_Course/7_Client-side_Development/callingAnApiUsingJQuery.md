@@ -1,4 +1,4 @@
-#Calling An API Using jQuery
+# Calling An API Using jQuery
 
 ```html
 @model IEnumerable<Vidly.Models.Customer>

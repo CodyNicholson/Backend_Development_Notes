@@ -1,6 +1,6 @@
-#Collapse Hierarchy Refactoring
+# Collapse Hierarchy Refactoring
 
-When a software system undergoes a number of changes, over time the class heirarchy might become sub-optimal
+When a software system undergoes a number of changes, over time the class hierarchy might become sub-optimal
 
 -
 

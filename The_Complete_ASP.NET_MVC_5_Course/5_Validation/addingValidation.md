@@ -1,10 +1,10 @@
-#Adding Validation
+# Adding Validation
 
-We used Data Annoations to make certain fields required and to set string lengths in our models, but we can also use Data Annotations for validation
+We used Data Annotations to make certain fields required and to set string lengths in our models, but we can also use Data Annotations for validation
 
 -
 
-##Three Steps Of Adding Validation
+## Three Steps Of Adding Validation
 
 1. Add Data Annotations to your model classes that require validation
 
@@ -14,7 +14,7 @@ We used Data Annoations to make certain fields required and to set string length
 public string Name { get; set; }
 ```
 
-2. Use (!ModelState.IsValid) to change the flow of the program, and if the ModelState is not valid then retrn the same view
+2. Use (!ModelState.IsValid) to change the flow of the program, and if the ModelState is not valid then return the same view
 
 ```cs
 if (!ModelState.IsValid)

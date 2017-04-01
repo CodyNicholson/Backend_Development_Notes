@@ -1,4 +1,4 @@
-#Strings
+# Strings
 
 A **String** in Java is a sequence of characters and, although it is very commonly used, it is not a primitive data type - it is a *class*
 

@@ -1,4 +1,4 @@
-#Attribute Routing - Better Then Convention Based
+# Attribute Routing - Better Then Convention Based
 
 **Attribute Routing** is a simpler way we can call and pass parameters to our actions through the URL
 

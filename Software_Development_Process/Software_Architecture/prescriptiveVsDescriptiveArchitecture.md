@@ -1,6 +1,6 @@
-#Prescriptive Vs Descriptive Architecture
+# Prescriptive Vs Descriptive Architecture
 
-A prescripture architecture captures the design decisions made prior to the system's construction
+A prescriptive architecture captures the design decisions made prior to the system's construction
 
 The "as conceived software architecture"
 

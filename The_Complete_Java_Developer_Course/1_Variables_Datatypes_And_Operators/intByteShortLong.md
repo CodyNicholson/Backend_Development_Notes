@@ -1,6 +1,6 @@
-#Primitive Data Types - Integer, Byte, Short, Long
+# Primitive Data Types - Integer, Byte, Short, Long
 
-###Integer
+### Integer
 
 A whole number, the computer can only store 'int's that are between -2147483648 billion and +2147483647 billion because that is the limit of the 'int' data type
 
@@ -8,6 +8,7 @@ A whole number, the computer can only store 'int's that are between -2147483648 
 // int has a width of 32
 int mySmallestInt = -2147483648;
 int mySmallestInt = 2147483647;
+```
 
 When you define a variable to a fixed value, that is called a **literal** - for example: "int x = 4" and "String name = "Cody" both contain the literals: "4" for the first example and "Cody" for the second
 
@@ -15,7 +16,7 @@ When you set a variable based on the values of other variables, like "int x = y 
 
 -
 
-###Byte
+### Byte
 
 ```java
 // byte has a width of 8
@@ -27,7 +28,7 @@ A **byte** is another data type for storing numbers, and it is more efficient th
 
 -
 
-###Short
+### Short
 
 ```java
 // short has a width of 16
@@ -39,7 +40,7 @@ A short takes up twice the amount of space as a byte, but half the amount of spa
 
 -
 
-###Long
+### Long
 
 ```java
 // long has a width of 64
@@ -49,7 +50,7 @@ long mySmallestLong = -9223372036854775808L;
 
 ***
 
-###Doing Math With Special Types (Non-int)
+### Doing Math With Special Types (Non-int)
 
 ```java
 byte myByteOne = 22;

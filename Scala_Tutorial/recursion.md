@@ -1,4 +1,4 @@
-#Recursion In Scala
+# Recursion In Scala
 
 ```scala
 def factorial(num : BigInt) BigInt = {

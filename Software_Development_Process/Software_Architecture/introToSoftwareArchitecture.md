@@ -1,10 +1,10 @@
-#Intro To Software Architecture
+# Intro To Software Architecture
 
-####A General Definition of Software Architecture:
+#### A General Definition of Software Architecture:
 
 A set of principal design decisions about the system
 
-'Principal' just means a degree of importance that grants a design decision architectual status
+'Principal' just means a degree of importance that grants a design decision architectural status
 
 -
 
@@ -26,7 +26,7 @@ Design decisions are made, unmade, and changed over a system's lifetime
 
 ***
 
-Two formal definitions for Software Architecture:
+### Two formal definitions for Software Architecture:
 
 1 - Perry and Wolf Definition
 

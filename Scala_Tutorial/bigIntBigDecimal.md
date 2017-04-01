@@ -1,4 +1,4 @@
-#BigInt & BigDecimal
+# BigInt & BigDecimal
 
 If you need a larger integer than Scala's supported data types support you can use BigInt:
 

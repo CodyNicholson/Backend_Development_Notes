@@ -1,4 +1,4 @@
-#Refactoring Magic Numbers
+# Refactoring Magic Numbers
 
 Notice the first check below for the "customer.MembershipTypeId == 1"
 

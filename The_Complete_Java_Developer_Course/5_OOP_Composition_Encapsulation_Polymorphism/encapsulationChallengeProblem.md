@@ -1,4 +1,4 @@
-#Encapsulation Challenge Problem
+# Encapsulation Challenge Problem
 
 ```java
 public class Main

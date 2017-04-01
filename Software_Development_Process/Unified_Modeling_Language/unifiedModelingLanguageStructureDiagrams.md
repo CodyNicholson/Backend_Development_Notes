@@ -1,4 +1,4 @@
-#Unified Modeling Language Structure Diagrams
+# Unified Modeling Language Structure Diagrams
 
 Unified Modeling Language Structure Diagrams are the diagrams that represent static characteristics of the system we need to model
 
@@ -6,7 +6,7 @@ This is in contrast with dynamic models, which instead represent behaviors of th
 
 ***
 
-###UML Class Diagram
+### UML Class Diagram
 
 Static, structured view of the system
 
@@ -15,13 +15,13 @@ Describes classes and their structure and relationships among classes
 A class consists of three parts:
 
 
-####Class Name:
+#### Class Name:
 
 The class name which should be named using the vocabulary of the domain and the name should be a noun starting with a capital letter
 
 -
 
-####Class Attributes:
+#### Class Attributes:
 
 The second part of the class are the private attributes of the class where the set of attributes for the class define the state of the class
 
@@ -35,11 +35,11 @@ Attributes may be found by examining class definitions, studying requirements, a
 
 -
 
-####Class Operations:
+#### Class Operations:
 
 The third part of the class consists of the operations of the class
 
-These public operations are listed by name with a list of arguements and result types for each operation
+These public operations are listed by name with a list of arguments and result types for each operation
 
 We use a plus sign to list the operations because they are public
 

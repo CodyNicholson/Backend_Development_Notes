@@ -1,8 +1,8 @@
-#Sequence Diagram
+# Sequence Diagram
 
-A Sequence Diagram is an interaction diagram that ephasizes the time ordering of messages
+A Sequence Diagram is an interaction diagram that emphasizes the time ordering of messages
 
-To create a sequence diagram you start by placing all of the participating interactable objects in sequencial order on the x-axis at the top of your diagram, the first object should be able to initialise the others
+To create a sequence diagram you start by placing all of the participating intractable objects in sequential order on the x-axis at the top of your diagram, the first object should be able to initialize the others
 
 Next, draw the Object Lifeline by placing dashed vertical lines starting from each object pointing directly down the rest of the graph, for the first object make it a solid line
 

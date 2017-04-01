@@ -1,6 +1,6 @@
-#Operators In Java
+# Operators In Java
 
-###Mathematical Operators
+### Mathematical Operators
 
 The plus operator (+) adds values together
 
@@ -121,7 +121,7 @@ System.out.println("Result is now: " + result);
 
 ***
 
-###Operators in Conditional Statements
+### Operators in Conditional Statements
 
 The double-equals operator (==) checks that the values are the same and gives back a boolean value
 

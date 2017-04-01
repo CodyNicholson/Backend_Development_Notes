@@ -1,4 +1,4 @@
-#Drop-Down Menus
+# Drop-Down Menus
 
 We want to add a drop down menu to our New Customer form so that you can select the type of Membership you would like your customer to have. To do this, our New.cshtml view needs to know about membership types, so we need to edit our CustomersController:
 

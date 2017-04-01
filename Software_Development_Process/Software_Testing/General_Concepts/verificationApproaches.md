@@ -1,13 +1,13 @@
-#Verification Approaches
+# Verification Approaches
 
 How can we verify software?
 
 -
 
-##Here are four mainstream approaches:
+## Here are four mainstream approaches:
 
 
-###1 - Testing which is also called Dynamic Verification
+### 1 - Testing which is also called Dynamic Verification
 
 Testing a software system means exercising the system to try to make it fail
 
@@ -23,7 +23,7 @@ A Test Suite is a set of test cases
 
 ***
 
-###2 - Static Verification
+### 2 - Static Verification
 
 Tries to identify specific classes of problems in the program such as null pointer dereferences
 
@@ -33,7 +33,7 @@ So it considers all possible executions of the program and all possible behavior
 
 ***
 
-###3 - Inspections
+### 3 - Inspections
 
 Also called reviews or walkthroughs
 
@@ -45,8 +45,8 @@ Inspections have shown to be quite effective in practice
 
 ***
 
-###4 - Formal Proofs of Correctness
+### 4 - Formal Proofs of Correctness
 
-Given a formal software specification, a document that formally describes the expected behavior of the program, a form of proofcorrectness proves that the program being verified actually implements the program specification
+Given a formal software specification, a document that formally describes the expected behavior of the program, a form of proof correctness proves that the program being verified actually implements the program specification
 
-It doesthat through a sophisticated mathematical analysis of the specifications and of the code
+It does that through a sophisticated mathematical analysis of the specifications and of the code

@@ -1,4 +1,4 @@
-#Optimizing jQuery
+# Optimizing jQuery
 
 In the below code we create a unique delete function for each customer displayed on the page:
 

@@ -1,4 +1,4 @@
-#Building An API
+# Building An API
 
 First create an API folder in your Controllers folder in your ASP.NET MVC5 application
 
@@ -92,7 +92,7 @@ If we go to localhost:123456/api/customers we can see the XML data from our cust
 
 ***
 
-###Testing This API
+### Testing This API
 
 To test an API effectively we can use the Google Chrome app **Postman REST Client**
 

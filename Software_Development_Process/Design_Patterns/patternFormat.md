@@ -1,6 +1,6 @@
-#Pattern Format
+# Pattern Format
 
-###This is the convention that we use to define a pattern:
+### This is the convention that we use to define a pattern:
 
 Name
 
@@ -12,7 +12,7 @@ Applicability
 
 Structure
 
-Concequences
+Consequences
 
 Implementation
 

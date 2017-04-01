@@ -1,4 +1,4 @@
-#Creating An ASP.NET MVC 5 Project
+# Creating An ASP.NET MVC 5 Project
 
 In Visual Studio: File -> New -> Project -> Templates -> Visual C# -> Web -> ASP.NET Web Application, Visual C# (Select if you want to add to Git or not)
 
@@ -6,7 +6,7 @@ In the list of templates select MVC, do not deploy to Azure Cloud
 
 ***
 
-###What Does The Template Include?
+### What Does The Template Include?
 
 In **App_Data** our database files will be stored
 
@@ -42,7 +42,7 @@ The **AccountController.cs** has actions/methods for signing in and out,
 
 The **HomeController.cs** which as all the actions relating to the home page
 
-The **ManageController.cs** which provides a number of actions for handling requests for a users profile, like changing a password, enabling two-factor athentication, using social logins like facebook, etc
+The **ManageController.cs** which provides a number of actions for handling requests for a users profile, like changing a password, enabling two-factor authentication, using social logins like facebook, etc
 
 -
 

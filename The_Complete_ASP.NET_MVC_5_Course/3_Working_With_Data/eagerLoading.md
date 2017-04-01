@@ -1,4 +1,4 @@
-#Eager Loading
+# Eager Loading
 
 We can include data from our Customer class on our Index.cshtml file by using the below code:
 
@@ -35,7 +35,7 @@ else
 }
 ```
 
-However, if we try and run this it will complain that it does not known anythin about the "@customer.MembershipType.DiscountRate". This is because by default Entity Framework will only load the Customer objects, and not their related objects. So "MembershipType" is null. To solve this problem we need to load the customers and their membership types together using **Eager Loading**.
+However, if we try and run this it will complain that it does not known anything about the "@customer.MembershipType.DiscountRate". This is because by default Entity Framework will only load the Customer objects, and not their related objects. So "MembershipType" is null. To solve this problem we need to load the customers and their membership types together using **Eager Loading**.
 
 ```cs
 using System.Data.Entity;

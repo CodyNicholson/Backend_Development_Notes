@@ -1,4 +1,4 @@
-#Arrays In Java
+# Arrays In Java
 
 **Arrays** allow us to store multiple variables of the same type in a single variable
 

@@ -1,4 +1,4 @@
-#Data Annotations
+# Data Annotations
 
 So far we have looked at the Data Annotations [Required] and [StringLength(255)], but here is a full list of all of the Data Annotations:
 

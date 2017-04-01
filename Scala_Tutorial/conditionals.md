@@ -1,6 +1,6 @@
-#Conditionals In Scala
+# Conditionals In Scala
 
-#####Conditional Operators:
+##### Conditional Operators:
 
 ```
 == Equal to
@@ -13,7 +13,7 @@
 
 -
 
-#####Logical Operators:
+##### Logical Operators:
 
 ```
 && and
@@ -23,7 +23,7 @@
 
 ***
 
-###If Statements
+### If Statements
 
 If statements are similar to Java except that they will return a value kind of like ternary operators in Java
 
@@ -32,7 +32,7 @@ val age = 18
 val canVote = if(age >= 18) "yes" else "no"  // will return yes (string)
 
 if((age>=5) && (age <= 6)){
-    | println("Go to kindergraden")
+    | println("Go to kindergarten")
     | } else if((age > 6) && (age <= 7)){
     | println("Go to grade 1")
     | } else {

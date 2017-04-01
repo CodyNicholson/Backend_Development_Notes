@@ -1,4 +1,4 @@
-#What is the Software Lifecycle?
+# What is the Software Lifecycle?
 
 A sequence of decisions that determine the history of your software
 
@@ -12,7 +12,7 @@ There are many ways in which you can make these decisions
 
 It is important to understand which models are good for which situations
 
-Agile is good for small projects, larger products may require a more rigourous approach
+Agile is good for small projects, larger products may require a more rigorous approach
 
 Critically of the software also plays an important role in the requirements
 

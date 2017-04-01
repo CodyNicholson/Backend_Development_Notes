@@ -1,4 +1,4 @@
-#Decompose Conditionals
+# Decompose Conditionals
 
 To make your code more readable it is good to Decompose Complex Conditionals and modify the Then and Else part of the conditional like so:
 
@@ -13,7 +13,7 @@ else
 }
 ```
 
-####The above code can be changed into:
+#### The above code can be changed into:
 
 ```java
 if(notSummer(date))

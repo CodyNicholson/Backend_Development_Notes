@@ -1,10 +1,10 @@
-#Modeling Requirements
+# Modeling Requirements
 
 What do you want to model and how do you want to model it?
 
 ***
 
-###If you are modeling for enterprises you should pay attention to:
+### If you are modeling for enterprises you should pay attention to:
 
 - Goals and objectives
 
@@ -12,7 +12,7 @@ What do you want to model and how do you want to model it?
 
 - Task and dependencies
 
-- Agents, roles, untentionality
+- Agents, roles
 
 - Modeling information and behaviors
 

@@ -1,10 +1,10 @@
-#Eclipse IDE
+# Eclipse IDE
 
 Eclipse works on every Operating System
 
 An IDE is software the supports software developers in many of their daily tasks
 
-###Eclipse provides
+### Eclipse provides
 
 - An easy way to navigate through your code
 
@@ -16,7 +16,7 @@ An IDE is software the supports software developers in many of their daily tasks
 
 ***
 
-####Plug-ins:
+#### Plug-ins:
 
 By adding plug-ins you can add features to your IDE if you need something that your IDE does not do
 

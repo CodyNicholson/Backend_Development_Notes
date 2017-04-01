@@ -1,4 +1,4 @@
-#Strings In Scala
+# Strings In Scala
 
 ```
 import scala.io.StdIn.{readLine, readInt}

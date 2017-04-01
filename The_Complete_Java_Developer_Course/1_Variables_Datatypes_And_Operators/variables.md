@@ -1,4 +1,4 @@
-#Variables
+# Variables
 
 A variable is a 'place' in memory that you can store something in, like a box
 
@@ -26,11 +26,11 @@ The first part of the line, 'int', is the **data type** of our variable - this t
 
 We represent this spot in memory with the name 'myFirstNumber', but we could name it anything else
 
-Lastly, we set our int varaible to the value of 5
+Lastly, we set our int variable to the value of 5
 
 -
 
-We can print out our vaiable like this:
+We can print out our variable like this:
 
 ```java
 System.out.println(myFirstNumber);

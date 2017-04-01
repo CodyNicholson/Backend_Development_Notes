@@ -1,4 +1,4 @@
-#Ideal Characteristics Of Software Architecture
+# Ideal Characteristics Of Software Architecture
 
 Ideally, software architecture should be **Scalable, have high Cohesion, and have as little Coupling as possible**
 
@@ -18,6 +18,6 @@ We should have **High Cohesion** because we want to develop modules whose elemen
 
 Coupling is a measure of how strongly related are different modules are in our system
 
-**Low Couping** is ideal because it indicates that our different modules in the system are independant from one another
+**Low Couping** is ideal because it indicates that our different modules in the system are independent from one another
 
 Each module provides a specific piece of functionality and can provide it without relying on other modules

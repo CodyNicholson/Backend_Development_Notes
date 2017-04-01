@@ -1,6 +1,6 @@
-#Statements, Whitespace, & Indentation (Code Organization)
+# Statements, Whitespace, & Indentation (Code Organization)
 
-###Statements In Java
+### Statements In Java
 
 A statement is a command in java code that is terminated by a semicolon
 
@@ -14,7 +14,7 @@ myVariable--;
 
 ***
 
-###Whitespace
+### Whitespace
 
 The two print statements below are equivalent, they are functionally the same
 
@@ -37,6 +37,6 @@ int myNum = 5; System.out.println(myNum);
 
 ***
 
-###Indentation
+### Indentation
 
 We indent our code in java not because we need to, but because we want our code to be more readable

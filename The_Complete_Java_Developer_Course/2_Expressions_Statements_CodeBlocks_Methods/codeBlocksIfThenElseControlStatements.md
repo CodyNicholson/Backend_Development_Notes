@@ -1,6 +1,6 @@
-#Code Blocks & If-Then-Else Control Statements
+# Code Blocks & If-Then-Else Control Statements
 
-###Code Blocks
+### Code Blocks
 
 ```java
 public static void main(String[] args)
@@ -28,7 +28,7 @@ Since the if statement fails, the second code bloack will never run in this case
 
 ***
 
-###If-Then-Else Control Statements
+### If-Then-Else Control Statements
 
 ```java
 int myNum = 1;

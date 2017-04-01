@@ -1,4 +1,4 @@
-#Construction Phase
+# Construction Phase
 
 If the Elaboration phase is successful we move to the Construction phase
 
@@ -14,7 +14,7 @@ The Construction phase is where there is a shift from intellectual property deve
 
 The outcome of the construction phase is a product that is ready to be deployed to the users
 
-####Specifically, this phase develops the following outcomes:
+#### Specifically, this phase develops the following outcomes:
 
 ```
 1. All the use-cases have been realized with traceability information
@@ -33,7 +33,7 @@ The outcome of the construction phase is a product that is ready to be deployed 
 
 -
 
-2. We aso have the complete software product which is integrated on
+2. We also have the complete software product which is integrated on
    all the needed platforms
 
 -
@@ -58,7 +58,7 @@ At the end of this phase we should have a typical beta release copy ready to go
 
 ***
 
-####To evaluate the Construction phase we ask:
+#### To evaluate the Construction phase we ask:
 
 1. Is the product stable/mature enough to be deployed to users?
 

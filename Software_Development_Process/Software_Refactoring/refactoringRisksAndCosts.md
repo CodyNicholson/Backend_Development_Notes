@@ -1,4 +1,4 @@
-#Refactoring is a powerful tool but does have some risks:
+# Refactoring is a powerful tool but does have some risks:
 
 You may introduce subtle faults by refactoring
 
@@ -8,10 +8,10 @@ Should be used carefully on systems in production because this is so late in the
 
 ***
 
-##Refactoring also has costs:
+## Refactoring also has costs:
 
 It can be free if you use tools, but in many cases you will have to do manual work
 
-When you refactor there will be test development and maintnance costs since you will need new test cases for your code
+When you refactor there will be test development and maintenance costs since you will need new test cases for your code
 
-Applying refactoring may involve chages in interfaces, names of classes and such which means the documentation will have to be updated and that has a cost
+Applying refactoring may involve changes in interfaces, names of classes and such which means the documentation will have to be updated and that has a cost

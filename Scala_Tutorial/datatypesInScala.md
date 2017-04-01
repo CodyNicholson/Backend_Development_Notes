@@ -1,4 +1,4 @@
-#Datatypes In Scala
+# Datatypes In Scala
 
 These are the eight different datatypes that Scala supports:
 
@@ -10,4 +10,3 @@ These are the eight different datatypes that Scala supports:
 - Long: integer between -9223372036854775808 and 9223372036854775807
 - Float: decimal value between -3.4028235E38 and 3.4028235E38
 - Double: decimal value between -1.7976931348623157E308 and 1.7976931348623157E308
-

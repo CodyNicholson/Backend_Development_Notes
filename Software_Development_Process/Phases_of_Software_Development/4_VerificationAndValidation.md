@@ -1,16 +1,16 @@
-#Verification and Validation
+# Verification and Validation
 
 The Verification and Validation Phase aims to make sure that the Software meets is specification and meets its intended purpose
 
 ***
 
-###Validation
+### Validation
 
 Did we build the system that the customer wants and will make them happy?
 
 -
 
-###Verification
+### Verification
 
 Did we build the system right?
 

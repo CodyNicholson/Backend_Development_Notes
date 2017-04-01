@@ -1,16 +1,16 @@
-#Factory Method Design Pattern
+# Factory Method Design Pattern
 
 The Factory Method Pattern is a design pattern with the following properties:
 
 ***
 
-###Intent:
+### Intent:
 
 Allows for creating objects without specifying their class, by invoking a factory method (a method whose main goal is to create class instances)
 
 ***
 
-###Applicability:
+### Applicability:
 
 This is useful in classes that cannot anticipate the type of objects it must create, that is, the type of an object is not known at compile time, this is common in frameworks
 
@@ -20,15 +20,15 @@ Lastly, it is useful when a class needs control over the creation of its objects
 
 ***
 
-###Structure:
+### Structure:
 
 The structure of this pattern includes three classes: the Creator, the Concrete Creator, and the Product
 
 ***
 
-###Participants:
+### Participants:
 
-The Creator provides the interface for the factory method, which when envoked will return an object of type Product
+The Creator provides the interface for the factory method, which when invoked will return an object of type Product
 
 The Concrete Creator provides the actual factory method for creating the Product, that actual factory method in the Concrete Creator is the concrete implementation for the Creator's factory method interface
 

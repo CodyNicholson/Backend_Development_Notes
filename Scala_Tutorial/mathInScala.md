@@ -1,4 +1,4 @@
-#Math In Scala
+# Math In Scala
 
 In Scala you can do math using a variety of operators just like in Java:
 

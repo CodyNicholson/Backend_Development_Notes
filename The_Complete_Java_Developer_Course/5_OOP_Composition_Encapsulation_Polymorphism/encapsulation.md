@@ -1,4 +1,4 @@
-#Encapsulation
+# Encapsulation
 
 **Encapsulation** allows you to limit access to certain components in the objects that you are creating
 

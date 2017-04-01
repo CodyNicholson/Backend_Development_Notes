@@ -1,6 +1,6 @@
-#Variables, Datatypes, and Operaators in Java
+# Variables, Datatypes, and Operators in Java
 
-###The Eight Primitive Data Types in Java
+### The Eight Primitive Data Types in Java
 
 THE PRIMITIVE TYPES IN JAVA:
 

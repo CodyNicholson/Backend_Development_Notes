@@ -1,4 +1,4 @@
-#Higher-Order Functions In Scala
+# Higher-Order Functions In Scala
 
 Functions can be passed just like any other variable since they have a return type
 
@@ -32,7 +32,7 @@ object ScalaTutorial
 
 ***
 
-###How To Pass Different Functions Into A Function
+### How To Pass Different Functions Into A Function
 
 ```scala
 object ScalaTutorial

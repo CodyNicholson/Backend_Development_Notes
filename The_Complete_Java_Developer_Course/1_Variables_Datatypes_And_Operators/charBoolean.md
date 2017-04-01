@@ -1,6 +1,6 @@
-#Primitive Datatypes - Char and Boolean
+# Primitive Datatypes - Char and Boolean
 
-###Char
+### Char
 
 A **char** stores *one* of any character
 
@@ -29,7 +29,7 @@ System.out.println("Unicode Character: " + myUnicodeChar);
 
 ***
 
-###Boolean
+### Boolean
 
 **Booleans** hold either true or false values and can be used to add logic to code
 

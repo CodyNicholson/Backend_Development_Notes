@@ -1,4 +1,4 @@
-#Razor Syntax
+# Razor Syntax
 
 By using **Razor Syntax** we can mix our HTML code with C# code
 
@@ -40,7 +40,7 @@ As you can see in the above code, we have C# working inside of HTML
 
 All C# statements have an '@' before them
 
-The className variable we declare is initalized based on the amount of Customers we have. If we have more than one Customer (We have two) then className is set equal to "popular". This is important because this variable is then used in our h2 tag as a class name for our movie. This allows us to manipulate the look of the text based on the amount of Customers we have.
+The className variable we declare is initialized based on the amount of Customers we have. If we have more than one Customer (We have two) then className is set equal to "popular". This is important because this variable is then used in our h2 tag as a class name for our movie. This allows us to manipulate the look of the text based on the amount of Customers we have.
 
 Below that you can see that we check if Model.Customers.Count is 0, and if it is we display a message. Otherwise - if we do have Customers - then we display there names in a list
 

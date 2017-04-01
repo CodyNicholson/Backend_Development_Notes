@@ -1,4 +1,4 @@
-#Updating Data
+# Updating Data
 
 To update data we have to make it so that if you change the data in the CustomerForm and click the submit button, then the database will be updated with the new data. So we can change the Create() action into the Save() action as seen below:
 

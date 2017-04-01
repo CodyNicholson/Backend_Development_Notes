@@ -1,4 +1,4 @@
-#Action Results
+# Action Results
 
 In MovieController.cs the method we created returns type **ActionResult**
 

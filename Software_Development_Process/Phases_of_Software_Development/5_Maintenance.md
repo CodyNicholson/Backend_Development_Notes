@@ -1,10 +1,10 @@
-#Maintenance
+# Maintenance
 
 Once the software is released and in operation, many different things can go wrong so we need to maintain it
 
 ***
 
-There might be environment changes, like new Operating Systems and Libraires where our software has to operate
+There might be environment changes, like new Operating Systems and Libraries where our software has to operate
 
 There could also be feature requests where the users decide that they need something else that is not present in the software currently
 
@@ -12,23 +12,23 @@ There could also be bugs discovered in the software that we will need to go back
 
 ***
 
-In responce to the three possible problems defined above, developers preform three kinds of maintenance activities
+In response to the three possible problems defined above, developers preform three kinds of maintenance activities
 
 -
 
-###1. Corrective Maintenance
+### 1. Corrective Maintenance
 
-To eleminate problems with the code
-
--
-
-###2. Perfective Maintenance
-
-To accomodate feature requests, or also to improve the software generally in terms of preformance
+To eliminate problems with the code
 
 -
 
-###3. Adaptive Maintenance
+### 2. Perfective Maintenance
+
+To accommodate feature requests, or also to improve the software generally in terms of performance
+
+-
+
+### 3. Adaptive Maintenance
 
 To take care of environment changes
 
@@ -42,6 +42,6 @@ Now we can release the software again and restart this same process
 
 ***
 
-If you rerelease the software after going through the three step process and then there are new errors, these errors are called regression errors
+If you re-release the software after going through the three step process and then there are new errors, these errors are called regression errors
 
 Regression errors are among the most expensive errors to fix

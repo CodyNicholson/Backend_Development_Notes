@@ -1,4 +1,4 @@
-#Classes
+# Classes
 
 Objects in Java can be easily compared to objects in the real world - we can think of them in terms of **state** and **behavior**
 
@@ -48,7 +48,7 @@ We have encapsulated all of the variables we defined in the Car class by making 
 
 ***
 
-###Creating an Object of our Car Class
+### Creating an Object of our Car Class
 
 ```java
 public class Main
@@ -71,13 +71,13 @@ These are methods added to any user-defined class automatically by java
 
 -
 
-If we made out memeber/instance variables in the Car class public, we could do "porsche.model = '2017 CoolCarName'" - we could set that instance variable of our object
+If we made out member/instance variables in the Car class public, we could do "porsche.model = '2017 CoolCarName'" - we could set that instance variable of our object
 
 The reason we do not do this is because that violates the laws of OOP, because then ANYONE could change the model of your Car object at anytime, and you don't want your object to be vulnerable
 
 ***
 
-###Setter Method
+### Setter Method
 
 If we do want to change the model we create a method in the Car class to do so:
 
@@ -119,7 +119,7 @@ Above you will see how we can change the model by using the setModel() method si
 
 -
 
-###Getter Method
+### Getter Method
 
 Now we can set the model, but we cannot check the value of model
 

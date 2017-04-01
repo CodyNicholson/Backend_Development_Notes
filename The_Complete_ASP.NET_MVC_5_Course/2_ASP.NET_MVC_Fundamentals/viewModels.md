@@ -1,4 +1,4 @@
-#View Models
+# View Models
 
 We have only one model property currently, and that is: Name
 

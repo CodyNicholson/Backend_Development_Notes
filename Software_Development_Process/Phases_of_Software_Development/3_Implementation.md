@@ -1,19 +1,19 @@
-#Implementation
+# Implementation
 
 After we Design our system we can begin to Implement it
 
 ***
 
-##There are four foundational principles that can affect Software Implementaton
+## There are four foundational principles that can affect Software Implementation
 
 
-###1. Reduction of Complexity
+### 1. Reduction of Complexity
 
 This aims to build software that is easier to understand and use
 
 -
 
-###2. Anticipation of Diversity
+### 2. Anticipation of Diversity
 
 Takes into account that software construction might change in various ways over time
 
@@ -21,13 +21,13 @@ Software evolves, sometimes in unexpected ways and we must be able to anticipate
 
 -
 
-###3. Structuring for Validation/Design for Testability
+### 3. Structuring for Validation/Design for Testability
 
 We want to build software that is easily testable during the Validation and Verification steps of the Software Dev Process
 
 -
 
-###4. Use of Internal and External Standards
+### 4. Use of Internal and External Standards
 
 Like the Internal Standard by which we name variables when we code
 

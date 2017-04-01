@@ -1,4 +1,4 @@
-#Polymorphism
+# Polymorphism
 
 **Polymorphism** allows us to assign different functionality depending on the type of object that we have created
 

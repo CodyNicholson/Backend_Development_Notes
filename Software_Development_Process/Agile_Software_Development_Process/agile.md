@@ -1,4 +1,4 @@
-#Agile Software Development
+# Agile Software Development
 
 By investing in planning correctly and creating models, we save time and money in the long run
 
@@ -8,7 +8,7 @@ Agile aims at a flat cost, meaning that even though we will delay the project wi
 
 ***
 
-###Agile principles:
+### Agile principles:
 
 Focus on the code rather than design - to avoid unnecessary changes
 

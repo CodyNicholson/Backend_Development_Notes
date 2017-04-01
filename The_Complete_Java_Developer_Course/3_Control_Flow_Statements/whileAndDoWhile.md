@@ -1,6 +1,6 @@
-#While & Do While Loops
+# While & Do While Loops
 
-###While Statements
+### While Statements
 
 The **While Statement** is used when you do not know how many times you want to loop through your code, but you are aware of when you want to stop
 
@@ -15,7 +15,7 @@ while (termination condition)
 
 -
 
-###Examples
+### Examples
 
 ```java
 int count = 0;
@@ -63,7 +63,7 @@ This means that the loop will run at least one time even if the termination cond
 
 ***
 
-###Challenge
+### Challenge
 
 ```java
 public static void main(String[] args)

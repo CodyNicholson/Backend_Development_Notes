@@ -1,6 +1,6 @@
-#Techniques for Requirements Elicitation
+# Techniques for Requirements Elicitation
 
-###Background Reading
+### Background Reading
 
 This technique relies on collecting information be reading existing documents like company reports, organizational charts, policy manuals, job descriptions, documentation of existing systems
 
@@ -8,15 +8,15 @@ This technique is great for people who are new to the company
 
 ***
 
-###Hard Data and Samples
+### Hard Data and Samples
 
 Look for the right hard data and the right population to observe
 
-Hard data includes facts and figures like forms, invoices, finacial information, survey results
+Hard data includes facts and figures like forms, invoices, financial information, survey results
 
 ***
 
-###Interviews
+### Interviews
 
 Structures with questions
 
@@ -26,7 +26,7 @@ Usually hard to analyze
 
 ***
 
-###Surveys
+### Surveys
 
 Quickly collect info from large number of people
 
@@ -34,7 +34,7 @@ You can do this remotely through email
 
 ***
 
-###Meetings
+### Meetings
 
 For summarization of findings
 
@@ -42,6 +42,6 @@ Clearly stated objectives
 
 ***
 
-###Collaborative techniques - Brainstorming
+### Collaborative techniques - Brainstorming
 
-Cognitive techniques can be used to better understand problem sloving methods
+Cognitive techniques can be used to better understand problem solving methods

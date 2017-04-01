@@ -1,6 +1,6 @@
-#Looping In Scala
+# Looping In Scala
 
-###While Loop
+### While Loop
 
 ```scala
 object ScalaTutorial
@@ -21,7 +21,7 @@ object ScalaTutorial
 
 ***
 
-###Do-While Loop
+### Do-While Loop
 
 You use Do-While loops when you want to make sure you go through the loop at least once
 
@@ -45,7 +45,7 @@ object ScalaTutorial
 
 ***
 
-###For Loop
+### For Loop
 
 ```scala
 object ScalaTutorial
@@ -177,7 +177,7 @@ j : 6
 
 -
 
-###Break & Continue Substitutes
+### Break & Continue Substitutes
 
 ```scala
 object ScalaTutorial

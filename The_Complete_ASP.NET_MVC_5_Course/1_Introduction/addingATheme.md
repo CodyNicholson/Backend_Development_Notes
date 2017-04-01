@@ -1,4 +1,4 @@
-#Adding A Theme
+# Adding A Theme
 
 To add a theme to your MVC 5 application you can go to bootswatch.com, find a theme, download that theme's corresponding CSS file, and include it in your project
 

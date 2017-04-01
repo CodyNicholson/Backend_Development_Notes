@@ -1,4 +1,4 @@
-#When to Refactor Bad Smells
+# When to Refactor Bad Smells
 
 Refactoring is applied when something does not look or feel right in the code, this is called a Bad Smell
 
@@ -8,7 +8,7 @@ Bad Smells are usually not bugs that prevent the program from running, they indi
 
 ***
 
-###List of very common Bad Smells:
+### List of very common Bad Smells:
 
 Duplicated code, long method, large class,
 
@@ -28,7 +28,7 @@ data class, refused requests
 
 ***
 
-####Examples:
+#### Examples:
 -
 
 Duplicated code problems can be resolved using the extract method refactoring technique to make a single method for the duplicated code and place calls to that method where the duplicated code was found
@@ -43,7 +43,7 @@ Large class problems can be resolved by using the extract class or subclass tech
 
 -
 
-Shotgun surgety happends when you make one change to the system that results in you having to make small little changes in a lot of other places in the code. This can be a symptom of functionality being spread too thin among many different classes, too much coupling. To fix this we can use the move field/method and inline class refactoring techniques to bring the related pieces of functionality together
+Shotgun surgery happens when you make one change to the system that results in you having to make small little changes in a lot of other places in the code. This can be a symptom of functionality being spread too thin among many different classes, too much coupling. To fix this we can use the move field/method and in-line class refactoring techniques to bring the related pieces of functionality together
 
 -
 

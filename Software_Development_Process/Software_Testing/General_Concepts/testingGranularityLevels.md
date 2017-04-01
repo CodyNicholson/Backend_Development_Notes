@@ -1,10 +1,10 @@
-#Testing Granularity Levels
+# Testing Granularity Levels
 
-##There are three testing levels:
+## There are three testing levels:
 
 1. We start with Unit Testing which is the testing of individual modules of the system in isolation
 
-2. Then we move to integration testing which is testing of multiple modules and thier interations
+2. Then we move to integration testing which is testing of multiple modules and their interactions
 
   If we integrate all the modules together at once we are preforming big bang integration testing
 
@@ -22,7 +22,7 @@ Non-functional tests will try to assess different qualities of the system like r
 
 ***
 
-####There are two more levels of software testing that both involve the whole system:
+#### There are two more levels of software testing that both involve the whole system:
 
 1. Acceptance Testing which is the validation of the software against the customer requirements
   

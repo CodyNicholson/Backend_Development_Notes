@@ -1,6 +1,6 @@
-#Keywords & Expressions
+# Keywords & Expressions
 
-###Keywords
+### Keywords
 
 Java has 50 reserved words that are used for keywords
 
@@ -10,7 +10,7 @@ Any time these words are seen in java they are being used as keywords
 
 ***
 
-###Expressions
+### Expressions
 
 What is an expression in the code below?
 

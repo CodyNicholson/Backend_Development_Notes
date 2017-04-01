@@ -1,4 +1,4 @@
-#Seeding The Database
+# Seeding The Database
 
 To seed the database with fake records we create we first execute "add-migration {Migration Name}" with a Migration Name of PopulateMembershipTypes. Since we don't have any model class called PopulateMembershipTypes the migration class that Entity Framework will automatically create for us in the Migrations folder will not have any fields in its' Up() and Down() methods:
 
@@ -46,4 +46,4 @@ namespace Vidly.Migrations
 }
 ```
 
-To run this migration all we need to do is execute the "Update-Database" command after we have included the SQL statments that we want to run.
+To run this migration all we need to do is execute the "Update-Database" command after we have included the SQL statements that we want to run.

@@ -1,10 +1,10 @@
-#Software Intensive Systems
+# Software Intensive Systems
 
 Software is an abstract description of a set of computations that becomes concrete when we run the software on some hardware, and in the context of some human activity that it can support
 
 ***
 
-####What we mean when we say "the system" -- like in System Testing:
+#### What we mean when we say "the system" -- like in System Testing:
 
 Software Intensive System which is the software, the system on which it runs, and the context in which the software is used
 

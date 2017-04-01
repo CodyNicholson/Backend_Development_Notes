@@ -1,4 +1,4 @@
-#Making The Form Editable
+# Making The Form Editable
 
 Currently we have a static Details.cshtml page displaying the each Customer's information. Now we will allow Customers to edit their data in their respective Detail page.
 

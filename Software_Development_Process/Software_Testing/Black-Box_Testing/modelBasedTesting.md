@@ -1,4 +1,4 @@
-#Model Based Testing
+# Model Based Testing
 
 In Model-Based Testing the way in which we go from specification to test cases is through the construction of a model
 
@@ -6,9 +6,9 @@ A model is an abstract representation of the software under test, and there are 
 
 -
 
-#####The model we will consider is the Finite State Machines model (FSM)
+##### The model we will consider is the Finite State Machines model (FSM)
 
-######In this model:
+###### In this model:
 
 Nodes represent states
 
@@ -25,17 +25,17 @@ Event1 is when the user clicks the 'Home' button
 
 ***
 
-####How do we build a FSM?
+#### How do we build a FSM?
 
 1. We start with the specification and identify the system's boundaries and the input and output to the system
 
-2. Once we have done that we can identify, within the boundaries of the the system, the relavent states and transitions
+2. Once we have done that we can identify, within the boundaries of the the system, the relevant states and transitions
 
 3. We split this single state and refine it into several states and identify how the system can go from one state to another, including which inputs cause which transitions and result and outputs we can obtain
 
 ***
 
-###Final notes:
+### Final notes:
 
 This process is all about breaking down the complex system into smaller parts that we can create test cases for to be more efficient and effective in testing
 

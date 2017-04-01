@@ -1,4 +1,4 @@
-#Partition Testing
+# Partition Testing
 
 Failures tend to be dense, meaning that if there is one failure then there is probably more failures very close by to it
 
@@ -16,7 +16,7 @@ By doing this we can dramatically increase our chances to reveal faults in the c
 
 -
 
-####Example:
+#### Example:
 
 
 Split(String str, int size)

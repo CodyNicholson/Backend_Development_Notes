@@ -1,4 +1,4 @@
-#Var Vs Val
+# Var Vs Val
 
 In Scala you can declare variables using "var" or "val"
 

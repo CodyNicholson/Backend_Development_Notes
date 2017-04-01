@@ -1,28 +1,28 @@
-#Strategy Pattern
+# Strategy Pattern
 
 The Strategy Pattern provides a way to configure a class with one of many behaviors
 
-More precisely, this pattern allows us to define a family of algorithms, ecapsulating them in separate classes so that each algorthim has a class and making these classes interchangable by providing a common interface for all the encapsulated algorithms
+More precisely, this pattern allows us to define a family of algorithms, encapsulating them in separate classes so that each algorithm has a class and making these classes interchangeable by providing a common interface for all the encapsulated algorithms
 
 ***
 
-###Intent
+### Intent
 
 Allows for switching between different algorithms for accomplishing a task, for example if you had many different sorting algorithms this design pattern would make them all available so you could use the most ideal algorithm for each situation
 
 ***
 
-###Applicability
+### Applicability
 
-This pattern is applicable when we have different varients of an algorithm, like in sorting you have mergesort, quicksort, and a few others
+This pattern is applicable when we have different variants of an algorithm, like in sorting you have mergesort, quicksort, and a few others
 
 This pattern is also useful when we have many related classes that only differ in their behavior
 
 ***
 
-##Structure
+## Structure
 
-###Context
+### Context
 
 The context is the interface to the outside world, it maintains reference to the current algorithm (defined as one of the Concrete Strategies) and allows for updating the references at runtime
 
@@ -32,13 +32,13 @@ Depending on which algorithm is currently selected, that is the one that will be
 
 -
 
-###Algorithm (Also called the Strategy):
+### Algorithm (Also called the Strategy):
 
 Defines the common interface for the different algorithms
 
 -
 
-###Concrete Strategy:
+### Concrete Strategy:
 
 The Concrete Strategy contains the actual implementation of the algorithm
 

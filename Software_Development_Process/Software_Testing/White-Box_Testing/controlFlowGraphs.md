@@ -1,10 +1,10 @@
-#Control Flow Graphs
+# Control Flow Graphs
 
 A Control Flow Graph is a graph that shows the order that the statements will be executed in a diagram
 
 -
 
-###Example:
+### Example:
 
 ```java
 public void split(String str, int index)
@@ -17,7 +17,7 @@ public void split(String str, int index)
 }
 ```
 
-###The control flow diagram would look like this:
+### The control flow diagram would look like this:
 
 ```
        True

@@ -1,6 +1,6 @@
-#The Rational Unified Process (RUP) is Use Case Driven
+# The Rational Unified Process (RUP) is Use Case Driven
 
-A system is something that performs a sequence of actions in responce to user input
+A system is something that performs a sequence of actions in response to user input
 
 The user submits some requests, or requests some functionality, and the system responds to those requests
 

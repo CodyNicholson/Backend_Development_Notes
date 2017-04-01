@@ -1,4 +1,4 @@
-#Input & Output In Scala
+# Input & Output In Scala
 
 ```scala
 import scala.io.StdIn.{readLine, readInt}

@@ -1,6 +1,6 @@
-#For Statements In Java
+# For Statements In Java
 
-**For Statements** are used to loop through code in java, in other words it means that we willbe able to run the same code multiple times
+**For Statements** are used to loop through code in java, in other words it means that we will be able to run the same code multiple times
 
 For loop syntax:
 
@@ -35,7 +35,7 @@ public static double calculateInterest(double amount, double interestRate)
 }
 ```
 
-The first for loop will execute 5 times, and the second one will execute 7 times because at the end of every loop we execute "i++" - since we execute "i++" eventurally i will be large enough for the conditional statement to fail, and the for loop will terminate
+The first for loop will execute 5 times, and the second one will execute 7 times because at the end of every loop we execute "i++" - since we execute "i++" eventually i will be large enough for the conditional statement to fail, and the for loop will terminate
 
 It takes 5 iterations for the first for loop to terminate because i starts at 0, and 0 + 5 = 5, and 5 is not less than 5, so the conditional will fail
 
@@ -45,7 +45,7 @@ The same is true for thee second for loop
 
 ***
 
-###Challenge Problems
+### Challenge Problems
 
 ```java
 for (int i = 0; i >= 2; i--)

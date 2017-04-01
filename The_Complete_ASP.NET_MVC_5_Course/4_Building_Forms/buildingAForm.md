@@ -1,4 +1,4 @@
-#Building A New Form
+# Building A New Form
 
 First we will add the Action in the CustomersController to get to our form:
 
@@ -49,7 +49,7 @@ At the bottom you will see the New() action that will take us to the form we wil
 
 -
 
-###Creating The Form
+### Creating The Form
 
 We can create a new view for the form that we have to name after the Action we added to the Customers class: "New.cshtml"
 
@@ -82,4 +82,4 @@ We can create a new view for the form that we have to name after the Action we a
 
 So the title of our new form will be "New Customer" and we will create the form using the @Html.BeginForm() method that will start our form tag. By putting the @Html.BeginForm() method inside a @using statement the end tag for our form will be created for us using the dispose() action in the CustomersController.
 
-Inside the body of the form we use bootstrap to do all of the styling for us by adding in some of the boostrap classes. You can see how we created a textbox for both Model.Name and Model.Birthdate, and a Checkbox for the boolean IsSubscribedToNewsletter variable.
+Inside the body of the form we use bootstrap to do all of the styling for us by adding in some of the bootstrap classes. You can see how we created a textbox for both Model.Name and Model.Birthdate, and a Checkbox for the boolean IsSubscribedToNewsletter variable.

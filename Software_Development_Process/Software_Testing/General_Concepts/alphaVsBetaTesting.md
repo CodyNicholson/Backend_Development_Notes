@@ -1,10 +1,10 @@
-#Alpha Vs Beta Testing
+# Alpha Vs Beta Testing
 
 Unit, Integration, System, Acceptance, and Regression Testing are all performed within the testing organization or by third party testers
 
 ***
 
-###There ar two other types of testing that are also worth mentioning:
+### There are two other types of testing that are also worth mentioning:
 
 **Alpha Testing** is the next step after the Developer's testing and is testing performed by distributing a software system ready to be released to a set of users that are internal to the organization that developed the software
 

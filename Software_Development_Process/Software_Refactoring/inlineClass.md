@@ -1,10 +1,10 @@
-#Inline Class
+# Inline Class
 
 If a class does not do much, you can move its features into another class and delete the original
 
 ***
 
-###Example:
+### Example:
 
 Superclass Person:
 Instance Variables: Name
@@ -16,7 +16,7 @@ Methods:
 
 ***
 
-###We can merge these two classes into:
+### We can merge these two classes into:
 
 Class Person:
 Instance Variables: Name, OfficeNum

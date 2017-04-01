@@ -1,4 +1,4 @@
-#Intro To Entity Framework
+# Intro To Entity Framework
 
 **Entity Framework** is a tool we use to access a database, more accurately it is classified as an object relational mapper (or ORM) which means it maps data in a relational database into objects of our application
 

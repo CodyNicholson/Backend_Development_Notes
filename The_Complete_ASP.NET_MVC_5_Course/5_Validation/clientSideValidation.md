@@ -1,4 +1,4 @@
-#Cleint-Side Validation
+# Client-Side Validation
 
 Having server-side validation is great for making our application secure, but we also want to have **Client-Side Validation** for two reasons:
 
@@ -7,7 +7,7 @@ Having server-side validation is great for making our application secure, but we
 
 -
 
-###Enabling Client-Side Validation
+### Enabling Client-Side Validation
 
 If you look at your BundleConfig.cs file in the App_Start folder you will see this:
 

@@ -1,4 +1,4 @@
-#Architecture Elements
+# Architecture Elements
 
 A software architecture typically should not be a uniform monolith
 
@@ -6,7 +6,7 @@ It should be a composition and interplay of different elements
 
 -
 
-####There are three main types of elements:
+#### There are three main types of elements:
 -
 
 1 - Processing Elements
@@ -31,4 +31,4 @@ The Processing Elements and the Data Elements are contained in the system compon
 
 The Interaction Elements are maintained and controlled by the system's connectors
 
-The system Componenets and Connectors all get put together in a systems configeration
+The system Components and Connectors all get put together in a systems configuration

@@ -1,4 +1,4 @@
-#The Waterfall Process
+# The Waterfall Process
 
 The Waterfall process is named this because you cannot start one step until you finish another, and thus you 'Waterfall' from each step to the next step
 
@@ -8,12 +8,12 @@ This modal works well when you have a stable project definition, the domain is w
 
 ***
 
-####Advantage:
+#### Advantage:
 
 By using the Waterfall Process we can catch errors early since we will not work on the next step until the current step is working correctly
 
 -
 
-####Disadvantage:
+#### Disadvantage:
 
 Not flexible, if requirements change or errors occur it is expensive to fix in this model

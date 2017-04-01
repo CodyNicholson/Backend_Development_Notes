@@ -1,24 +1,24 @@
-Elaboration Phase
+# Elaboration Phase
 
-####There are four main goals for the Elaboration phase:
+#### There are four main goals for the Elaboration phase:
 
-###1. Analyse the problem domain
+### 1. Analyze the problem domain
 
-###2. Establish architectural foundation
+### 2. Establish architectural foundation
 
-###3. Eliminate highest risk elements (address most in criticaluse-cases)
+### 3. Eliminate highest risk elements (address most in critical use-cases)
 
-###4. Refine the plan of activities and estimates of resources to complete the project
+### 4. Refine the plan of activities and estimates of resources to complete the project
 
 ***
 
-The outcome of the Elaboration phase reflects these activities and also in this case produces serveral artifacts:
+The outcome of the Elaboration phase reflects these activities and also in this case produces several artifacts:
 
 1. Almost complete use-case model with all use-cases and actors identified and most use-case descriptions developed
 
 2. Identify a set of supplementary requirements (All the requirements that are not associated with with a use-case) including non-functional requirements (Security, reliability, maintainability)
 
-3. Software Architecture - We take the inital architecture deifined in the Inception phase and we refine it until we get to a software architecture that is complete and part of the deliverables for this phase
+3. Software Architecture - We take the initial architecture defined in the Inception phase and we refine it until we get to a software architecture that is complete and part of the deliverables for this phase
 
 4. Design model, test cases, executable prototype
 
@@ -28,13 +28,13 @@ The outcome of the Elaboration phase reflects these activities and also in this 
 
 ***
 
-###Evaluating the Elaboration phase
+### Evaluating the Elaboration phase
 
 Are the vision and architecture stable? Do we have a complete vision for the system?
 
 Does the prototype show that the major risks have been addressed/resolved?
 
-Is the plansufficently detailed and accurate?
+Is the plan sufficiently detailed and accurate?
 
 Do all stakeholders agree that the vision can be achieved with the current plan?
 
@@ -42,4 +42,4 @@ Is the actual resource expenditure versus planned expenditure acceptable? Are ou
 
 -
 
-If the Elaboration phase is not passed the project might be cancelled or considerably rethought
+If the Elaboration phase is not passed the project might be canceled or considerably rethought

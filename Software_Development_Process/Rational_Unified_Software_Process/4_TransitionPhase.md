@@ -1,10 +1,10 @@
-#Transition Phase
+# Transition Phase
 
 If we are ready to go to the market and to deploy our product then we can move to the Transition phase which has to do with deployment and maintenance of the system
 
 ***
 
-####The main activities in the Transition phase are:
+#### The main activities in the Transition phase are:
 
 ```
 1. Issues after deployment will normally manifest after the first release,
@@ -25,13 +25,13 @@ If we are ready to go to the market and to deploy our product then we can move t
 
 ***
 
-####The outcome of the Transition phase is:
+#### The outcome of the Transition phase is:
 
 1. The complete project with all the artifacts that we mentioned before
 
 2. The product will be in the hands of the users in the real-world
 
-3. Lessons learnt, what worked and what didn't work, what should we do differently in the next cycle or in next development
+3. Lessons learned, what worked and what didn't work, what should we do differently in the next cycle or in next development
 
    Very important because it provides feedback in cycles and between projects so we can improve for next time
 
@@ -39,9 +39,9 @@ If we are ready to go to the market and to deploy our product then we can move t
 
 ***
 
-###Evaluating the Transition phase
+### Evaluating the Transition phase
 
-1. Is the user satisfied? Check their feeback
+1. Is the user satisfied? Check their feedback
 
 2. Are actual resourced expenditures versus planned expenditures still acceptable with respect to our estimates?
 

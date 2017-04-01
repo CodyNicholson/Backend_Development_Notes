@@ -1,4 +1,4 @@
-#Action Parameters
+# Action Parameters
 
 **Action Parameters** are the input to actions - just like Action Results are the output
 

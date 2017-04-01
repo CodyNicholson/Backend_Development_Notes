@@ -1,8 +1,8 @@
-#Camel Notation For API JSON Data
+# Camel Notation For API JSON Data
 
 To make our JSON data look more clean we can configure it to follow **Camel Notation**
 
-Camel Noation means that every variable name will start with a lowercase word and every following word will be uppercased like this: thisIsAnExampleOfCamelNotation
+Camel Notation means that every variable name will start with a lowercase word and every following word will be uppercased like this: thisIsAnExampleOfCamelNotation
 
 ***
 

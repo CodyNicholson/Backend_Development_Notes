@@ -1,4 +1,4 @@
-#Data Transfer Objects
+# Data Transfer Objects
 
 Our API that we created returns Customer Objects - Which is a problem if we ever want to change the Customer model
 
@@ -12,7 +12,7 @@ By creating DTO's we reduce the chances of our API breaking as we refactor our d
 
 ***
 
-###Creating Our DTO For The Customer Model
+### Creating Our DTO For The Customer Model
 
 Recall our Customer Model seen in the code below
 

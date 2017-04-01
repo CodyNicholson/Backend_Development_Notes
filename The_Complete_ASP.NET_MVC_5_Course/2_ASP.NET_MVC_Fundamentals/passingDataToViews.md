@@ -1,4 +1,4 @@
-#Passing Data To Views
+# Passing Data To Views
 
 Currently, the way we have been sending data to our views is by passing our model to the view method as seen below
 
@@ -14,7 +14,7 @@ There are two other ways to pass data to views, but passing through the View() m
 
 ***
 
-###Passing Data To Views Using The View Data Dictionary
+### Passing Data To Views Using The View Data Dictionary
 
 ```cs
 public ActionResult RandomViewBag()
@@ -43,7 +43,7 @@ public ActionResult RandomViewBag()
 
 -
 
-###Passing Data To Views Using ViewBag
+### Passing Data To Views Using ViewBag
 
 ```cs
 public ActionResult RandomViewBag()

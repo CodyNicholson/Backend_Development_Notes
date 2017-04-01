@@ -1,4 +1,4 @@
-#Listing Methods For Objects In The Scala Console
+# Listing Methods For Objects In The Scala Console
 
 Type your object (in this case x is an Int) and the dot operator as seen below:
 

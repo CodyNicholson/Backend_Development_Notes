@@ -1,4 +1,4 @@
-#Architecture-Centric
+# Architecture-Centric
 
 The Rational Unified Process (RUP) is Architecture-centric
 

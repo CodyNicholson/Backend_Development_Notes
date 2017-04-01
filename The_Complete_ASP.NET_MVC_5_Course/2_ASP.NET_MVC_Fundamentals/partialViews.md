@@ -1,4 +1,4 @@
-#Partial Views
+# Partial Views
 
 Take a look at the **Layout.cshtml** file in the Views/Shared folder:
 

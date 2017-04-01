@@ -1,4 +1,4 @@
-#Model Binding
+# Model Binding
 
 Now we can make our Create() action and pass a NewCustomerViewModel object through the method. MVC framework will use **Model Binding** to automatically map request data to this object (It will get all the data from the form).
 

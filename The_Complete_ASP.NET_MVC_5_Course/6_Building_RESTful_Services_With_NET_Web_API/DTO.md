@@ -1,4 +1,4 @@
-#Data Transfer Objects (DTOs)
+# Data Transfer Objects (DTOs)
 
 When we built our API, we gave access to our User objects to anyone
 
@@ -67,7 +67,7 @@ Also notice that we don't include and of the Display name data annotations becau
 
 ***
 
-###Auto Mapper
+### Auto Mapper
 
 In the Customer controller, anywhere we return a customer object we need to map it to our DTO
 

@@ -1,4 +1,4 @@
-#Arrays In Scala
+# Arrays In Scala
 
 ```scala
 def main(args : Array[String]){

@@ -1,4 +1,4 @@
-#Changing The Model
+# Changing The Model
 
 When you want to change the model, say add more columns to your tables or remove some, you should take small steps. That is, change one thing at a time and update the database gradually so you are less likely to have errors.
 
