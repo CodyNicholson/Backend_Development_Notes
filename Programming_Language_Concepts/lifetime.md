@@ -1,4 +1,4 @@
-#Lifetime
+# Lifetime
 
 Lifetime of an area of memory
 
@@ -12,7 +12,7 @@ READING: chapter 7 of Mitchell textbook
 
 ***
 
-###ACTIVATION RECORDS
+### ACTIVATION RECORDS
 
 Activation records: storage space for local variables / intermediate values that the runtime system generates
 
@@ -22,7 +22,7 @@ ARs almost always placed on a call stack
 
 ***
 
-###TYPICAL STORAGE OPTIONS
+### TYPICAL STORAGE OPTIONS
 
 global (static)
 
@@ -38,7 +38,7 @@ in heap (heap-allocated)
 
 ***
 
-###STORAGE LIFETIME ISSUES
+### STORAGE LIFETIME ISSUES
 
 Lifetime too short
 
@@ -54,7 +54,7 @@ Lifetime too long
 
 ***
 
-###CONTROL LINKS
+### CONTROL LINKS
 
 Some systems, e.g., 32-bit x86, use control links
 
@@ -81,7 +81,7 @@ Stack discipline
 
 ***
 
-###MULTIPLE THREADS
+### MULTIPLE THREADS
 
 Each thread needs a separate call stack
 
@@ -89,7 +89,7 @@ Calls and returns in separate threads are independent
 
 ***
 
-###HEAP ALLOCATION
+### HEAP ALLOCATION
 
 Heap allocation can use other patterns
 
@@ -104,7 +104,7 @@ Gives freedom, but more costly than call stack
 
 ***
 
-###COMMON PROBLEMS
+### COMMON PROBLEMS
 PLs with garbage collection
 
 lifetime too long (not GCed)
@@ -123,7 +123,7 @@ PLs with manual memory management (C, C++)
 
 ***
 
-###DANGLING POINTER - AR
+### DANGLING POINTER - AR
 
 ```
 #include <stdio.h>
@@ -192,7 +192,7 @@ $ valgrind ./ar
 
 ***
 
-###NOT DANGLING POINTER - AR
+### NOT DANGLING POINTER - AR
 
 ```
 #include <stdio.h>
@@ -247,7 +247,7 @@ $ valgrind ./ar
 
 ***
 
-###DANGLING POINTER - HEAP
+### DANGLING POINTER - HEAP
 
 ```
 #include <stdio.h>

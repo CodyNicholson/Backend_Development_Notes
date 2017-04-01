@@ -1,4 +1,4 @@
-#Scala Classes
+# Scala Classes
 
 SCALA FP AND OOP
 
@@ -23,7 +23,7 @@ We create an Anonymous function and pass it through as a parameter - Scala is a 
 
 ***
 
-###SCALA OOP
+### SCALA OOP
 
 Brief overview of Scala OOP:
 
@@ -33,7 +33,7 @@ Brief overview of Scala OOP:
 
 -
 
-###CLASS PARAMETERS
+### CLASS PARAMETERS
 
 Define a class ABC
 
@@ -55,7 +55,7 @@ val x : ABC = new C (2, 3, 5)
 
 -
 
-###CLASS PARAMETERS
+### CLASS PARAMETERS
 
 ```
 class ABC (f1:Int, val f2:Int, var f3:Int) {
@@ -87,7 +87,7 @@ c.f3: Int = 10
 
 ***
 
-###CLASS BODY
+### CLASS BODY
 
 Class body contains
 
@@ -115,7 +115,7 @@ class ABC (f1:Int, val f2:Int, var f3:Int) {
 
 ***
 
-###OMITTING PARTS
+### OMITTING PARTS
 
 Can omit empty body
 
@@ -137,7 +137,7 @@ o.get
 
 ***
 
-###COMPANION OBJECTS
+### COMPANION OBJECTS
 
 Companion objects replace static components
 
@@ -168,7 +168,7 @@ object C {
 
 -
 
-###COMPANION OBJECTS
+### COMPANION OBJECTS
 
 Only one instance of object declarations
 
@@ -182,7 +182,7 @@ object C {
 
 -
 
-###PROGRAM STARTUP
+### PROGRAM STARTUP
 
 Java
 
@@ -206,7 +206,7 @@ object C {
 
 -
 
-###CONSTRUCTION VIA COMPANION
+### CONSTRUCTION VIA COMPANION
 
 Companion objects used to construct object
 

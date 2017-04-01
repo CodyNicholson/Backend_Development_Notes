@@ -1,4 +1,4 @@
-#Math Functions
+# Math Functions
 
 ```
 Method             Return Value
@@ -22,7 +22,7 @@ Math.log10(n)      Base 10 log of n
 
 ***
 
-###Integer Arithmetic when n = 2497
+### Integer Arithmetic when n = 2497
 
 ```
 n/10    249  Notice that the answer is an integer with no decimal part.
@@ -38,7 +38,7 @@ n%2     1    If n % 2 is 0 the number is even. Otherwise it is odd.
 
 ***
 
-###Number Literals Description Examples
+### Number Literals Description Examples
 
 ```java
 int - An integer has no fractional part and can be positive, negative, or 0.  5,-100,0
@@ -52,7 +52,7 @@ ERROR   Do not use a fraction. Use a decimal instead.   3 1/4
 
 ***
 
-###Number Types
+### Number Types
 
 ```
 Type             Range                                                     Size
@@ -78,7 +78,7 @@ boolean          has only 2 possible values: true or false                 1 bit
 
 ***
 
-###Naming Rule Example
+### Naming Rule Example
 
 Names must consist of letters, numbers, an underscore, or a dollar sign only
 
@@ -96,7 +96,7 @@ ERROR: Names cannot contain spaces like: 'final grade'
 
 ***
 
-###Variables
+### Variables
 
 ```
 int age = 21;
@@ -123,7 +123,7 @@ they are created: int age = 0; If you do not know what value you want yet
 
 ***
 
-###String Formatting
+### String Formatting
 
 ```
 Code    Example      Description                 What It Prints
@@ -139,7 +139,7 @@ n       "%n" or "\n" Line end                    A Line Break
 
 ***
 
-###Format Flags
+### Format Flags
 
 ```
 Flag    Example      Meaning
@@ -159,9 +159,9 @@ Flag    Example      Meaning
 
 ***
 
-###Common Loop Algorithms
+### Common Loop Algorithms
 
-####Sum:
+#### Sum:
 
 ```
 total = 0
@@ -171,7 +171,7 @@ for each item
 
 -
 
-####Counting Matches:
+#### Counting Matches:
 
 ```
 matches = 0
@@ -182,7 +182,7 @@ for each item
 
 -
 
-####Finding the Location of the First Match:
+#### Finding the Location of the First Match:
 
 ```
 found = false
@@ -198,7 +198,7 @@ if the item was found
 
 -
 
-####Maximum:
+#### Maximum:
 
 ```
 largest = the first item

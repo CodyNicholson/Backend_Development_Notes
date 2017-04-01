@@ -1,4 +1,4 @@
-#Color Minimizer
+# Color Minimizer
 
 ```java
 public class Color

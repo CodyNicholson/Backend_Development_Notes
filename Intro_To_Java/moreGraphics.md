@@ -1,19 +1,19 @@
-#More Graphics
+# More Graphics
 
-###To construct a line
+### To construct a line
 
 ```java
 Line Segment = new Line(x1, y1, x2, y2);
 segment.draw();
 ```
 
-###Circle/Ellipse
+### Circle/Ellipse
 
 ```java
 Ellipse egg = new Ellipse(x,y,width,height);
 ```
 
-###Text/Wordart
+### Text/Wordart
 
 ```java
 Text message = new Text(x,y,"Udacity");
@@ -21,7 +21,7 @@ Text message = new Text(x,y,"Udacity");
 
 ***
 
-###Top Secret Crate
+### Top Secret Crate
 
 ```java
 public class TopSecret
@@ -51,7 +51,7 @@ public class TopSecret
 
 ***
 
-###Color
+### Color
 
 ```java
 box.setColor(new Color(0,0,0)); or box.setColor(Color.BLACK);

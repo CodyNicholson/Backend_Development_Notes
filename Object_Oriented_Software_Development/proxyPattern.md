@@ -1,4 +1,4 @@
-#Proxy Pattern
+# Proxy Pattern
 
 A Proxy is used to add functionality to already existing functionality/class, it acts as a wrapper
 

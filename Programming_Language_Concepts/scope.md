@@ -1,4 +1,4 @@
-#Scope
+# Scope
 
 Scope of an identifier
 
@@ -6,7 +6,7 @@ Scope of an identifier
 
 -
 
-###COMMON SCOPE RULES
+### COMMON SCOPE RULES
 
 z is in scope after its declaration until end of if
 
@@ -22,7 +22,7 @@ void f (int x) {
 
 ***
 
-###FORWARD DECLARATIONS
+### FORWARD DECLARATIONS
 
 C, C++ require forward declarations
 
@@ -46,7 +46,7 @@ char f (int x) {
 
 ***
 
-###SHADOWING - JAVA
+### SHADOWING - JAVA
 
 Is shadowing allowed in Java?
 
@@ -100,7 +100,7 @@ x = 3
 
 ***
 
-###SHADOWING C
+### SHADOWING C
 
 C is less strict than Java (on shadowing)
 
@@ -125,7 +125,7 @@ x = 3
 
 ***
 
-###SHADOWING SCALA
+### SHADOWING SCALA
 
 Scala is less strict than Java (on shadowing)
 
@@ -193,7 +193,7 @@ REPL behavior corresponds to
 
 ***
 
-###SHADOWING AND RECURSION
+### SHADOWING AND RECURSION
 
 Is x in scope?
  
@@ -222,9 +222,9 @@ x = 00000001
 
 -
 
-###RECURSION SCALA
+### RECURSION SCALA
 
-Scala requires initalization of variables
+Scala requires initialization of variables
 
 Recursion is allowed, and sometimes makes sense
 
@@ -243,7 +243,7 @@ res1: List[Int] = List(1, 1, 1, 1, 1)
 
 ***
 
-###SCALA STREAMS
+### SCALA STREAMS
 
 Lazy evaluation of stream elements
 
@@ -272,7 +272,7 @@ res3: Stream[Int] = Stream(1, 2, 3, 4, ?)
 
 ***
 
-###TERMINOLOGY: OCCURRENCES
+### TERMINOLOGY: OCCURRENCES
 
 Occurrences of identifiers classified as one of
 
@@ -302,7 +302,7 @@ Complete programs usually have no free occurrences of identifiers
 
 How do IDEs treat free occurrences?
 
-#####NOT JUST VARIABLES
+##### NOT JUST VARIABLES
 
 Applies to identifiers for
 
@@ -315,7 +315,7 @@ Applies to identifiers for
 
 ***
 
-###WHAT DOES THIS PROGRAM DO?
+### WHAT DOES THIS PROGRAM DO?
 
 What does this program do?
 
@@ -338,7 +338,7 @@ println (x)
 
 ***
 
-###STATIC SCOPE
+### STATIC SCOPE
 
 Static scope: identifiers are bound to the closest binding occurrence in an enclosing block of the program code
 
@@ -349,7 +349,7 @@ Also known as lexical scope
 
 ***
 
-###DYNAMIC SCOPE
+### DYNAMIC SCOPE
 
 Dynamic scope: identifiers are bound to the binding occurrence in the closest activation record.
 
@@ -367,14 +367,14 @@ def g (x:Int) : Int = {
 }
 ```
 
-#####Dynamic scope:
+##### Dynamic scope:
 
 - non-locals are not resolved (bound) until runtime
 - to resolve non-local identifier, look at the callers
 
 ***
 
-###STATIC VS DYNAMIC SCOPE
+### STATIC VS DYNAMIC SCOPE
 
 Scala uses static scope (prints 1)
 
@@ -403,7 +403,7 @@ Well-known PLs have included dynamic scoping...
 
 -
 
-#####Emacs Lisp (prints "0"):
+##### Emacs Lisp (prints "0"):
 
 ```
 (let ((x 0))
@@ -418,7 +418,7 @@ Well-known PLs have included dynamic scoping...
 
 -
 
-#####Common Lisp (prints 1):
+##### Common Lisp (prints 1):
 
 ```
 (let ((x 0))
@@ -433,7 +433,7 @@ Well-known PLs have included dynamic scoping...
 
 -
 
-#####Scheme (prints 1):
+##### Scheme (prints 1):
 
 ```
 (let ((x 0))
@@ -449,7 +449,7 @@ Well-known PLs have included dynamic scoping...
 
 -
 
-#####Perl (prints 0):
+##### Perl (prints 0):
 
 ```
 local $x = 0;
@@ -466,7 +466,7 @@ print ($x);
 
 -
 
-#####Perl (prints 1):
+##### Perl (prints 1):
 
 ```
 my $x = 0;

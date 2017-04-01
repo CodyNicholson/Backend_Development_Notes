@@ -1,4 +1,4 @@
-#Functions
+# Functions
 
 What is a function?
 
@@ -28,13 +28,13 @@ class Fun {
 
 ***
 
-###Here is a visualization of the execution at four different points in time
+### Here is a visualization of the execution at four different points in time
 
 ![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/function1.jpg)
 
 ***
 
-##Activation
+## Activation
 -
 
 Each function call (or activation) creates an instance of the function variables (including parameters).

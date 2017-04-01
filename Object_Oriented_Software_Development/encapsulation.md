@@ -1,4 +1,4 @@
-#Encapsulation
+# Encapsulation
 
 - Keep implementation details hidden
 - “Black box programming”
@@ -12,7 +12,7 @@
 
 ___
 
-###Encapsulation: Principle of Least Knowledge
+### Encapsulation: Principle of Least Knowledge
 -
 
 - Hide as much as possible
@@ -20,3 +20,4 @@ ___
 - The more you hide, the less chance you have for tight coupling
 - Think back to SRP issue in Homework 1 – Record and InventorySet are “tightly” coupled. Changes to Record can require changes to InventorySet
 - Only acceptable time where changing the functionality of one class changes others is when a public interface is changed
+

@@ -1,10 +1,10 @@
-#How to create a Markdown file
+# How to create a Markdown file
 
 Markdown is a writing tool that allows you to write plain text whilst tagging your formattings quickly
 
 ***
 
-###Adding Code and syntax highlighting
+### Adding Code and syntax highlighting
 -
 
 By wrapping text in between three backquotes -- '`', not single quotations -- and a next line, you can make text appear in a box like most of my syntax examples are seen below.
@@ -21,7 +21,7 @@ def addOne(x):
 
 ***
 
-###Headings
+### Headings
 -
 
 To create headings you can put between one and six "#" before your title:
@@ -36,13 +36,13 @@ Syntax examples:
 
 Real examples:
 
-#Heading with one "#"
+# Heading with one "#"
 
-##Heading with two "#"
+## Heading with two "#"
 
-###Heading with three "#"
+### Heading with three "#"
 
-####Heading with four "#"
+#### Heading with four "#"
 
 ##### Heading with five "#"
 
@@ -50,7 +50,7 @@ Real examples:
 
 ***
 
-###Horizontal Rule
+### Horizontal Rule
 -
 
 You can add a small Horizontal Rule by having one line consist of only one minus sign or equal sign
@@ -92,10 +92,10 @@ Real Example:
 
 ***
 
-###Phrase emphasis
+### Phrase emphasis
 -
 
-You can make text italic by putting an asterisk or undescore before and after your statement
+You can make text italic by putting an asterisk or underscore before and after your statement
 
 Syntax example:
 
@@ -158,7 +158,7 @@ Real Example:
 
 ***
 
-###Listing items
+### Listing items
 -
 
 To list items in an unordered list you can put a minus sign followed by a space in front each item you want to list. Each item should have its own individual line, as seen in my example.
@@ -206,7 +206,7 @@ Real Example:
 
 ***
 
-###Adding links to your Markdown File
+### Adding links to your Markdown File
 -
 
 Often times you will want to put links in your notes to other content.
@@ -225,7 +225,7 @@ Why don't you [Click me to go to google.com](https://www.google.com/ "This link 
 
 ***
 
-###Tables
+### Tables
 -
 
 You can add tables to your Markdown by using hyphens and straight lines as seen below. By using colons too you can change how the text formats in the columns also seen below with the centered and right-alighed text
@@ -251,10 +251,10 @@ Real Example:
 
 ***
 
-###Block Quotes
+### Block Quotes
 -
 
-You can put test in a Block Quote by putting a '>' at the begining of the line, this will make that line stand out more. Using block quotes is good because it wraps text, unlike code and sysntax highlighting
+You can put test in a Block Quote by putting a '>' at the beginning of the line, this will make that line stand out more. Using block quotes is good because it wraps text, unlike code and syntax highlighting
 
 Syntax example:
 
@@ -269,7 +269,7 @@ Real Example:
 
 ***
 
-###Adding a Youtube Video:
+### Adding a Youtube Video:
 -
 
 To add a youtube video it is best to use HTML because then you can add a border and image sizing that you would not have if you tried to add a video in pure Markdown
@@ -286,14 +286,14 @@ Real Example:
 
 ***
 
-###Inline HTML
+### Inline HTML
 -
 
 You can also add raw HTML into your Markdown and it will work most of the time, as seen above with the Youtube video
 
 ***
 
-###Adding Images
+### Adding Images
 -
 
 You can add an image by using this syntax:

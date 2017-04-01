@@ -1,4 +1,4 @@
-#Scope
+# Scope
 
 - Scope determines the visibility of fields, methods, and classes
 - Scope can be determined in two ways: keywords (e.g. public, private) and code blocks (e.g. {})

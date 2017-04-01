@@ -1,4 +1,4 @@
-#Closures
+# Closures
 
 Runtime support for nested functions
 
@@ -10,7 +10,7 @@ Only applies to static / lexical scope
 
 ###
 
-###TOP-LEVEL FUNCTIONS
+### TOP-LEVEL FUNCTIONS
 
 Function declarations made at top level
 
@@ -32,7 +32,7 @@ int fact (int n) {
 
 ***
 
-###NESTED FUNCTIONS - GCC
+### NESTED FUNCTIONS - GCC
 
 Nested function declarations not allowed in C
 
@@ -60,7 +60,7 @@ function.c:2:3: warning: ISO C forbids nested functions [-pedantic]
 
 -
 
-###EXAMPLE: NESTED FUNCTIONS
+### EXAMPLE: NESTED FUNCTIONS
 
 ```
 def printElt [A,B] (f:A=>B) (x:A) : B = {
@@ -90,7 +90,7 @@ def mapDebug [A,B] (xs:List[A], f:A=>B) : List[B] = {
 
 -
 
-###WHY NESTED FUNCTIONS?
+### WHY NESTED FUNCTIONS?
 
 Inner functions may be anonymous
 
@@ -125,7 +125,7 @@ def foldRight [A,B] (xs:List[A], e:B, f:(A,B)=>B) : B = {
 
 -
 
-###WHY NESTED FUNCTIONS?
+### WHY NESTED FUNCTIONS?
 
 Limit scope of inner function
 
@@ -137,7 +137,7 @@ Potentially unsafe, and requires more runtime support
 
 -
 
-###NESTED FUNCTIONS - GCC
+### NESTED FUNCTIONS - GCC
 
 From GCC Nested Functions (GCC extensions)
 
@@ -151,7 +151,7 @@ Lexical Closures for C++ (T. M. Breuelm, 1988)
 
 -
 
-###NESTED FUNCTIONS - GCC
+### NESTED FUNCTIONS - GCC
 
 Lifetime problems caused by nested functions
 
@@ -185,7 +185,7 @@ int main (void) {
 
 -
 
-###NESTED FUNCTIONS - GCC
+### NESTED FUNCTIONS - GCC
 
 Unsafe calls may or may not work
 
@@ -208,7 +208,7 @@ x = 6, y = 2
 
 -
 
-###NESTED FUNCTION - CLANG
+### NESTED FUNCTION - CLANG
 
 Clang and LLVM
 
@@ -225,7 +225,7 @@ Applications (iOS and OSX)
 
 -
 
-###NESTED FUNCTION - CLANG
+### NESTED FUNCTION - CLANG
 
 ```
 #include <stdio.h>
@@ -262,7 +262,7 @@ int main (void) {
 
 -
 
-###NESTED FUNCTION - CLANG
+### NESTED FUNCTION - CLANG
 
 Blocks support is not turned on by default
 
@@ -283,7 +283,7 @@ nested-clang.c:8:7: error: blocks support disabled
 
 -
 
-###NESTED FUNCTION - CLANG
+### NESTED FUNCTION - CLANG
 
 Runtime support libraries are needed
 
@@ -300,7 +300,7 @@ $ sudo apt-get install libblocksruntime-dev
 
 -
 
-###NESTED FUNCTION - CLANG
+### NESTED FUNCTION - CLANG
 
 Correct output
 
@@ -323,7 +323,7 @@ x = 5, y = 2
 
 -
 
-###NESTED FUNCTION - CLANG
+### NESTED FUNCTION - CLANG
 
 Without Block_copy and Block_release
 
@@ -340,7 +340,7 @@ Segmentation fault (core dumped)
 
 ***
 
-###NESTED FUNCTION - SCALA
+### NESTED FUNCTION - SCALA
 
 Nested functions work correctly in Scala
 
@@ -365,7 +365,7 @@ for (i <- 0 to 2) {
 
 -
 
-###NESTED FUNCTION - SCALA
+### NESTED FUNCTION - SCALA
 
 ```
 x = 5, y = 0 <- safe to call g
@@ -384,7 +384,7 @@ x = 5, y = 2
 
 -
 
-###NESTED FUNCTION - SCALA
+### NESTED FUNCTION - SCALA
 
 Alternative definition of inner function
 
@@ -405,7 +405,7 @@ def f (x:Int) : Int=>Unit = {
 
 ***
 
-###NESTED FUNCTION - JAVA 8
+### NESTED FUNCTION - JAVA 8
 
 Nested functions work correctly in Java 8
 
@@ -436,7 +436,7 @@ public class NestedFunc1 {
 
 -
 
-###NESTED FUNCTION - JAVA 8
+### NESTED FUNCTION - JAVA 8
 
 ```
 $ javac NestedFunc1.java 
@@ -457,7 +457,7 @@ x = 5, y = 2
 
 -
 
-###NESTED FUNCTION - JAVA 8
+### NESTED FUNCTION - JAVA 8
 
 Easier to compare to Scala
 
@@ -491,7 +491,7 @@ public class NestedFunc2 {
 
 ***
 
-###JAVA 8 - FP
+### JAVA 8 - FP
 
 Other FP machinery added to Java 8
 
@@ -516,7 +516,7 @@ public class NestedFunc3 {
 
 ***
 
-###PROBLEM SUMMARY
+### PROBLEM SUMMARY
 
 1. enclosing function outer is called
 
@@ -542,7 +542,7 @@ def outer (x:A) : B=>C = {
 
 ***
 
-###IMPLEMENTATION: CLOSURES
+### IMPLEMENTATION: CLOSURES
 
 Closures store inner function and environment
 
@@ -558,7 +558,7 @@ Recurring implementation choice: copy or share?
 
 ***
 
-###IMPLEMENTATION CHOICE
+### IMPLEMENTATION CHOICE
 
 Closure contains
 
@@ -582,7 +582,7 @@ def outer (x:A) : B=>C = {
 
 -
 
-###IMPLEMENTATION CHOICE
+### IMPLEMENTATION CHOICE
 
 Alternatively, share u
 
@@ -605,7 +605,7 @@ def outer (x:A) : B=>C = {
 
 ***
 
-###SCALA IMPLEMENTATION
+### SCALA IMPLEMENTATION
 
 ```
 object Closure {
@@ -630,7 +630,7 @@ Closure.scala
 
 -
 
-###SCALA IMPLEMENTATION
+### SCALA IMPLEMENTATION
 
 The closure is an instance of the second class
 
@@ -656,7 +656,7 @@ public final class Closure$$anonfun$outer$1 extends scala.runtime.AbstractFuncti
 
 ***
 
-###SCALA IMPLEMENTATION
+### SCALA IMPLEMENTATION
 
 u is a var declaration, so is mutable
 
@@ -674,7 +674,7 @@ object Closure {
 
 -
 
-###SCALA IMPLEMENTATION
+### SCALA IMPLEMENTATION
 
 x copied into field x$1
 

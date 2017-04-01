@@ -1,4 +1,4 @@
-#The Development Approach is an "extreme" style
+# The Development Approach is an "extreme" style
 
 -Develop incrementally
     - Start small

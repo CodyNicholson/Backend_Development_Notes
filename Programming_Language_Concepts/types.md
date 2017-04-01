@@ -1,6 +1,6 @@
-#Types
+# Types
 
-###Overview
+### Overview
 
 Type checking
 
@@ -18,7 +18,7 @@ Reference types - Like a pointer that references another instance or null
 
 ***
 
-###Linked List
+### Linked List
 
 Nodes get put on the heap
 
@@ -37,4 +37,3 @@ void f()
     int *p = malloc (sizeof (int)); // p is put on the call stack but points to an object on the heap
 }
 ```
-

@@ -1,4 +1,4 @@
-###Checkers If-Else
+# Checkers If-Else
 
 This program below is a great example of how to use an If-Else statement
 

@@ -1,10 +1,10 @@
-#Ternary Operator
+# Ternary Operator
 
 A Ternary Operator is a shorthand method for writing an "if-else" statement
 
 -
 
-####Syntax Example
+#### Syntax Example
 
 ```
 result = testCondition ? value1 : value2;
@@ -14,7 +14,7 @@ What the above statement is saying is that "result" will equal "value1" if "test
 
 -
 
-####Real Example
+#### Real Example
 
 ```java
 int userAge = 20;

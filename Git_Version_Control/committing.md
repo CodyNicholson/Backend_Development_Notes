@@ -1,4 +1,4 @@
-#Committing
+# Committing
 
 Commit - Building block of Git, each one represents a version of the content at one point in time. User created checkpoint in the development of the project.
 

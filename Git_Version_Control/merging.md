@@ -1,4 +1,4 @@
-#Merging:
+# Merging
 
 From your branch, call it myBranch, you can merge to master by using: git merge master
 
@@ -10,7 +10,7 @@ Fast-forward merging - happens when the branch you are merging into is an ancest
 
 ***
 
-###Merging Conflicts
+### Merging Conflicts
 
 The top section is the users code, the middle is the original code that both branches modified, and the bottom is the code that was from the other branch
 

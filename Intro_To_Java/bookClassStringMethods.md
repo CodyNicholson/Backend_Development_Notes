@@ -1,4 +1,4 @@
-#Book Class - Practice with String Methods
+# Book Class - Practice with String Methods
 
 This class uses many useful string methods
 

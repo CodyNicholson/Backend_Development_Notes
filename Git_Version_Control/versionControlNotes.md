@@ -1,4 +1,4 @@
-#Version Control Notes
+# Version Control Notes
 
 Command Prompt File Compare: "FC file1 file2" Will display the differences between file1 and file2.
 

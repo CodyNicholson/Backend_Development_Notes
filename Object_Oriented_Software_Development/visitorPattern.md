@@ -1,10 +1,10 @@
-#Visitor Design Pattern
+# Visitor Design Pattern
 
 
 
 ***
 
-###Double Dispatch
+### Double Dispatch
 
 Dynamic dispatch is when you have an object of an unknown concrete type (in other words you have an abstract reference to it)
 

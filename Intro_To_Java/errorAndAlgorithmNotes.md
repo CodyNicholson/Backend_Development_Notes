@@ -1,22 +1,22 @@
-#Error and Algorithm Notes
+# Error and Algorithm Notes
 
-###Errors:
+### Errors:
 
 compile-time error (or syntax error)
 
-This is an error that happens when the ide trys to compile your code, like forgetting a semicolon or trying to print a string without quotations
+This is an error that happens when the IDE tried to compile your code, like forgetting a semicolon or trying to print a string without quotations
 
 -
 
 run-time error (or logic error)
 
-The program can run fine but the logic is wrong, like mispelling a word in a string or dividing by zero
+The program can run fine but the logic is wrong, like misspelling a word in a string or dividing by zero
 
 ***
 
-###Algorithms are umabiguous, executable, and terminating
+### Algorithms are unambiguous, executable, and terminating
 
-Pseudocode has:
+Pseudo-code has:
 
 Computation, x = y + z;
 

@@ -1,6 +1,6 @@
-#Magic Numbers - Final / Constants
+# Magic Numbers - Final / Constants
 
-###THIS IS WRONG:
+### THIS IS WRONG:
 
 ```java
 red = Math.min(red + 25, 255);
@@ -12,7 +12,7 @@ They are called 'Magic Numbers' because no one understands why they are there.
 
 -
 
-###It Should Be:
+### It Should Be:
 
 ```java
 final int ADDED_RED = 25;

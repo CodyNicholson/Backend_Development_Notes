@@ -1,4 +1,4 @@
-#People Class
+# People Class
 
 ```java
 /**

@@ -1,4 +1,4 @@
-#NotePad
+# NotePad
 
 Of course Microsoft Windows has the venerable Notepad app included with every copy.  You can write your code in Notepad and then use the command-line compiler csc.exe to compile your code.
 

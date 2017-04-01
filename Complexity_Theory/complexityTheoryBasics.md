@@ -1,4 +1,4 @@
-#Complexity Theory Basics
+# Complexity Theory Basics
 
 There are two types of complexities:
 
@@ -12,13 +12,13 @@ We care more about Time Complexity than Space Complexity because space is very c
 
 -
 
-###How do we measure Time Complexity?
+### How do we measure Time Complexity?
 
 A new computer will be faster than an old computer and desktops are faster than smartphones, so how do we really know the **absolute time** an algorithm takes?
 
 To measure the absolute time we consider the number of steps the algorithm takes
 
-This approach is generic and machine independant, so we can use it to measure absolute time
+This approach is generic and machine independent, so we can use it to measure absolute time
 
 ***
 
@@ -46,7 +46,7 @@ If we sort 1000 items and it takes 10000ms, we are taking 10 tims as long - we a
 
 -
 
-#####In another example:
+##### In another example:
 
 **First Sorting Algorithm**
 

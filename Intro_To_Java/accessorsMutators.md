@@ -1,6 +1,6 @@
-#Accessors and Mutators
+# Accessors and Mutators
 
-###Accessor
+### Accessors
 
 String str = "Some String";
 
@@ -13,17 +13,20 @@ str = str.toUpperCase();
 
 ***
 
-###Mutator
+### Mutator
 
+```
 Picture pic = new Picture("pic.jpg");
 
 pic.translate(10,20);
 
 translate() is a mutator method, so it will change pic without you needing to do: pic = pic.translate(10,20)
+```
+
 
 ***
 
-###Shared Objects, Rectangles are objects:
+### Shared Objects, Rectangles are objects:
 
 ```java
 Rectangle box1 = new Rectangle(5,10,60,90);

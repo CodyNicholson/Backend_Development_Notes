@@ -1,6 +1,6 @@
-#Dynamic Dispatch
+# Dynamic Dispatch
 
-###OO PROGRAMMING
+### OO PROGRAMMING
 
 What is Object-Oriented Programming (OOP)?
 
@@ -15,7 +15,7 @@ Different implementations of these ideas
 
 ***
 
-###ENCAPSULATION
+### ENCAPSULATION
 
 How can internal behavior/storage be hidden?
 
@@ -39,7 +39,7 @@ class C {
 
 ***
 
-###DIRECT CALLS
+### DIRECT CALLS
 
 Direct calls refer to callee directly by name
 
@@ -86,7 +86,7 @@ class B {
 
 ***
 
-###INDIRECT CALLS (C)
+### INDIRECT CALLS (C)
 
 Indirection to code is very useful
 
@@ -180,7 +180,7 @@ Working on function pointer #2
 
 ***
 
-###INDIRECT CALLS (SCALA)
+### INDIRECT CALLS (SCALA)
 
 PLs with first-class functions support indirect calls
 
@@ -201,7 +201,7 @@ for (i <- 0 to (func_list.length - 1)) {
 
 ***
 
-###DYNAMIC DISPATCH (JAVA)
+### DYNAMIC DISPATCH (JAVA)
 
 Which implementation of foo is used?
 
@@ -303,7 +303,7 @@ public class FnTest {
 
 ***
 
-###DYNAMIC DISPATCH
+### DYNAMIC DISPATCH
 
 Java / Scala anon. functions use dynamic dispatch
 

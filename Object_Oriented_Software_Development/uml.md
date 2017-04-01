@@ -1,4 +1,4 @@
-#Unified Modeling Language
+# Unified Modeling Language
 
 Reference/Exclusive Reference:
 
@@ -31,7 +31,7 @@ Association (could be either reference or dependency):
 
 ***
 
-###Uml sequence diagrams
+### Uml sequence diagrams
 
 Depict a sequence of messages being passed around for some method as well as depict the activity of objects
 
@@ -39,7 +39,7 @@ Depict a sequence of messages being passed around for some method as well as dep
 
 ***
 
-###UML Class Diagrams: Object Class
+### UML Class Diagrams: Object Class
 
 An object class looks like this:
 
@@ -61,7 +61,7 @@ An object class describes the instances of the class
 
 ***
 
-###UML Class Diagrams: Static Class
+### UML Class Diagrams: Static Class
 
 A static class looks like this:
 
@@ -81,13 +81,13 @@ May contain static fields, which are also underlined (none shown here)
 
 ***
 
-###UML Representation of Collections
+### UML Representation of Collections
 
 ![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/umlRepresentationOfClasses.jpg)
 
 ***
 
-###UML class diagrams: Specialization/Generalization
+### UML class diagrams: Specialization/Generalization
 
 Specialization is when you have some base class and you create subclasses that inherit from that base class
 
@@ -101,7 +101,7 @@ When you see a diagram like this, you can just say it shows “inheritance”
 
 ***
 
-###UML Class Diagrams: Realization
+### UML Class Diagrams: Realization
 
 Realization is the implementation or derivation of an Interface or Abstract class
 
@@ -115,6 +115,6 @@ SomeClass realizes IInterface
 
 ***
 
-###UML Arrows
+### UML Arrows
 
 ![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/umlArrows.jpg)

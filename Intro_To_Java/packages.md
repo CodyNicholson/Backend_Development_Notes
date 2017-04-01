@@ -1,4 +1,4 @@
-#Packages
+# Packages
 
 Packages are used to organize related classes
 
@@ -13,11 +13,11 @@ java.util contains classes: Scanner, ArrayList, Arrays, Random, etc
 
 ***
 
-###Import statements:
+### Import statements:
 
 The purpose of import statements is not to import code, it is to simplify code
 
-####For example:
+#### For example:
 
 Instead of:
 

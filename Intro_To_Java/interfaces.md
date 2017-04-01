@@ -1,4 +1,4 @@
-#Interfaces
+# Interfaces
 
 Java interfaces allow us to unify common behavior
 
@@ -22,7 +22,7 @@ public interface Drawable
 
 ***
 
-###Implementing an interface:
+### Implementing an interface:
 
 Example:
 
@@ -40,7 +40,7 @@ public class className implements InterfaceName
 
 ***
 
-###Instanceof Test and Cast:
+### Instanceof Test and Cast:
 
 ```java
 Drawable d = elements.get(i);
@@ -61,9 +61,9 @@ if (d instanceof Moveable)
 
 ***
 
-###The Comparable Interface:
+### The Comparable Interface:
 
-The compareable interface has one method, compareTo()
+The comparable interface has one method, compareTo()
 
 Example:
 

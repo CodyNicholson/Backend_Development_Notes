@@ -1,4 +1,4 @@
-#Case Study: JavaScript
+# Case Study: JavaScript
 
 Explain JavaScript in relation to prior topics
 
@@ -6,7 +6,7 @@ Explain JavaScript in relation to prior topics
 
 -
 
-###CASE STUDY: JAVASCRIPT
+### CASE STUDY: JAVASCRIPT
 
 Summary
 
@@ -27,7 +27,7 @@ As with Scala, JavaScript functions are objects
 
 ***
 
-###JAVASCRIPT EVOLUTION
+### JAVASCRIPT EVOLUTION
 
 JavaScript standardized as ECMAScript, ECMA-262
 
@@ -42,7 +42,7 @@ Support
 
 ***
 
-###GETTING STARTED
+### GETTING STARTED
 
 Enter JS expression at browser console (dev. tools)
 
@@ -71,9 +71,9 @@ f (5);
 
 ***
 
-###JS DEVELOPMENT OPTIONS
+### JS DEVELOPMENT OPTIONS
 
-#####Use JS browser console
+##### Use JS browser console
 
 JS Bin online HTML/JS editing and execution
 
@@ -127,7 +127,7 @@ Edit skeleton.js; (re)load skeleton.html in browser
 
 ***
 
-###SCOPE
+### SCOPE
 
 var declares new variable for function/global
 
@@ -177,7 +177,7 @@ console.log ("3: a = " + a);
 
 ***
 
-###LEXICAL SCOPE IN JS
+### LEXICAL SCOPE IN JS
 
 Functions and objects are first-class citizens
 
@@ -198,7 +198,7 @@ Applications of nested functions (JavaScript)
 
 ***
 
-###COLLECTIONS PROCESSING
+### COLLECTIONS PROCESSING
 
 JS libraries for functional collections processing
 
@@ -231,7 +231,7 @@ $(document).ready (function () {
 
 ***
 
-###COMMON SCOPE PROBLEM
+### COMMON SCOPE PROBLEM
 
 Recall javac requires final i from enclosing scope
 
@@ -318,7 +318,7 @@ console.log (funcs[0] ()); // prints 0
 
 ***
 
-###OBJECT LITERALS
+### OBJECT LITERALS
 
 JS is not class-based: no class definitions
 
@@ -345,7 +345,7 @@ person.occupation = "Developer";
 
 ***
 
-###DYNAMICALLY TYPED
+### DYNAMICALLY TYPED
 
 ```
 function f (x) {
@@ -362,7 +362,7 @@ f ({ data: [1,2,3] });
 
 ***
 
-###ENUMERATE PROPERTIES
+### ENUMERATE PROPERTIES
 
 Enumerate properties
 
@@ -382,7 +382,7 @@ for (p in person) {
 
 ***
 
-###FUNCTION PROPERTIES
+### FUNCTION PROPERTIES
 
 Object properties can be functions
 
@@ -405,7 +405,7 @@ var counter = {
 
 ***
 
-###ENCAPSULATION FOR OBJECTS
+### ENCAPSULATION FOR OBJECTS
 
 Encapsulation via private fields/methods for PLs
 
@@ -470,7 +470,7 @@ counter ()
 
 ***
 
-###DOCUMENT OBJECT MODEL
+### DOCUMENT OBJECT MODEL
 
 DOM tree model of HTML document
 
@@ -495,7 +495,7 @@ elt.outerHTML = "<b>foo</b>";
 
 ***
 
-###JQUERY
+### JQUERY
 
 Several problems with direct DOM usage:
 

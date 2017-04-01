@@ -1,4 +1,4 @@
-#Dynamic Type Checking
+# Dynamic Type Checking
 
 Tracks and stores type of data at *runtime*
 
@@ -14,7 +14,7 @@ This will throw an error because python has Dynamic Type Checking, and after it 
 
 -
 
-####How do we tell if it is dynamically typed?
+#### How do we tell if it is dynamically typed?
 
 - Defer computation to function body
 

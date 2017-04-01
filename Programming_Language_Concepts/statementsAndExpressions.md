@@ -1,4 +1,4 @@
-#Statements & Expressions
+# Statements & Expressions
 
 **Statements**: Executed for their side-effects
 
@@ -6,7 +6,7 @@
 
 ***
 
-###Expressions
+### Expressions
 
 Literals (boolean, character, integer, string)
 
@@ -20,7 +20,7 @@ f (1 + (2 * strlen ("hello")))
 
 ***
 
-###Statements
+### Statements
 
 Expression statements (including asssignment)
 
@@ -44,7 +44,7 @@ while (1) {
 
 ***
 
-####++x++
+#### ++x++
 
 ++x, x afterward will be 6, value returned will be 6
 
@@ -54,7 +54,7 @@ Different compliers treat this differently - C is not portable
 
 -
 
-##Side-Effecting Expressions
+## Side-Effecting Expressions
 
 ```
 x++
@@ -78,7 +78,7 @@ int main () {
 
 -
 
-###C's Ternary Operator
+### C's Ternary Operator
 
 Ia a **conditional expression**
 
@@ -90,7 +90,7 @@ If expression e1 evaluates to true, take result of evaluating e2. Otherwise, tak
 
 -
 
-###Conditional Statement Vs Conditional Expression
+### Conditional Statement Vs Conditional Expression
 
 ```
 int fact (int n) {
@@ -108,7 +108,7 @@ int fact (int n) {
 
 ***
 
-###C's Comma Operator
+### C's Comma Operator
 
 (e1, e2, ..., en)
 

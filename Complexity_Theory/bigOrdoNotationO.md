@@ -1,4 +1,4 @@
-#The Big Ordo Notation (O)
+# The Big Ordo Notation (O)
 
 The big O notation is also known as the Landau notation
 

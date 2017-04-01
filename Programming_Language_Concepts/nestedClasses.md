@@ -1,4 +1,4 @@
-#Nested Classes
+# Nested Classes
 
 Nested classes in Java, Scala, etc.
 
@@ -12,7 +12,7 @@ Used in, for example:
 
 ***
 
-###ANONYMOUS INNER CLASS
+### ANONYMOUS INNER CLASS
 
 ```
 interface I {
@@ -34,7 +34,7 @@ class C {
 
 ***
 
-###WITHOUT INNER CLASS
+### WITHOUT INNER CLASS
 
 ```
 interface I {
@@ -58,7 +58,7 @@ class C {
 
 ***
 
-###JAVA GUI
+### JAVA GUI
 
 java.awt.event.ActionListener
 
@@ -76,7 +76,7 @@ interface ActionListener {
 
 -
 
-###JAVA GUI
+### JAVA GUI
 
 ```
 import java.awt.*;
@@ -112,7 +112,7 @@ public class Example extends Frame {
 
 ***
 
-###ANDROID
+### ANDROID
 
 Android code uses callbacks extensively
 
@@ -155,7 +155,7 @@ public class SimpleImageViewer extends Activity {
 
 ***
 
-###JAVA CONCURRENCY
+### JAVA CONCURRENCY
 
 Package code in implementation of Runnable
 
@@ -183,7 +183,7 @@ new Thread (new Runnable () {
 
 -
 
-###JAVA CONCURRENCY
+### JAVA CONCURRENCY
 
 Scala using Java concurrency
 
@@ -203,7 +203,7 @@ for (t <- threads) { t.start }
 
 -
 
-###JAVA CONCURRENCY
+### JAVA CONCURRENCY
 
 Runnable for code with no return value
 
@@ -222,7 +222,7 @@ public interface Callable<V> {
 
 -
 
-###JAVA CONCURRENCY
+### JAVA CONCURRENCY
 
 Futures and promises - concurrency primitives
 
@@ -246,7 +246,7 @@ if (future.isDone ()) {
 
 ***
 
-###COLLECTIONS PROCESSING
+### COLLECTIONS PROCESSING
 
 Sequential map over list
 
@@ -272,7 +272,7 @@ public class Nested {
 
 -
 
-###COLLECTIONS PROCESSING
+### COLLECTIONS PROCESSING
 
 Parallel version!
 
@@ -298,7 +298,7 @@ public class Nested {
 
 ***
 
-###IMPLEMENTING NESTED CLASSES
+### IMPLEMENTING NESTED CLASSES
 
 Java compiler supports nested classes
 
@@ -314,7 +314,7 @@ Creates new classes with reserved $ in name
 
 -
 
-###IMPLEMENTING NESTED CLASSES
+### IMPLEMENTING NESTED CLASSES
 
 ```
 class C {
@@ -348,7 +348,7 @@ final class C$1 implements java.lang.Runnable {
 
 -
 
-###IMPLEMENTING NESTED CLASSES
+### IMPLEMENTING NESTED CLASSES
 
 Bytecode disassembly shows C$1 constructor call
 
@@ -387,7 +387,7 @@ class C {
 
 -
 
-###IMPLEMENTING NESTED CLASSES
+### IMPLEMENTING NESTED CLASSES
 
 Cannot use i directly in inner class
 
@@ -417,7 +417,7 @@ class C {
 
 ***
 
-###JAVA FUNCTIONAL INTERFACE
+### JAVA FUNCTIONAL INTERFACE
 
 Java 8 introduced lambda expressions
 
@@ -426,7 +426,7 @@ Java 8 introduced lambda expressions
 
 ***
 
-###JAVA FUNCTIONAL INTERFACE
+### JAVA FUNCTIONAL INTERFACE
 
 Scala first-class function of type T⇒U
 
@@ -455,7 +455,7 @@ class ... implements Function<T,U> {
 
 -
 
-###JAVA FUNCTIONAL INTERFACE
+### JAVA FUNCTIONAL INTERFACE
 
 Java reference types marked as
 
@@ -465,7 +465,7 @@ Java reference types marked as
 
 -
 
-###JAVA FUNCTIONAL INTERFACE
+### JAVA FUNCTIONAL INTERFACE
 
 These definitions are equivalent
 
@@ -485,7 +485,7 @@ Function<Integer,Integer> f = x -> x + 1;
 
 ***
 
-###COLLECTIONS PROCESSING
+### COLLECTIONS PROCESSING
 
 Java map method takes a Function
 
@@ -508,7 +508,7 @@ interface Stream<T> {
 
 -
 
-###COLLECTIONS PROCESSING
+### COLLECTIONS PROCESSING
 
 With lambda expression simplify earlier code to
 
@@ -529,7 +529,7 @@ public class Nested {
 
 ***
 
-###JAVA GUI
+### JAVA GUI
 
 Some event interfaces have multiple methods
 

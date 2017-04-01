@@ -1,6 +1,6 @@
-#Java Algebra
+# Java Algebra
 
-###Integer Arithmetic in Java:
+### Integer Arithmetic in Java:
 
 ```java
 int p = 435;

@@ -1,6 +1,6 @@
-#Types Of Classes
+# Types Of Classes
 
-###Interfaces (pure abstract class)
+### Interfaces (pure abstract class)
 
 No method bodies, No instance fields
 
@@ -10,7 +10,7 @@ Must be implemented to be useful
 
 -
 
-###Abstract Class
+### Abstract Class
 
 Optional method bodies
 
@@ -20,7 +20,7 @@ Must be extended to be useful (except class methods)
 
 -
 
-###Concrete non-final class
+### Concrete non-final class
 
 Required method bodies
 
@@ -30,7 +30,7 @@ May be extended
 
 -
 
-###Final Class
+### Final Class
 
 Required method bodies
 
@@ -40,7 +40,7 @@ May not be extended
 
 ***
 
-###General Rules of Thumb
+### General Rules of Thumb
 
 Always create an interface – even on top of an abstract class
 

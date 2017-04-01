@@ -1,4 +1,4 @@
-#Strong Vs Weak Typing
+# Strong Vs Weak Typing
 
 Strong typing guarantees no runtime type errors
 
@@ -27,3 +27,4 @@ Strong, dynamic: Scheme, Python, Ruby, etc.
 - problem detected at runtime
 
 - but before a runtime type error occurs!
+

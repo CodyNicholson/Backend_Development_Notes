@@ -1,4 +1,4 @@
-#Null Object Pattern
+# Null Object Pattern
 
 The Null Object is an object that provides default behavior (typically nothing) that can be used in place of null in code
 

@@ -1,4 +1,4 @@
-#Liskov Substitution Principle
+# Liskov Substitution Principle
 
 Functions that use pointers or references to base classes must be able to use objects of derived classes without knowing it.
 
@@ -28,7 +28,7 @@ Is-a relationships should pertain to behavior
 
 ***
 
-###Why use LSP?
+### Why use LSP?
 -
 
 Prevents bugs – there are assumptions consuming classes make about objects that are passed in. Using the LSP, you help reduce bugs created as a result of assumptions.

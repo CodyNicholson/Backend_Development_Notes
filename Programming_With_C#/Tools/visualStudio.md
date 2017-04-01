@@ -1,6 +1,6 @@
-#Visual Studio
+# Visual Studio
 
-Visual Studio is the preferred tool for most programmers who are writing code in C#.  Visual Studio is an integrated development environment (IDE) that offers many features designed to make your coding chores much easier.  With Visual Studio you will enjoy color syntax and code formatting which makes it easier to see keywords and code structure.  Intellisense and code completion save you time in wirting code and looking up method signatures.
+Visual Studio is the preferred tool for most programmers who are writing code in C#.  Visual Studio is an integrated development environment (IDE) that offers many features designed to make your coding chores much easier.  With Visual Studio you will enjoy color syntax and code formatting which makes it easier to see keywords and code structure. Intellisense and code completion save you time in writing code and looking up method signatures.
 
 Visual Studio includes integrated debugging facilities to help you troubleshoot your code when things go wrong.
 

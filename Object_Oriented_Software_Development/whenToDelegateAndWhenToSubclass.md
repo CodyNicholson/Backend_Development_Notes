@@ -1,4 +1,4 @@
-#When to delegate and when to subclass
+# When to delegate and when to subclass
 
 Always prefer delegation! Decisions can be delayed to runtime instead of compile-time. This allows more flexibility.
 

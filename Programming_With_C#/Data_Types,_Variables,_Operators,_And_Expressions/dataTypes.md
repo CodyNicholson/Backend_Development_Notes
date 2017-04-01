@@ -1,4 +1,4 @@
-#Data Types
+# Data Types
 
 All applications store and manipulate data within the computer's memory. C# supports two kinds of data types used to represent real-world information. **Value types** are so-called because they **contain the actual value of the data** they store. For example, you might have an int type that stores the value 3. The literal value of 3 is stored in the variable that you declare to hold it.
 
@@ -8,6 +8,7 @@ Reference types are also known as objects. Reference types are created from clas
 
 The following table shows the most commonly used value types:
 
+```
 |  Type    |         Description        | Size | .Net Type       |           Range               |
 |:-------- |:-------------------------- | :--: |:---------------:|:-----------------------------:|
 | int      | Whole numbers              | 4B   | System.Int32    | +/-2,147,483,648              |
@@ -19,3 +20,4 @@ The following table shows the most commonly used value types:
 | bool     | Boolean                    | 1B   | System.Boolean  | True/False                    |
 | DateTime | Moments of time            | 8B   | System.DateTime | Before 23:59:59 on 12/31/9999 |
 | String   | Sequence of characters     | 2B/L | System.String   | N/A                           |
+```

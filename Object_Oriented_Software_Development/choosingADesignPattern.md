@@ -1,6 +1,6 @@
-Choosing a Design Pattern:
+# Choosing a Design Pattern:
 
-Builder - For immutable, biulds a complex object out of multiple simple objects
+Builder - For immutable, builds a complex object out of multiple simple objects
 
 Static Factory - For mutable, builds an object using a static factory method
 

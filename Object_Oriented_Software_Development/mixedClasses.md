@@ -1,4 +1,4 @@
-#Mixed Classes
+# Mixed Classes
 
 It is useful to think of a mixed class in terms of its two functions:
 

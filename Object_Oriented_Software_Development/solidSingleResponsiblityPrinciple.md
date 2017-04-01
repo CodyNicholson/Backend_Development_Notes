@@ -1,15 +1,15 @@
-#SOLID Principles  (Single Responsibility)
+# SOLID Principles  (Single Responsibility)
 
 - By clean code book Martin
-- Single responsiblity principle
+- Single responsibility principle
 - open-close principle
 - Liskov Substitution principle
 - Interface Segregation
-- Dependancy Inversion principles
+- Dependency Inversion principles
 
 ___
 
-#Single Responsiblity Principle
+# Single Responsibility Principle
 
 - A class should have only one reason to change
 - Every time you need to open up a file, you risk breaking something

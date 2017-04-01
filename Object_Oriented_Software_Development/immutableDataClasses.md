@@ -1,10 +1,10 @@
-#Immutable Data Classes
+# Immutable Data Classes
 
 We already have seen a basic version: Person
 
 ***
 
-###Guidelines
+### Guidelines
 -
 
 - Make all fields final
@@ -20,7 +20,7 @@ An instance of an immutable data class is immutable if the objects passed into t
 
 ***
 
-###Which of these are Immutable Classes?
+### Which of these are Immutable Classes?
 -
 
 ```java
@@ -33,7 +33,7 @@ Pair p3 = new Pair(new StringBuilder("dog"), "cat");
 
 ***
 
-###Advantages of Immutable Objects
+### Advantages of Immutable Objects
 -
 
 - Immutable objects do not change.

@@ -1,4 +1,4 @@
-#Interface Segregation Principle
+# Interface Segregation Principle
 
 Clients should not be forced to depend upon interfaces that they do not use
 
@@ -20,7 +20,7 @@ If we change the interface for TimerClient, we will also need to update the Door
 
 -
 
-###Interface segregation principle – why use it?
+### Interface segregation principle – why use it?
 
 Prevent code-bloat.
 

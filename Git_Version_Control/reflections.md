@@ -1,4 +1,4 @@
-#Reflections
+# Reflections
 
 How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
@@ -14,7 +14,7 @@ It could help in the long term because if you wanted to change something back or
 
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
 
-Convenience is the pro, the cons are that some auto-commmits might have too little or too much code in them. Too little means your commit history will be cluttered, too much means that your commit will not be easy to fix if you made a mistake since you will have to look through a ton of code to find the problem.
+Convenience is the pro, the cons are that some auto-commits might have too little or too much code in them. Too little means your commit history will be cluttered, too much means that your commit will not be easy to fix if you made a mistake since you will have to look through a ton of code to find the problem.
 
 -
 

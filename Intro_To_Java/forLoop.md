@@ -1,4 +1,4 @@
-#For Loop
+# For Loop
 
 When you want something to repeat some exact amount of times, you should use a for loop not a while loop
 

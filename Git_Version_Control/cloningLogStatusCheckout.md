@@ -22,7 +22,7 @@ Cloning a repository - By typing "git clone URLtoGitRepository" you can download
 
 -
 
-"git checkout commitID" - temporarly change files back to an earlier commit state.
+"git checkout commitID" - temporarily change files back to an earlier commit state.
 
 "git checkout master" will return you from any previous commit state to the most recent commit state.
 

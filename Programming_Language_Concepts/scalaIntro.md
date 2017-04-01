@@ -1,6 +1,6 @@
-#Scala Introduction
+# Scala Introduction
 
-###Overview
+### Overview
 
 Functional and object-oriented PL
 
@@ -22,7 +22,7 @@ Examples
 
 ***
 
-###SCALA REPL
+### SCALA REPL
 
 Scala has a REPL like Scheme, ML, Python, etc.
 
@@ -44,7 +44,7 @@ dir.listFiles.filter (f => f.isFile && f.getName.endsWith (".txt"))
 
 ***
 
-###SCALA TYPE CHECKING
+### SCALA TYPE CHECKING
 
 Scala performs static type checking
 
@@ -54,7 +54,7 @@ def f () { 5 - "hello" }  // rejected by type checker
 
 REPL prints types of expressions
 
-####Java to Scala type hierarchy:
+#### Java to Scala type hierarchy:
 
 - Java primitive types to Scala value types
 
@@ -64,9 +64,9 @@ REPL prints types of expressions
 
 ***
 
-###IMMUTABLE VARIABLES
+### IMMUTABLE VARIABLES
 
-####Java
+#### Java
 
 ```java
 final int x = 10;  // declare and initialize x
@@ -76,7 +76,7 @@ x = 11;            // assignment to x fails
 
 -
 
-####C
+#### C
 
 ```c
 const int x = 10;  // declare and initialize x
@@ -86,7 +86,7 @@ x = 11;            // assignment to x fails
 
 -
 
-####Scala
+#### Scala
 
 ```scala
 val x = 10         // declare and initialize x
@@ -96,9 +96,9 @@ x = 11             // assignment to x fails
 
 ***
 
-###MUTABLE VARIABLES
+### MUTABLE VARIABLES
 
-####Java
+#### Java
 
 ```java
 int x = 10;        // declare and initialize x
@@ -107,7 +107,7 @@ x = 11;            // assignment to x OK
 
 -
 
-####C
+#### C
 
 ```c
 int x = 10;        // declare and initialize x
@@ -116,7 +116,7 @@ x = 11;            // assignment to x OK
 
 -
 
-####Scala
+#### Scala
 ```scala
 var x = 10         // declare and initialize x
 x = 11             // assignment to x OK
@@ -124,7 +124,7 @@ x = 11             // assignment to x OK
 
 ***
 
-###EXPRESSION ORIENTED
+### EXPRESSION ORIENTED
 
 Scala is expression oriented; no statements
 
@@ -134,7 +134,7 @@ unlike C, Java, etc.
 
 -
 
-####C comma expressions
+#### C comma expressions
 
 ```c
 (e_1, e_2, ..., e_n)
@@ -142,7 +142,7 @@ unlike C, Java, etc.
 
 -
 
-####Scheme begin expressions
+#### Scheme begin expressions
 
 ```scheme
 (begin e_1 e_2 ... e_n)
@@ -150,13 +150,13 @@ unlike C, Java, etc.
 
 -
 
-####Scala compound expressions
+#### Scala compound expressions
 
 ```scala
 {e_1; e_2; ...; e_n}
 ```
 
-####Semicolons optional (inferred, whitespace sensitive)
+#### Semicolons optional (inferred, whitespace sensitive)
 
 ```scala
 {
@@ -169,7 +169,7 @@ unlike C, Java, etc.
 
 ***
 
-###Functions
+### Functions
 
 Parameters require type annotations
 
@@ -212,7 +212,7 @@ Syntax like C statements, but uses expressions
 
 ***
 
-###EVERYTHING IS AN OBJECT
+### EVERYTHING IS AN OBJECT
 
 5:Int is an object with methods
 
@@ -240,11 +240,11 @@ e1.f(e2) can be written as e1 f e2
 
 ***
 
-###IMMUTABLE TUPLES
+### IMMUTABLE TUPLES
 
 Fixed number of heterogeneous items
 
-####Scala
+#### Scala
 
 ```scala
 val p : (Int, String) = (5, "hello")
@@ -269,7 +269,7 @@ public class Pair<X,Y> {
 
 ***
 
-###IMMUTABLE LINKED LISTS
+### IMMUTABLE LINKED LISTS
 
 Varying number of homogeneous items
 
@@ -279,13 +279,13 @@ Good language support
 
 -
 
-####Scheme
+#### Scheme
 
 ```scheme
 (cons 1 (cons 2 (cons 3 (cons 4 ()))))
 ```
 
-####Scala
+#### Scala
 
 ```scala
 1 :: (2 :: (3 :: (4 :: Nil)))
@@ -296,7 +296,7 @@ Good language support
 
 Projection called head and tail in many PLs
 
-####Scheme
+#### Scheme
 
 ```scheme
 (car (cons 1 (cons 2 (cons 3 (cons 4 ())))))
@@ -304,7 +304,7 @@ Projection called head and tail in many PLs
 (cdr (cons 1 (cons 2 (cons 3 (cons 4 ())))))
 ```
 
-####Scala
+#### Scala
 
 ```scala
 (1 :: (2 :: (3 :: (4 :: Nil)))).head
@@ -316,13 +316,13 @@ Projection called head and tail in many PLs
 
 Syntactic sugar for linked lists
 
-####Scheme
+#### Scheme
 
 ```scheme
 '(1 2 3)
 ```
 
-####Scala
+#### Scala
 
 ```scala
 List (1, 2, 3)
@@ -330,7 +330,7 @@ List (1, 2, 3)
 
 ***
 
-###MUTABILITY VARIATIONS
+### MUTABILITY VARIATIONS
 
 Variable mutability orthogonal to data mutability
 
@@ -352,7 +352,7 @@ xs (1) = 7              // mutating list fails
 
 ***
 
-###MUTABLE LISTS, ETC.
+### MUTABLE LISTS, ETC.
 
 Scala Collections guide
 
@@ -368,7 +368,7 @@ Scala has arrays Array[Int]
 
 ***
 
-###PATTERN MATCHING
+### PATTERN MATCHING
 
 Branch and deconstruct data with matching
 
@@ -389,7 +389,7 @@ Found in ML, Haskell, Rust, Swift, etc.
 
 ***
 
-###PATTERN MATCHING BEHAVIOR
+### PATTERN MATCHING BEHAVIOR
 
 The behavior of pattern matching...
 
@@ -416,7 +416,7 @@ if (xs == Nil) {
 
 ***
 
-###SIMPLE LIST OPERATIONS
+### SIMPLE LIST OPERATIONS
 
 Implement isEmpty, head, tail by pattern matching
 
@@ -441,7 +441,7 @@ def tail [X] (xs:List[X]) : List[X] = xs match {
 
 ***
 
-###FUNCTIONS VS METHODS
+### FUNCTIONS VS METHODS
 
 Builtin head method from List class
 
@@ -457,7 +457,7 @@ head (List (1, 2, 3))
 
 ***
 
-###RECURSIVE FUNCTIONS
+### RECURSIVE FUNCTIONS
 
 Imperative programming typically has
 
@@ -475,7 +475,7 @@ Efficient function calls / recursion
 
 ***
 
-###RECURSIVE FUNCTIONS: LISTS
+### RECURSIVE FUNCTIONS: LISTS
 
 Length of a linked list recursively
 
@@ -506,7 +506,7 @@ def length [X] (xs:List[X]) : Int = xs match {
 
 ***
 
-###REASONING
+### REASONING
 
 Evaluate step-by-step
 
@@ -533,7 +533,7 @@ The expression is the state of the computation
 
 ***
 
-###APPENDING LISTS
+### APPENDING LISTS
 
 Join two lists with append
 
@@ -576,9 +576,9 @@ Cons cell (3::Nil) is reused (shared)
 
 ***
 
-###SCHEME COMPARISON
+### SCHEME COMPARISON
 
-####Scala
+#### Scala
 
 ```scala
 def append [X] (xs:List[X], ys:List[X]) : List[X] = xs match {
@@ -587,7 +587,7 @@ def append [X] (xs:List[X], ys:List[X]) : List[X] = xs match {
 }
 ```
 
-####Scheme
+#### Scheme
 
 ```scala
 (define (append xs ys) 
@@ -598,7 +598,7 @@ def append [X] (xs:List[X], ys:List[X]) : List[X] = xs match {
 
 ***
 
-###APPENDING LISTS
+### APPENDING LISTS
 
 List class has builtin method :::
 
@@ -609,7 +609,7 @@ res1: List[Int] = List(1, 2, 3, 4, 5, 10, 11, 12, 13, 14, 15)
 
 ***
 
-###UNKNOWN FUNCTIONS
+### UNKNOWN FUNCTIONS
 
 ```scala
 def f [X] (xs:List[X]) : List[X] = xs match {

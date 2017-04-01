@@ -1,4 +1,4 @@
-#Adding Documentation to a Class
+# Adding Documentation to a Class
 
 You can add descriptions to your classes and functions by using the special comments seen above every one of the functions and the class below
 

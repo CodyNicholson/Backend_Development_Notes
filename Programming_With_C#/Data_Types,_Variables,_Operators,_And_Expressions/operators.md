@@ -1,4 +1,4 @@
-#Operators
+# Operators
 
 When writing C# code, you will often use operators.  An operator is a token that applies to operations on one or more operands in an expression. An expression can be part of a statement, or the entire statement. Examples include:
 
@@ -16,7 +16,7 @@ You cannot use the increment operator (++) on strings however. In other words, t
 
 ***
 
-##The following table lists the C# operators by type
+## The following table lists the C# operators by type
 
 ```
 {Type}

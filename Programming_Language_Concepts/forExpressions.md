@@ -1,6 +1,6 @@
-#For Expressions
+# For Expressions
 
-###SET/LIST COMPREHENSIONS
+### SET/LIST COMPREHENSIONS
 
 Set comprehensions
 
@@ -18,7 +18,7 @@ List comprehensions in many PLs
 
 ***
 
-###SCALA: FOR EXPRESSIONS
+### SCALA: FOR EXPRESSIONS
 
 for expressions with yield keyword have a result
 
@@ -28,7 +28,7 @@ val xs : List[Int] = for (n <- (0 to 10).toList) yield (2 * n)
 
 ***
 
-###FOR EXPRESSIONS - TYPES
+### FOR EXPRESSIONS - TYPES
 
 Result type determined by expression
 
@@ -42,7 +42,7 @@ val result = for (x <- xs) yield e
 
 ***
 
-###FOR EXPRESSIONS VS MAP
+### FOR EXPRESSIONS VS MAP
 
 for expressions and map equivalence
 
@@ -58,7 +58,7 @@ For example
 
 ***
 
-###CONDITIONALS
+### CONDITIONALS
 
 Conditionals filter elements from result
 
@@ -76,7 +76,7 @@ equivalent to
 
 ***
 
-###FLATTEN
+### FLATTEN
 
 Flattening lists of lists
 

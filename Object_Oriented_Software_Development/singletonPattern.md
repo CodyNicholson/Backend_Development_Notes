@@ -1,4 +1,4 @@
-#Singleton Pattern
+# Singleton Pattern
 
 This is called the Singleton pattern
 

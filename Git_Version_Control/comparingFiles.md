@@ -1,6 +1,6 @@
-#Comparing Files
+# Comparing Files
 
-###Comparing working directory, staging area, and repository:
+### Comparing working directory, staging area, and repository:
 
 You can use "git add fileName" to copy a file from the working directory to the staging area.
 
@@ -14,7 +14,7 @@ If a file is in the staging area but not in the repository you can use "git diff
 
 "git diff" - compares working directory with staging area
 
-"git diff staged" - comares staging area with the most recent commit
+"git diff staged" - compares staging area with the most recent commit
 
 "git diff commit1 commit2" - compares commit1 with commit2
 

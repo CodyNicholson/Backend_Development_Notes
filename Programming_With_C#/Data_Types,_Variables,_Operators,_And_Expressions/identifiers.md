@@ -1,4 +1,4 @@
-#Identifiers
+# Identifiers
 
 In C#, an Identifier is name you give to the elements in your program.  Elements in your program include;
 
@@ -20,7 +20,7 @@ int myVar = 0;
 
 ***
 
-####C# has some restrictions around identifiers that you need to be aware of
+#### C# has some restrictions around identifiers that you need to be aware of
 
 First off, identifiers are case-sensitive because C# is a case-sensitive language. That means that identifiers such as myVar, _myVar, and myvar, are considered different identifiers.
 

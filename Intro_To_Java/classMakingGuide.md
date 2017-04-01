@@ -1,4 +1,4 @@
-#Class Making Guide
+# Class Making Guide
 
 When making a class labeling is very important, so try to follow this protocal:
 

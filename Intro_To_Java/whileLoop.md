@@ -1,6 +1,6 @@
-#While Loop
+# While Loop
 
-While loops wil repeat over and over until there condition is false, or you get a runtime error
+While loops will repeat over and over until there condition is false, or you get a runtime error
 
 ```java
 public class InterestCalculator

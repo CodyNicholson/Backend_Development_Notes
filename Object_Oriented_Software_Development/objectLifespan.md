@@ -1,4 +1,4 @@
-#Object Lifespan And Cloning
+# Object Lifespan And Cloning
 
 In Java, everything are references
 
@@ -14,7 +14,7 @@ If you have a list that contains a pointer to some object o1, and you clone o1, 
 
 ***
 
-###Cloning
+### Cloning
 
 ```
 When you clone, the following should be true:
@@ -26,7 +26,7 @@ The last won’t necessarily be true, but it probably should be true.
 
 -
 
-###Cloning Vs Deep Copying
+### Cloning Vs Deep Copying
 
 Cloning copies the current values of the objects
 

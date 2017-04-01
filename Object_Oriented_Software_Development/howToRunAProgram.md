@@ -1,4 +1,4 @@
-#How To Run A Program
+# How To Run A Program
 
 1. Compile -- may compile pieces of program separately, creating multiple object files and "libraries" or "archives" ("jar" file)
 

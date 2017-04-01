@@ -1,4 +1,4 @@
-#Dynamic Vs Static Typing
+# Dynamic Vs Static Typing
 
 Dynamic:
 

@@ -1,4 +1,4 @@
-#Adapter Pattern
+# Adapter Pattern
 
 The Adapter pattern is used to make some other code that you can’t modify work with your application as you need it to
 

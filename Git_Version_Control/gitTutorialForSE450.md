@@ -1,6 +1,6 @@
-#Git Tutorial for SE450
+# Git Tutorial for SE450
 
-###Agenda:
+### Agenda:
 
 - What is Git? Why should we use it? Why is it important in the context of Object Oriented Software Development? - A way for us to develop incrementally, and makes bugs easy to track and fix which saves us time
 
@@ -18,7 +18,7 @@ Mac/Ubuntu - [https://www.youtube.com/watch?v=s_eFuGauy6k](https://www.youtube.c
 
 ***
 
-##Using Git locally
+## Using Git locally
 
 
 - Creating a git repository using: git init
@@ -32,7 +32,6 @@ Mac/Ubuntu - [https://www.youtube.com/watch?v=s_eFuGauy6k](https://www.youtube.c
 - Compares your working directory to the directory saved in the .git folder
 
 - Adding files to staging and tracking files with git using: git add "file, or '.' to add all untracked files in dir"
-
 
 ![alt tag](https://github.com/CodyNicholson/Software_Development/blob/master/Git_Version_Control/workingdirStagingGitdir.png)
 
@@ -65,12 +64,12 @@ Mac/Ubuntu - [https://www.youtube.com/watch?v=s_eFuGauy6k](https://www.youtube.c
 ```
 ***
 
-##How to put all this stuff online using Github
+## How to put all this stuff online using Github
 
 ```
 - Create an empty repository on Github to put your project in
 
-- Copy the url for the repositoy by clicking the "Clone or Download" button in your empty repository on Github
+- Copy the url for the repository by clicking the "Clone or Download" button in your empty repository on Github
 
 - Create a git remote for your local git repository using: git remote add 'name' 'url from Github clone or download button'
 

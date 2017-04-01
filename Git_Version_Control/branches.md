@@ -1,4 +1,4 @@
-#Branches
+# Branches
 
 A copy of the master branch that you can use for experimental work, like introducing a new feature that you are unsure of if it will work
 
@@ -22,7 +22,7 @@ By typing "git checkout branchName" you can switch branches to the new branch I 
 
 Times to create new branches: moving on to a different piece of work, creating new features, fixing a bug
 
-You can have a production branch of code that will always work and then a dev branch for developing new featues
+You can have a production branch of code that will always work and then a dev branch for developing new features
 
 -
 

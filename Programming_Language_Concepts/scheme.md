@@ -1,4 +1,4 @@
-#Sheme & Lisp
+# Scheme & Lisp
 
 Lisp (LISt Processor)
 
@@ -20,7 +20,7 @@ Pioneered many PL concepts:
 
 ***
 
-###Lisp & Scheme
+### Lisp & Scheme
 
 Dialects of Lisp: Common Lisp, Scheme, Clojure, Racket
 
@@ -40,7 +40,7 @@ Lots of Infuriating & Silly Parentheses
 
 ***
 
-###Literals In Scheme
+### Literals In Scheme
 
 Number literal
 
@@ -62,7 +62,7 @@ Symbol
 
 ***
 
-###ARITHMETIC IN SCHEME
+### ARITHMETIC IN SCHEME
 
 Arithmetic expressions use prefix notation
 
@@ -84,7 +84,7 @@ Try out
 
 ***
 
-###OPERATOR TERMINOLOGY
+### OPERATOR TERMINOLOGY
 
 Prefix notation: operator before arguments
 
@@ -106,7 +106,7 @@ Postfix notation: operator after arguments
 
 ***
 
-###Functions
+### Functions
 
 Define a function square with parameter n
 
@@ -128,7 +128,7 @@ Invoke the square function twice
 
 -
 
-###DEFINING FUNCTIONS
+### DEFINING FUNCTIONS
 
 General form is
 
@@ -156,7 +156,7 @@ begin like C comma operator, but not needed
 
 -
 
-###INVOKING FUNCTIONS
+### INVOKING FUNCTIONS
 
 Invoke function f with m arguments
 
@@ -178,7 +178,7 @@ square 5
 
 ***
 
-###EVALUATION ORDER
+### EVALUATION ORDER
 
 Expression (f M N) is evaluated by
 
@@ -190,7 +190,7 @@ Invoking function f with values U and V
 
 ***
 
-###BOOLEANS AND CONDITIONALS
+### BOOLEANS AND CONDITIONALS
 
 = operator tests number equality
 
@@ -211,7 +211,7 @@ if special form is an expression
 
 ***
 
-###RECURSIVE FUNCTIONS
+### RECURSIVE FUNCTIONS
 
 Recursive functions are common in Scheme
 
@@ -234,7 +234,7 @@ int fact (int n) {
 
 ***
 
-###CONS CELLS
+### CONS CELLS
 
 A cons cell is a pair of two pieces of data
 
@@ -265,7 +265,7 @@ car and cdr functions extract components
 
 ***
 
-###Cons Cells For Linked Lists
+### Cons Cells For Linked Lists
 
 Cons cells (pairs) are used to represent linked lists
 
@@ -275,7 +275,7 @@ Cons cells (pairs) are used to represent linked lists
 
 -
 
-###Cons Cells For Linked Lists
+### Cons Cells For Linked Lists
 
 Linked lists built up using () and cons
 
@@ -299,7 +299,7 @@ List containing 1, 2, 3
 
 ***
 
-###SYNTACTIC SUGAR FOR LISTS
+### SYNTACTIC SUGAR FOR LISTS
 
 Quote special form prevents evaluation
 
@@ -325,7 +325,7 @@ list function evaluates args, puts results in a list
 
 ***
 
-###EQUALITY TESTING FOR LISTS
+### EQUALITY TESTING FOR LISTS
 
 eq? for pointer equality
 
@@ -345,7 +345,7 @@ Structural equality traverses two structures
 
 ***
 
-###RECURSIVE FUNCTIONS ON LISTS
+### RECURSIVE FUNCTIONS ON LISTS
 
 Compute length of linked list recursively
 
@@ -371,7 +371,7 @@ static int length (Node data) {
 
 ***
 
-###READ-EVAL-PRINT LOOP (REPL)
+### READ-EVAL-PRINT LOOP (REPL)
 
 Quoting delays evaluation of functions
 
@@ -399,7 +399,7 @@ read function reads an expression
 
 ***
 
-###Scheme Stuff
+### Scheme Stuff
 
 ```scheme
 (cons 1 (cons 2 (cons 3))) ; Outputs (1 2 3)
@@ -417,7 +417,7 @@ read function reads an expression
 
 -
 
-####Equals In Scheme
+#### Equals In Scheme
 
 ```scheme
 (eq? '(1 2 3) '(1 2 3)) ; Outputs false because the lists are stored in separate places
@@ -426,7 +426,7 @@ read function reads an expression
 
 -
 
-###Linked List Length In Scheme
+### Linked List Length In Scheme
 
 ```scheme
 (define (length l)

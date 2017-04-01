@@ -1,4 +1,4 @@
-#String Methods
+# String Methods
 
 ```java
 String str = "Some String";

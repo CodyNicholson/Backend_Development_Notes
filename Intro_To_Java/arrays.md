@@ -1,4 +1,4 @@
-#Arrays
+# Arrays
 
 An array is a container object that holds a fixed number of values of a single type
 
@@ -16,7 +16,7 @@ An arrayList should be used for every other situation
 
 -
 
-###An array is a list of items of a specific type defined using this syntax:
+### An array is a list of items of a specific type defined using this syntax:
 
 ```java
 type[] arrayName = new type[lengthOfArray];
@@ -34,7 +34,7 @@ double[] values = new double[5];
 
 -
 
-###Targeting elements in an array:
+### Targeting elements in an array:
 
 ```java
 double firstValue = values[0];
@@ -44,7 +44,7 @@ double firstValue = values[0];
 
 -
 
-###Chaning/setting the values of an array:
+### Changing/setting the values of an array:
 
 ```java
 values[0] = 42;
@@ -54,7 +54,7 @@ values[0] = 42;
 
 -
 
-###To print all of the elements in the array:
+### To print all of the elements in the array:
 
 ```java
 for (int i = 0; i < values.length; i++)
@@ -72,7 +72,7 @@ for (double value : values)
 
 -
 
-###If you want an array to be able to contain more values, you can define a new array and copy the contents of the old array into it like so:
+### If you want an array to be able to contain more values, you can define a new array and copy the contents of the old array into it like so:
 
 ```java
 if (size >= LENGTH)

@@ -1,4 +1,4 @@
-#Case Study: C++ & V-Tables
+# Case Study: C++ & V-Tables
 
 Very large PL
 
@@ -9,7 +9,7 @@ Brief overview of
 
 ***
 
-###C++ EVOLUTION
+### C++ EVOLUTION
 
 C++98, C++03, C++11, C++14, C++17
 
@@ -23,7 +23,7 @@ Sampling of new features
 
 ***
 
-###HELLO WORLD!
+### HELLO WORLD!
 
 ```
 #include <iostream>
@@ -43,7 +43,7 @@ Hello world
 
 ***
 
-###CLASS DEFINITIONS
+### CLASS DEFINITIONS
 
 Member variables (AKA fields, instance variables)
 
@@ -66,7 +66,7 @@ public:
 
 ***
 
-###STACK ALLOCATION
+### STACK ALLOCATION
 
 Create instance of Counter in AR on stack
 
@@ -107,7 +107,7 @@ c: 2
 
 ***
 
-###HEAP ALLOCATION
+### HEAP ALLOCATION
 
 Create instance of Counter on heap
 
@@ -135,7 +135,7 @@ int main () {
 
 ***
 
-###JAVA VS C++ OBJECTS
+### JAVA VS C++ OBJECTS
 
 Java implicitly dereferences references to instances!
 
@@ -162,7 +162,7 @@ c.get ();
 
 ***
 
-###STORAGE LOCATION
+### STORAGE LOCATION
 
 Print locations of allocated data
 
@@ -187,7 +187,7 @@ $ ./class02
 
 ***
 
-###C++ STORAGE SUBTLETIES
+### C++ STORAGE SUBTLETIES
 
 Many options to control copying or moving of instances
 
@@ -195,7 +195,7 @@ Nothing comparable in Java, Scala, Python, Ruby, etc.
 
 ***
 
-###SINGLE INHERITANCE - FIELDS
+### SINGLE INHERITANCE - FIELDS
 
 ```
 #include <iostream>
@@ -223,7 +223,7 @@ int main () {
 
 ***
 
-###STATIC DISPATCH
+### STATIC DISPATCH
 
 C++ uses the static type to determine impl. by default
 
@@ -250,7 +250,7 @@ int main () {
 
 ***
 
-###DYNAMIC DISPATCH
+### DYNAMIC DISPATCH
 
 Add virtual in base (super) class to use dynamic type
 
@@ -277,7 +277,7 @@ int main () {
 
 ***
 
-###ABSTRACT CLASSES
+### ABSTRACT CLASSES
 
 Abstract methods indicated by =0 instead of impl.
 
@@ -309,7 +309,7 @@ int main () {
 
 ***
 
-###REFRESHER: 32-BIT X86
+### REFRESHER: 32-BIT X86
 
 See textbook for Systems I & II prerequisite courses
 
@@ -329,7 +329,7 @@ Chapter 7 of Mitchell textbook
 
 ***
 
-###REFRESHER: 32-BIT X86
+### REFRESHER: 32-BIT X86
 
 Dereference memory location %ebp-4, then copy contents to %eax
 
@@ -346,7 +346,7 @@ $ g++ -march=i386 -m32 foo.cc
 
 ***
 
-###C++ OBJECT REPRESENTATION
+### C++ OBJECT REPRESENTATION
 
 Study object representation by looking at x86
 
@@ -356,7 +356,7 @@ Sections 11.5 & 12.3 of Mitchell textbook cover vtables
 
 ***
 
-###SINGLE INHERITANCE: FIELDS
+### SINGLE INHERITANCE: FIELDS
 
 Impl. of single inheritance with no methods
 
@@ -390,7 +390,7 @@ int main () {
 
 ***
 
-###SINGLE INHERITANCE: FIELDS
+### SINGLE INHERITANCE: FIELDS
 
 Compile with G++ to assembly
 
@@ -402,7 +402,7 @@ C and assembly side-by-side
 
 ***
 
-###SINGLE INHERITANCE: METHODS
+### SINGLE INHERITANCE: METHODS
 
 Generate vtables and code for dynamic dispatch
 
@@ -443,7 +443,7 @@ int main () {
 
 ***
 
-###MULTIPLE INHERITANCE: FIELDS
+### MULTIPLE INHERITANCE: FIELDS
 
 Common Lisp Object System (CLOS) and C++ feature multiple inheritance
 
@@ -453,7 +453,7 @@ Casting may involve changing the value of a pointer!
 
 ***
 
-###MULTIPLE INHERITANCE: FIELDS
+### MULTIPLE INHERITANCE: FIELDS
 
 Generate code to adjust pointers when casting
 

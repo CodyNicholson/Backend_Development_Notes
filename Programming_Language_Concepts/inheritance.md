@@ -1,4 +1,4 @@
-#Inheritance
+# Inheritance
 
 Interface inheritance (subtyping)
 
@@ -13,7 +13,7 @@ Implementation inheritance
 
 ***
 
-###INHERITANCE AND OVERRIDING
+### INHERITANCE AND OVERRIDING
 
 Inherit f impl.; override g impl.
 
@@ -54,7 +54,7 @@ B.g ()
 
 ***
 
-###ABSTRACT METHODS = "HOOKS"
+### ABSTRACT METHODS = "HOOKS"
 
 Java: method with no impl. called abstract
 
@@ -93,7 +93,7 @@ B.g ()
 
 ***
 
-###OVERRIDING AGAIN
+### OVERRIDING AGAIN
 
 Override f, so A.f does not run
 
@@ -125,7 +125,7 @@ B.f (3)
 
 ***
 
-###OVERRIDING AND SUPER CALLS
+### OVERRIDING AND SUPER CALLS
 
 Use superclass impl. via super call
 
@@ -167,7 +167,7 @@ B.g ()
 
 ***
 
-###COMPOSITION AND DELEGATION
+### COMPOSITION AND DELEGATION
 
 Favor 'object composition' over 'class inheritance'
 
@@ -259,7 +259,7 @@ B.g ()
 
 ***
 
-###EXAMPLE: INPUTSTREAM
+### EXAMPLE: INPUTSTREAM
 
 java.io.InputStream represents stream of bytes
 
@@ -305,7 +305,7 @@ implementation of [these methods].
 
 ***
 
-###EXAMPLE: SUBCLASS
+### EXAMPLE: SUBCLASS
 
 ```
 import java.io.*;

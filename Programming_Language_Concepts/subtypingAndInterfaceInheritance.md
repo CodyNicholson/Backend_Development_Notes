@@ -1,6 +1,6 @@
-#Subtyping & Interface Inheritance
+# Subtyping & Interface Inheritance
 
-###INTERFACES
+### INTERFACES
 
 Two senses for interface
 
@@ -46,7 +46,7 @@ int p = o.f (5); // OK, instances of A must have f implementations
 
 ***
 
-###INTERFACE INHERITANCE
+### INTERFACE INHERITANCE
 
 Subclassing introduces interface inheritance
 
@@ -69,7 +69,7 @@ int p = o.f (5); // OK, instances of C must have f methods
 
 ***
 
-###SUBTYPING
+### SUBTYPING
 
 Since instances of C provide f
 
@@ -83,7 +83,7 @@ Subtyping is not just subclassing
 
 ***
 
-###SUBTYPING & SUBSTITUTION
+### SUBTYPING & SUBSTITUTION
 
 If Y<:X and e:Y, then e:X also
 
@@ -113,7 +113,7 @@ B o = E.bar ();   // OK to upcast result from C to B because C <: B
 
 ***
 
-###DOWNCASTING
+### DOWNCASTING
 
 Downcasting is potentially unsafe
 
@@ -183,7 +183,7 @@ class C extends B {
 
 ***
 
-###UPCASTING & DOWNCASTING
+### UPCASTING & DOWNCASTING
 
 ```
 Y<:X
@@ -197,7 +197,7 @@ downcase (potentially unsafe) e:y <-- e:X
 
 ***
 
-###SUBTYPING PREORDER
+### SUBTYPING PREORDER
 
 Subtyping relation <: is a preorder on types
 
@@ -206,7 +206,7 @@ Subtyping relation <: is a preorder on types
 
 ***
 
-###SUBTYPING PREORDER - TOP
+### SUBTYPING PREORDER - TOP
 
 Some PLs have a Top type
 
@@ -227,7 +227,7 @@ val ys:List[Any]    = List ("hello", 1)
 
 ***
 
-###SUBTYPING: LISTS
+### SUBTYPING: LISTS
 
 ```
 Subtyping for Scala lists
@@ -252,7 +252,7 @@ xs4 (1).f (0)                         // OK, f method exists at runtime
 
 ***
 
-###SUBTYPING PREORDER - BOTTOM
+### SUBTYPING PREORDER - BOTTOM
 
 Most PLs do not have a Bottom type
 
@@ -277,7 +277,7 @@ val    xs2:List[String]  = "hello"::mynil2 // Best type possible
 
 ***
 
-###COVARIANCE
+### COVARIANCE
 
 List said to be covariant
 
@@ -287,7 +287,7 @@ Generally, C[-] is covariant if and only if
 
 ***
 
-###ARRAYS NOT COVARIANT
+### ARRAYS NOT COVARIANT
 
 In Scala, Array[C]<:Array[B]? No!
 
@@ -363,7 +363,7 @@ xs2 (0).g ()           // OK because xs2 (0) : C (statically)
 
 ***
 
-###JAVA ARRAYS COVARIANT
+### JAVA ARRAYS COVARIANT
 
 Java arrays are covariant, unlike Scala arrays
 
@@ -390,7 +390,7 @@ Exception in thread "main" java.lang.ArrayStoreException: B
 
 ***
 
-###CONTRAVARIANT
+### CONTRAVARIANT
 
 Write-only data types often contravariant
 
@@ -463,7 +463,7 @@ val p:A = r3.get () // o == p (o's type is more accurate than p's type)
 
 ***
 
-###VARIANCE
+### VARIANCE
 
 For C[-] and Y<:X
 
@@ -475,7 +475,7 @@ For C[-] and Y<:X
 
 ***
 
-###POLYMORPHISM
+### POLYMORPHISM
 
 Polymorphism from dynamic dispatch in OO PLs 
 called subtype polymorphism

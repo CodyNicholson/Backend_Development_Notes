@@ -1,4 +1,4 @@
-#Dependency
+# Dependency
 
 ```java
 * I disagree with this definition in part – still a dependency if it has a Concrete class as a field.
@@ -27,3 +27,4 @@ Typical reasons for a dependency*:
 - Person is returned by a method
 - Person is a parameter of a method
 - Person is held in a local variable but not a field
+

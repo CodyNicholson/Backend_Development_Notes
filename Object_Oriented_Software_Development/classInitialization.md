@@ -1,4 +1,4 @@
-#Class Initialization
+# Class Initialization
 
 - Java loads and initializes classes dynamically
 

@@ -1,4 +1,6 @@
-Knowing what things are overriden
+#On The Final
+
+Knowing what things are overridden
 
 write Static factory
 
@@ -6,4 +8,4 @@ refactor to use strategy pattern
 
 refactor to template method pattern
 
-Lnow how to understand overring and data hiding
+Know how to understand overriding and data hiding

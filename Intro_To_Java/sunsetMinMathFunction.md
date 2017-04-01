@@ -1,4 +1,4 @@
-#Sunset Min Math Function
+# Sunset Min Math Function
 
 ```java
 public class Color

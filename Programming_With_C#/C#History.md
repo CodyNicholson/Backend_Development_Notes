@@ -1,4 +1,4 @@
-#C# History
+# C# History
 
 The C# programming language was born in 1999 at Microsoft
 
@@ -19,3 +19,4 @@ C# uses a garbage collection mechanism to release memory and resources that are 
 - Component-oriented: C# permits the creation of software components for self-contained, self-describing packages of functionality
 
 - Unified type system: all C# types, from primitive to reference types, inherit from a single root known as Object
+

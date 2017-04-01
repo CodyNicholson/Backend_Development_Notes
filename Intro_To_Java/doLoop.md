@@ -1,8 +1,8 @@
-#Do Loops
+# Do Loops
 
 Do loops are commonly used for input validation
 
-Do loops end when the "while (condition)"'s condition becaomes false
+Do loops end when the "while (condition)"'s condition becomes false
 
 In this case, that is when value becomes less than 100
 

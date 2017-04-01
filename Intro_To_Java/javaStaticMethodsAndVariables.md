@@ -1,6 +1,6 @@
-#Java Static Methods and Variables
+# Java Static Methods and Variables
 
-##Java static variable
+## Java static variable
 
 It is a variable which belongs to the class and not to object(instance)
 
@@ -20,7 +20,7 @@ Syntax:
 
 ***
 
-##Java Static Method
+## Java Static Method
 
 It is a method which belongs to the class and not to the object(instance)
 
@@ -42,6 +42,6 @@ A static method cannot refer to "this" or "super" keywords in anyway
 
 -
 
-####Side Note:
+#### Side Note:
 
 main method is static , since it must be be accessible for an application to run , before any instantiation takes place

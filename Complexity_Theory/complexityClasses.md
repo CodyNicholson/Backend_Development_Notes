@@ -1,6 +1,6 @@
-#Complexity Classes
+# Complexity Classes
 
-###P Complexity Class
+### P Complexity Class
 
 **P** stands for polynomial
 
@@ -12,9 +12,9 @@ For example: bubble sort is in **P** but usually we can use mergesort for sortin
 
 -
 
-###NP Complexity Class
+### NP Complexity Class
 
-**NP** stands for nondeterministic polynomial
+** NP** stands for nondeterministic polynomial
 
 If we have a certain solution for the problem: we can verify this solution in polynomial time
 
@@ -28,11 +28,11 @@ In the Traveling Salesman Problem, if we have the solution route, we can make su
 
 -
 
-###NP-Complete Complexity Class
+### NP-Complete Complexity Class
 
 The hardest problems in **NP**
 
-We can transform an NP-Complete problem into an **NP** problem in polinomial time - "Karp Reduction"
+We can transform an NP-Complete problem into an **NP** problem in polynomial time - "Karp Reduction"
 
 Important in Computer Science: if we manage to find a polynomial algorithm for an NP-Complete problem, it means P = NP
 
@@ -46,12 +46,13 @@ Fr example: Graph Coloring, Hamiltonian Path Problem
 
 -
 
-###NP-Hard Complexity Class
+### NP-Hard Complexity Class
 
 Problems that are at least as hard as the problems in **NP** class
 
-We can transform an **NP-Hard** problem into an **NP-Complete** problem in polinomial time using "Karp reduction"
+We can transform an **NP-Hard** problem into an **NP-Complete** problem in polynomial time using "Karp reduction"
 
 For example: halting problem
 
 - This is the problem which asks: given a program and the input, will it run forever? Yes/No question, so a decision problem
+

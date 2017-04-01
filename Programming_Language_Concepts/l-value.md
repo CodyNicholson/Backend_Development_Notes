@@ -1,6 +1,6 @@
-#L-Value
+# L-Value
 
-###R-MODE AND L-MODE
+### R-MODE AND L-MODE
 
 Consider:
 
@@ -22,7 +22,7 @@ Goes back to Strachey in the 1960s
 
 ***
 
-###L-VALUES
+### L-VALUES
 
 Expression for which l-mode evaluation succeeds
 
@@ -43,7 +43,7 @@ q = p;
 
 -
 
-###NOT L-VALUES
+### NOT L-VALUES
 
 L-mode evaluation sometimes disallowed
 
@@ -62,7 +62,7 @@ although it might be stored temporarily
 
 ***
 
-###FURTHER L-VALUES
+### FURTHER L-VALUES
 
 L-values may require r-mode evaluation
 

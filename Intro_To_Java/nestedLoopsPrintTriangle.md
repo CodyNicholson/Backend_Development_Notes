@@ -1,4 +1,4 @@
-#Triangle Pattern
+# Triangle Pattern
 
 This program prints a triangle pattern by using a nested for loop
 

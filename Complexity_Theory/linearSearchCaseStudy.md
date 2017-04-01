@@ -1,8 +1,8 @@
-#Linear Search - Case Study
+# Linear Search - Case Study
 
 We have an array of unsorted items/integers
 
-We want to fina a given item
+We want to find a given item
 
 If we know the index of the item, we can get it in O(1) constant time complexity
 

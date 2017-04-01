@@ -1,10 +1,10 @@
-#Mutable Data Classes
+# Mutable Data Classes
 
 Guidelines:
 
 - Always override toString
 - Consider overriding clone
-    - Follow the recipies in Bloch.
+    - Follow the recipes in Bloch.
 - Be careful with null references!
 - Be careful when overriding equals, hashCode, and comparesTo
     - hashCode should depend only on immutable attributes
@@ -27,7 +27,7 @@ In general, solution 1 is probably the best one. In homework 1, I chose option 2
 
 ***
 
-###Hashing Mutable Data is Dangerous!
+### Hashing Mutable Data is Dangerous!
 
 It is possible to lose mutable values in a hashtable.
 

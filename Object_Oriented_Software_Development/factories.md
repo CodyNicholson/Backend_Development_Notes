@@ -1,4 +1,4 @@
-#Factories
+# Factories
 
 Typical code for creating new objects
 
@@ -6,7 +6,7 @@ Typical code for creating new objects
 
 ***
 
-###Static Factory Method
+### Static Factory Method
 
 A factory allows concrete class names to be hidden
 
@@ -14,7 +14,7 @@ A factory allows concrete class names to be hidden
 
 ***
 
-###Static Factory Method
+### Static Factory Method
 -
 
 Benefit: Changing class names does not force Client code to change (nor should it)
@@ -23,7 +23,7 @@ Benefit: Changing class names does not force Client code to change (nor should i
 
 ***
 
-###Static Factory Class
+### Static Factory Class
 
 An alternative to what we’ve seen, you can replace the giant if/else statement with individual class names
 
@@ -59,7 +59,7 @@ public class LinkedListIterator : IIterator {
 
 ***
 
-##Abstract Factory
+## Abstract Factory
 
 Sometimes there might be a whole suite of related classes, that each need factories
 
@@ -72,5 +72,3 @@ public interface ICarFactory {
     IWheels CreateWheels();
 }
 ```
-
-

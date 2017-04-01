@@ -1,4 +1,4 @@
-#Algebraic Data Types
+# Algebraic Data Types
 
 - Product types: tuples
 - Sum types: discriminated/tagged union, variants
@@ -10,7 +10,7 @@
 
 ***
 
-###Algebraic Data Types in Programming Languages
+### Algebraic Data Types in Programming Languages
 
 - D
 - F#
@@ -25,7 +25,7 @@
 
 ***
 
-###PRODUCT TYPES
+### PRODUCT TYPES
 
 - Named for Cartesian product of sets
     - X * Y = { (x, y) | x ∈ X ∧ y ∈ Y }
@@ -51,7 +51,7 @@ val n:Int = c match {
 
 ***
 
-###CASE CLASSES
+### CASE CLASSES
 
 - Compiler treatment for case classes
 - Constructor arguments are visible and immutable
@@ -71,7 +71,7 @@ c.x = 6 // error: reassignment to val
 
 -
 
-###TUPLES ARE CASE CLASSES
+### TUPLES ARE CASE CLASSES
 
 - Pairs / tuples are syntactic sugar for case classes
 - See Tuple3.scala source
@@ -93,7 +93,7 @@ res0: Class[_ <: (Int, String, Boolean)] = class scala.Tuple3
 
 ***
 
-###SET UNION
+### SET UNION
 
 Cartesian product of sets
 
@@ -111,7 +111,7 @@ Elements are tagged to indicate their source
 
 ***
 
-###DISJOINT UNION - CASE CLASSES
+### DISJOINT UNION - CASE CLASSES
 
 Disjoint union of 3 ints and 1 int
 trait similar to Java interface
@@ -151,7 +151,7 @@ def resolveDate (d:DateSpecifier) : Calendar = {
 
 ***
 
-###DISJOINT UNION - C
+### DISJOINT UNION - C
 
 Union types in C must be tagged manually
 
@@ -195,7 +195,7 @@ ds[1].tag = e_relative;
 ds[1].content.u_relative.days_offset = -5;
 ```
 
-###Examine tag to decompose
+### Examine tag to decompose
 
 Only access union selector matching tag!
 
@@ -219,7 +219,7 @@ void print_ds (struct ds_t *dsp) {
 
 ***
 
-###RECURSIVE TYPES
+### RECURSIVE TYPES
 
 - Classes can be recursive
 - Peano natural numbers
@@ -233,7 +233,7 @@ case class  Succ (n:PeanoNat) extends PeanoNat
 
 ***
 
-###LINKED LISTS
+### LINKED LISTS
 
 - Case object/class for Nil and Cons
 - Corresponds to cases for pattern matching
@@ -249,7 +249,7 @@ case class  Cons[+X] (head:X, tail:List[X]) extends List[X]
 
 ***
 
-###BINARY TREES
+### BINARY TREES
 
 Binary trees with
 
@@ -265,7 +265,7 @@ case class  Node[+X] (l:Tree[X], c:X, r:Tree[X]) extends Tree[X]
 
 ***
 
-###RED-BLACK TREES
+### RED-BLACK TREES
 
 ```
 trait Color

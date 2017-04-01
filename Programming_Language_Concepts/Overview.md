@@ -1,4 +1,4 @@
-#1-2-2017
+# 1-2-2017
 
 Lisp and Scheme are languages for the class
 
@@ -34,9 +34,9 @@ class  FizzBuzz
 
 ***
 
-##Programming Languages
+## Programming Languages
 
-####1970: Assembly, FORTRAN, COBOL, Lisp
+#### 1970: Assembly, FORTRAN, COBOL, Lisp
 
 - Assembly -
 
@@ -46,7 +46,7 @@ class  FizzBuzz
 
 - Lisp - Parantheses everywhere
 
-####1980: C, Pascal, BASIC, ML, Smalltalk
+#### 1980: C, Pascal, BASIC, ML, Smalltalk
 
 - C - Portable assembly language, you can do low level stuff with it
 
@@ -58,7 +58,7 @@ class  FizzBuzz
 
 - Smalltalk - One of the first OOP languages, has easy graphical user interfaces
 
-####1990: C++, Perl, Objective C, Erlang
+#### 1990: C++, Perl, Objective C, Erlang
 
 - C++ - Object Oreinted version of C
 
@@ -68,7 +68,7 @@ class  FizzBuzz
 
 - Erlang - Coded to make systems more reliable by creating redundant software
 
-####2000: Java, JavaScript, Python, Ruby, Lua
+#### 2000: Java, JavaScript, Python, Ruby, Lua
 
 - Java - Runs on Windows, Apple, Linux
 
@@ -80,7 +80,7 @@ class  FizzBuzz
 
 - Lua - Great for embedding interpreters
 
-####2005: C#
+#### 2005: C#
 
 - C# - Microsoft wanted to attract people to their platform, Java with Windows plugins
 
@@ -94,7 +94,7 @@ class  FizzBuzz
 
 - Go -
 
-####2015: Rust, Swift, TypeScript
+#### 2015: Rust, Swift, TypeScript
 
 - Rust -
 
@@ -104,7 +104,7 @@ class  FizzBuzz
 
 ***
 
-###Programming Languages
+### Programming Languages
 
 Programming languages come and go
 
@@ -116,7 +116,7 @@ Fortunately, lots of common concepts
 
 ***
 
-###Learning Goals
+### Learning Goals
 
 Learn PLs more easily by recognizing concepts: While loops, closures, comprehensions, dynamic dispatch using vtables, mixins
 
@@ -126,7 +126,7 @@ Impact of PL on program development, modularity, correctness, runtime efficiency
 
 -
 
-###Course Overview
+### Course Overview
 
 Programming paradigms and styles:
 
@@ -144,7 +144,7 @@ Programming paradigms and styles:
 
 -
 
-###Course Approach
+### Course Approach
 
 - Hands on: write many programs and experiments
 

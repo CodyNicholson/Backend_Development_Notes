@@ -1,4 +1,4 @@
-#ARGUMENT PASSING
+# ARGUMENT PASSING
 
 Consider:
 
@@ -32,7 +32,7 @@ void f () {
 
 ***
 
-###CALL-BY-VALUE (CBV)
+### CALL-BY-VALUE (CBV)
 
 Most PLs use call-by-value (CBV) by default
 
@@ -46,7 +46,7 @@ To run g (e)
 
 -
 
-####Example:
+#### Example:
 
 For g(x+1) with x = 5
 
@@ -64,7 +64,7 @@ a location containing 5 is given to g
 
 location is different to that of x!
 
-####Answer
+#### Answer
 
 Prints 1 in a CBV PL
 
@@ -84,7 +84,7 @@ void f () {
 
 ***
 
-###CALL-BY-REFERENCE (CBR)
+### CALL-BY-REFERENCE (CBR)
 
 Some PLs use call-by-reference (CBR)
 
@@ -96,7 +96,7 @@ To run g (e)
 
 - callee changes via r are visible to caller
 
-####CALL-BY-REFERENCE EXAMPLE
+#### CALL-BY-REFERENCE EXAMPLE
 
 For g(x) with x = 5
 
@@ -108,7 +108,7 @@ g has an alias of x
 
 writing to the alias is visible to caller
 
-#####CALL-BY-REFERENCE ANSWER
+##### CALL-BY-REFERENCE ANSWER
 
 Prints 2 in a CBR PL
 
@@ -126,7 +126,7 @@ void f () {
 
 ***
 
-###CBR AND TEMPORARIES
+### CBR AND TEMPORARIES
 
 Can temporary values be passed as l-values?
 
@@ -140,7 +140,7 @@ Modern C++ has a more complex story
 
 -
 
-###CBR IN PERL
+### CBR IN PERL
 
 Perl uses CBR
 
@@ -180,7 +180,7 @@ x = 1
 
 -
 
-###SIMULATING CBV IN PERL
+### SIMULATING CBV IN PERL
 
 Simulate CBV by creating copies explicitly
 
@@ -206,7 +206,7 @@ x = 1
 
 -
 
-###SIMULATE CBR IN C
+### SIMULATE CBR IN C
 
 Explicitly pass, receive, access a pointer
  
@@ -231,7 +231,7 @@ x = 2
 
 -
 
-###SIMULATE CBR IN JAVA
+### SIMULATE CBR IN JAVA
 
 Java has references not pointers
 
@@ -255,7 +255,7 @@ Objects only accessed via references
 
 -
 
-###SIMULATE CBR IN JAVA
+### SIMULATE CBR IN JAVA
 
 Heap-allocated object with field of intended argument type
 
@@ -283,7 +283,7 @@ $ java Ref
 
 -
 
-###CBR IN C++
+### CBR IN C++
 
 C++ has reference types int&
 

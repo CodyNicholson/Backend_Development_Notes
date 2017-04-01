@@ -1,4 +1,4 @@
-#GitHub, Push, Pull, Fork, Remotes
+# GitHub, Push, Pull, Fork, Remotes
 
 Clicking the "commits" tab in a repository will show you the history of the changes to the repository like "git log" does
 
@@ -28,25 +28,25 @@ pull - take branch and commit history from GitHub
 
 Forking a repository - clones a GitHub repository to your GitHub profile for your own personal use that will not affect the original repository you forked
 
-The orginal repository will simply display a number of times forked
+The original repository will simply display a number of times forked
 
-You can then clone the repository you forked to your own local repository from your profile to make canges locally
+You can then clone the repository you forked to your own local repository from your profile to make changes locally
 
-Keeping a fork up to date - You should have a remote pointing to your fork, but you should also make a remote pointing to the original github repository youforked from called "upstream". fetch the up-stream to add the "upstream/master" branch to your local repository which you can merge into master.
-
-***
-
-To allow someone to puch and pull to your repository you need to add them as a collaborater
+Keeping a fork up to date - You should have a remote pointing to your fork, but you should also make a remote pointing to the original github repository you forked from called "upstream". fetch the up-stream to add the "upstream/master" branch to your local repository which you can merge into master.
 
 ***
 
-Cloning from GitHub - There will be a clone link on the repositorys main page. Use "git clone cloneURL" to clone a repository to your local repository.
+To allow someone to push and pull to your repository you need to add them as a collaborator
+
+***
+
+Cloning from GitHub - There will be a clone link on the repository's main page. Use "git clone cloneURL" to clone a repository to your local repository.
 
 Cloning like this^ from github will automatically create a remote for you to this repository on GitHub
 
 ***
 
-"git fetch" - Like git pull, this will update your local repository with the lastest information, but this will put the information in a new branch that will be named "remoteName/branchName"
+"git fetch" - Like git pull, this will update your local repository with the latest information, but this will put the information in a new branch that will be named "remoteName/branchName"
 
 "git pull remoteName branchName" = "git fetch remoteName" + "git merge branchName remoteName/branchName"
 

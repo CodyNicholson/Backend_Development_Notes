@@ -1,4 +1,4 @@
-#TextPad
+# TextPad
 
 TextPad has been around for many years and is sometimes known as The Text Editor for Windows. TextPad is essentially a plain text editor that runs on Windows. It supports different languages through add-ons known as clip libraries, dictionaries, macros, and syntax definitions. When using TextPad to write C# code, you'll be most interested in the Syntax Definitions that provide the keyword color highlighting.
 

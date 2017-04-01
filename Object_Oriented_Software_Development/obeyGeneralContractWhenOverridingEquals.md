@@ -1,14 +1,14 @@
-#Obey the General Contract when Overriding Equals
+# Obey the General Contract when Overriding Equals
 
 There are many ways to incorrectly override the Equals method
 
 The easiest way to avoid problems is to avoid overriding the equals method, in which case each instance is equal only to itself
 
-If that is not idel, then this is the right thing to do if any of the following conditions apply:
+If that is not ideal, then this is the right thing to do if any of the following conditions apply:
 
 ***
 
-###Each instance of the class is inherently unique
+### Each instance of the class is inherently unique
 -
 
 This is true for classes that represent active entities rather than values, such as Thread
@@ -17,7 +17,7 @@ The equals implementation provided by Object has exactly the right behavior for 
 
 ***
 
-###You don’t care whether the class provides a “logical equality” test
+### You don’t care whether the class provides a “logical equality” test
 -
 
 For example, java.util.Random could have overridden equals to check whether two Random instances would produce the same sequence of random numbers going forward, but the designers didn’t think that clients would need or want this functionality
@@ -26,14 +26,14 @@ Under these circumstances, the equals implementation inherited from Object is ad
 
 ***
 
-###A superclass has already overridden equals, and the behavior inherited from the superclass is appropriate for this class
+### A superclass has already overridden equals, and the behavior inherited from the superclass is appropriate for this class
 -
 
 For example, most Set implementations inherit their equals implementation from AbstractSet, List implementations from AbstractList, and Map implementations from AbstractMap
 
 ***
 
-###The class is private or package-private, and you are certain that its equals method will never be invoked
+### The class is private or package-private, and you are certain that its equals method will never be invoked
 -
 
 Arguably, the equals method should be overridden under these circumstances, in case it is accidentally invoked someday:
@@ -47,7 +47,7 @@ throw new UnsupportedOperationException();
 
 ***
 
-###So when is it appropriate to override Object.equals?
+### So when is it appropriate to override Object.equals?
 
 When a class has a notion of logical equality that differs from mere object identity, and a superclass has not already overridden equals to implement the desired behavior
 
@@ -61,7 +61,7 @@ Not only is overriding the equals method necessary to satisfy programmer expecta
 
 ***
 
-###When you override the equals method, you must adhere to its general contract
+### When you override the equals method, you must adhere to its general contract
 
 Here is the contract, copied from the specification for java.lang.Object:
 
@@ -91,7 +91,7 @@ Many classes, including all collections classes, depend on the objects passed to
 
 ***
 
-###Reflexivity
+### Reflexivity
 -
 
 The first requirement of the equals contract says merely that an object must be equal to itself
@@ -100,7 +100,7 @@ If you were to violate it and then add an instance of your class to a collection
 
 ***
 
-###Symmetry
+### Symmetry
 -
 
 The second requirement of the equals contract says that any two objects must agree on whether they are equal
@@ -133,7 +133,7 @@ public final class CaseInsensitiveString
 }
 ```
 
-The well-intentioned equals method in this class naively attempts to interoperate with ordinary strings
+The well-intentioned equals method in this class naively attempts to inter-operate with ordinary strings
 
 Let’s suppose that we have one case-sensitive string and one ordinary one:
 
@@ -177,7 +177,7 @@ public boolean equals(Object o)
 
 ***
 
-###Transitivity
+### Transitivity
 -
 
 The third requirement of the equals contract says that if one object is equal to a second and the second object is equal to a third, then the first object must be equal to the third
@@ -320,7 +320,7 @@ public class ColorPoint
 
 ***
 
-###Consistency
+### Consistency
 -
 
 The fourth requirement of the equals contract says that if two objects are equal, they must remain equal for all time, unless one (or both) of them is modified
@@ -333,7 +333,7 @@ If you conclude that it should, make sure that your equals method enforces the r
 
 ***
 
-###“Non-nullity”
+### “Non-nullity”
 -
 
 The final requirement, which in the absence of a name I have taken the liberty of calling “non-nullity,” says that all objects must be unequal to null

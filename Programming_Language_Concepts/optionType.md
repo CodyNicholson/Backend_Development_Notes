@@ -1,4 +1,4 @@
-#Option Type
+# Option Type
 
 Option[T] resembles List[T] with length ≤ 1
 
@@ -16,7 +16,7 @@ Type-safe and principled approach to missing data
 
 ***
 
-###INTRODUCING OPTIONS
+### INTRODUCING OPTIONS
 
 Useful when an answer cannot be returned
 
@@ -42,7 +42,7 @@ Also used in arguments (cf. named parameters and builder pattern) / structures
 
 ***
 
-###ELIMINATING OPTIONS
+### ELIMINATING OPTIONS
 
 Branch and deconstruct options with matching
 
@@ -57,7 +57,7 @@ safeDivide (a, b) match {
 
 ***
 
-###OPTION ALTERNATIVES
+### OPTION ALTERNATIVES
 
 Exceptions
 
@@ -71,7 +71,7 @@ Distinguished values in same type
 
 ***
 
-###INDEXING LISTS
+### INDEXING LISTS
 
 Getting the nth element of a list may fail
 

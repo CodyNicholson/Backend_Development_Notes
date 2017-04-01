@@ -1,4 +1,4 @@
-#Static Type Checking
+# Static Type Checking
 
 - Compiler analyzes code for errors
 

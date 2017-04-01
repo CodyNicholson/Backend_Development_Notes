@@ -1,4 +1,4 @@
-#jUnit
+# jUnit
 
 Create a test class. (Test classes are object classes.)
 
@@ -12,7 +12,7 @@ Tests are run as: Arrange, Act, Assert:
 
 ***
 
-###jUnit Tests
+### jUnit Tests
 
 Each test has one of three possible outcomes:
 
@@ -36,7 +36,7 @@ Rules for a test class:
 
 ***
 
-###jUnit Assertions
+### jUnit Assertions
 
 junit.framework.Assert is a static class
 The basic assertion method is assertTrue which comes in two forms:
@@ -52,6 +52,6 @@ If there are multiple assertions in a single test, then the enclosing test fails
 
 -
 
-####jUnit Derived Assertions
+#### jUnit Derived Assertions
 
 ![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/junit4.jpg)

@@ -1,4 +1,4 @@
-#Design Patterns
+# Design Patterns
 
 - Elements of software design that are reusable
 - Provide a common vocabulary for software designers
@@ -8,7 +8,7 @@
 
 ___
 
-###Gang of four design principles
+### Gang of four design principles
 -
 
 -Program to an interface, not an implementation
@@ -17,14 +17,14 @@ ___
 
 ___
 
-###Factory
+### Factory
 -
 
 Factory is an object that makes other objects
 
 -
 
-####Static factory classes
+#### Static factory classes
 
 - What if I want to hide class names from clients?
 - This could be because class names are still changing or even just because clients don’t need to know (principle of least knowledge)
@@ -32,7 +32,7 @@ Factory is an object that makes other objects
 
 -
 
-####Steps:
+#### Steps:
 
 - Make interface public
 - Make classes package-private
@@ -45,7 +45,7 @@ Factory is an object that makes other objects
 
 ___
 
-###Strategy Pattern
+### Strategy Pattern
 -
 
 - Strategy object provides a consumer with information about what it needs to do
@@ -54,7 +54,7 @@ ___
 
 ___
 
-###Command pattern
+### Command pattern
 -
 
 Very similar to Strategy pattern, but the producer doesn’t care what it does

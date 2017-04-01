@@ -1,6 +1,6 @@
-#Loop Algorithm Psuedo Code
+# Loop Algorithm Pseudo Code
 
-###Sum
+### Sum
 
 ```
 total = 0
@@ -11,7 +11,7 @@ for each item
 ***
 
 
-###Counting Matches
+### Counting Matches
 
 ```
 matches = 0
@@ -22,7 +22,7 @@ for each item
 
 ***
 
-###Finding the Location of the First Match
+### Finding the Location of the First Match
 
 ```
 found = false
@@ -38,7 +38,7 @@ if the item was found
 
 ***
 
-###Maximum
+### Maximum
 
 ```
 largest = the first item

@@ -1,4 +1,4 @@
-#Open-Close Principle
+# Open-Close Principle
 
 Software Entities (classes, modules, functions, etc.) should be open for extension, but closed for modification.
 
@@ -8,7 +8,7 @@ The Open-Close Principle relies on “class-stacking” (subclassing)
 
 ***
 
-###How to use it
+### How to use it
 -
 
 Have code depend on abstractions, not concrete classes
@@ -31,7 +31,7 @@ Example
 
 ***
 
-###Open-Close Principle Heuristics
+### Open-Close Principle Heuristics
 -
 
 Make all member variables private
@@ -56,7 +56,7 @@ Methods shouldn’t depend on specific (concrete) types
 
 ***
 
-###Why use the Open-Close Principle?
+### Why use the Open-Close Principle?
 -
 
 Every time you open a file to make modifications, you increase the likelihood of breaking something

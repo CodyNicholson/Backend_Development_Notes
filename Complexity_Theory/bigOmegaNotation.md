@@ -1,4 +1,4 @@
-#The Big Omega Notation (Ω)
+# The Big Omega Notation (Ω)
 
 Big Omega describes the limiting behavior of a function, when the argument tends towards a particular value of infinity
 

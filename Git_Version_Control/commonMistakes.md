@@ -1,4 +1,4 @@
-#Common Mistakes
+# Common Mistakes
 
 Don't add derived files, like executables, where the source files are already in the repository
 

@@ -1,10 +1,10 @@
-#Refactoring
+# Refactoring
 
 Refactoring is changing the structure of the code without changing its functionality
 
 ***
 
-###When to Refactor
+### When to Refactor
 -
 
 -   Code smell: some code that indicates there may be a larger design issue
@@ -17,7 +17,7 @@ Refactoring is changing the structure of the code without changing its functiona
 
 ***
 
-###How to Refactor
+### How to Refactor
 -
 
 1. Write unit tests to extensively cover the code that will be refactored
@@ -30,7 +30,7 @@ Refactoring is changing the structure of the code without changing its functiona
 
 ***
 
-###Why Refactor?
+### Why Refactor?
 -
 
 - Erase potential areas for bugs

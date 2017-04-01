@@ -1,4 +1,4 @@
-#Binary Search - Case Study
+# Binary Search - Case Study
 
 We want to find an item in an array, but this time the array is sorted
 

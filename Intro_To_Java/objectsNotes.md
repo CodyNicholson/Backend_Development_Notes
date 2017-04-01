@@ -1,4 +1,4 @@
-#Objects
+# Objects
 
 - Building block of program
 - Component with some desired functionality
@@ -7,7 +7,7 @@
 
 ***
 
-###Calling a method of an objects class:
+### Calling a method of an objects class:
 
 ```java
 object.methodName(arguments);
@@ -15,7 +15,7 @@ object.methodName(arguments);
 
 -
 
-###Creating a new object of class/type Picture:
+### Creating a new object of class/type Picture:
 
 ```java
 Picture rocket = new Picture("rocket.png");
@@ -23,7 +23,7 @@ Picture rocket = new Picture("rocket.png");
 
 ***
 
-##Classes
+## Classes
 
 - Objects with common behavior
 - Classes have methods that allow you to execute functions on the objects, which are instances of the class
@@ -36,7 +36,7 @@ name.length() = 3 in this case
 
 -
 
-###Variables
+### Variables
 
 - Use a variable to store a value that you need later
 - Every variable has a name
@@ -55,7 +55,7 @@ There is a class for every variable type that has its own built in methods, like
 
 ***
 
-###Comments
+### Comments
 
 Use "//"" to create a comment in your code to describe what it does
 
@@ -68,7 +68,7 @@ x = 3;
 
 ***
 
-###To Construct Objects
+### To Construct Objects
 
 ```java
 Rectangle box = new Rectangle(x,y,z,a);

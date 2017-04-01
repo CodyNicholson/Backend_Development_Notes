@@ -1,4 +1,4 @@
-#2D Arrays
+# 2D Arrays
 
 In a 2D array there are two values for every one element in the array
 
@@ -16,7 +16,7 @@ double[][] prices = new double[3][2];
 
 -
 
-###Setting values:
+### Setting values:
 
 ```java
 double[][] prices =
@@ -31,7 +31,7 @@ double[][] prices =
 
 -
 
-###Getting a value:
+### Getting a value:
 
 ```java
 double r = prices[0][1];
@@ -41,7 +41,7 @@ double r = prices[0][1];
 
 -
 
-###To get the number of rows
+### To get the number of rows
 
 ```java
 prices.length;
@@ -49,7 +49,7 @@ prices.length;
 
 -
 
-###To get the number of columns:
+### To get the number of columns:
 
 ```java
 prices.[0].length;
@@ -57,7 +57,7 @@ prices.[0].length;
 
 -
 
-###To print the whole 2d array:
+### To print the whole 2D array:
 
 ```java
 for (int row = 0; row < prices.length; row++)

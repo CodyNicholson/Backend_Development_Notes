@@ -1,6 +1,6 @@
-#Inheritance
+# Inheritance
 
-Inheriance is like interfaces because it can pick up common behavior, but it can also pick up data from other classes
+Inheritance is like interfaces because it can pick up common behavior, but it can also pick up data from other classes
 
 A class can only inherit from one other class, unlike interfaces
 

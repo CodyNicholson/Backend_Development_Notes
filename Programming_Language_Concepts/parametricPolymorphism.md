@@ -1,6 +1,6 @@
-#Parametric Polymorphism
+# Parametric Polymorphism
 
-###Monomorphic Linked Lists (C)
+### Monomorphic Linked Lists (C)
 
 Implement linked lists in C for each pointer type?
 
@@ -26,7 +26,7 @@ int length_while_int_ptr (node_int_ptr *data) {
 
 ***
 
-###Generic Linked Lists (C)
+### Generic Linked Lists (C)
 
 Use (void *) type in C
 
@@ -72,7 +72,7 @@ char c = *q;            // runtime type error
 
 ***
 
-###Monomorphic Lists (Java)
+### Monomorphic Lists (Java)
 
 Implement linked lists in Java for each reference type?
 
@@ -93,7 +93,7 @@ static int length (Node data) {
 
 ***
 
-###Generic Linked Lists (Java)
+### Generic Linked Lists (Java)
 
 Use Object reference type in Java
 
@@ -138,7 +138,7 @@ q.endsWith ("x");       // never reach runtime type error
 
 ***
 
-###Parametric Polymorphism (Generic in Java)
+### Parametric Polymorphism (Generic in Java)
 
 Subtype polymorphism is not the only option
 
@@ -156,7 +156,7 @@ C++ templates are different but related
 
 -
 
-###Java Parametric Polymorphism
+### Java Parametric Polymorphism
 
 ```java
 static class Node<X> {
@@ -180,7 +180,7 @@ static <X> int length (Node<X> node) {
 
 ***
 
-###More Polymorphism
+### More Polymorphism
 
 More on subtype and parametric polymorphism later
 

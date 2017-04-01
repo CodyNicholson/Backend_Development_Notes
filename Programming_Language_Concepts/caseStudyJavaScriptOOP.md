@@ -1,4 +1,4 @@
-#Case Study: JavaScript OOP
+# Case Study: JavaScript OOP
 
 Previously seen: JS object literals
 
@@ -12,7 +12,7 @@ Instead delegation/prototype based inheritance
 
 ***
 
-###VIEW PROPERTIES
+### VIEW PROPERTIES
 
 Iterate over properties on object (maybe more)
 
@@ -34,7 +34,7 @@ getProps (o2);  // Array [ "x", "f" ]
 
 ***
 
-###MISSING PROPERTIES
+### MISSING PROPERTIES
 
 Missing properties return special value undefined
 
@@ -54,7 +54,7 @@ obj.reset ();   // TypeError, 'undefined' not a function
 
 ***
 
-###FUNCTION CONTEXT
+### FUNCTION CONTEXT
 
 Create an object with a function
 
@@ -81,7 +81,7 @@ getProps (c) // Returns Array [ "n", "next", "reset" ]
 
 ***
 
-###CONSTRUCTOR CONTEXT
+### CONSTRUCTOR CONTEXT
 
 Call with constructor context
 
@@ -106,7 +106,7 @@ getProps (c) // Returns Array [ "n", "next", "reset" ]
 
 ***
 
-###DELEGATION TO PROTOTYPE
+### DELEGATION TO PROTOTYPE
 
 JS inheritance via delegation to another object
 
@@ -134,7 +134,7 @@ Most objects do not have a prototype property, but do have a [[Prototype]] inter
 
 ***
 
-###SET PROTOTYPE PROPERTY
+### SET PROTOTYPE PROPERTY
 
 JS functions are objects, so can have properties
 
@@ -213,7 +213,7 @@ getProps2 (c);    // Returns Array [ "n" ]
 
 ***
 
-###VERY DYNAMIC
+### VERY DYNAMIC
 
 Update or add methods at runtime!
 
@@ -239,7 +239,7 @@ c.next ();   // Returns 2
 
 ***
 
-###IMPLEMENTATION
+### IMPLEMENTATION
 
 Talk by Lars Bak 
 

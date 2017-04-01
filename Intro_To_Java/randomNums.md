@@ -1,4 +1,4 @@
-#Random Numbers
+# Random Numbers
 
 ```java
 Random generator = new Random();
@@ -12,7 +12,7 @@ double x = generator.nextDouble();
 
 ***
 
-###Random Darts:
+### Random Darts:
 
 ```java
 import java.util.Random;

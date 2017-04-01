@@ -1,6 +1,6 @@
-#Static
+# Static
 
-###Static Methods:
+### Static Methods:
 
 A static method is a method that is not called on any object
 
@@ -15,7 +15,7 @@ A static method belongs to a class and cannot be called on an object and they ar
 
 ***
 
-###Static Variables:
+### Static Variables:
 
 A static variable is a variable that belongs to a class, but not to any object in that class
 

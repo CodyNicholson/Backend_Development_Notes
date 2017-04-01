@@ -1,4 +1,4 @@
-#Inner Classes
+# Inner Classes
 
 Classes that are defined within another class (e.g. RecordObj and InventorySet from Homework 2)
 

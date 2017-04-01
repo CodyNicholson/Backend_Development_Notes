@@ -1,4 +1,4 @@
-#Boolean
+# Boolean
 
 boolean variables hold either true or false values
 

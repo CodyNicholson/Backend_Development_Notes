@@ -1,4 +1,4 @@
-#Flyweight Pattern
+# Flyweight Pattern
 
 -
 
@@ -10,7 +10,7 @@ If this was the case, could we reduce the amount of memory in our application? H
 
 -
 
-####We can encapsulate the parts that don’t change
+#### We can encapsulate the parts that don’t change
 
 Color and length don’t change, position and velocity do
 
@@ -33,7 +33,7 @@ public class Car {
 
 -
 
-###We can encapsulate the parts that don’t change
+### We can encapsulate the parts that don’t change
 
 Color and length don’t change. Position and velocity do
 

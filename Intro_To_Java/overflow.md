@@ -1,4 +1,4 @@
-#Overflow
+# Overflow
 
 Overflow of int's
 
@@ -6,7 +6,7 @@ Largest integer that java can represent is about 2 billion, or to be exact: 2147
 
 -
 
-Percision in Java:
+Precision in Java:
 
 4.35 * 100 = 334.9999999999994
 

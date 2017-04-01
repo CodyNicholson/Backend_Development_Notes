@@ -1,4 +1,4 @@
-#The Big Theta Notation (θ)
+# The Big Theta Notation (θ)
 
 It describes the limiting behavior of a function when the argument tends towards a particular value or infinity
 

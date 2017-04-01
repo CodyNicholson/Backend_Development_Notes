@@ -1,4 +1,4 @@
-#SOLID: Dependency inversion principle (DIP)
+# SOLID: Dependency inversion principle (DIP)
 
 Called Dependency Inversion because we are inverting the structure of the application so dependent modules are no longer dependencies – they are controlled by higher-level modules (but as abstract classes)
 
@@ -14,7 +14,7 @@ States:
 
 ***
 
-###DIP Definitions
+### DIP Definitions
 -
 
 Abstractions: abstract classes, interfaces
@@ -25,7 +25,7 @@ High level module: more abstract module made up of lower-level modules
 
 ***
 
-###DIP Example
+### DIP Example
 -
 
 CreditCardProcessor and SwipeCardReader
@@ -36,7 +36,7 @@ Processor processes payments, and the card reader reads the credit card that’s
 
 -
 
-###DO NOTs
+### DO NOTs
 -
 
 Don’t pass in the two CardReaders as an argument to different functions
@@ -55,7 +55,7 @@ This leads to long if/else blocks
 
 ***
 
-###TO DOs
+### TO DOs
 -
 
 - Update dependencies so they implement an interface or abstract class
@@ -66,7 +66,7 @@ This leads to long if/else blocks
 
 ***
 
-###Following DIP requires little extra work:
+### Following DIP requires little extra work:
 
 Create an interface
 
@@ -100,7 +100,7 @@ Details should depend on abstractions
 
 -
 
-###Finding the Abstraction Example
+### Finding the Abstraction Example
 -
 
 Inverting the CreditCard dependency allows us to be able to accept anything that implements the ICreditCard interface, such as CreditCard Information from a mobile device
@@ -111,7 +111,7 @@ In addition, this change removes the dependency on CreditCard in ICardReader’s
 
 -
 
-###What does this solve?
+### What does this solve?
 -
 
 Enables ability to reuse high-level modules for different purposes
@@ -128,7 +128,7 @@ Changes to Class C would affect Class A.
 
 ***
 
-###Transitive Dependencies
+### Transitive Dependencies
 -
 
 CreditCardSwipeReader has a dependency on CreditCardSwipeValidator
@@ -147,7 +147,7 @@ After refactoring for DIP, CreditCardProcessor only has dependency on ICardReade
 
 ***
 
-###What does this solve?
+### What does this solve?
 -
 
 Improves testability
@@ -164,7 +164,7 @@ You can use a TestCardReader when you want to test the different types of Credit
 
 ***
 
-###What issues does this solve?
+### What issues does this solve?
 
 This resolves Tight Coupling
 
@@ -219,6 +219,7 @@ Because this code is so dependent on this implementation of CardReader and Credi
 -
 
 Using DIP:
+
 New classes can implement the ICardReader and ICreditCard interfaces and this module can be reused without needing any changes
 
 ![alt tag](https://github.com/Cody-Nicholson96/Software_Development/blob/master/Object_Oriented_Software_Development/pics/whatDoesThisSolve7.jpg)

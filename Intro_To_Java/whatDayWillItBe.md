@@ -1,4 +1,4 @@
-#What Day Will it Be?
+# What Day Will it Be?
 
 ```java
 public class WhatDayWillItBe

@@ -1,4 +1,4 @@
-#Composite Pattern
+# Composite Pattern
 
 An object that’s made up of multiple objects, which may in turn be made up of multiple objects. Think about a Tree structure
 
@@ -20,7 +20,7 @@ You search some root folder, and it will propagate search results from its files
 
 -
 
-###Composite Demo
+### Composite Demo
 
 You have a File class, a Folder class, and an interface IFileSystemItem
 
@@ -39,6 +39,6 @@ Calculate the total size of the folder structure
 
 ***
 
-###Object Diagram
+### Object Diagram
 
 [alt tag](compositeObjDiagram.jpg)

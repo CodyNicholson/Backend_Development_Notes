@@ -1,4 +1,4 @@
-#Always override hashCode when you override Equals
+# Always override hashCode when you override Equals
 
 A common source of bugs is the failure to override the hashCode method
 

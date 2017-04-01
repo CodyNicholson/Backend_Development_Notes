@@ -1,11 +1,11 @@
-#Types
+# Types
 
-- Runtime type (The type of the refference to the object on the heap)
+- Runtime type (The type of the reference to the object on the heap)
 - Compile time type (Left side, declared type)
 
 ___
 
-###Subtypes
+### Subtypes
 -
 
 - A subtype is a type that extends another type
@@ -46,14 +46,14 @@ public static Exception getException(Object o)
 
 ***
 
-###Late Binding
+### Late Binding
 -
 
 The actual method being called is determined at Runtime, based on the object’s actual type (not the type of the reference)
 
 ___
 
-###Casting
+### Casting
 -
 
 - Casting: changing the declared type of an object (does not change the actual object in memory itself)
@@ -62,7 +62,7 @@ ___
 
 -
 
-####Casting - Compile-time and Run-time checks
+#### Casting - Compile-time and Run-time checks
 
 In Java, the compiler will check to see if a given cast is potentially valid
 It will check if the type you’re trying to cast to is a supertype or subtype of the type you’re trying to cast from
@@ -80,7 +80,7 @@ public class Main {
 
 ___
 
-###Type Coercion
+### Type Coercion
 -
 
 - Coercion: similar in concept (and syntax) to Casting
@@ -99,4 +99,4 @@ public class Main {
 
 ***
 
-####StringBuilder objects are mutable, String objects are immutable
+#### StringBuilder objects are mutable, String objects are immutable

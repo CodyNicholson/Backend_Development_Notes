@@ -1,4 +1,4 @@
-#Midterm Guide
+# Midterm Guide
 
 **Interface**
 
@@ -90,7 +90,7 @@ Receiving objects delegate behavior to a method parameter or field
 
 ***
 
-##Midterm Notes
+## Midterm Notes
 
 You can have 1 sheet of standard sized paper with notes on both sides
 
@@ -110,7 +110,7 @@ When drawing UML class diagrams, follow these guidelines:
 
 - Be specific (prefer aggregation and dependency to association, prefer composition to aggregation)
 
-- Show mutiplicities on aggregations and compositions
+- Show multiplicities on aggregations and compositions
 
 - Be careful with arrowheads and with dashed/solid lines
 

@@ -1,4 +1,4 @@
-#Iterator Design Pattern
+# Iterator Design Pattern
 
 This is the iterator pattern, you have an interface with a HasNext() and Next() method
 

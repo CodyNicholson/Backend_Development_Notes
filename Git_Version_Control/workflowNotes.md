@@ -1,6 +1,6 @@
-#Workflow Notes
+# Workflow Notes
 
-###Creating a Repository and pushing data to github from it:
+### Creating a Repository and pushing data to github from it:
 
 ```
 git init   (creates git metadata)

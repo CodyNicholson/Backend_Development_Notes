@@ -1,4 +1,4 @@
-#Formatted Output
+# Formatted Output
 
 ```java
 public static void main(String[] args)
@@ -25,8 +25,7 @@ public static void main(String[] args)
 }
 ```
 
-
-###Making a table
+### Making a table
 
 ```java
 public class MicroKitchenTable

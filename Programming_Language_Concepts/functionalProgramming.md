@@ -1,6 +1,6 @@
-#Functional Programming
+# Functional Programming
 
-###PRINT EVERY ELEMENT
+### PRINT EVERY ELEMENT
 
 How to print every element of a list?
 
@@ -18,7 +18,7 @@ def printList [X] (xs:List[X]) : Unit = {
 
 ***
 
-###??? EVERY ELEMENT
+### ??? EVERY ELEMENT
 
 Abstract the idea of processing every element
 
@@ -47,7 +47,7 @@ scala> printList (List (1,2,3))
 
 ***
 
-###NEW CONTROL STRUCTURES
+### NEW CONTROL STRUCTURES
 
 foreach is a new control structure for lists
 
@@ -73,7 +73,7 @@ def foreach [X] (xs:List[X], f:X=>Unit) : Unit = {
 
 ***
 
-###ANONYMOUS FUNCTIONS
+### ANONYMOUS FUNCTIONS
 
 Eliminate the need to name single-use functions
 
@@ -95,7 +95,7 @@ Anonymous functions AKA lambda expressions
 
 ***
 
-###BUILTIN FOREACH
+### BUILTIN FOREACH
 
 Scala List class has foreach method
 
@@ -111,7 +111,7 @@ def printList [X] (xs:List[X]) = foreach (xs, (x:X) => println (x))
 
 ***
 
-###SUM A LIST
+### SUM A LIST
 
 Using foreach and a variable in scope
 
@@ -139,7 +139,7 @@ def sum (xs:List[Int]) : Int = {
 
 ***
 
-###TRANSFORM ELEMENTS
+### TRANSFORM ELEMENTS
 
 Create a new list from an old list
 
@@ -158,7 +158,7 @@ def transform (xs:List[Int]) : List[String] = {
 
 ***
 
-###MAP ON LISTS
+### MAP ON LISTS
 
 Abstract building a new list
 
@@ -182,7 +182,7 @@ def transform (xs:List[Int]) : List[String] =
 
 -
 
-####Example:
+#### Example:
 
 Scala List class has a builtin map method
 
@@ -197,7 +197,7 @@ def getFileSizes () : List[(String,Long)] = {
 
 ***
 
-###IDENTITY FUNCTION ON LISTS
+### IDENTITY FUNCTION ON LISTS
 
 Identity function: returns the same data
 
@@ -214,7 +214,7 @@ def identity [X] (xs:List[X]) : List[X] = {
 
 ***
 
-###IDENTITY AND MAP PROPERTIES
+### IDENTITY AND MAP PROPERTIES
 
 one cons cell in input => one cons cell in output
 
@@ -238,7 +238,7 @@ map (1::(2::(3::Nil)), f)
 
 ***
 
-###FOREACH VS MAP
+### FOREACH VS MAP
 
 Compare cons cases
 
@@ -260,7 +260,7 @@ def map [X,Y] (xs:List[X], f:X=>Y) : List[Y] = {
 
 ***
 
-###FILTER
+### FILTER
 
 Only copy elements satisfying predicate f
 
@@ -281,7 +281,7 @@ res1: List[Int] = List(1, 2, 4, 5, 7, 8, 10, 11, 13, 14)
 
 ***
 
-###CAUTION: "COPY"
+### CAUTION: "COPY"
 
 In Scala, "copy elements" can mean
 
@@ -291,7 +291,7 @@ In Scala, "copy elements" can mean
 
 ***
 
-###HIGHER-ORDER FUNCTIONS
+### HIGHER-ORDER FUNCTIONS
 
 foreach, map, filter are higher-order functions
 
@@ -299,7 +299,7 @@ foreach, map, filter are higher-order functions
 
 ***
 
-###FUNCTIONAL PROGRAMMING
+### FUNCTIONAL PROGRAMMING
 
 PL supports object-oriented programming (OOP)
 
@@ -317,7 +317,7 @@ PL supports functional programming (FP)
 
 ***
 
-###FP - SCHEME
+### FP - SCHEME
 
 Scheme supports FP
 
@@ -335,7 +335,7 @@ Scheme supports FP
 
 ***
 
-###FP - JAVA 8
+### FP - JAVA 8
 
 ```
 import java.util.ArrayList;

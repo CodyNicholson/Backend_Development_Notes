@@ -1,12 +1,12 @@
-#Midterm Practice
+# Midterm Practice
 
-###Draw a sequence diagram for the following code:
+### Draw a sequence diagram for the following code:
 
 ![alt tag](drawSeqDiagram.jpg)
 
 -
 
-###Sequence Diagram
+### Sequence Diagram
 
 ![alt tag](seqDiagram1.jpg)
 
@@ -18,7 +18,7 @@ If there were methods that relied on title, director, and year, what are some po
 
 ***
 
-###Write a unit test
+### Write a unit test
 
 We want to change this code so that if the director is null or whitespace, it throws an IllegalArgumentException
 
@@ -87,7 +87,7 @@ catch(IllegalArgumentExecption){}
 
 ***
 
-###When would you use Factory vs Builder?
+### When would you use Factory vs Builder?
 
 Factory: When you are creating a simple, mutable object
 
@@ -95,7 +95,7 @@ Builder: when you are creating a complex, immutable object
 
 ***
 
-###Composite Demo
+### Composite Demo
 
 One of the points of the Composite pattern is that the client doesn’t know the structure of the Composite object; it acts as one single object
 
@@ -105,7 +105,7 @@ The results should be the same as the first Composite demo
 
 ***
 
-###State Pattern
+### State Pattern
 
 State pattern encapsulates certain functionalities into classes, similar to Strategy
 
@@ -135,7 +135,7 @@ Now modify the code so that the alarm will go off on weekdays and not weekends
 
 ***
 
-###Observer Pattern
+### Observer Pattern
 
 A subscribe/publish pattern
 

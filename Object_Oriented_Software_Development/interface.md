@@ -1,4 +1,4 @@
-#Interface
+# Interface
 
 - An interface (the concept, not the Java construct interface) is what client programmers interact with
 - The interface of a package is the names of its public classes and interfaces
@@ -7,7 +7,7 @@
 
 -
 
-####What makes a good interface?
+#### What makes a good interface?
 -
 
 - Good interfaces have high cohesion
@@ -16,14 +16,14 @@
 
 ***
 
-###Interfaces
+### Interfaces
 -
 
 Interfaces provide no implementation, they only provide a contract to consumers guaranteeing an implementing object has certain methods (and/or properties in C#), and what those method signatures look like
 
 -
 
-Default Interface
+#### Default Interface
 
 If a class implements multiple interfaces, and multiple have a default implementation for the same method, the implementing class must specify its own implementation
 

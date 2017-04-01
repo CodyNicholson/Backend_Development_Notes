@@ -1,10 +1,10 @@
-#Public Interface and APIs
+# Public Interface and APIs
 
 If you wanted to create a social network program, you should probably have a PublicInterface Class (To define all the things that the social network users can do) with a method to add other people to your network. Lets call that method addFriend();
 
 ***
 
-###API description/Public Interface for addFriend() method:
+### API description/Public Interface for addFriend() method:
 
 ```java
 public void addFriend(Person friend);
@@ -12,7 +12,7 @@ public void addFriend(Person friend);
 
 -
 
-###Calling this method would look like:
+### Calling this method would look like:
 
 ```java
 John.addFriend(Maria);
@@ -20,7 +20,7 @@ John.addFriend(Maria);
 
 -
 
-###API description/Public Interface for removeFriend():
+### API description/Public Interface for removeFriend():
 
 ```java
 public void removeFriend(Person friend);
@@ -28,7 +28,7 @@ public void removeFriend(Person friend);
 
 -
 
-###Calling this method:
+### Calling this method:
 
 ```java
 John.removeFriend(Maria);
@@ -36,7 +36,7 @@ John.removeFriend(Maria);
 
 -
 
-###Public interface for Car Class:
+### Public interface for Car Class:
 
 ```java
 public void addGas(double amount)

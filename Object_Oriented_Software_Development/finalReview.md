@@ -1,6 +1,6 @@
-#Final Review
+# Final Review
 
-###Which are valid statements?
+### Which are valid statements?
 
 ```java
 public interface IInterface{}
@@ -25,7 +25,7 @@ public static void main(String[] args)
 
 ***
 
-###Which of the following are true?
+### Which of the following are true?
 
 ```java
 public class C
@@ -60,7 +60,7 @@ C c3 = new C(22, false);
 
 ***
 
-###What is output by the following code?
+### What is output by the following code?
 
 ```java
 class A {
@@ -83,7 +83,7 @@ First it will
 
 ***
 
-###What is the output of this code?
+### What is the output of this code?
 
 ```java
 class A { void m() { System.out.println("A.m()"); } }
@@ -107,7 +107,7 @@ class Main {
 //
 ```
 
-###Add a static factory to this code:
+### Add a static factory to this code:
 
 ```java
 public interface IPasswordHasher {

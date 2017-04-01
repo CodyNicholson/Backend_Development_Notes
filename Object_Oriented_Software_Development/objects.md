@@ -1,4 +1,4 @@
-#Objects
+# Objects
 
 What is an object?
 
@@ -14,7 +14,7 @@ Example: a printer queue.
 
 ***
 
-###What does it mean to be Object-Oriented?
+### What does it mean to be Object-Oriented?
 -
 
 Curious fact: in a java program, there is no direct way to describe an object.
@@ -31,7 +31,7 @@ Prototype-based languages work differently.
 
 ***
 
-###Object Classes and Static Classes
+### Object Classes and Static Classes
 -
 
 Let's distinguish two types of classes:
@@ -90,7 +90,7 @@ Do not “optimize” local variables for performance!
 
 ***
 
-###Object Diagrams
+### Object Diagrams
 -
 
 An object diagram is a snapshot of a running system, showing live objects.

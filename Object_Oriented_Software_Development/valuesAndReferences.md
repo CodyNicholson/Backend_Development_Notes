@@ -1,4 +1,4 @@
-#Values and References
+# Values and References
 
 Java has a reference model for objects. This is like C# and different from C++. In C# terminology, Java objects are boxed, whereas base values are unboxed.
 
@@ -41,7 +41,7 @@ Aliasing mutable values must be handled with care
 
 ***
 
-###UML Notation for References
+### UML Notation for References
 -
 
 In the UML, references are usually shown using arrows.

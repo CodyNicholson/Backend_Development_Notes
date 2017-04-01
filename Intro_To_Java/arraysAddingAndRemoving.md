@@ -1,12 +1,12 @@
-#Adding and Removing Elements from an Array
+# Adding and Removing Elements from an Array
 
-###Adding an element to an array:
+### Adding an element to an array:
 
 When you create an array it has a fixed size, and you can set each index equal to a certain value
 
 What if you want to put an element in the array as the first element, and then push all of the other elements back?
 
-This would require an array with one greater size than the amount of elements contained within it, as to accomodate for the new element
+This would require an array with one greater size than the amount of elements contained within it, as to accommodate for the new element
 
 Code:
 

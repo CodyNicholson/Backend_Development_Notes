@@ -1,4 +1,4 @@
-#Reading Inputs
+# Reading Inputs
 
 ```java
 import java.util.Scanner;
@@ -19,7 +19,7 @@ double weight = in.nextDouble();
 
 ***
 
-###Sunset.java file:
+### Sunset.java file:
 
 ```java
 import java.util.Scanner;

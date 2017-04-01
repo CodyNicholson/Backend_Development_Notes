@@ -1,4 +1,4 @@
-#Coupling Classes
+# Coupling Classes
 
 A class is coupled with another class if the code in the class uses the other class's object
 
