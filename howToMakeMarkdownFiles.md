@@ -21,7 +21,6 @@ def addOne(x):
 ***
 
 ### Headings
--
 
 To create headings you can put between one and six "#" before your title:
 
@@ -51,19 +50,7 @@ Real examples:
 
 ### Horizontal Rule
 
-You can add a small Horizontal Rule by having one line consist of only an equal sign
-
-Syntax example:
-
-```
-=
-```
-
-Real example:
-
-=
-
-You can add a wider Horizontal Rule by putting three underscores, asterisks, or minus signs together one line alone
+You can add a Horizontal Rule by putting three underscores, asterisks, or minus signs together one line alone
 
 Syntax Example:
 
@@ -82,7 +69,6 @@ or
 Real Example:
 
 ***
-
 
 ***
 
@@ -161,7 +147,6 @@ Real example:
 - Item One
 - Item Two
 - Item Three
-
 
 For an ordered list you can just put them numbers with a period after in front of each item and it will automatically format the list for you
 
