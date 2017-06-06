@@ -4,7 +4,7 @@
 // A struct is a custom type that holds data made up from different data types
 struct Customers
 {
-	private string name;
+    private string name;
     private double balance;
     private int id;
 

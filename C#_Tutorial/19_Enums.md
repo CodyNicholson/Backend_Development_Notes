@@ -6,7 +6,7 @@
 
 public enum Temperature
 {
-	Freeze,
+    Freeze,
     Low,
     Warm,
     Boil
@@ -21,7 +21,7 @@ Console.ReadLine();
 
 switch (micTemp)
 {
-	case Temperature.Freeze:
+    case Temperature.Freeze:
     	Console.WriteLine("Temp on Freezing");
         break;
 

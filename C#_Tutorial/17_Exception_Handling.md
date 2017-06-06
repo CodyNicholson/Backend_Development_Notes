@@ -7,7 +7,7 @@
 
 try
 {
-	Console.Write("Divide 10 by ");
+    Console.Write("Divide 10 by ");
     int num = int.Parse(Console.ReadLine());
     Console.WriteLine("10 / {0} =  {1}", num, (10 / num));
 }
@@ -15,7 +15,7 @@ try
 // Specifically catches the divide by zero exception
 catch (DivideByZeroException ex)
 {
-	Console.WriteLine("Can't divide by zero");
+    Console.WriteLine("Can't divide by zero");
 
     // Get additonal info on the exception
     Console.WriteLine(ex.GetType().Name);
@@ -24,14 +24,14 @@ catch (DivideByZeroException ex)
     // Throw the exception to the next inline
     // throw ex;
 
-	// Throw a specific exception
+    // Throw a specific exception
     throw new InvalidOperationException("Operation Failed", ex);
 }
 
 // Catches any other exception
 catch (Exception ex)
 {
-	Console.WriteLine("An error occurred");
+    Console.WriteLine("An error occurred");
     Console.WriteLine(ex.GetType().Name);
     Console.WriteLine(ex.Message);
 }

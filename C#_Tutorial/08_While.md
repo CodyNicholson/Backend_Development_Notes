@@ -7,8 +7,8 @@ i = 0;
 
 while (i < 10)
 {
-	// If i = 7 then skip the rest of the code and start with i = 8
-	if (i == 7)
+    // If i = 7 then skip the rest of the code and start with i = 8
+    if (i == 7)
     {
     	i++;
         continue;
