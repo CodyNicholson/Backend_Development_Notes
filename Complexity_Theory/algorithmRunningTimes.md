@@ -18,7 +18,7 @@ Here is a list of algorithm runtimes from highest (worst) to lowest (best):
 
 ***
 
-We like to create algorithms that are of Linearithmic Complexity or faster because **Any algorithms that are slower than Linearithmic Algorithms are not practical to use since they do not scale well**
+We like to create algorithms that are of Linearithmic Complexity or faster because **any algorithms that are slower than Linearithmic Algorithms are not practical to use since they do not scale well**
 
 ***
 
