@@ -34,15 +34,11 @@ function swapNums(num1, num2):
 end function
 ```
 
--
-
 ### Logarithmic Time Complexity  O(logN)
 
 Finding an arbitrary item in a sorted array
 
 Checking whether there is a cycle in a graph when solving Kruskal-Algorithm (with disjoint sets)
-
--
 
 ### Linear Time Complexity O(N)
 
@@ -60,23 +56,17 @@ function findMax(a[])
 end function
 ```
 
--
-
 ### Linearithmic Time Complexity O(N * logN)
 
 mergesort, quicksort, heapsort
 
 Finding closest pair of points with divide and conquer method
 
--
-
 ### Polynomial Time Complexity O(N^k) where k=2 - quadratic
 
 bubble sort, insertion sort
 
 Finding the closest pair of points with brute fource approach
-
--
 
 ### Exponential Time Complexity O(c^N) where c is a constant
 
@@ -85,8 +75,6 @@ Towers of Hanoi problem ~ c=2 in this case
 Calculating Fibonacci numbers with recursive manner ~ c = 2
 
 Traveling Salesman Problem with dynamic programming implementation
-
--
 
 ### Factorial Time Complexity O(N!)
 
