@@ -6,7 +6,7 @@ If we know the index of the item, we can get it with O(1) constant time complexi
 
 If we don't know the index, we can start in the middle, and on every iteration we can discard half of the items
 
--
+***
 
 What is the running time of this algorithm? How many times can we divide **N** by **2** until we have only **1** left?
 

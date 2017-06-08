@@ -10,7 +10,7 @@ Usually we do not know the index, so we have to iterate through the array and ch
 
 Input size is the number of items in the array
 
--
+***
 
 **Best-Case Scenario**: The first item in the array is the item we are searching for, **O(1)**
 

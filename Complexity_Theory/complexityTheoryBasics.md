@@ -6,11 +6,11 @@ There are two types of complexities:
 
 **Time Complexity**: How much time an algorithm needs
 
--
+***
 
 We care more about Time Complexity than Space Complexity because space is very cheap
 
--
+***
 
 ### How do we measure Time Complexity?
 
@@ -28,7 +28,7 @@ We want to make a good guess how the algorithm's running time depends on the num
 
 This is the **order of growth**: how the algorithm will scale and behave with the input size
 
--
+***
 
 We want to make sure that we make a sorting algorithm that is approximately linear in terms of input
 
@@ -44,7 +44,7 @@ As you can see in the above example, if we sort 100 items in 100ms we should try
 
 If we sort 1000 items and it takes 10000ms, we are taking 10 tims as long - we are not scaling well, the relationship between number of items and milliseconds is not linear
 
--
+***
 
 ##### In another example:
 
@@ -66,7 +66,7 @@ This algorithm has quadratic time complexity denoted as: O(N^2)
 
 *The second algorithm is much slower than the first*
 
--
+***
 
 Usually we are interested in large input sizes so we can make some approximations
 

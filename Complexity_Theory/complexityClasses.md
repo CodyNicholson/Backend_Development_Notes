@@ -10,7 +10,7 @@ These problems are efficiently solvable but not all of these problems have pract
 
 For example: bubble sort is in **P** but usually we can use mergesort for sorting problems
 
--
+***
 
 ### NP Complexity Class
 
@@ -26,7 +26,7 @@ For example: Integer factorization is a very hard problem to solve, but if we ha
 
 In the Traveling Salesman Problem, if we have the solution route, we can make sure it satisfies the conditions in polynomial time
 
--
+***
 
 ### NP-Complete Complexity Class
 
@@ -44,7 +44,7 @@ That is, the time required to solve the problem using any currently known algori
 
 Fr example: Graph Coloring, Hamiltonian Path Problem
 
--
+***
 
 ### NP-Hard Complexity Class
 

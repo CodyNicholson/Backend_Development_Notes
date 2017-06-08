@@ -11,9 +11,7 @@ function swap(num1, num2)
     num2 = temp;
 ```
 
--
-
-**Linear Running Time: O(N)**
+### **Linear Running Time: O(N)**
 
 When we have a *for* loop and inside the loop we make **O(1)** running time operations
 
@@ -24,9 +22,7 @@ for i = 0 to N:
 
 For example, we sum up items or we check whether an item is equal to 10 (Searching in 1 dimensional array)
 
--
-
-**Quadratic Running Time: O(N^2)**
+### **Quadratic Running Time: O(N^2)**
 
 When we have a *for* loop, and we have a nested *for* loop, and inside the loop we make )(1) running time operations
 
