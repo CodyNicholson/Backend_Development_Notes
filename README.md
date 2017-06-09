@@ -1,2 +1,3 @@
-# Software Development
-A collection of my Software Development projects and studies and coding experience from Work Experience, DePaul University, Udacity, and Youtube
+# Backend Development
+
+A collection of my backend development projects and studies from work experience, DePaul University, Udacity, and Youtube
