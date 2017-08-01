@@ -1,0 +1,3 @@
+# Eulerian Path
+
+A **Eulerian Path** is a path that starts at some node on a graph and it moves along the edges from node to node hitting every edge exactly once. If a graph has a Eulerian Path, you cannot start or end on a node that has an even degree. All the nodes that are not beginning or ending nodes must have an even degree. The beginning and ending nodes must have an odd degree. This is an *if and only if* relationship - that is to say if the graph is connected and has exactly 2 odd degree nodes - then is has an Eulerian path, and if not - then it doesn't. There is one exception to this rule - if every node in the graph has even degree.
