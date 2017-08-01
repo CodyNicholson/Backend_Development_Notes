@@ -1,2 +1,0 @@
-# Russian Peasants Algorithm
-
