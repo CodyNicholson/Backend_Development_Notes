@@ -1,0 +1,5 @@
+Standard Input:
+zebra
+hyena
+warthog
+Command line arguments:

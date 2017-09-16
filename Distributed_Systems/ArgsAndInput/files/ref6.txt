@@ -1,0 +1,3 @@
+Standard Input:
+Command line arguments:
+option 1: tiger

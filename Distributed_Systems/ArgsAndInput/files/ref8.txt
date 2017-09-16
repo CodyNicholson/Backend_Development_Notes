@@ -1,0 +1,7 @@
+Standard Input:
+zebra
+hyena
+Command line arguments:
+option 1: elephant
+option 2: lion
+option 3

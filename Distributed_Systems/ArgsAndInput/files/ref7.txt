@@ -1,0 +1,5 @@
+Standard Input:
+zebra
+Command line arguments:
+option 2: giraffe
+option 3
