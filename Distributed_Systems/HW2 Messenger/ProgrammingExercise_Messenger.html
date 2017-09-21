@@ -1,0 +1,150 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="CONTENT-TYPE" content="text/html; charset=utf-8">
+	<title>CSC 376 Distributed Systems -- Programming Exercise</title>	
+	<style type="text/css">
+	p {
+		margin-bottom: 6px;
+		margin-top: 6px;
+		font-size: 16pt;
+	}
+	.dashed_gray_border {
+		border: 2px dashed gray;
+	}
+	.dashed_gray_box {
+		border: 2px dashed gray;
+		background-color: #efefef;
+		padding-left: 10px;
+	}			
+	.centered_dashed_gray_box {
+		border: 2px dashed gray;
+		background-color: #efefef;
+		text-align: center;
+	}			
+	#table_of_contents {
+		border: 2px dashed gray;
+		border-bottom: none;
+		background: #efefef;
+		margin: 0px;
+		margin-top: 20px;
+		padding-left: 10px;
+	}
+	#contents_list {
+		border: 2px dashed gray;
+		padding: 10px;
+		padding-left: 20px;
+	}
+	h4#header {
+		border: 2px dashed gray;
+		font-size: 2em;
+		font-weight: bold;
+		color: black;
+		background: #efefef;
+		margin-bottom: 0px;
+		padding-left: 10px;
+	}
+	li {
+		margin-top: 10px;
+		font-size: 16pt;
+	}
+	pre {
+		font-size: 16pt;
+		font-weight: bold;
+		color: #000080;
+		border: 1px solid gray;
+		padding: 10px;
+		background: #efefff;	
+		tab-size: 3;
+	}
+	dt {
+		font-weight: bold;
+	}
+	th {
+		font-size: 16pt;
+	}
+	td {
+		font-size: 16pt;
+	}
+	td.bold_right {
+		font-weight: bold;
+		text-align: right;
+	}
+	</style>
+</head>
+<body dir="ltr" lang="en-US">
+	<div class="centered_dashed_gray_box">
+		<h1><a name="CourseTitle"></a>CSC 376 Distributed Systems</h1>
+		<h2><a name="CourseQuarter"></a><i>Fall 2017-2018</i></h2>
+		<h3><a name="Lecturer"></a><i>Karen Heart, Instructor</i></h3>
+		<h3><a name="Title"></a>Programming Exercise</h3>
+	</div>
+	<h1 class="dashed_gray_box">Messenger</h1>	
+	<p><b>Due: Tue., Sep. 26, at 11:50am</b></p>
+	<ul>
+		<li><h2>Functionality</h2>
+		<p>You are to create a direct messenger program. In particular, the program will perform as follows:</p>
+			<ol>				
+			<li>It must behave as either a client or a server, depending on the command line arguments supplied when started.</li>
+			<li>Specifically, the <code>-l</code> option will direct the program to listen for connections, thereby acting as a server. If the <code>-l</code> option is not present on the command line, your program will connect to a server, thereby acting as a client.</li>
+			<li>The port number must also be supplied as a command line argument.</li>
+			<li>Although your messenger may be hard-coded to connect only to <code>localhost</code> when acting as a client, you may include a server address on the command line as well, thereby permitting your messenger to connect between hosts.</li>
+			<li>The <code>-l</code> option, <b><i>if used</i></b>, should be placed immediately after the name of the program and before the port number and server address arguments.</li>
+			<li>Once the client and server messengers are connected, either end can send text messages to the other end.</li>
+			<li>Messages must be provided to the program using standard input.</li>
+			<li>Immediately after receiving a message, the program must output the message to standard output.</li>
+			<li>The program is terminated by first shutting down sending, then closing the socket. Once one end shuts down, the other side will receive a zero-length message, informing it of the shut down. The other side must then shut down immediately.</li>
+			</ol></li>
+		<li><h2>Usage</h2>
+			<ul>
+			<li>Usage as a server:
+				<ul>
+				<li>Python:
+<pre>
+$> python messenger.py -l &lt;port number&gt;
+</pre></li>
+				<li>Java:
+<pre>
+$> java Messenger -l &lt;port number&gt;
+</pre></li>
+				</ul></li>
+			<li>Usage as a client:
+				<ul>
+				<li>Python:
+<pre>
+$> python messenger.py &lt;port number&gt; [&lt;server address&gt;]
+</pre></li>
+				<li>Java:
+<pre>
+$> java Messenger &lt;port number&gt; [&lt;server address&gt;]
+</pre></li>
+				</ul></li>				
+			</ul></li>
+		<li><h2>Testing and Assessment</h2>
+			<ul>
+			<li>The automated grading tool for this assignment is contained within the tar file <code>autograde-messenger.tar</code>. Download the tar file from D2L and place it in the same directory as your code. Then, extract the grading files by using the following command in a terminal window:
+<pre>
+$> cd /path/to/my/code
+$> tar xvf autograde-messenger.tar
+</pre></li>
+			<li>If you are using Java, you must compile your code before running the grading tool.</li>
+			<li>Run the grading tool from the command line. If your code was written in Python, start the grading tool as follows:
+<pre>
+$> py autograde-messenger-py.py
+</pre></li>
+			<li>If your code was written in Java, start the grading tool as follows:
+<pre>
+$> py autograde-messenger-java.py
+</pre></li>
+			<li>The grading tool will output the total number of points earned. It will also report certain errors found, if any.</li>
+			<li>This exercise is worth 10 points.</li>
+			</ul>
+		</li>
+		<li><h2>Submission</h2>
+		<p><b>SUBMIT ONLY THE FOLLOWING TO THE SUBMISSION FOLDER ON D2L; ALL OTHER SUBMISSIONS WILL BE IGNORED:</p>
+			<ol>
+			<li>your .py or .java source files</li>
+			<li>the URL of your YouTube video explaining each line of your source code</li>
+			</ol></b></li>
+	</ul>
+</body></html>
