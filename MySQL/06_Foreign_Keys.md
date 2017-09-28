@@ -15,7 +15,8 @@ If you have a customer table you should create tables for all of your customers 
     
     I. Used to make references to the Primary Key of another table 
     
-    II. Example: If we have a customer and city table. If the city table had a column which listed the unique primary key of all the customers, that Primary Key listing in the city table would be considered a Foreign Key. 
+    II. Example: If we have a customer and city table. If the city table had a column which listed the unique primary key
+    of all the customers, that Primary Key listing in the city table would be considered a Foreign Key. 
     
     III. The Foreign Key can have a different name from the Primary Key name. 
     
