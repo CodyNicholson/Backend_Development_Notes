@@ -1,0 +1,8 @@
+Please enter your name
+Sending name to server
+client1: hello from client1
+client3: hello from client3
+client1: nice day to chat
+client3: Looking forward to chat
+client1: gotcha
+client3: Nice to meet you!

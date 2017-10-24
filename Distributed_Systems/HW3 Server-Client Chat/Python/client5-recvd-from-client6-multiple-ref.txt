@@ -1,0 +1,3 @@
+client6: hello from client6
+client6: Looking forward to chat
+client6: Nice to meet you!

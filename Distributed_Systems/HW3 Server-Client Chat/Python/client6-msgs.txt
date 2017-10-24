@@ -1,0 +1,4 @@
+client6
+hello from client6
+Looking forward to chat
+Nice to meet you!

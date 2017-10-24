@@ -1,0 +1,8 @@
+Please enter your name
+Sending name to server
+client2: hello from client2
+client3: hello from client3
+client2: truly
+client3: Looking forward to chat
+client2: working well
+client3: Nice to meet you!
